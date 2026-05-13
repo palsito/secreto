@@ -312,6 +312,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34185",
       "en_stock": true
     },
+    "34141": {
+      "nombre": "LOTE 1 DE HOMBRE: MILANO CLASSIC EDT 100 ML @ + SPRINGFIELD EDT 100 ML @ + ADIDAS TEAM FORCE EDT 100ML @ + ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34141",
+      "en_stock": true
+    },
     "33749": {
       "nombre": "DIESEL D FOR SUCCESSION LIVING 100 ML @",
       "precio": "26.99 €",
@@ -1282,12 +1288,6 @@
       "nombre": "FLORIS LONDON CEFIRO EDT 100 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39571",
-      "en_stock": true
-    },
-    "39570": {
-      "nombre": "FLORIS LONDON BOUQUET DE LA REINE EDT 100 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39570",
       "en_stock": true
     }
   },
