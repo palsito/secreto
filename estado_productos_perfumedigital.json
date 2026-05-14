@@ -456,12 +456,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40879",
       "en_stock": true
     },
-    "40876": {
-      "nombre": "HYPNÔSE HOMME EDT 75 ML @",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40876",
-      "en_stock": true
-    },
     "40873": {
       "nombre": "POLO COLOGNE INTENSE 125ML @",
       "precio": "49.99 €",
@@ -1288,6 +1282,12 @@
       "nombre": "FLORIS LONDON CEFIRO EDT 100 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39571",
+      "en_stock": true
+    },
+    "39570": {
+      "nombre": "FLORIS LONDON BOUQUET DE LA REINE EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39570",
       "en_stock": true
     }
   },
