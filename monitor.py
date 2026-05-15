@@ -17,6 +17,7 @@ from datetime import datetime
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────
 TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
+TELEGRAM_THREAD_ID = os.environ.get("TELEGRAM_THREAD_ID", "")
 
 BASE_URL = "https://perfumedigital.es"
 
@@ -186,7 +187,6 @@ def enviar_telegram(mensaje):
         print(mensaje)
         print("─" * 60)
         return
-
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
         "chat_id": TELEGRAM_CHAT_ID,
@@ -194,6 +194,9 @@ def enviar_telegram(mensaje):
         "parse_mode": "HTML",
         "disable_web_page_preview": False,
     }
+    if TELEGRAM_THREAD_ID:
+        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+
     print(f"  📤 Enviando a Telegram...")
     try:
         r = requests.post(url, json=payload, timeout=10)
