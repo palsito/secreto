@@ -24,11 +24,21 @@ BASE_URL = "https://perfumedigital.es"
 # Categorías fijas a monitorizar
 CATEGORIAS = [
     {
-        "nombre": "🏷️ Outlet / Liquidación",
+        "nombre": "👨 Perfumes de Hombre",
         "url": f"{BASE_URL}/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93",
     },
-    # Añade más aquí si quieres:
-    # { "nombre": "🔥 Otra", "url": f"{BASE_URL}/index.php?ID_CATEGORIA=XXXX" },
+    {
+        "nombre": "👩 Perfumes de Mujer",
+        "url": f"{BASE_URL}/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee",
+    },
+    {
+        "nombre": "🏷️ Outlet Perfumería",
+        "url": f"{BASE_URL}/index.php?ID_CATEGORIA=categoria_outlet",
+    },
+    {
+        "nombre": "💀 Descatalogados y Rarezas",
+        "url": f"{BASE_URL}/index.php?ID_CATEGORIA=Perfumes_descatalogados",
+    },
 ]
 
 # Páginas de oferta numeradas
