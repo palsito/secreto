@@ -432,6 +432,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41113": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125 ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41113",
+      "en_stock": true
+    },
+    "41112": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125 ML REGULAR",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41112",
+      "en_stock": true
+    },
     "41107": {
       "nombre": "MONT BLANC LEGEND MAN EDT 30 ML REGULAR",
       "precio": "16.99 €",
@@ -988,6 +1000,294 @@
       "nombre": "CAVALLI UOMO EDT 100 ML REGULAR",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39916",
+      "en_stock": true
+    },
+    "39915": {
+      "nombre": "JUST CAVALLI WILD HEARTS MAN EDT 90 ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39915",
+      "en_stock": true
+    },
+    "39910": {
+      "nombre": "MICHAEL KORS EXTREME JOURNEY EDT 50 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39910",
+      "en_stock": true
+    },
+    "39908": {
+      "nombre": "GUERLAIN L`HOMME IDEAL INTENSE EDP 100 ML REGULAR",
+      "precio": "84.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39908",
+      "en_stock": true
+    },
+    "39906": {
+      "nombre": "HABIT ROUGE L INSTINCT INTENSE EDT 50 ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39906",
+      "en_stock": true
+    },
+    "39882": {
+      "nombre": "CARTIER DECLARATION EDT 150 ML REGULAR",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39882",
+      "en_stock": true
+    },
+    "39881": {
+      "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39881",
+      "en_stock": true
+    },
+    "39880": {
+      "nombre": "PASHA DE CARTIER EDITION NOIRE EDT 150ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39880",
+      "en_stock": true
+    },
+    "39879": {
+      "nombre": "MCM ONYX EDP 75 ML REGULAR",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39879",
+      "en_stock": true
+    },
+    "39878": {
+      "nombre": "VERSACE THE DREAMER EDT 100 ML REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39878",
+      "en_stock": true
+    },
+    "39871": {
+      "nombre": "SET VERSACE POUR HOMME EDT 50 ML + GELL CHAMPU 50 ML + AFTER SHAVE BALSAMO 50 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39871",
+      "en_stock": true
+    },
+    "39860": {
+      "nombre": "MERCEDES BENZ SIGN YOUR POWER EDP INTENSE 100 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39860",
+      "en_stock": true
+    },
+    "39859": {
+      "nombre": "MERCEDES BENZ MAN FRESH EDT 100 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39859",
+      "en_stock": true
+    },
+    "39854": {
+      "nombre": "MERCEDES BENZ FOR MEN INTENSE EDT 120 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39854",
+      "en_stock": true
+    },
+    "39853": {
+      "nombre": "MERCEDES BENZ MAN PRIVATE EDP 100 ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39853",
+      "en_stock": true
+    },
+    "39842": {
+      "nombre": "VURV ROYCE BLACK EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39842",
+      "en_stock": true
+    },
+    "39838": {
+      "nombre": "CREED MILLESIME LOVE IN WHITE SUMMER EDP 75 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39838",
+      "en_stock": true
+    },
+    "39830": {
+      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39830",
+      "en_stock": true
+    },
+    "39828": {
+      "nombre": "MONTALE BLACK OUD EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39828",
+      "en_stock": true
+    },
+    "39822": {
+      "nombre": "JO MALONE LIME BASIL & MANDARIN UNISEX EDC 50 ML REGULAR",
+      "precio": "82.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39822",
+      "en_stock": true
+    },
+    "39819": {
+      "nombre": "PASHA DE CARTIER EDITION NOIRE SPORT EDT 150ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39819",
+      "en_stock": true
+    },
+    "39818": {
+      "nombre": "HERMES H 24 HERBES VIVES EDP 50 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39818",
+      "en_stock": true
+    },
+    "39805": {
+      "nombre": "SWISS ARMY BLACK STEEL EDT 100 ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39805",
+      "en_stock": true
+    },
+    "39690": {
+      "nombre": "PASHA DE CARTIER EDITION NOIRE ABSOLU EDP 50 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39690",
+      "en_stock": true
+    },
+    "39688": {
+      "nombre": "CARTIER DECLARATION PARFUM 100 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39688",
+      "en_stock": true
+    },
+    "39687": {
+      "nombre": "CARTIER DECLARATION EDT 100 ML REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39687",
+      "en_stock": true
+    },
+    "39643": {
+      "nombre": "AIGNER N1 EDT 100 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39643",
+      "en_stock": true
+    },
+    "39640": {
+      "nombre": "AIGNER INITIAL EDT 100 ML REGULAR",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39640",
+      "en_stock": true
+    },
+    "39637": {
+      "nombre": "AIGNER FIRST CLASS EDT 100 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39637",
+      "en_stock": true
+    },
+    "39616": {
+      "nombre": "ACQUA DELL ELBA SPORT EDT 100 ML  REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39616",
+      "en_stock": true
+    },
+    "39614": {
+      "nombre": "ACQUA DELL ELBA ESSENZAMARE EDP 100 ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39614",
+      "en_stock": true
+    },
+    "39612": {
+      "nombre": "ACQUA DELL ELBA ESSENZA UOMO EDP 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39612",
+      "en_stock": true
+    },
+    "39611": {
+      "nombre": "ACQUA DELL ELBA ESSENZA DONNA EDP 50 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39611",
+      "en_stock": true
+    },
+    "39610": {
+      "nombre": "ACQUA DELL ELBA ESSENZA DONNA EDP 100 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39610",
+      "en_stock": true
+    },
+    "39609": {
+      "nombre": "ACQUA DELL ELBA CLASICA UOMO EDT 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39609",
+      "en_stock": true
+    },
+    "39606": {
+      "nombre": "ACQUA DELL ELBA ARCHIPIELAGO UOMO EDT 50 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39606",
+      "en_stock": true
+    },
+    "39593": {
+      "nombre": "MALBRUM WILDFIRE EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39593",
+      "en_stock": true
+    },
+    "39592": {
+      "nombre": "MALBRUM TIGRE DU BENGALE EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39592",
+      "en_stock": true
+    },
+    "39591": {
+      "nombre": "MALBRUM SHAMELESS SEDUCER EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39591",
+      "en_stock": true
+    },
+    "39590": {
+      "nombre": "MALBRUM SAFARIYAH EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39590",
+      "en_stock": true
+    },
+    "39589": {
+      "nombre": "MALBRUM PSYCHOTROPE EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39589",
+      "en_stock": true
+    },
+    "39581": {
+      "nombre": "MALBRUM PARADISO SUPER EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39581",
+      "en_stock": true
+    },
+    "39580": {
+      "nombre": "MALBRUM HERECOME THE SON EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39580",
+      "en_stock": true
+    },
+    "39579": {
+      "nombre": "MALBRUM GODSPEED EXTRAIT PARFUM 30 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39579",
+      "en_stock": true
+    },
+    "39578": {
+      "nombre": "MALBRUM BACHEERA EXTRAIT PARFUM 30 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39578",
+      "en_stock": true
+    },
+    "39577": {
+      "nombre": "FLORIS LONDON WHITE ROSE EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39577",
+      "en_stock": true
+    },
+    "39576": {
+      "nombre": "FLORIS LONDON SANTAL EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39576",
+      "en_stock": true
+    },
+    "39575": {
+      "nombre": "FLORIS LONDON N 89 EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39575",
+      "en_stock": true
+    },
+    "39574": {
+      "nombre": "FLORIS LONDON LEATHER OUD EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39574",
       "en_stock": true
     }
   },
