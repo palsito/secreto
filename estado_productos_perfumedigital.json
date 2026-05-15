@@ -432,6 +432,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41107": {
+      "nombre": "MONT BLANC LEGEND MAN EDT 30 ML REGULAR",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41107",
+      "en_stock": true
+    },
+    "41106": {
+      "nombre": "MONT BLANC EXPLORER EDP 30 ML REGULAR",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41106",
+      "en_stock": true
+    },
     "40926": {
       "nombre": "ACQUA DI PARMA COLONIA ESSENZA EAU DE COLOGNE MAN 180 ML REGULAR",
       "precio": "129.99 €",
@@ -1234,6 +1246,48 @@
       "nombre": "MALBRUM GODSPEED EXTRAIT PARFUM 30 ML @",
       "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39579",
+      "en_stock": true
+    },
+    "39578": {
+      "nombre": "MALBRUM BACHEERA EXTRAIT PARFUM 30 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39578",
+      "en_stock": true
+    },
+    "39577": {
+      "nombre": "FLORIS LONDON WHITE ROSE EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39577",
+      "en_stock": true
+    },
+    "39576": {
+      "nombre": "FLORIS LONDON SANTAL EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39576",
+      "en_stock": true
+    },
+    "39575": {
+      "nombre": "FLORIS LONDON N 89 EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39575",
+      "en_stock": true
+    },
+    "39574": {
+      "nombre": "FLORIS LONDON LEATHER OUD EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39574",
+      "en_stock": true
+    },
+    "39573": {
+      "nombre": "FLORIS LONDON HONEY OUD EDP 100 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39573",
+      "en_stock": true
+    },
+    "39572": {
+      "nombre": "FLORIS LONDON ELITE EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39572",
       "en_stock": true
     }
   },
