@@ -223,7 +223,7 @@ def enviar_telegram(mensaje):
         if bloque_actual:
             mensajes_cortados.append(bloque_actual.strip())
 
-    # Enviar cada bloque
+    # Enviar cada bloque con control de Anti-Spam (Error 429)
     for i, msg in enumerate(mensajes_cortados):
         payload = {
             "chat_id": TELEGRAM_CHAT_ID,
@@ -236,15 +236,29 @@ def enviar_telegram(mensaje):
             payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
             
         print(f"  📤 Enviando bloque {i+1}/{len(mensajes_cortados)} a Telegram...")
-        try:
-            r = requests.post(url, json=payload, timeout=10)
-            r.raise_for_status()
-            print("  ✅ Enviado")
-        except Exception as e:
-            print(f"  ❌ Error Telegram: {e}")
         
-        # Pausa de 1 segundo entre bloques para que Telegram no nos bloquee por spam
-        time.sleep(1)
+        max_reintentos = 3
+        for intento in range(max_reintentos):
+            try:
+                r = requests.post(url, json=payload, timeout=15)
+                
+                # Si Telegram nos bloquea temporalmente (Error 429)
+                if r.status_code == 429:
+                    espera = r.json().get("parameters", {}).get("retry_after", 5)
+                    print(f"  ⏳ Telegram pide frenar. Esperando {espera} segundos...")
+                    time.sleep(espera + 1)
+                    continue  # Volvemos a intentar enviar el mismo bloque
+                    
+                r.raise_for_status()
+                print("  ✅ Enviado")
+                break  # Éxito, salimos del bucle de reintentos
+                
+            except Exception as e:
+                print(f"  ❌ Error Telegram: {e}")
+                break  # Si es otro tipo de error, cancelamos el envío de este bloque
+        
+        # Pausa de 3.5 segundos entre bloques (límite de Telegram: 20 msgs / minuto)
+        time.sleep(3.5)
 
 
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
