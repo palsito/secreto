@@ -127,7 +127,7 @@ def parsear_productos_html(html):
 
 
 def scrape_categoria(url):
-    """Descarga todos los productos de una categoría paginada con PASE=0,1,2..."""
+    """Descarga todos los productos saltando de 15 en 15 (offset)"""
     productos = {}
     pase = 0
     base = url.split("&PASE=")[0]
@@ -149,30 +149,24 @@ def scrape_categoria(url):
             print(f"  ✅ Sin productos en PASE={pase}, fin de categoría")
             break
 
-        # Si todos los IDs ya estaban, la web está repitiendo → paramos
+        # Filtramos los que ya tenemos
         ids_realmente_nuevos = set(nuevos.keys()) - set(productos.keys())
+        
         if not ids_realmente_nuevos:
             print(f"  ⚠️  La web repite productos en PASE={pase}, fin de categoría")
-            break
-
-        # 🛡️ ESCUDO ANTI-PAGINACIÓN FANTASMA 🛡️
-        # Si la web nos da muchos productos pero casi todos son repetidos (ej: trae 20 pero solo 1 es nuevo)
-        # significa que hemos llegado al final y la web está haciendo un bucle de relleno.
-        if pase > 0 and len(ids_realmente_nuevos) <= 3 and len(nuevos) > 5:
-            print(f"  ⚠️  Trampa de paginación detectada en PASE={pase} (solo {len(ids_realmente_nuevos)} nuevos). Fin de categoría.")
-            # Guardamos esos últimos rezagados y cortamos
-            productos.update({k: nuevos[k] for k in ids_realmente_nuevos})
             break
 
         productos.update(nuevos)
         print(f"    PASE={pase}: {len(ids_realmente_nuevos)} nuevos (Total: {len(productos)})")
 
-        pase += 1
+        # ¡EL SECRETO ESTABA AQUÍ!
+        # Saltamos de 15 en 15 productos, que es el tamaño real de cada página
+        pase += 15
         time.sleep(1)
 
-        # Límite de seguridad para evitar bucles infinitos no previstos
-        if pase > 400:
-            print("  ⚠️  Límite de seguridad de 400 páginas alcanzado")
+        # Límite de seguridad: 6000 productos (equivale a PASE=6000)
+        if pase > 6000:
+            print("  ⚠️  Límite de seguridad de 6000 productos alcanzado")
             break
 
     return productos
