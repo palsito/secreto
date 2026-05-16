@@ -3,7 +3,7 @@
 Monitor de perfumedigital.es
 - Monitoriza categorías fijas (paginadas por PASE)
 - Detecta automáticamente nuevas páginas de oferta numeradas (oferta815, oferta816...)
-- Notifica por Telegram
+- Notifica por Telegram sin límites y con protección anti-crash
 """
 
 import requests
@@ -58,8 +58,12 @@ session.headers.update(HEADERS)
 
 def cargar_estado():
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except json.JSONDecodeError as e:
+            print(f"  ⚠️ Archivo de estado corrupto ignorado ({e}). Empezando de cero.")
+            return {}
     return {}
 
 
@@ -162,7 +166,7 @@ def scrape_categoria(url):
         time.sleep(1)
 
         if pase > 2000:
-            print("  ⚠️  Límite de 200 páginas alcanzado")
+            print("  ⚠️  Límite de 2000 páginas alcanzado")
             break
 
     return productos
@@ -197,46 +201,71 @@ def enviar_telegram(mensaje):
         print(mensaje)
         print("─" * 60)
         return
+        
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": mensaje,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": False,
-    }
-    if TELEGRAM_THREAD_ID:
-        payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+    
+    # Límite seguro de Telegram
+    limite_caracteres = 4000
+    mensajes_cortados = []
+    
+    # Lógica para dividir mensajes largos sin romper HTML
+    if len(mensaje) <= limite_caracteres:
+        mensajes_cortados.append(mensaje)
+    else:
+        lineas = mensaje.split('\n')
+        bloque_actual = ""
+        for linea in lineas:
+            if len(bloque_actual) + len(linea) + 1 > limite_caracteres:
+                mensajes_cortados.append(bloque_actual.strip())
+                bloque_actual = linea + "\n"
+            else:
+                bloque_actual += linea + "\n"
+        if bloque_actual:
+            mensajes_cortados.append(bloque_actual.strip())
 
-    print(f"  📤 Enviando a Telegram...")
-    try:
-        r = requests.post(url, json=payload, timeout=10)
-        r.raise_for_status()
-        print("  ✅ Enviado")
-    except Exception as e:
-        print(f"  ❌ Error Telegram: {e}")
+    # Enviar cada bloque
+    for i, msg in enumerate(mensajes_cortados):
+        payload = {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": msg,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False
+        }
+        
+        if TELEGRAM_THREAD_ID:
+            payload["message_thread_id"] = int(TELEGRAM_THREAD_ID)
+            
+        print(f"  📤 Enviando bloque {i+1}/{len(mensajes_cortados)} a Telegram...")
+        try:
+            r = requests.post(url, json=payload, timeout=10)
+            r.raise_for_status()
+            print("  ✅ Enviado")
+        except Exception as e:
+            print(f"  ❌ Error Telegram: {e}")
+        
+        # Pausa de 1 segundo entre bloques para que Telegram no nos bloquee por spam
+        time.sleep(1)
 
 
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
     mensajes = []
 
-    # 1. Productos NUEVOS
+    # 1. Productos NUEVOS (¡Sin límite!)
     nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
     if nuevos:
         lista = "\n".join(
             f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in list(nuevos.values())[:10]
+            for p in nuevos.values()
         )
-        extra = f"\n  <i>...y {len(nuevos) - 10} más</i>" if len(nuevos) > 10 else ""
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}{extra}")
+        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
 
-    # 2. Productos ELIMINADOS (solo si no son demasiados)
+    # 2. Productos ELIMINADOS (¡Sin límite!)
     eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if 0 < len(eliminados) < 20:
-        lista = "\n".join(f"  • {p['nombre']}" for p in list(eliminados.values())[:5])
-        extra = f"\n  <i>...y {len(eliminados) - 5} más</i>" if len(eliminados) > 5 else ""
-        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}{extra}")
+    if eliminados:
+        lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
+        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
 
-    # 3. Cambios de PRECIO
+    # 3. Cambios de PRECIO (¡Sin límite!)
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
@@ -248,9 +277,8 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                     f"{p_ant} → <b>{p_nue}</b>"
                 )
     if cambios:
-        lista = "\n".join(cambios[:10])
-        extra = f"\n  <i>...y {len(cambios) - 10} más</i>" if len(cambios) > 10 else ""
-        mensajes.append(f"💸 <b>Cambios de precio en {nombre_cat}</b>\n{lista}{extra}")
+        lista = "\n".join(cambios)
+        mensajes.append(f"💸 <b>Cambios de precio en {nombre_cat}</b>\n{lista}")
 
     return mensajes
 
@@ -316,15 +344,15 @@ def main():
         estado_nuevo[url_sig] = prods_sig
         estado_nuevo[OFERTA_NUMERO_KEY] = siguiente  # actualizamos el contador
 
+        # ¡Nueva lista sin recortes!
         lista = "\n".join(
             f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in list(prods_sig.values())[:15]
+            for p in prods_sig.values()
         )
-        extra = f"\n  <i>...y {len(prods_sig) - 15} más</i>" if len(prods_sig) > 15 else ""
         todos_mensajes.append(
             f"🚨 <b>¡NUEVA PÁGINA DE OFERTAS!</b>\n"
             f"<a href='{url_sig}'>perfumedigital.es/oferta{siguiente}.html</a> "
-            f"— {len(prods_sig)} productos\n\n{lista}{extra}"
+            f"— {len(prods_sig)} productos\n\n{lista}"
         )
     else:
         print(f"  ✅ oferta{siguiente}.html aún no existe")
