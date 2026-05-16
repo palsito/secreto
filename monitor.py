@@ -35,10 +35,6 @@ CATEGORIAS = [
         "nombre": "🏷️ Outlet Perfumería",
         "url": f"{BASE_URL}/index.php?ID_CATEGORIA=categoria_outlet",
     },
-    {
-        "nombre": "💀 Descatalogados y Rarezas",
-        "url": f"{BASE_URL}/index.php?ID_CATEGORIA=Perfumes_descatalogados",
-    },
 ]
 
 # Páginas de oferta numeradas
@@ -159,14 +155,24 @@ def scrape_categoria(url):
             print(f"  ⚠️  La web repite productos en PASE={pase}, fin de categoría")
             break
 
+        # 🛡️ ESCUDO ANTI-PAGINACIÓN FANTASMA 🛡️
+        # Si la web nos da muchos productos pero casi todos son repetidos (ej: trae 20 pero solo 1 es nuevo)
+        # significa que hemos llegado al final y la web está haciendo un bucle de relleno.
+        if pase > 0 and len(ids_realmente_nuevos) <= 3 and len(nuevos) > 5:
+            print(f"  ⚠️  Trampa de paginación detectada en PASE={pase} (solo {len(ids_realmente_nuevos)} nuevos). Fin de categoría.")
+            # Guardamos esos últimos rezagados y cortamos
+            productos.update({k: nuevos[k] for k in ids_realmente_nuevos})
+            break
+
         productos.update(nuevos)
         print(f"    PASE={pase}: {len(ids_realmente_nuevos)} nuevos (Total: {len(productos)})")
 
         pase += 1
         time.sleep(1)
 
-        if pase > 2000:
-            print("  ⚠️  Límite de 2000 páginas alcanzado")
+        # Límite de seguridad para evitar bucles infinitos no previstos
+        if pase > 400:
+            print("  ⚠️  Límite de seguridad de 400 páginas alcanzado")
             break
 
     return productos
