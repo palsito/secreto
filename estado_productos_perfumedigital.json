@@ -10544,12 +10544,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41110",
       "en_stock": true
     },
-    "41109": {
-      "nombre": "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41109",
-      "en_stock": true
-    },
     "41108": {
       "nombre": "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML REGULAR",
       "precio": "79.99 €",
@@ -18798,6 +18792,12 @@
       "nombre": "ROJA PARFUMS ENIGMA POUR FEMME PARFUM 50 ML@ (SIN CAJA)",
       "precio": "243.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36844",
+      "en_stock": true
+    },
+    "36843": {
+      "nombre": "GIARDINI DI TOSCANA ROSSO RUBINO EDP 100 ML @ (Sin caja)",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36843",
       "en_stock": true
     },
     "36842": {
