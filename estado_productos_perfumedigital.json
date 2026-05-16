@@ -1,7 +1,297 @@
 {
-  "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {},
-  "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {},
-  "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {},
-  "https://perfumedigital.es/index.php?ID_CATEGORIA=Perfumes_descatalogados": {},
+  "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "40616": {
+      "nombre": "PACK 3 PERFUMES PARA HOMBRE: AGUA FRESCA EBANO SALVIA EDP 120ML @ + ANTONIO BANDERAS THE ICON SUPREME FOR MEN EDP 100 ML @ + BLOOD CONCEPT AB EDP 40 ML VAPO REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40616",
+      "en_stock": true
+    },
+    "40565": {
+      "nombre": "MERCEDES BENZ CLUB BLACK EDT 100 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40565",
+      "en_stock": true
+    },
+    "40223": {
+      "nombre": "3x1 LAMBORGHINI: ACQUA EDT 125 ML @ + CLASSICO EDT 125 ML @ + MITICO EDT 125 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40223",
+      "en_stock": true
+    },
+    "40218": {
+      "nombre": "TONINO LAMBORGHINI SPORTIVO EDT 125 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40218",
+      "en_stock": true
+    },
+    "40203": {
+      "nombre": "KENZO JUNGLE HOMME EDT 75 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40203",
+      "en_stock": true
+    },
+    "39181": {
+      "nombre": "CALVIN KLEIN ONE UNISEX (BLANCA) EDT 100ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39181",
+      "en_stock": true
+    },
+    "39045": {
+      "nombre": "BOSS SELECTION EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39045",
+      "en_stock": true
+    },
+    "38900": {
+      "nombre": "PACK 4x1 ADIDAS: DYNAMIC PULSE EDT 100 ML @ + PURE GAME 100 ML @ + ICE DIVE EDT 100 ML @ + VICTORY EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38900",
+      "en_stock": true
+    },
+    "38678": {
+      "nombre": "BENETTON WE ARE TRIBE INTENSE EDP 90 ML @",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38678",
+      "en_stock": true
+    },
+    "38676": {
+      "nombre": "ANTONIO BANDERAS THE SECRET ABSOLU (HOMBRE) EDP 100 ML @",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38676",
+      "en_stock": true
+    },
+    "38541": {
+      "nombre": "ESPECIAL 2x1 GUILLAB: GUILLAB PERSEUS FOR MEN EDP 100 ML REGULAR + GUILLAB DRACO EDP 100 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38541",
+      "en_stock": true
+    },
+    "37815": {
+      "nombre": "D&G LIGHT BLUE CAPRI IN LOVE POUR HOMME EDP 100ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37815",
+      "en_stock": true
+    },
+    "37779": {
+      "nombre": "PACK 3x1 FRAGANCIAS MASCULINAS: KARL LAGERFELD VIENNA OPERA EDT 100 ML @ + CROSSMEN 200 ML @ + QUORUM EDT 100ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37779",
+      "en_stock": true
+    },
+    "37726": {
+      "nombre": "KARL LAGERFELD VIENNA OPERA UNISEX EDT 100 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37726",
+      "en_stock": true
+    },
+    "37446": {
+      "nombre": "CK BE UNISEX (NEGRA) EDT 200ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37446",
+      "en_stock": true
+    },
+    "37443": {
+      "nombre": "SET HUGO BOSS THE SCENT EDT 100 ML + MINIATURA + SHOWER GEL 100 ML REGULAR",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37443",
+      "en_stock": true
+    }
+  },
+  "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "40914": {
+      "nombre": "PACK ESPECIAL LANCASTER: GOLDEN LIFT DISCOVERY ROUTINE REGULAR + GOLDEN TAN MAXIMIZER 125 ML @ + CONCENTRE LOTION JEUNESSE 200 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40914",
+      "en_stock": true
+    },
+    "40758": {
+      "nombre": "ESPECIAL GUILLAB: SAGITTA FOR WOMAN EDP 100 ML REGULAR + MINI BOLSO CHLOE + VELA AROMATICA PERFUMADA",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40758",
+      "en_stock": true
+    },
+    "40618": {
+      "nombre": "PACK 4x1: NIKE PINK EDT 100 ML @ + NIKE PURPLEMOOD EDT 100 ML @ + NIKE TRENDYPINK EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40618",
+      "en_stock": true
+    },
+    "40617": {
+      "nombre": "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40617",
+      "en_stock": true
+    },
+    "40301": {
+      "nombre": "SET ROCHAS GIRL LIFE EDP 75 ML + MINIATURA 7,5 ML + BODY LOCION 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40301",
+      "en_stock": true
+    },
+    "40295": {
+      "nombre": "FLOWER BY KENZO IKEBANA EDP 40 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40295",
+      "en_stock": true
+    },
+    "40217": {
+      "nombre": "LIU JO LOVELY U EDP 100 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40217",
+      "en_stock": true
+    },
+    "40093": {
+      "nombre": "ESPECIAL 2x1 GUILLAB WOMAN: GUILLAB ARA FOR WOMAN EDP 100 ML REGULAR + GUILLAB AURIGA FOR WOMAN EDP 100 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40093",
+      "en_stock": true
+    },
+    "40008": {
+      "nombre": "SET MINI BOLSO CHLOE + BENETTON SISTERLAND PINK RASPBERRY 80 ML @ + 7 PRODUCTOS MAQUILLAJE",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40008",
+      "en_stock": true
+    },
+    "39966": {
+      "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39966",
+      "en_stock": true
+    },
+    "39944": {
+      "nombre": "JIMMY CHOO L EAU EDT 90 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39944",
+      "en_stock": true
+    },
+    "39943": {
+      "nombre": "ELIZABETH ARDEN WHITE TEA LILAC EDT 100 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39943",
+      "en_stock": true
+    },
+    "39941": {
+      "nombre": "GUILLAB EDP UNISEX 70 ML REGULAR + REGALO MINISET BRITISH STERLING REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39941",
+      "en_stock": true
+    },
+    "39836": {
+      "nombre": "CHLOE EDP 75 ML @ + MINI BOLSO CHLOE",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39836",
+      "en_stock": true
+    },
+    "39797": {
+      "nombre": "SET NARCISO ALL OF ME EDP 90 ML + 10 ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39797",
+      "en_stock": true
+    },
+    "39582": {
+      "nombre": "CHLOE ROSE NATURELLE INTENSE EDP 100 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39582",
+      "en_stock": true
+    }
+  },
+  "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "41103": {
+      "nombre": "GUILLAB EDP UNISEX 70 ML @ (80% del contenido)",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41103",
+      "en_stock": true
+    },
+    "40247": {
+      "nombre": "PUCCINI PARIS PUCCINI EXTREME HOMME EDP 100 ML @ (Sin caja)",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40247",
+      "en_stock": true
+    },
+    "39070": {
+      "nombre": "ISSEY MIYAKE FUSION EDT 100 ML @ (Sin caja)",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39070",
+      "en_stock": true
+    },
+    "38172": {
+      "nombre": "AIR WICK RECAMBIO AMBIENTADOR ACTIVE FRESH VAINILLA Y MADRESELVA 228 ML (LLEVA VAPO) REGULAR",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38172",
+      "en_stock": true
+    },
+    "36712": {
+      "nombre": "TRUSSARDI NEW FEMEMINE EDP 90 ML REGULAR (SIn caja)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36712",
+      "en_stock": true
+    },
+    "35377": {
+      "nombre": "ED HARDY WOMAN EDP 100 ML (SIN CAJA) @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35377",
+      "en_stock": true
+    },
+    "23150": {
+      "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "40892": {
+      "nombre": "NARCISO POUDREE EDP 90 ML @ (Sin caja, vapo dañado)",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40892",
+      "en_stock": true
+    },
+    "40861": {
+      "nombre": "PANOUGE ROSE AGATHE EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40861",
+      "en_stock": true
+    },
+    "40860": {
+      "nombre": "PANOUGE PERLE RARE LE ROUGE EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40860",
+      "en_stock": true
+    },
+    "40859": {
+      "nombre": "PANOUGE PERLE RARE HOMME EDITION EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40859",
+      "en_stock": true
+    },
+    "40858": {
+      "nombre": "PANOUGE PERLE RARE HOMME BLACK EDITION EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40858",
+      "en_stock": true
+    },
+    "40857": {
+      "nombre": "PANOUGE PERLE RARE GREY EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40857",
+      "en_stock": true
+    },
+    "40856": {
+      "nombre": "PANOUGE PERLE RARE GOLD EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40856",
+      "en_stock": true
+    },
+    "40855": {
+      "nombre": "PANOUGE PERLE RARE EDP 100 ML @ (Sin caja)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40855",
+      "en_stock": true
+    },
+    "40854": {
+      "nombre": "PANOUGE ABSINTHE GAIAC EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40854",
+      "en_stock": true
+    }
+  },
   "ultimo_numero_oferta": 815
 }
