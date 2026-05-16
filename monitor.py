@@ -161,7 +161,7 @@ def scrape_categoria(url):
         pase += 1
         time.sleep(1)
 
-        if pase > 200:
+        if pase > 2000:
             print("  ⚠️  Límite de 200 páginas alcanzado")
             break
 
