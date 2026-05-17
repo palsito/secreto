@@ -3,7 +3,7 @@
 Monitor de perfumedigital.es
 - Monitoriza categorías fijas (paginadas por PASE)
 - Detecta automáticamente nuevas páginas de oferta numeradas (oferta815, oferta816...)
-- Notifica por Telegram sin límites y con protección anti-crash
+- Notifica por Telegram con protección anti-spam y anti-crash
 """
 
 import requests
@@ -264,22 +264,47 @@ def enviar_telegram(mensaje):
 def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
     mensajes = []
 
-    # 1. Productos NUEVOS (¡Sin límite!)
+    # Límite para agrupar notificaciones (evita spam masivo en Telegram)
+    LIMITE_DETALLE = 20
+
+    # 1. Productos NUEVOS
     nuevos = {k: v for k, v in productos_nuevos.items() if k not in productos_anteriores}
     if nuevos:
-        lista = "\n".join(
-            f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in nuevos.values()
-        )
-        mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        if len(nuevos) <= LIMITE_DETALLE:
+            lista = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in nuevos.values()
+            )
+            mensajes.append(f"🆕 <b>Nuevos productos en {nombre_cat}</b>\n{lista}")
+        else:
+            # Demasiados → resumen compacto (probablemente la web se recuperó de un fallo)
+            muestra = list(nuevos.values())[:5]
+            lista_muestra = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in muestra
+            )
+            mensajes.append(
+                f"🆕 <b>{len(nuevos)} nuevos productos en {nombre_cat}</b>\n"
+                f"(Mostrando 5 de {len(nuevos)}):\n{lista_muestra}\n"
+                f"  ...y {len(nuevos) - 5} más"
+            )
 
-    # 2. Productos ELIMINADOS (¡Sin límite!)
+    # 2. Productos ELIMINADOS
     eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
     if eliminados:
-        lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
-        mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
+        if len(eliminados) <= LIMITE_DETALLE:
+            lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
+            mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
+        else:
+            muestra = list(eliminados.values())[:5]
+            lista_muestra = "\n".join(f"  • {p['nombre']}" for p in muestra)
+            mensajes.append(
+                f"❌ <b>{len(eliminados)} eliminados de {nombre_cat}</b>\n"
+                f"(Mostrando 5 de {len(eliminados)}):\n{lista_muestra}\n"
+                f"  ...y {len(eliminados) - 5} más"
+            )
 
-    # 3. Cambios de PRECIO (¡Sin límite!)
+    # 3. Cambios de PRECIO
     cambios = []
     for k, prod_nuevo in productos_nuevos.items():
         if k in productos_anteriores:
@@ -291,8 +316,16 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                     f"{p_ant} → <b>{p_nue}</b>"
                 )
     if cambios:
-        lista = "\n".join(cambios)
-        mensajes.append(f"💸 <b>Cambios de precio en {nombre_cat}</b>\n{lista}")
+        if len(cambios) <= LIMITE_DETALLE:
+            lista = "\n".join(cambios)
+            mensajes.append(f"💸 <b>Cambios de precio en {nombre_cat}</b>\n{lista}")
+        else:
+            lista = "\n".join(cambios[:10])
+            mensajes.append(
+                f"💸 <b>{len(cambios)} cambios de precio en {nombre_cat}</b>\n"
+                f"(Mostrando 10 de {len(cambios)}):\n{lista}\n"
+                f"  ...y {len(cambios) - 10} más"
+            )
 
     return mensajes
 
@@ -314,6 +347,17 @@ def main():
         productos  = scrape_categoria(url)
         anteriores = estado_anterior.get(url, {})
         print(f"  → {len(productos)} productos encontrados")
+
+        # ── PROTECCIÓN ANTI-SCRAPING-FALLIDO ──────────────────────
+        # Si la categoría antes tenía productos y ahora devuelve muy pocos
+        # (menos del 50%), probablemente la web falló o nos bloqueó.
+        # En ese caso, MANTENEMOS el estado anterior para no generar
+        # falsas notificaciones de "eliminados" y luego "nuevos".
+        if anteriores and len(productos) < len(anteriores) * 0.5:
+            print(f"  ⚠️  PROTECCIÓN: Se esperaban ~{len(anteriores)} productos pero solo se obtuvieron {len(productos)}.")
+            print(f"  ⚠️  Esto indica un fallo de la web, NO un cambio real. Se mantiene el estado anterior.")
+            estado_nuevo[url] = anteriores  # Mantener estado anterior
+            continue
 
         estado_nuevo[url] = productos
 
