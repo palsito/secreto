@@ -30454,12 +30454,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
-    "41103": {
-      "nombre": "GUILLAB EDP UNISEX 70 ML @ (80% del contenido)",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41103",
-      "en_stock": true
-    },
     "40247": {
       "nombre": "PUCCINI PARIS PUCCINI EXTREME HOMME EDP 100 ML @ (Sin caja)",
       "precio": "12.99 €",
@@ -30836,12 +30830,6 @@
       "nombre": "CK ETERNITY NIGHT WOMAN EDP 100ML (Sin caja)",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25772",
-      "en_stock": true
-    },
-    "25363": {
-      "nombre": "PLAYBOY MIAMI MEN EDT 100ML @ (Sin caja)",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25363",
       "en_stock": true
     },
     "24632": {
