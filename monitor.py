@@ -289,20 +289,7 @@ def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores):
                 f"  ...y {len(nuevos) - 5} más"
             )
 
-    # 2. Productos ELIMINADOS
-    eliminados = {k: v for k, v in productos_anteriores.items() if k not in productos_nuevos}
-    if eliminados:
-        if len(eliminados) <= LIMITE_DETALLE:
-            lista = "\n".join(f"  • {p['nombre']}" for p in eliminados.values())
-            mensajes.append(f"❌ <b>Eliminados en {nombre_cat}</b>\n{lista}")
-        else:
-            muestra = list(eliminados.values())[:5]
-            lista_muestra = "\n".join(f"  • {p['nombre']}" for p in muestra)
-            mensajes.append(
-                f"❌ <b>{len(eliminados)} eliminados de {nombre_cat}</b>\n"
-                f"(Mostrando 5 de {len(eliminados)}):\n{lista_muestra}\n"
-                f"  ...y {len(eliminados) - 5} más"
-            )
+
 
     # 3. Cambios de PRECIO
     cambios = []
