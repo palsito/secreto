@@ -10742,12 +10742,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40803",
       "en_stock": true
     },
-    "40715": {
-      "nombre": "LANCOME IDOLE L EAU DE DE PARFUM 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40715",
-      "en_stock": true
-    },
     "40714": {
       "nombre": "VICTORIO & LUCCHINO AGUAS DE PERFUME  N 17 FLOR SENSUAL EDP 150 ML @",
       "precio": "5.99 €",
@@ -23286,6 +23280,12 @@
       "nombre": "MARC JACOBS DAISY EAU SO INTENSE EDP 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32728",
+      "en_stock": true
+    },
+    "32726": {
+      "nombre": "LOEWE PAULA`S IBIZA EDT 50 ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32726",
       "en_stock": true
     },
     "32722": {
