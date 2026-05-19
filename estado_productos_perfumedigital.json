@@ -8580,12 +8580,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16029",
       "en_stock": true
     },
-    "16027": {
-      "nombre": "ISOTTA FRASCHINI MAN TIPO 8 EDT 100 ML REGULAR",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=16027",
-      "en_stock": true
-    },
     "16007": {
       "nombre": "FCUK HIM EDT 100 ML REGULAR",
       "precio": "20.99 €",
@@ -16502,12 +16496,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37924",
       "en_stock": true
     },
-    "37922": {
-      "nombre": "YSL MON PARIS FLORAL EDP 30 ML REGULAR",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37922",
-      "en_stock": true
-    },
     "37918": {
       "nombre": "MICALLEF ROYAL MUSKA NECTAR EDP 50 ML @",
       "precio": "109.99 €",
@@ -17796,6 +17784,12 @@
       "nombre": "CLARINS EAU DYNAMISANTE BODY LOCION 200 ML @",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37347",
+      "en_stock": true
+    },
+    "37346": {
+      "nombre": "TOM FORD BLACK ORCHID WOMAN EDT (TOILETTE) 50 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37346",
       "en_stock": true
     },
     "37338": {
