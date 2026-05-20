@@ -10310,12 +10310,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30960",
       "en_stock": true
     },
-    "30911": {
-      "nombre": "YSL LIBRE EDP 90 ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30911",
-      "en_stock": true
-    },
     "30191": {
       "nombre": "DKNY BE DELICIOUS EDP 100 ML @",
       "precio": "29.99 €",
@@ -12816,6 +12810,12 @@
       "nombre": "AFFINESSENCE SANTAL BASMATI EDP 100 ML REGULAR",
       "precio": "139.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39632",
+      "en_stock": true
+    },
+    "39631": {
+      "nombre": "AFFINESSENCE SAFRAN-NEROLI EDP 50 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39631",
       "en_stock": true
     },
     "39630": {
