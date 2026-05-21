@@ -5322,12 +5322,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31716",
       "en_stock": true
     },
-    "31631": {
-      "nombre": "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @",
-      "precio": "86.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31631",
-      "en_stock": true
-    },
     "31572": {
       "nombre": "AGUA FRESCA LIMA TONKA EDT 120ML @",
       "precio": "12.99 €",
@@ -9884,6 +9878,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36426",
       "en_stock": true
     },
+    "36416": {
+      "nombre": "LOTE 29 DE MUJER: VANDERBILT WOMAN EDT 100ML @ + INESSANCE PARIS EAU DE COLOGNE FRAICHEUR 500 ML + DON ALGODON MUJER EDT 100 ML @ + COQUETTE COUCOU MA BELLE EDT 100 ML@ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36416",
+      "en_stock": true
+    },
     "36403": {
       "nombre": "SET CK ONE UNISEX BLANCA 100 ML REGULAR + DEO SPRAY 150 ML REGULAR",
       "precio": "25.99 €",
@@ -10458,6 +10458,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41212": {
+      "nombre": "BDK PARFUMS BOUQUET DE HONGRIE EDP 100 ML @",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41212",
       "en_stock": true
     },
     "41167": {
@@ -22246,7 +22252,7 @@
     },
     "34091": {
       "nombre": "VALENTINO DONNA  BORN IN ROMA YELLOW DREAM EDP 100 ML @",
-      "precio": "49.99 €",
+      "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34091",
       "en_stock": true
     },
@@ -23182,7 +23188,7 @@
     },
     "32735": {
       "nombre": "SHISEIDO GINZA MURASAKI EDP 90 ML @",
-      "precio": "29.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32735",
       "en_stock": true
     },
@@ -24718,7 +24724,7 @@
     },
     "28972": {
       "nombre": "MOSCHINO TOY 2 EDP 100 ML @",
-      "precio": "39.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=28972",
       "en_stock": true
     },
@@ -25864,7 +25870,7 @@
     },
     "25754": {
       "nombre": "PRADA LA FEMME EDP 100 ML @",
-      "precio": "59.99 €",
+      "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25754",
       "en_stock": true
     },
