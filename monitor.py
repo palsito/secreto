@@ -13,6 +13,7 @@ import os
 import re
 import time
 from datetime import datetime
+from difflib import SequenceMatcher
 
 # ─── CONFIGURACIÓN ────────────────────────────────────────────────
 TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "")
@@ -44,7 +45,21 @@ OFERTA_INICIO     = 815                    # número desde el que empezamos a vi
 
 STATE_FILE = "estado_productos_perfumedigital.json"
 HEADERS    = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+NOMBRES_NOTIFICADOS_KEY = "nombres_ya_notificados"  # clave en el estado para persistir nombres ya notificados
 # ──────────────────────────────────────────────────────────────────
+
+
+def nombre_ya_notificado(nombre, nombres_set, umbral=0.90):
+    """Comprueba si un nombre ya fue notificado, usando coincidencia exacta
+    o fuzzy matching (para variaciones menores como espacios, tildes, etc.)."""
+    nombre_norm = nombre.strip().upper()
+    if nombre_norm in nombres_set:
+        return True
+    # Fuzzy matching para variantes menores del mismo producto
+    for n in nombres_set:
+        if SequenceMatcher(None, nombre_norm, n).ratio() >= umbral:
+            return True
+    return False
 
 session = requests.Session()
 session.headers.update(HEADERS)
@@ -261,21 +276,33 @@ def enviar_telegram(mensaje):
         time.sleep(3.5)
 
 
-def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_notificados=None):
+def comparar_y_notificar(nombre_cat, productos_nuevos, productos_anteriores, ya_notificados=None, nombres_persistentes=None):
     mensajes = []
     if ya_notificados is None:
         ya_notificados = set()
+    if nombres_persistentes is None:
+        nombres_persistentes = set()
 
     # Límite para agrupar notificaciones (evita spam masivo en Telegram)
     LIMITE_DETALLE = 20
 
-    # 1. Productos NUEVOS (filtrando los que ya se notificaron en otra categoría)
-    nuevos = {k: v for k, v in productos_nuevos.items()
-              if k not in productos_anteriores and v['nombre'] not in ya_notificados}
+    # 1. Productos NUEVOS (filtrando los que ya se notificaron en otra categoría
+    #    O que ya se notificaron en ejecuciones anteriores por nombre)
+    nuevos = {}
+    for k, v in productos_nuevos.items():
+        if k in productos_anteriores:
+            continue  # mismo ID, no es nuevo
+        if v['nombre'] in ya_notificados:
+            continue  # ya notificado en esta ejecución
+        if nombre_ya_notificado(v['nombre'], nombres_persistentes):
+            continue  # ya notificado en una ejecución anterior (mismo nombre o muy similar)
+        nuevos[k] = v
+
     if nuevos:
         # Registrar como ya notificados para las siguientes categorías
         for p in nuevos.values():
             ya_notificados.add(p['nombre'])
+            nombres_persistentes.add(p['nombre'].strip().upper())
 
         if len(nuevos) <= LIMITE_DETALLE:
             lista = "\n".join(
@@ -338,6 +365,10 @@ def main():
     todos_mensajes  = []
     ya_notificados  = set()  # Evita notificar el mismo producto en varias categorías
 
+    # ── Cargar nombres persistentes (historial de productos ya notificados) ──
+    nombres_persistentes = set(estado_anterior.get(NOMBRES_NOTIFICADOS_KEY, []))
+    print(f"  📋 {len(nombres_persistentes)} nombres de productos en historial de notificaciones")
+
     # ── 1. Categorías fijas ────────────────────────────────────────────
     for cat in CATEGORIAS:
         nombre = cat["nombre"]
@@ -368,16 +399,22 @@ def main():
             if len(nuevos_detectados) > 30:
                 print(f"  ⚠️  PROTECCIÓN ANTI-RECUPERACIÓN: Se detectaron {len(nuevos_detectados)} productos 'nuevos'.")
                 print(f"  ⚠️  Probablemente el scrape anterior fue parcial. Se actualiza estado SIN notificar.")
+                # Registrar los nombres en el historial persistente para no notificarlos después
+                for pid in nuevos_detectados:
+                    nombres_persistentes.add(productos[pid]['nombre'].strip().upper())
                 estado_nuevo[url] = productos
                 continue
 
         estado_nuevo[url] = productos
 
         if anteriores:
-            msgs = comparar_y_notificar(nombre, productos, anteriores, ya_notificados)
+            msgs = comparar_y_notificar(nombre, productos, anteriores, ya_notificados, nombres_persistentes)
             todos_mensajes.extend(msgs)
         else:
             print("  ℹ️  Primera ejecución, guardando estado inicial")
+            # En primera ejecución, registrar todos los nombres actuales como ya conocidos
+            for p in productos.values():
+                nombres_persistentes.add(p['nombre'].strip().upper())
 
     # ── 2. Páginas de oferta numeradas ─────────────────────────────────
     print(f"\n🔢 Comprobando páginas de oferta numeradas...")
@@ -397,10 +434,12 @@ def main():
         anteriores_act = estado_anterior.get(url_act, {})
 
         if anteriores_act:
-            msgs = comparar_y_notificar(f"🏷️ Oferta {ultimo}", prods_act, anteriores_act, ya_notificados)
+            msgs = comparar_y_notificar(f"🏷️ Oferta {ultimo}", prods_act, anteriores_act, ya_notificados, nombres_persistentes)
             todos_mensajes.extend(msgs)
         else:
             print(f"  ℹ️  Primera vez que vemos oferta{ultimo}, guardando estado inicial")
+            for p in prods_act.values():
+                nombres_persistentes.add(p['nombre'].strip().upper())
 
     # 2b. Comprobamos si ya existe la siguiente
     siguiente = ultimo + 1
@@ -414,16 +453,28 @@ def main():
         estado_nuevo[url_sig] = prods_sig
         estado_nuevo[OFERTA_NUMERO_KEY] = siguiente  # actualizamos el contador
 
-        # ¡Nueva lista sin recortes!
-        lista = "\n".join(
-            f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
-            for p in prods_sig.values()
-        )
-        todos_mensajes.append(
-            f"🚨 <b>¡NUEVA PÁGINA DE OFERTAS!</b>\n"
-            f"<a href='{url_sig}'>perfumedigital.es/oferta{siguiente}.html</a> "
-            f"— {len(prods_sig)} productos\n\n{lista}"
-        )
+        # Filtrar productos de la oferta que ya fueron notificados por nombre
+        prods_realmente_nuevos = {
+            k: v for k, v in prods_sig.items()
+            if not nombre_ya_notificado(v['nombre'], nombres_persistentes)
+        }
+
+        if prods_realmente_nuevos:
+            # Registrar en historial persistente
+            for p in prods_realmente_nuevos.values():
+                nombres_persistentes.add(p['nombre'].strip().upper())
+
+            lista = "\n".join(
+                f"  • <a href='{p['url']}'>{p['nombre']}</a> — {p['precio']}"
+                for p in prods_realmente_nuevos.values()
+            )
+            todos_mensajes.append(
+                f"🚨 <b>¡NUEVA PÁGINA DE OFERTAS!</b>\n"
+                f"<a href='{url_sig}'>perfumedigital.es/oferta{siguiente}.html</a> "
+                f"— {len(prods_realmente_nuevos)} productos nuevos\n\n{lista}"
+            )
+        else:
+            print(f"  ℹ️  Nueva oferta detectada pero todos los productos ya fueron notificados anteriormente")
     else:
         print(f"  ✅ oferta{siguiente}.html aún no existe")
 
@@ -435,7 +486,10 @@ def main():
     else:
         print("\n✅ Sin cambios detectados")
 
+    # ── 4. Guardar estado + historial de nombres persistentes ────────
+    estado_nuevo[NOMBRES_NOTIFICADOS_KEY] = sorted(nombres_persistentes)
     guardar_estado(estado_nuevo)
+    print(f"  📋 {len(nombres_persistentes)} nombres en historial persistente")
     print("\n💾 Estado guardado\n")
 
 
