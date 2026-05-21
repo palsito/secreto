@@ -1704,12 +1704,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38972",
       "en_stock": true
     },
-    "38971": {
-      "nombre": "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
-      "precio": "219.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38971",
-      "en_stock": true
-    },
     "38970": {
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP 75 ML REGULAR",
       "precio": "269.99 €",
@@ -10488,6 +10482,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41255": {
+      "nombre": "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41255",
       "en_stock": true
     },
     "41225": {
@@ -30996,5 +30996,7 @@
     }
   },
   "ultimo_numero_oferta": 815,
-  "nombres_ya_notificados": []
+  "nombres_ya_notificados": [
+    "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
+  ]
 }
