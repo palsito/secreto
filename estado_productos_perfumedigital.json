@@ -22232,12 +22232,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34122",
       "en_stock": true
     },
-    "34117": {
-      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34117",
-      "en_stock": true
-    },
     "34116": {
       "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 90 ML @",
       "precio": "39.99 €",
@@ -22908,6 +22902,12 @@
       "nombre": "BOW NEW YORK HILLARY WOMAN EDP 30 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33356",
+      "en_stock": true
+    },
+    "33355": {
+      "nombre": "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33355",
       "en_stock": true
     },
     "33351": {
@@ -30979,6 +30979,7 @@
   },
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
+    "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
   ]
