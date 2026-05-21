@@ -1704,6 +1704,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38972",
       "en_stock": true
     },
+    "38971": {
+      "nombre": "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38971",
+      "en_stock": true
+    },
     "38970": {
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP 75 ML REGULAR",
       "precio": "269.99 €",
@@ -30997,6 +31003,7 @@
   },
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
+    "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
   ]
 }
