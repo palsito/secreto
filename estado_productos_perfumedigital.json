@@ -5640,6 +5640,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31051",
       "en_stock": true
     },
+    "31045": {
+      "nombre": "AXE ICE CHILL HOMBRE EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31045",
+      "en_stock": true
+    },
     "31027": {
       "nombre": "HERMES EAU CITRON NOIR EDC 100 ML @",
       "precio": "49.99 €",
@@ -7894,6 +7900,12 @@
       "nombre": "AXE ANARCHY FOR HER EDT 50 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20175",
+      "en_stock": true
+    },
+    "20122": {
+      "nombre": "AXE DARK TEMPTATION EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20122",
       "en_stock": true
     },
     "20119": {
@@ -30975,6 +30987,8 @@
   "nombres_ya_notificados": [
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "AXE ANARCHY FOR HER EDT 50 ML @",
+    "AXE DARK TEMPTATION EDT 100 ML @",
+    "AXE ICE CHILL HOMBRE EDT 100 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
   ]
