@@ -23702,6 +23702,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31510",
       "en_stock": true
     },
+    "31509": {
+      "nombre": "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31509",
+      "en_stock": true
+    },
     "31508": {
       "nombre": "D&G THE ONE WOMAN EDP 75ML @",
       "precio": "59.99 €",
@@ -30974,6 +30980,7 @@
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
+    "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
     "AXE ANARCHY FOR HER EDT 50 ML @",
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
