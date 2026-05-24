@@ -534,12 +534,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40879",
       "en_stock": true
     },
-    "40873": {
-      "nombre": "POLO COLOGNE INTENSE 125ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40873",
-      "en_stock": true
-    },
     "40870": {
       "nombre": "MANDARINA DUCK LIFE IS A JOURNEY HIM EDT 100 ML @",
       "precio": "14.99 €",
@@ -5848,6 +5842,12 @@
       "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 4 EVASION EXOTICA 150 ML @",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30534",
+      "en_stock": true
+    },
+    "30526": {
+      "nombre": "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30526",
       "en_stock": true
     },
     "30519": {
@@ -30970,6 +30970,7 @@
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
+    "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
