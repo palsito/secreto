@@ -10538,12 +10538,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41219",
       "en_stock": true
     },
-    "41216": {
-      "nombre": "BDK PARFUMS TUBEREUSE IMPERIALE EDP 100 ML @",
-      "precio": "119.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41216",
-      "en_stock": true
-    },
     "41215": {
       "nombre": "BDK PARFUMS CREME DE CUIR EDP 100 ML @",
       "precio": "119.99 €",
@@ -25532,6 +25526,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26851",
       "en_stock": true
     },
+    "26846": {
+      "nombre": "CLEAN CASHMERE UNISEX EDP 60 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26846",
+      "en_stock": true
+    },
     "26845": {
       "nombre": "CLEAN BLOSSOM EDP 60 ML @",
       "precio": "29.99 €",
@@ -30980,6 +30980,7 @@
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CHANEL Nº 5 EDP 100ML @",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
+    "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
