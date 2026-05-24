@@ -18956,12 +18956,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36796",
       "en_stock": true
     },
-    "36792": {
-      "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML @ (sin caja)",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36792",
-      "en_stock": true
-    },
     "36791": {
       "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS VERBENA AZAHAR 150 ML @ (sin caja)",
       "precio": "5.99 €",
@@ -22278,6 +22272,12 @@
       "nombre": "J´ADORE PARFUM D`EAU  100ML @",
       "precio": "89.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34099",
+      "en_stock": true
+    },
+    "34098": {
+      "nombre": "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34098",
       "en_stock": true
     },
     "34094": {
@@ -30953,6 +30953,7 @@
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
+    "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
