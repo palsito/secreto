@@ -9890,12 +9890,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36403",
       "en_stock": true
     },
-    "36400": {
-      "nombre": "DEVOTA & LOMBA ELIXIR DESNUDO EDT 100 ML @ (sin caja)",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36400",
-      "en_stock": true
-    },
     "36367": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML @",
       "precio": "29.99 €",
@@ -13890,6 +13884,12 @@
       "nombre": "GRITTI NOCTEM ARABS EDP 100 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39050",
+      "en_stock": true
+    },
+    "39049": {
+      "nombre": "GRITTI MAGNIFICA LUX EDP 100 ML @",
+      "precio": "84.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39049",
       "en_stock": true
     },
     "39048": {
@@ -30911,6 +30911,7 @@
     "CHANEL Nº 5 EDP 100ML @",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
+    "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
