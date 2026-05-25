@@ -5682,12 +5682,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31020",
       "en_stock": true
     },
-    "31018": {
-      "nombre": "VALENTINO UOMO BORN IN ROMA EDT 100 ML @",
-      "precio": "66.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31018",
-      "en_stock": true
-    },
     "31017": {
       "nombre": "ROCHAS L HOMME EDT 100 ML @",
       "precio": "30.99 €",
@@ -5722,12 +5716,6 @@
       "nombre": "BOSS BOTTLED MAN EDP 100 ML @",
       "precio": "47.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30945",
-      "en_stock": true
-    },
-    "30928": {
-      "nombre": "PACO RABANNE XS FORMATO NUEVO EDT 100 ML @",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30928",
       "en_stock": true
     },
     "30921": {
@@ -10350,6 +10338,12 @@
       "nombre": "CAPUCCI N 3 POUR FEMME EDP 100 ML @ (Sin caja)",
       "precio": "8.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26012",
+      "en_stock": true
+    },
+    "25965": {
+      "nombre": "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25965",
       "en_stock": true
     },
     "25944": {
@@ -30938,6 +30932,7 @@
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
+    "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
