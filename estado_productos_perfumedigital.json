@@ -126,12 +126,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37129",
       "en_stock": true
     },
-    "36756": {
-      "nombre": "BOSS BOTTLED MAN EDT 50 ML REGULAR (Sin caja)",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36756",
-      "en_stock": true
-    },
     "36658": {
       "nombre": "PACK 3 SETS POR EL PRECIO DE UNO: SET TOUCH ME EDT 100 ML + SET PRIORITE TOALLA + SET MINI BRITISH STERLING",
       "precio": "7.99 €",
@@ -5938,6 +5932,12 @@
       "nombre": "TOM FORD SOLEIL BLANC (ALARGADA) EDT 100 ML REGULAR",
       "precio": "149.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30284",
+      "en_stock": true
+    },
+    "30273": {
+      "nombre": "BAD BOY EDT 100ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30273",
       "en_stock": true
     },
     "30265": {
@@ -21638,12 +21638,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34757",
       "en_stock": true
     },
-    "34755": {
-      "nombre": "CHANEL CHANCE EAU TENDRE EDP 100ML @",
-      "precio": "106.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34755",
-      "en_stock": true
-    },
     "34753": {
       "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 60 ML @",
       "precio": "39.99 €",
@@ -30908,6 +30902,7 @@
     "AXE ANARCHY FOR HER EDT 50 ML @",
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
+    "BAD BOY EDT 100ML @",
     "BURBERRY BRIT FOR HER EDT 100ML REGULAR",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
