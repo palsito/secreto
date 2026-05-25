@@ -13892,12 +13892,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39050",
       "en_stock": true
     },
-    "39049": {
-      "nombre": "GRITTI MAGNIFICA LUX EDP 100 ML @",
-      "precio": "84.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39049",
-      "en_stock": true
-    },
     "39048": {
       "nombre": "GRITTI GOSSIP NIGHT EDP 100 ML @",
       "precio": "89.99 €",
@@ -21636,6 +21630,12 @@
       "nombre": "NARCISO RODRIGUEZ MUSC NOIR ROSE FOR HER  EDP 100ML @",
       "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34757",
+      "en_stock": true
+    },
+    "34755": {
+      "nombre": "CHANEL CHANCE EAU TENDRE EDP 100ML @",
+      "precio": "106.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34755",
       "en_stock": true
     },
     "34753": {
@@ -30907,6 +30907,7 @@
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
+    "CHANEL CHANCE EAU TENDRE EDP 100ML @",
     "CHANEL Nº 5 EDP 100ML @",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
