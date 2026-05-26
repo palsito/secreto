@@ -300,12 +300,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34185",
       "en_stock": true
     },
-    "34141": {
-      "nombre": "LOTE 1 DE HOMBRE: MILANO CLASSIC EDT 100 ML @ + SPRINGFIELD EDT 100 ML @ + ADIDAS TEAM FORCE EDT 100ML @ + ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34141",
-      "en_stock": true
-    },
     "33749": {
       "nombre": "DIESEL D FOR SUCCESSION LIVING 100 ML @",
       "precio": "26.99 €",
@@ -5752,6 +5746,12 @@
       "nombre": "EL GANSO PART TIME HERO EDT 125 ML @",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30720",
+      "en_stock": true
+    },
+    "30692": {
+      "nombre": "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30692",
       "en_stock": true
     },
     "30673": {
@@ -19532,6 +19532,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36272",
       "en_stock": true
     },
+    "36270": {
+      "nombre": "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36270",
+      "en_stock": true
+    },
     "36254": {
       "nombre": "JIMMY CHOO MAN EXTREME EDP 100 ML @",
       "precio": "29.99 €",
@@ -30898,6 +30904,7 @@
     "212 SEXY WOMAN EDP 100ML REGULAR",
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
+    "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
     "AROMATICS ELIXIR EDP 100ML REGULAR",
     "AXE ANARCHY FOR HER EDT 50 ML @",
     "AXE DARK TEMPTATION EDT 100 ML @",
@@ -30918,6 +30925,7 @@
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
+    "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
