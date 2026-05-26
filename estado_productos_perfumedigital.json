@@ -22700,12 +22700,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33827",
       "en_stock": true
     },
-    "33742": {
-      "nombre": "SOLO LOEWE ELLA EDT 100 ML @",
-      "precio": "71.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33742",
-      "en_stock": true
-    },
     "33733": {
       "nombre": "AGUA FRESCA DE GARDENIA WOMAN EDT 120ML @",
       "precio": "19.99 €",
@@ -26208,6 +26202,12 @@
       "nombre": "ADIDAS HAPPY GAME EDT 75 ML @",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23949",
+      "en_stock": true
+    },
+    "23811": {
+      "nombre": "CABOTINE EDT 100ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23811",
       "en_stock": true
     },
     "23776": {
@@ -30895,6 +30895,7 @@
     "BURBERRY BRIT FOR HER EDT 100ML REGULAR",
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
+    "CABOTINE EDT 100ML @",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CHANEL CHANCE EAU TENDRE EDP 100ML @",
