@@ -16022,12 +16022,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38374",
       "en_stock": true
     },
-    "38372": {
-      "nombre": "JIMMY CHOO WANT CHOO WITH LOVE EDP 125ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38372",
-      "en_stock": true
-    },
     "38370": {
       "nombre": "ELIE SAAB  GIRL OF NOW ROSE PETALS EDP WOMAN 90 ML @",
       "precio": "69.99 €",
@@ -23444,12 +23438,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32330",
       "en_stock": true
     },
-    "32329": {
-      "nombre": "LA VIE EST BELLE EDP 15 (QUINCE MILILITROS) ML @",
-      "precio": "12.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32329",
-      "en_stock": true
-    },
     "32328": {
       "nombre": "SOLO LOEWE ELLA EDP 100 ML @",
       "precio": "79.99 €",
@@ -29252,6 +29240,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14132",
       "en_stock": true
     },
+    "14128": {
+      "nombre": "BRITNEY SPEARS HIDDEN FANTASY WOMAN EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14128",
+      "en_stock": true
+    },
     "14110": {
       "nombre": "PROVOCATIVE EDP 100ML @",
       "precio": "24.99 €",
@@ -31003,6 +30997,7 @@
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
     "BAD BOY EDT 100ML @",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
+    "BRITNEY SPEARS HIDDEN FANTASY WOMAN EDP 100 ML REGULAR",
     "BURBERRY BRIT FOR HER EDT 100ML REGULAR",
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
