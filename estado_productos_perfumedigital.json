@@ -6840,6 +6840,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25859",
       "en_stock": true
     },
+    "25810": {
+      "nombre": "DIOR HOMME INTENSE EDP 100ML @",
+      "precio": "106.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25810",
+      "en_stock": true
+    },
+    "25808": {
+      "nombre": "DIOR HOMME EDT 100ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25808",
+      "en_stock": true
+    },
     "25787": {
       "nombre": "KENZO HOMME EDP (FORMATO VIEJO) 100 ML @",
       "precio": "36.99 €",
@@ -21536,6 +21548,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34814",
       "en_stock": true
     },
+    "34813": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34813",
+      "en_stock": true
+    },
     "34803": {
       "nombre": "MON GUERLAIN BLOOM OF ROSE EDT 100 ML @",
       "precio": "59.99 €",
@@ -22236,6 +22254,12 @@
       "nombre": "NINA RICCI SOLEI  EDT 50ML @",
       "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34122",
+      "en_stock": true
+    },
+    "34117": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34117",
       "en_stock": true
     },
     "34116": {
@@ -30972,6 +30996,7 @@
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
     "CABOTINE EDT 100ML @",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
+    "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CHANEL ALLURE HOMME SPORT 100 ML @",
@@ -30982,6 +31007,8 @@
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "DEVOTA & LOMBA ELIXIR DESNUDO EDT 100 ML @ (SIN CAJA)",
     "DIOR EAU SAUVAGE PARFUM 100ML @",
+    "DIOR HOMME EDT 100ML @",
+    "DIOR HOMME INTENSE EDP 100ML @",
     "EL GANSO BLUE CODE EDP 100 ML @",
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
