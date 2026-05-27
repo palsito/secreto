@@ -5238,6 +5238,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32316",
       "en_stock": true
     },
+    "32315": {
+      "nombre": "KENZO POUR HOMME INTENSE EDT 110ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32315",
+      "en_stock": true
+    },
     "32297": {
       "nombre": "ARMAND BASI L´EAU POUR HOMME INTENSE VETIVER 125ML @",
       "precio": "29.99 €",
@@ -10530,6 +10536,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41349": {
+      "nombre": "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41349",
       "en_stock": true
     },
     "41346": {
@@ -29240,12 +29252,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14132",
       "en_stock": true
     },
-    "14128": {
-      "nombre": "BRITNEY SPEARS HIDDEN FANTASY WOMAN EDP 100 ML REGULAR",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14128",
-      "en_stock": true
-    },
     "14110": {
       "nombre": "PROVOCATIVE EDP 100ML @",
       "precio": "24.99 €",
@@ -31027,6 +31033,8 @@
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
+    "KENZO POUR HOMME INTENSE EDT 110ML @",
+    "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
