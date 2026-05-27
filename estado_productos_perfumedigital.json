@@ -6276,6 +6276,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=28203",
       "en_stock": true
     },
+    "28172": {
+      "nombre": "LOEWE 001 MAN EDP 100 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=28172",
+      "en_stock": true
+    },
     "28083": {
       "nombre": "MANDARINA DUCK M+ EDT INTENSE 100 ML @",
       "precio": "19.99 €",
@@ -10538,6 +10544,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41357": {
+      "nombre": "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (Caja dañada)",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41357",
+      "en_stock": true
+    },
     "41349": {
       "nombre": "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
       "precio": "79.99 €",
@@ -10732,7 +10744,7 @@
     },
     "40872": {
       "nombre": "MUGLER ALIEN EXTRAINTENSE EDP 90 ML @",
-      "precio": "72.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40872",
       "en_stock": true
     },
@@ -19350,6 +19362,12 @@
       "nombre": "ARMANI SI PARFUM (MAS CONCENTRADA) 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36476",
+      "en_stock": true
+    },
+    "36436": {
+      "nombre": "TOUS SORBET GARDEN EDT 90 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36436",
       "en_stock": true
     },
     "36435": {
@@ -30994,6 +31012,7 @@
     "BRITNEY SPEARS HIDDEN FANTASY WOMAN EDP 100 ML REGULAR",
     "BURBERRY BRIT FOR HER EDT 100ML REGULAR",
     "BURBERRY GODDESS EDP 100 ML REGULAR",
+    "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
     "CABOTINE EDT 100ML @",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
@@ -31024,6 +31043,7 @@
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
     "KENZO POUR HOMME INTENSE EDT 110ML @",
     "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
+    "LOEWE 001 MAN EDP 100 ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
@@ -31034,6 +31054,7 @@
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
+    "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
   ]
