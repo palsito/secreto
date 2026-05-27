@@ -10550,6 +10550,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41363": {
+      "nombre": "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41363",
+      "en_stock": true
+    },
     "41362": {
       "nombre": "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
       "precio": "69.99 €",
@@ -11740,7 +11746,7 @@
     },
     "40334": {
       "nombre": "SISLEY L`EAU REVEE D`IKAR EDT 100 ML @",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40334",
       "en_stock": true
     },
@@ -21776,12 +21782,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34757",
       "en_stock": true
     },
-    "34755": {
-      "nombre": "CHANEL CHANCE EAU TENDRE EDP 100ML @",
-      "precio": "106.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34755",
-      "en_stock": true
-    },
     "34753": {
       "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 60 ML @",
       "precio": "39.99 €",
@@ -31096,6 +31096,7 @@
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
+    "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
