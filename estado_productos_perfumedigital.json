@@ -426,6 +426,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41365": {
+      "nombre": "TOUS MAN SKY EDP100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41365",
+      "en_stock": true
+    },
+    "41364": {
+      "nombre": "TOMMY MAN POOLSIDE EDT 100ML @",
+      "precio": "28.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41364",
+      "en_stock": true
+    },
     "41348": {
       "nombre": "CHANEL ALLURE HOMME SPORT 100 ML @",
       "precio": "94.99 €",
@@ -3050,7 +3062,7 @@
     },
     "37504": {
       "nombre": "TOUS MAN SPRITZ EDT 100 ML @",
-      "precio": "34.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37504",
       "en_stock": true
     },
@@ -4936,6 +4948,12 @@
       "nombre": "EL GANSO BRAVO MONSIEUR EDT 125 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32893",
+      "en_stock": true
+    },
+    "32851": {
+      "nombre": "TOMMY HILFIGER NOW MAN EDT 100 ML @",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32851",
       "en_stock": true
     },
     "32834": {
@@ -10548,6 +10566,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41366": {
+      "nombre": "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41366",
       "en_stock": true
     },
     "41363": {
@@ -31068,6 +31092,7 @@
     "EL GANSO BLUE CODE EDP 100 ML @",
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
+    "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
@@ -31097,6 +31122,9 @@
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
+    "TOMMY HILFIGER NOW MAN EDT 100 ML @",
+    "TOMMY MAN POOLSIDE EDT 100ML @",
+    "TOUS MAN SKY EDP100 ML @",
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
