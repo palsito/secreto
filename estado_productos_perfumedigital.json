@@ -12656,12 +12656,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39820",
       "en_stock": true
     },
-    "39817": {
-      "nombre": "GUERLAIN MON GUERLAIN EDP 30 ML REGULAR",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39817",
-      "en_stock": true
-    },
     "39815": {
       "nombre": "CARNER BARCELONA SWEET WILLIAM EDP 100 ML REGULAR",
       "precio": "84.99 €",
@@ -13002,6 +12996,12 @@
       "nombre": "AIGNER ITS ME SOLAR JASMIN EDP 100 ML REGULAR",
       "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39642",
+      "en_stock": true
+    },
+    "39641": {
+      "nombre": "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39641",
       "en_stock": true
     },
     "39639": {
@@ -31073,6 +31073,7 @@
     "212 SEXY WOMAN EDP 100ML REGULAR",
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
+    "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
     "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
     "ARMANI STRONGER WITH INTENSELY YOU EDP 100 @",
     "AROMATICS ELIXIR EDP 100ML REGULAR",
