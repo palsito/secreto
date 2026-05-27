@@ -426,6 +426,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41348": {
+      "nombre": "CHANEL ALLURE HOMME SPORT 100 ML @",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41348",
+      "en_stock": true
+    },
+    "41347": {
+      "nombre": "1881 SILVER NIGHT HOMME EDP 100ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41347",
+      "en_stock": true
+    },
     "41344": {
       "nombre": "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
       "precio": "49.99 €",
@@ -10322,6 +10334,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31412",
       "en_stock": true
     },
+    "31273": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31273",
+      "en_stock": true
+    },
     "30960": {
       "nombre": "212 WOMAN EDT 100ML @",
       "precio": "44.99 €",
@@ -10500,6 +10518,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41346": {
+      "nombre": "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41346",
+      "en_stock": true
+    },
+    "41345": {
+      "nombre": "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41345",
+      "en_stock": true
+    },
+    "41343": {
+      "nombre": "BOSS ALIVE PARFUM 80 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41343",
       "en_stock": true
     },
     "41255": {
@@ -15598,13 +15634,13 @@
     },
     "38506": {
       "nombre": "DKNY BE DELICIOUS ICE POP CITRUS SPLASH EDP 50 ML @",
-      "precio": "42.99 €",
+      "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38506",
       "en_stock": true
     },
     "38505": {
       "nombre": "DKNY BE DELICIOUS ICE POP BERRY BLISS EDP 50 ML @",
-      "precio": "27.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38505",
       "en_stock": true
     },
@@ -23336,6 +23372,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32339",
       "en_stock": true
     },
+    "32337": {
+      "nombre": "TPF FAIR LOVE EDT 60 ML @ ~",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32337",
+      "en_stock": true
+    },
     "32335": {
       "nombre": "DESIGUAL FRESH FESTIVAL EDT 100 ML @",
       "precio": "14.99 €",
@@ -27352,7 +27394,7 @@
     },
     "20989": {
       "nombre": "GIORGIO BEVERLY HILLS WOMAN EDT 90ML @",
-      "precio": "16.99 €",
+      "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20989",
       "en_stock": true
     },
@@ -30907,6 +30949,7 @@
   },
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
+    "1881 SILVER NIGHT HOMME EDP 100ML @",
     "212 SEXY WOMAN EDP 100ML REGULAR",
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
@@ -30917,12 +30960,15 @@
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
     "BAD BOY EDT 100ML @",
+    "BOSS ALIVE PARFUM 80 ML REGULAR",
     "BURBERRY BRIT FOR HER EDT 100ML REGULAR",
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
     "CABOTINE EDT 100ML @",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
+    "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
+    "CHANEL ALLURE HOMME SPORT 100 ML @",
     "CHANEL CHANCE EAU TENDRE EDP 100ML @",
     "CHANEL Nº 5 EDP 100ML @",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
@@ -30937,18 +30983,21 @@
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
+    "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
+    "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
+    "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
   ]
 }
