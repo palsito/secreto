@@ -8796,6 +8796,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14741",
       "en_stock": true
     },
+    "14718": {
+      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14718",
+      "en_stock": true
+    },
     "14707": {
       "nombre": "GUCCI GUILTY MEN EDT 90 ML REGULAR",
       "precio": "59.99 €",
@@ -10542,6 +10548,36 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41362": {
+      "nombre": "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41362",
+      "en_stock": true
+    },
+    "41361": {
+      "nombre": "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41361",
+      "en_stock": true
+    },
+    "41360": {
+      "nombre": "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
+      "precio": "37.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41360",
+      "en_stock": true
+    },
+    "41359": {
+      "nombre": "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
+      "precio": "37.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41359",
+      "en_stock": true
+    },
+    "41358": {
+      "nombre": "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
+      "precio": "37.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41358",
       "en_stock": true
     },
     "41357": {
@@ -18598,7 +18634,7 @@
     },
     "36934": {
       "nombre": "SISLEY L`EAU REVEE D ARIA EDT 100 ML @",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36934",
       "en_stock": true
     },
@@ -31047,13 +31083,19 @@
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
+    "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
+    "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
+    "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
     "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+    "PRADA AMBER POUR HOMME EDT 100 ML @",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
+    "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
+    "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
