@@ -10664,12 +10664,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41363",
       "en_stock": true
     },
-    "41362": {
-      "nombre": "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41362",
-      "en_stock": true
-    },
     "41361": {
       "nombre": "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
       "precio": "52.99 €",
@@ -19422,6 +19416,12 @@
       "nombre": "ETAT LIBRE D ORANGER LIKE THIS EDP 100 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36511",
+      "en_stock": true
+    },
+    "36510": {
+      "nombre": "ETAT LIBRE D ORANGER FIN DU MONDE EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36510",
       "en_stock": true
     },
     "36508": {
@@ -31192,6 +31192,7 @@
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
     "ESCADA YUM ME SUNNY EDP 50 ML @",
+    "ETAT LIBRE D ORANGER FIN DU MONDE EDP 100 ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "GAULTIER DIVINE COUTURE EDP 100ML @",
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
