@@ -3590,7 +3590,7 @@
     },
     "36251": {
       "nombre": "PACO RABANNE PHANTOM ELIXIR EDP 100 ML @",
-      "precio": "58.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36251",
       "en_stock": true
     },
@@ -4678,6 +4678,12 @@
       "nombre": "SPRINGFIELD GREEN ATTITUDE EDT 100 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34174",
+      "en_stock": true
+    },
+    "34155": {
+      "nombre": "YSL  MYSLF EDP 100 ML @",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34155",
       "en_stock": true
     },
     "34146": {
@@ -31126,6 +31132,7 @@
     "TOUS MAN SKY EDP100 ML @",
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
-    "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR"
+    "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
+    "YSL  MYSLF EDP 100 ML @"
   ]
 }
