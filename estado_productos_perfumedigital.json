@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41375": {
+      "nombre": "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41375",
+      "en_stock": true
+    },
+    "41374": {
+      "nombre": "212 MEN PARFUM 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41374",
+      "en_stock": true
+    },
+    "41373": {
+      "nombre": "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41373",
+      "en_stock": true
+    },
     "41368": {
       "nombre": "BOSS BOTTLED STRIKING LAVENDER EDP 100 ML @",
       "precio": "49.99 €",
@@ -548,7 +566,7 @@
     },
     "41112": {
       "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125 ML REGULAR",
-      "precio": "76.99 €",
+      "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41112",
       "en_stock": true
     },
@@ -1442,7 +1460,7 @@
     },
     "39445": {
       "nombre": "PACO RABANNE PHANTOM  IN RED PARFUM  ELIXIR 100 ML REGULAR",
-      "precio": "69.99 €",
+      "precio": "66.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39445",
       "en_stock": true
     },
@@ -10590,6 +10608,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41378": {
+      "nombre": "RED DOOR ETERNAL AURA EDP 100 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41378",
+      "en_stock": true
+    },
+    "41377": {
+      "nombre": "ESCADA YUM ME SUNNY EDP 50 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41377",
+      "en_stock": true
+    },
+    "41376": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41376",
       "en_stock": true
     },
     "41372": {
@@ -27896,6 +27932,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20183",
       "en_stock": true
     },
+    "20171": {
+      "nombre": "GREEN TEA EDT 100ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20171",
+      "en_stock": true
+    },
     "20167": {
       "nombre": "SPF FOREVER FREE WOMAN EDT 100 ML @",
       "precio": "4.99 €",
@@ -31106,6 +31148,7 @@
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
     "1881 SILVER NIGHT HOMME EDP 100ML @",
+    "212 MEN PARFUM 100 ML REGULAR",
     "212 SEXY WOMAN EDP 100ML REGULAR",
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
@@ -31119,6 +31162,7 @@
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
+    "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
     "BOSS BOTTLED MAN EDT 50 ML REGULAR (SIN CAJA)",
@@ -31147,8 +31191,10 @@
     "EL GANSO BLUE CODE EDP 100 ML @",
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
+    "ESCADA YUM ME SUNNY EDP 50 ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
+    "GREEN TEA EDT 100ML @",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
@@ -31176,10 +31222,12 @@
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
+    "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
+    "RED DOOR ETERNAL AURA EDP 100 ML @",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
