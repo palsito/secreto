@@ -426,6 +426,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41379": {
+      "nombre": "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41379",
+      "en_stock": true
+    },
     "41375": {
       "nombre": "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
       "precio": "79.99 €",
@@ -11858,6 +11864,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40326",
       "en_stock": true
     },
+    "40325": {
+      "nombre": "IRRESISTIBLE NECTAR EDP 80 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40325",
+      "en_stock": true
+    },
     "40323": {
       "nombre": "CHLOE NOMADE JARDIN D EGYPTE EDP 75 ML @",
       "precio": "62.99 €",
@@ -11880,6 +11892,12 @@
       "nombre": "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40312",
+      "en_stock": true
+    },
+    "40309": {
+      "nombre": "GAULTIER DIVINE COUTURE EDP 100ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40309",
       "en_stock": true
     },
     "40308": {
@@ -18766,7 +18784,7 @@
     },
     "36910": {
       "nombre": "KENZO L`EAU PURE EDP 100 ML @",
-      "precio": "42.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36910",
       "en_stock": true
     },
@@ -31187,12 +31205,15 @@
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
     "ESCADA YUM ME SUNNY EDP 50 ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
+    "GAULTIER DIVINE COUTURE EDP 100ML @",
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
+    "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
     "GREEN TEA EDT 100ML @",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
+    "IRRESISTIBLE NECTAR EDP 80 ML @",
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
