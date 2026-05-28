@@ -462,12 +462,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41344",
       "en_stock": true
     },
-    "41341": {
-      "nombre": "EL GANSO BLUE CODE EDP 100 ML @",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41341",
-      "en_stock": true
-    },
     "41340": {
       "nombre": "DIOR EAU SAUVAGE PARFUM 100ML @",
       "precio": "89.99 €",
@@ -2968,6 +2962,12 @@
       "nombre": "NOBILE 1942 PATCHOULI NOBILE 75 EDP 75 ML @",
       "precio": "84.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37690",
+      "en_stock": true
+    },
+    "37679": {
+      "nombre": "ARMANI DIAMONDS MEN EDT 75ML REGULAR",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37679",
       "en_stock": true
     },
     "37637": {
@@ -31057,6 +31057,7 @@
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
     "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
+    "ARMANI DIAMONDS MEN EDT 75ML REGULAR",
     "ARMANI STRONGER WITH INTENSELY YOU EDP 100 @",
     "AROMATICS ELIXIR EDP 100ML REGULAR",
     "AXE ANARCHY FOR HER EDT 50 ML @",
