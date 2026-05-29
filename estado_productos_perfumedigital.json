@@ -432,6 +432,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41411": {
+      "nombre": "NIKE MAN GINGER TONIC EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41411",
+      "en_stock": true
+    },
+    "41409": {
+      "nombre": "NIKE MAN BLUE WAVE EDT 150 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41409",
+      "en_stock": true
+    },
+    "41408": {
+      "nombre": "NIKE MAN BLUE BAMBOO EDT 100 ml @ (sin caja)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41408",
+      "en_stock": true
+    },
+    "41407": {
+      "nombre": "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41407",
+      "en_stock": true
+    },
+    "41406": {
+      "nombre": "NIKE MEN ADDICTION EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41406",
+      "en_stock": true
+    },
     "41388": {
       "nombre": "ROCHAS MAN INTENSE EDP 100ML REGULAR",
       "precio": "34.99 €",
@@ -5258,7 +5288,7 @@
     },
     "32348": {
       "nombre": "NIKE MAN A SPICY ROAD URBANITE EDT 75 ML @",
-      "precio": "7.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32348",
       "en_stock": true
     },
@@ -5600,7 +5630,7 @@
     },
     "31219": {
       "nombre": "NIKE MAN AROMATIC ADICTION EDT 75 ML @",
-      "precio": "9.99 €",
+      "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31219",
       "en_stock": true
     },
@@ -5618,7 +5648,7 @@
     },
     "31215": {
       "nombre": "NIKE MAN BLUE EDT 100 ml @ (sin caja)",
-      "precio": "6.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31215",
       "en_stock": true
     },
@@ -30682,6 +30712,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "41410": {
+      "nombre": "NIKE FISSION FOR MAN EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41410",
+      "en_stock": true
+    },
     "40861": {
       "nombre": "PANOUGE ROSE AGATHE EDP 100 ML @ (Sin caja)",
       "precio": "49.99 €",
@@ -31227,6 +31263,12 @@
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
     "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
     "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @",
+    "NIKE FISSION FOR MAN EDT 100 ML @",
+    "NIKE MAN BLUE BAMBOO EDT 100 ML @ (SIN CAJA)",
+    "NIKE MAN BLUE WAVE EDT 150 ML @",
+    "NIKE MAN GINGER TONIC EDT 100 ML @",
+    "NIKE MEN ADDICTION EDT 100 ML @",
+    "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
