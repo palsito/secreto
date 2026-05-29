@@ -426,6 +426,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41388": {
+      "nombre": "ROCHAS MAN INTENSE EDP 100ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41388",
+      "en_stock": true
+    },
     "41379": {
       "nombre": "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
       "precio": "49.99 €",
@@ -2762,7 +2768,7 @@
     },
     "37992": {
       "nombre": "ROCHAS MAN INTENSE EDP 100ML @",
-      "precio": "34.99 €",
+      "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37992",
       "en_stock": true
     },
@@ -10602,6 +10608,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41387": {
+      "nombre": "BYZANCE GOLD EDP 90 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41387",
+      "en_stock": true
+    },
+    "41386": {
+      "nombre": "BYZANCE EDP 90 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41386",
+      "en_stock": true
+    },
+    "41385": {
+      "nombre": "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41385",
       "en_stock": true
     },
     "41381": {
@@ -31144,6 +31168,8 @@
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
+    "BYZANCE EDP 90 ML REGULAR",
+    "BYZANCE GOLD EDP 90 ML REGULAR",
     "CABOTINE EDT 100ML @",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
@@ -31206,6 +31232,8 @@
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
     "RED DOOR ETERNAL AURA EDP 100 ML @",
+    "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
+    "ROCHAS MAN INTENSE EDP 100ML REGULAR",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
