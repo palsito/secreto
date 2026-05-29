@@ -5010,6 +5010,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33022",
       "en_stock": true
     },
+    "33020": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33020",
+      "en_stock": true
+    },
     "33019": {
       "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 8 ATARDECER MAGNETICO EDP 150 ML @",
       "precio": "4.99 €",
@@ -5700,6 +5706,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31203",
       "en_stock": true
     },
+    "31202": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 7 FRESCOR MEDITERRANEO 150 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31202",
+      "en_stock": true
+    },
     "31192": {
       "nombre": "TITTO BLUNI LEATHER STYLE EDT 100 ML @ (Sin caja)",
       "precio": "19.99 €",
@@ -5986,6 +5998,18 @@
       "nombre": "TITTO BLUNI ESSENZA EDT 75ML @ (Sin caja)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30562",
+      "en_stock": true
+    },
+    "30536": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 6 ELEGANCIA NATURAL 150 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30536",
+      "en_stock": true
+    },
+    "30535": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 5 FRESCOR ABSOLUTO 150 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30535",
       "en_stock": true
     },
     "30534": {
@@ -6480,10 +6504,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27889",
       "en_stock": true
     },
+    "27851": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 3 SEDUCCION MAGNETICA 150 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27851",
+      "en_stock": true
+    },
     "27850": {
       "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 2 FRESCOR EXTREMO 150 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27850",
+      "en_stock": true
+    },
+    "27849": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 1 VITALIDAD SALVAJE 150 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27849",
       "en_stock": true
     },
     "27829": {
@@ -29210,6 +29246,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=15811",
       "en_stock": true
     },
+    "15752": {
+      "nombre": "SHAKIRA EAU FLORALE EDT 80ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=15752",
+      "en_stock": true
+    },
     "15751": {
       "nombre": "BODY-X WOMENPASSION EDT 50 ML REGULAR",
       "precio": "12.99 €",
@@ -31391,6 +31433,7 @@
     "RED DOOR ETERNAL AURA EDP 100 ML @",
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
+    "SHAKIRA EAU FLORALE EDT 80ML @",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
@@ -31400,6 +31443,12 @@
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 1 VITALIDAD SALVAJE 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 3 SEDUCCION MAGNETICA 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 5 FRESCOR ABSOLUTO 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 6 ELEGANCIA NATURAL 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 7 FRESCOR MEDITERRANEO 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 1 AZAHAR RADIANTE 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 2 LITCHI, ROSA Y MUSC 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 3 HIEDRA, IRIS Y AMBAR 150 ML @",
