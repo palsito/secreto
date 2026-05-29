@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41412": {
+      "nombre": "NIKE MAN NIGHT FEVER EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41412",
+      "en_stock": true
+    },
     "41411": {
       "nombre": "NIKE MAN GINGER TONIC EDT 100 ML @",
       "precio": "4.99 €",
@@ -6528,6 +6534,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27784",
       "en_stock": true
     },
+    "27783": {
+      "nombre": "NIKE MAN INDIGO EDT 100ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27783",
+      "en_stock": true
+    },
     "27782": {
       "nombre": "NIKE MAN GOLD EDITION EDT 100 ML @",
       "precio": "4.99 €",
@@ -10872,12 +10884,6 @@
       "nombre": "MILLION GOLD HER PURE DIAMONDS PARFUM 90ML @",
       "precio": "72.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41115",
-      "en_stock": true
-    },
-    "41114": {
-      "nombre": "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41114",
       "en_stock": true
     },
     "41111": {
@@ -31267,6 +31273,8 @@
     "NIKE MAN BLUE BAMBOO EDT 100 ML @ (SIN CAJA)",
     "NIKE MAN BLUE WAVE EDT 150 ML @",
     "NIKE MAN GINGER TONIC EDT 100 ML @",
+    "NIKE MAN INDIGO EDT 100ML @",
+    "NIKE MAN NIGHT FEVER EDT 50 ML @",
     "NIKE MEN ADDICTION EDT 100 ML @",
     "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
