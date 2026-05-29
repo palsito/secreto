@@ -10730,6 +10730,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41420": {
+      "nombre": "SHAKIRA SWEET DREAMS EDT 80 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41420",
+      "en_stock": true
+    },
+    "41419": {
+      "nombre": "SHAKIRA LOVE ROCK EDT 80 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41419",
+      "en_stock": true
+    },
+    "41418": {
+      "nombre": "SHAKIRA FUCSIA EDP 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41418",
+      "en_stock": true
+    },
     "41417": {
       "nombre": "NIKE WOMAN FLORAL BLOOM EDT 100 ML @",
       "precio": "3.99 €",
@@ -21956,6 +21974,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34778",
       "en_stock": true
     },
+    "34776": {
+      "nombre": "SHAKIRA ROJO EDP 80ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34776",
+      "en_stock": true
+    },
     "34775": {
       "nombre": "V&L EVASION AZUL 250 ML @",
       "precio": "9.99 €",
@@ -22072,7 +22096,7 @@
     },
     "34601": {
       "nombre": "WOMAN SECRET ROUGE (ROJO) SEDUCTION EDP 100 ML @",
-      "precio": "6.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34601",
       "en_stock": true
     },
@@ -24502,7 +24526,7 @@
     },
     "31035": {
       "nombre": "WOMAN SECRET ROSE SEDUCTION EDP 100 ML @",
-      "precio": "6.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31035",
       "en_stock": true
     },
@@ -25436,6 +25460,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27951",
       "en_stock": true
     },
+    "27947": {
+      "nombre": "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27947",
+      "en_stock": true
+    },
     "27943": {
       "nombre": "PACHA IBIZA SEXY EDT 80 ML @",
       "precio": "8.99 €",
@@ -25470,6 +25500,18 @@
       "nombre": "NATURAL FRAGANCES WILD VIOLET 50 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27858",
+      "en_stock": true
+    },
+    "27855": {
+      "nombre": "WOMAN SECRET ITS FRESH EDT 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27855",
+      "en_stock": true
+    },
+    "27854": {
+      "nombre": "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27854",
       "en_stock": true
     },
     "27853": {
@@ -28102,7 +28144,7 @@
     },
     "20183": {
       "nombre": "SHAKIRA WILD ELIXIR EDT 80 ML @",
-      "precio": "6.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20183",
       "en_stock": true
     },
@@ -31434,6 +31476,10 @@
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
     "SHAKIRA EAU FLORALE EDT 80ML @",
+    "SHAKIRA FUCSIA EDP 80 ML @",
+    "SHAKIRA LOVE ROCK EDT 80 ML @",
+    "SHAKIRA ROJO EDP 80ML @",
+    "SHAKIRA SWEET DREAMS EDT 80 ML @",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
@@ -31455,6 +31501,9 @@
     "VICTORIO & LUCCHINO AGUA N 4 PEONIA, SANDALO Y MANZANA 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 5 JAZMIN, PIMIENTA NEGRA Y CASSIS 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 6 MAGNOLIA, FLOR DE AGUA Y MELOCOTON 150 ML REGULAR",
+    "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
+    "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
+    "WOMAN SECRET ITS FRESH EDT 100 ML @",
     "XERJOFF TENNIS CLUB TORINO 21 EDP 100 ML @",
     "YSL  MYSLF EDP 100 ML @"
   ]
