@@ -9938,12 +9938,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40618",
       "en_stock": true
     },
-    "40617": {
-      "nombre": "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40617",
-      "en_stock": true
-    },
     "40301": {
       "nombre": "SET ROCHAS GIRL LIFE EDP 75 ML + MINIATURA 7,5 ML + BODY LOCION 100 ML REGULAR",
       "precio": "19.99 €",
@@ -27776,12 +27770,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21049",
       "en_stock": true
     },
-    "21024": {
-      "nombre": "JEAN LOUIS SCHERRER 2 EDT 100 ML @ (Sin caja)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21024",
-      "en_stock": true
-    },
     "21000": {
       "nombre": "COOL WATER WOMAN CORAL REEF 2014 EDT 100ML @",
       "precio": "24.99 €",
@@ -29990,6 +29978,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12892",
       "en_stock": true
     },
+    "12885": {
+      "nombre": "CABOTINE ROSE  EDT 100ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=12885",
+      "en_stock": true
+    },
     "12883": {
       "nombre": "CABOTINE EDT 100ML REGULAR",
       "precio": "14.99 €",
@@ -31388,6 +31382,7 @@
     "BYZANCE EDP 90 ML REGULAR",
     "BYZANCE GOLD EDP 90 ML REGULAR",
     "CABOTINE EDT 100ML @",
+    "CABOTINE ROSE  EDT 100ML REGULAR",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
