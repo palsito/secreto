@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41415": {
+      "nombre": "NIKE MAN SUN & WOOD EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41415",
+      "en_stock": true
+    },
+    "41414": {
+      "nombre": "NIKE MAN SENSATIONAL TURN IT ON EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41414",
+      "en_stock": true
+    },
+    "41413": {
+      "nombre": "NIKE MAN NIGHTFALL EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41413",
+      "en_stock": true
+    },
     "41412": {
       "nombre": "NIKE MAN NIGHT FEVER EDT 50 ML @",
       "precio": "3.99 €",
@@ -19670,12 +19688,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36383",
       "en_stock": true
     },
-    "36382": {
-      "nombre": "JUST CAVALLI BODY MIST VIBRANT AQUA (BLUE) 250 ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36382",
-      "en_stock": true
-    },
     "36381": {
       "nombre": "ROCHAS GIRL LIFE EDP 75 ML @",
       "precio": "22.99 €",
@@ -31066,6 +31078,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=24079",
       "en_stock": true
     },
+    "23902": {
+      "nombre": "NIKE UP OR DOWN FOR MAN EDT 75 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23902",
+      "en_stock": true
+    },
     "23802": {
       "nombre": "GAP BOLD G7 EDC 100 ML REGULAR  (cae vapo)",
       "precio": "19.99 €",
@@ -31275,8 +31293,12 @@
     "NIKE MAN GINGER TONIC EDT 100 ML @",
     "NIKE MAN INDIGO EDT 100ML @",
     "NIKE MAN NIGHT FEVER EDT 50 ML @",
+    "NIKE MAN NIGHTFALL EDT 100 ML @",
+    "NIKE MAN SENSATIONAL TURN IT ON EDT 50 ML @",
+    "NIKE MAN SUN & WOOD EDT 100 ML @",
     "NIKE MEN ADDICTION EDT 100 ML @",
     "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
+    "NIKE UP OR DOWN FOR MAN EDT 75 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
