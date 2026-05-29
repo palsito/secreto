@@ -5024,7 +5024,7 @@
     },
     "33017": {
       "nombre": "NIKE TURQUOISE VIBES EDT 100 ML @",
-      "precio": "12.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33017",
       "en_stock": true
     },
@@ -5086,6 +5086,12 @@
       "nombre": "REEBOOK MOVE MAN EDT 100 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32789",
+      "en_stock": true
+    },
+    "32785": {
+      "nombre": "NIKE ULTRA GREEN MAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32785",
       "en_stock": true
     },
     "32779": {
@@ -5666,7 +5672,7 @@
     },
     "31217": {
       "nombre": "NIKE MAN THE PERFUME EDT 75 ML @",
-      "precio": "7.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31217",
       "en_stock": true
     },
@@ -10674,6 +10680,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41416": {
+      "nombre": "NIKE CHIC & COOL EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41416",
       "en_stock": true
     },
     "41387": {
@@ -25460,6 +25472,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27789",
       "en_stock": true
     },
+    "27788": {
+      "nombre": "NIKE AZURE WOMAN EDT 100 ML @  (Sin caja) ~",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27788",
+      "en_stock": true
+    },
     "27779": {
       "nombre": "DUTTI WOMAN BY MASSIMO DUTTI EDT 100ML @",
       "precio": "29.99 €",
@@ -31287,6 +31305,8 @@
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
     "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
     "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @",
+    "NIKE AZURE WOMAN EDT 100 ML @  (SIN CAJA) ~",
+    "NIKE CHIC & COOL EDT 100 ML @",
     "NIKE FISSION FOR MAN EDT 100 ML @",
     "NIKE MAN BLUE BAMBOO EDT 100 ML @ (SIN CAJA)",
     "NIKE MAN BLUE WAVE EDT 150 ML @",
@@ -31298,6 +31318,7 @@
     "NIKE MAN SUN & WOOD EDT 100 ML @",
     "NIKE MEN ADDICTION EDT 100 ML @",
     "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
+    "NIKE ULTRA GREEN MAN EDT 100 ML @",
     "NIKE UP OR DOWN FOR MAN EDT 75 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
