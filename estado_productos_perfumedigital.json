@@ -10994,12 +10994,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40875",
       "en_stock": true
     },
-    "40874": {
-      "nombre": "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40874",
-      "en_stock": true
-    },
     "40872": {
       "nombre": "MUGLER ALIEN EXTRAINTENSE EDP 90 ML @",
       "precio": "69.99 €",
@@ -19620,6 +19614,12 @@
       "nombre": "GAULTIER DIVINE ELIXIR PARMUM 100ML REGULAR",
       "precio": "92.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36435",
+      "en_stock": true
+    },
+    "36404": {
+      "nombre": "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36404",
       "en_stock": true
     },
     "36399": {
@@ -31412,6 +31412,7 @@
     "RIVE GAUCHE EDT 100ML REGULAR",
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
+    "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SHAKIRA EAU FLORALE EDT 80ML @",
     "SHAKIRA FUCSIA EDP 80 ML @",
     "SHAKIRA LOVE ROCK EDT 80 ML @",
