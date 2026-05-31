@@ -14570,12 +14570,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38945",
       "en_stock": true
     },
-    "38944": {
-      "nombre": "NICOLAI PARFUMEUR CREATEUR PATCHOULI INTENSE EDP 100 ML REGULAR",
-      "precio": "119.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38944",
-      "en_stock": true
-    },
     "38943": {
       "nombre": "NICOLAI PARFUMEUR CREATEUR MUCS INTENSE EDP 100 ML REGULAR",
       "precio": "106.99 €",
@@ -26618,6 +26612,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23649",
       "en_stock": true
     },
+    "23620": {
+      "nombre": "MALU LIVE EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23620",
+      "en_stock": true
+    },
     "23602": {
       "nombre": "ADIDAS GET READY WOMAN EDT 50 ML @",
       "precio": "3.99 €",
@@ -31334,6 +31334,7 @@
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
+    "MALU LIVE EDT 100 ML @",
     "MANDARINA DUCK WOMAN  EDT 100ML @",
     "MIAMI GLOW EDT 100ML REGULAR",
     "MONTBLANC INDIVIDUELLE FEMME EDT 75ML REGULAR",
