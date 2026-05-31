@@ -10574,12 +10574,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26012",
       "en_stock": true
     },
-    "25965": {
-      "nombre": "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25965",
-      "en_stock": true
-    },
     "25944": {
       "nombre": "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML @",
       "precio": "16.99 €",
@@ -19626,12 +19620,6 @@
       "nombre": "GAULTIER DIVINE ELIXIR PARMUM 100ML REGULAR",
       "precio": "92.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36435",
-      "en_stock": true
-    },
-    "36404": {
-      "nombre": "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36404",
       "en_stock": true
     },
     "36399": {
@@ -30422,6 +30410,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1927",
       "en_stock": true
     },
+    "1900": {
+      "nombre": "ULTRAVIOLET WOMAN EDP 80ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1900",
+      "en_stock": true
+    },
     "1876": {
       "nombre": "BRITNEY SPEARS CURIOUS EDP 100ML REGULAR",
       "precio": "24.99 €",
@@ -31433,6 +31427,7 @@
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TOUS TOUCH EDT 100ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
+    "ULTRAVIOLET WOMAN EDP 80ML REGULAR",
     "VANDERBILT WOMAN EDT 100ML @",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
