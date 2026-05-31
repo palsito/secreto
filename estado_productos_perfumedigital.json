@@ -1722,12 +1722,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39200",
       "en_stock": true
     },
-    "39192": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU MALE PARFUM 75 ML REGULAR (Caja abollada)",
-      "precio": "66.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39192",
-      "en_stock": true
-    },
     "39182": {
       "nombre": "CREED IMPERIAL MILLISIME EDP 100 ML @",
       "precio": "219.00 €",
@@ -3328,6 +3322,12 @@
       "nombre": "CK ALL UNISEX EDT 200 ML REGULAR",
       "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37194",
+      "en_stock": true
+    },
+    "37191": {
+      "nombre": "HUGO ENERGISE EDT 75ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37191",
       "en_stock": true
     },
     "37038": {
@@ -31337,6 +31337,7 @@
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "HAPPY HEART EDP 100ML REGULAR",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
+    "HUGO ENERGISE EDT 75ML REGULAR",
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
     "IRRESISTIBLE NECTAR EDP 80 ML @",
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
