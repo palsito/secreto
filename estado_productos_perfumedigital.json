@@ -660,12 +660,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40880",
       "en_stock": true
     },
-    "40879": {
-      "nombre": "LOEWE ESENCIA ELIXIR POUR HOMME BOTELLA ALARGADA 100ML @",
-      "precio": "112.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40879",
-      "en_stock": true
-    },
     "40840": {
       "nombre": "HUGO BOSS THE SCENT HIM EDP INTENSE 50 ML REGULAR",
       "precio": "44.99 €",
@@ -6478,6 +6472,12 @@
       "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 2 FRESCOR EXTREMO 150 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27850",
+      "en_stock": true
+    },
+    "27849": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 1 VITALIDAD SALVAJE 150 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27849",
       "en_stock": true
     },
     "27829": {
