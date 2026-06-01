@@ -4314,12 +4314,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34990",
       "en_stock": true
     },
-    "34969": {
-      "nombre": "NIKE ION WOMAN EDT 75 ML @",
-      "precio": "7.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34969",
-      "en_stock": true
-    },
     "34968": {
       "nombre": "NIKE MAN EDT (FORMATO NUEVO) 100ML @",
       "precio": "5.99 €",
@@ -10662,6 +10656,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41423": {
+      "nombre": "NIKE WOMAN SENSACTION PASSION VAINILLA EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41423",
+      "en_stock": true
+    },
+    "41422": {
+      "nombre": "NIKE MOONLIGHT WOMAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41422",
+      "en_stock": true
+    },
+    "41421": {
+      "nombre": "NIKE WOMAN INSTINCT EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41421",
       "en_stock": true
     },
     "41420": {
@@ -21656,6 +21668,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35018",
       "en_stock": true
     },
+    "34969": {
+      "nombre": "NIKE ION WOMAN EDT 75 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34969",
+      "en_stock": true
+    },
     "34964": {
       "nombre": "BOSS MA VIE L EAU EDT 50 ML @",
       "precio": "26.99 €",
@@ -24180,6 +24198,12 @@
       "nombre": "NIKE WOMAN A SPARKLING DAY EDT 75 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31216",
+      "en_stock": true
+    },
+    "31214": {
+      "nombre": "NIKE WOMAN LOVING FLORAL EDT 75 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31214",
       "en_stock": true
     },
     "31211": {
@@ -31405,6 +31429,7 @@
     "NIKE AZURE WOMAN EDT 100 ML @  (SIN CAJA) ~",
     "NIKE CHIC & COOL EDT 100 ML @",
     "NIKE FISSION FOR MAN EDT 100 ML @",
+    "NIKE ION WOMAN EDT 75 ML @",
     "NIKE MAN BLUE BAMBOO EDT 100 ML @ (SIN CAJA)",
     "NIKE MAN BLUE WAVE EDT 150 ML @",
     "NIKE MAN GINGER TONIC EDT 100 ML @",
@@ -31415,9 +31440,13 @@
     "NIKE MAN SUN & WOOD EDT 100 ML @",
     "NIKE MEN ADDICTION EDT 100 ML @",
     "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
+    "NIKE MOONLIGHT WOMAN EDT 100 ML @",
     "NIKE ULTRA GREEN MAN EDT 100 ML @",
     "NIKE UP OR DOWN FOR MAN EDT 75 ML @",
     "NIKE WOMAN FLORAL BLOOM EDT 100 ML @",
+    "NIKE WOMAN INSTINCT EDT 100 ML @",
+    "NIKE WOMAN LOVING FLORAL EDT 75 ML @",
+    "NIKE WOMAN SENSACTION PASSION VAINILLA EDT 50 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
