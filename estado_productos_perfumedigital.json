@@ -7442,7 +7442,7 @@
     },
     "23044": {
       "nombre": "ANTONIO BANDERAS THE SECRET EDT 100 ML @",
-      "precio": "7.99 €",
+      "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23044",
       "en_stock": true
     },
@@ -10196,12 +10196,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36366",
       "en_stock": true
     },
-    "36354": {
-      "nombre": "PACK HALLOWEEN EDT 100ML @ + CONCEPT V DESIGN HEART WOMAN EDT 100 ML (Sin caja) + DIET ESTHETIC JELLYFISH VENOM ESSENCE GEL CREMA 50 ML REGULAR",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36354",
-      "en_stock": true
-    },
     "36344": {
       "nombre": "D&G 3 L`IMPERATRICE EDT 100ML REGULAR",
       "precio": "36.99 €",
@@ -10754,9 +10748,33 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41458": {
+      "nombre": "B.U. GOLDEN KISS EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41458",
+      "en_stock": true
+    },
+    "41457": {
+      "nombre": "B.U. FAIRYS SECRET EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41457",
+      "en_stock": true
+    },
+    "41456": {
+      "nombre": "B.U. CANDY LOVE EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41456",
+      "en_stock": true
+    },
+    "41455": {
+      "nombre": "B.U. ABSOLUTE ME EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41455",
+      "en_stock": true
+    },
     "41454": {
       "nombre": "ANTONIO BANDERAS THE ICON SUPREME FOR WOMEN EDP 100 ML @",
-      "precio": "12.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41454",
       "en_stock": true
     },
@@ -31562,6 +31580,10 @@
     "AZZARO POUR HOMME EDT 100ML @",
     "AZZARO POUR HOMME EDT 100ML REGULAR",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
+    "B.U. ABSOLUTE ME EDT 50 ML @",
+    "B.U. CANDY LOVE EDT 50 ML @",
+    "B.U. FAIRYS SECRET EDT 50 ML @",
+    "B.U. GOLDEN KISS EDT 50 ML @",
     "B.U. HEARTBEAT EDT 50 ML REGULAR",
     "B.U. HIDDEN PARADISE EDT 50 ML REGULAR",
     "B.U. HIPPY SOUL EDT 50 ML @",
