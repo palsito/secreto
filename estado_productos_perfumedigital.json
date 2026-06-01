@@ -10670,6 +10670,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41432": {
+      "nombre": "B.U. HIDDEN PARADISE EDT 50 ML REGULAR",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41432",
+      "en_stock": true
+    },
+    "41431": {
+      "nombre": "B.U. HEARTBEAT EDT 50 ML REGULAR",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41431",
+      "en_stock": true
+    },
     "41430": {
       "nombre": "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
       "precio": "7.99 €",
@@ -14060,12 +14072,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39177",
       "en_stock": true
     },
-    "39176": {
-      "nombre": "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39176",
-      "en_stock": true
-    },
     "39172": {
       "nombre": "SET BOSS ALIVE EDP 30 ML REGULAR + BOSS ALIVE INTENSE EDP 30 ML REGULAR",
       "precio": "39.99 €",
@@ -15666,12 +15672,6 @@
       "nombre": "LOTE 8 DE MUJER: VANDERBILT WOMAN EDT 100ML @ + PACHA IBIZA 24/7 VIP WOMAN 80 ML + REEBOOK INSPIRE WOMAN EDT 100 ML @ + ANA ROSA ESTILO EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38638",
-      "en_stock": true
-    },
-    "38636": {
-      "nombre": "LOTE 10 DE MUJER: VICTORIO N 19 VITAMINA PASIONADA 150 ML @ + PLAYBOY VIP WOMAN 50 ML @ + AGATHA RUIZ DE LA PRADA LOVE GLAM LOVE EDT 80 ML @ + NIKE CORAL CRUSH 100 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38636",
       "en_stock": true
     },
     "38619": {
@@ -24272,6 +24272,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31199",
       "en_stock": true
     },
+    "31197": {
+      "nombre": "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
+      "precio": "13.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31197",
+      "en_stock": true
+    },
+    "31196": {
+      "nombre": "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31196",
+      "en_stock": true
+    },
     "31195": {
       "nombre": "L`EAU D`ISSEY ROSE & ROSE EDP 90 ML @",
       "precio": "39.99 €",
@@ -31330,6 +31342,7 @@
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
+    "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
     "AIRE DE SEVILLA ROSAS BLANCAS EDT 150 ML @ (SIN CAJA)",
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
@@ -31353,6 +31366,8 @@
     "AZZARO POUR HOMME EDT 100ML @",
     "AZZARO POUR HOMME EDT 100ML REGULAR",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
+    "B.U. HEARTBEAT EDT 50 ML REGULAR",
+    "B.U. HIDDEN PARADISE EDT 50 ML REGULAR",
     "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
     "BIAGIOTTI DUE UOMO EDT 90ML @",
@@ -31599,6 +31614,7 @@
     "ULTRARED MAN EDT 100ML @",
     "ULTRAVIOLET MAN EDT 100ML REGULAR",
     "ULTRAVIOLET WOMAN EDP 80ML REGULAR",
+    "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
     "VANDERBILT WOMAN EDT 100ML @",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
