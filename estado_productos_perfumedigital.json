@@ -7524,6 +7524,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22387",
       "en_stock": true
     },
+    "22384": {
+      "nombre": "ROGER & GALLET BOIS D`ORANGE EAU FRAICHE PERFUMEE EDT 100  (UNISEX) @",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22384",
+      "en_stock": true
+    },
     "22326": {
       "nombre": "JIL SANDER ULTRASENSE EDT 60 ML REGULAR",
       "precio": "34.99 €",
@@ -10656,6 +10662,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41428": {
+      "nombre": "ROGER & GALLET ROSE EAU PERFUMEE 30 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41428",
+      "en_stock": true
+    },
+    "41427": {
+      "nombre": "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 30 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41427",
+      "en_stock": true
+    },
+    "41425": {
+      "nombre": "NIKE WOMAN YUMMY MUSK EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41425",
       "en_stock": true
     },
     "41424": {
@@ -24506,6 +24530,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30956",
       "en_stock": true
     },
+    "30927": {
+      "nombre": "ROGER & GALLET EXTRACTO NEROLI FACETIE COLOGNE 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30927",
+      "en_stock": true
+    },
     "30922": {
       "nombre": "BLACK XS WOMAN MODELO NUEVO EDP 80 ML @",
       "precio": "32.99 €",
@@ -26594,6 +26624,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23949",
       "en_stock": true
     },
+    "23837": {
+      "nombre": "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23837",
+      "en_stock": true
+    },
     "23811": {
       "nombre": "GRES CABOTINE EDT 100 ML @",
       "precio": "5.99 €",
@@ -28256,10 +28292,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19764",
       "en_stock": true
     },
+    "19575": {
+      "nombre": "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 100 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19575",
+      "en_stock": true
+    },
     "19571": {
       "nombre": "GIVENCHY BLOOM EDT 50 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19571",
+      "en_stock": true
+    },
+    "19553": {
+      "nombre": "ROGER & GALLET ROSE EAU PERFUMEE 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19553",
       "en_stock": true
     },
     "19552": {
@@ -29544,6 +29592,12 @@
       "nombre": "PROVOCATIVE EDP 100ML @",
       "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14110",
+      "en_stock": true
+    },
+    "14073": {
+      "nombre": "ROGER&GALLET GIMGEMBRE EDT 100 ML @",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14073",
       "en_stock": true
     },
     "14064": {
@@ -31377,6 +31431,8 @@
     "ETRO NECTAR EDP 100 ML @",
     "EUPHORIA MEN EDT 100ML REGULAR",
     "FAHRENHEIT EDT 100ML REGULAR",
+    "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 100 ML @",
+    "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 30 ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "FOREVER ELIZABETH EDP 100ML REGULAR",
     "GAULTIER DIVINE COUTURE EDP 100ML @",
@@ -31467,6 +31523,7 @@
     "NIKE WOMAN INSTINCT EDT 100 ML @",
     "NIKE WOMAN LOVING FLORAL EDT 75 ML @",
     "NIKE WOMAN SENSACTION PASSION VAINILLA EDT 50 ML @",
+    "NIKE WOMAN YUMMY MUSK EDT 100 ML @",
     "NOBILE 1942 LA DANZA DELLE LIBELLULE EXCEPTIONAL ED. EXTRAIT 75 ML @",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
@@ -31496,12 +31553,18 @@
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN EDT 100ML @",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
+    "ROGER & GALLET BOIS D`ORANGE EAU FRAICHE PERFUMEE EDT 100  (UNISEX) @",
+    "ROGER & GALLET EXTRACTO NEROLI FACETIE COLOGNE 100 ML @",
+    "ROGER & GALLET ROSE EAU PERFUMEE 100 ML @",
+    "ROGER & GALLET ROSE EAU PERFUMEE 30 ML @",
+    "ROGER&GALLET GIMGEMBRE EDT 100 ML @",
     "ROMA UOMO EDT 125ML REGULAR",
     "ROYAL COPENHAGEN MUSK MEN EDC 100ML REGULAR",
     "SEAN JOHN I AM KING EDT 100ML @",
     "SERGIO TACCHINI ACTIVE WATER MAN EDT 100ML @",
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
+    "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA EAU FLORALE EDT 80ML @",
     "SHAKIRA FUCSIA EDP 80 ML @",
     "SHAKIRA LOVE ROCK EDT 80 ML @",
