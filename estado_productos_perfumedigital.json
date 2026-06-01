@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41444": {
+      "nombre": "ICEBERG TWICE UOMO EDT 125 ML @",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41444",
+      "en_stock": true
+    },
+    "41442": {
+      "nombre": "CRISTIANO RONALDO CR7 PLAY IT COOL EDT 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41442",
+      "en_stock": true
+    },
+    "41441": {
+      "nombre": "CRISTIANO RONALDO CR7 GAME ON EDT 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41441",
+      "en_stock": true
+    },
     "41440": {
       "nombre": "BENTLEY INFINITE INTENSE EDP 100 ML @",
       "precio": "39.99 €",
@@ -3266,7 +3284,7 @@
     },
     "37379": {
       "nombre": "ICEBERG HOMME EDT 100 ML @",
-      "precio": "12.99 €",
+      "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37379",
       "en_stock": true
     },
@@ -8916,6 +8934,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=15088",
       "en_stock": true
     },
+    "15041": {
+      "nombre": "FERRARI RED EDT 125ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=15041",
+      "en_stock": true
+    },
     "15038": {
       "nombre": "PLEASURES MAN EDT 50ML REGULAR",
       "precio": "29.99 €",
@@ -10704,6 +10728,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41443": {
+      "nombre": "CABOTINE EDP (EAU DE PAFUM) 100ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41443",
       "en_stock": true
     },
     "41437": {
@@ -31491,6 +31521,7 @@
     "BVLGARI AQVA MARINE POUR HOMME EDT 100ML @",
     "BYZANCE EDP 90 ML REGULAR",
     "BYZANCE GOLD EDP 90 ML REGULAR",
+    "CABOTINE EDP (EAU DE PAFUM) 100ML @",
     "CABOTINE EDT 100ML @",
     "CABOTINE ROSE  EDT 100ML REGULAR",
     "CACHAREL POUR HOMME EDT 100ML REGULAR",
@@ -31511,6 +31542,8 @@
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "CLIVE CHRISTIAN OC 1872 MASCULINE EDP 50 ML @",
     "COOL WATER WOMAN EDT 100ML REGULAR",
+    "CRISTIANO RONALDO CR7 GAME ON EDT 100 ML @",
+    "CRISTIANO RONALDO CR7 PLAY IT COOL EDT 100 ML @",
     "CURVE CHILL MEN EDC 125ML REGULAR",
     "CURVE CONNECT MEN EDC 125ML REGULAR",
     "CURVE CRUSH MEN EDC 125ML REGULAR",
@@ -31550,6 +31583,7 @@
     "ETRO NECTAR EDP 100 ML @",
     "EUPHORIA MEN EDT 100ML REGULAR",
     "FAHRENHEIT EDT 100ML REGULAR",
+    "FERRARI RED EDT 125ML @",
     "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 100 ML @",
     "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 30 ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
@@ -31571,6 +31605,7 @@
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
     "HUGO MAN EDT 125ML @",
     "HUMMER MAN EDT 125ML REGULAR",
+    "ICEBERG TWICE UOMO EDT 125 ML @",
     "IRRESISTIBLE NECTAR EDP 80 ML @",
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
