@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41429": {
+      "nombre": "ROGER & GALLET COLOGNE TWIST EDT 100  (UNISEX) @",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41429",
+      "en_stock": true
+    },
     "41415": {
       "nombre": "NIKE MAN SUN & WOOD EDT 100 ML @",
       "precio": "4.99 €",
@@ -10662,6 +10668,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41430": {
+      "nombre": "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41430",
       "en_stock": true
     },
     "41428": {
@@ -24260,18 +24272,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31199",
       "en_stock": true
     },
-    "31197": {
-      "nombre": "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
-      "precio": "13.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31197",
-      "en_stock": true
-    },
-    "31196": {
-      "nombre": "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
-      "precio": "62.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31196",
-      "en_stock": true
-    },
     "31195": {
       "nombre": "L`EAU D`ISSEY ROSE & ROSE EDP 90 ML @",
       "precio": "39.99 €",
@@ -24354,6 +24354,12 @@
       "nombre": "SAPHIR FRUITS ATTRACTION COCO EDT 100 ML @ (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31153",
+      "en_stock": true
+    },
+    "31149": {
+      "nombre": "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31149",
       "en_stock": true
     },
     "31148": {
@@ -31554,6 +31560,7 @@
     "ROCHAS MAN EDT 100ML @",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
     "ROGER & GALLET BOIS D`ORANGE EAU FRAICHE PERFUMEE EDT 100  (UNISEX) @",
+    "ROGER & GALLET COLOGNE TWIST EDT 100  (UNISEX) @",
     "ROGER & GALLET EXTRACTO NEROLI FACETIE COLOGNE 100 ML @",
     "ROGER & GALLET ROSE EAU PERFUMEE 100 ML @",
     "ROGER & GALLET ROSE EAU PERFUMEE 30 ML @",
@@ -31565,6 +31572,8 @@
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
+    "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
+    "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
     "SHAKIRA EAU FLORALE EDT 80ML @",
     "SHAKIRA FUCSIA EDP 80 ML @",
     "SHAKIRA LOVE ROCK EDT 80 ML @",
