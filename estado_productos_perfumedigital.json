@@ -564,12 +564,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41367",
       "en_stock": true
     },
-    "41365": {
-      "nombre": "TOUS MAN SKY EDP100 ML @",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41365",
-      "en_stock": true
-    },
     "41364": {
       "nombre": "TOMMY MAN POOLSIDE EDT 100ML @",
       "precio": "28.99 €",
@@ -6258,6 +6252,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29283",
       "en_stock": true
     },
+    "29261": {
+      "nombre": "ANTONIO BANDERAS THE SECRET TEMPTATION EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29261",
+      "en_stock": true
+    },
     "29260": {
       "nombre": "JAGUAR CLASSIC BLACK EDT 100 ML @",
       "precio": "8.99 €",
@@ -7648,6 +7648,12 @@
       "nombre": "LUPIN THE 3RD LUPIN EDT 100 ML REGULAR",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21831",
+      "en_stock": true
+    },
+    "21829": {
+      "nombre": "LE IENE EDT 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21829",
       "en_stock": true
     },
     "21828": {
@@ -31464,6 +31470,7 @@
     "ANNE MÖLLER PERFECT DAY EDT 100ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
+    "ANTONIO BANDERAS THE SECRET TEMPTATION EDT 100 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
     "ARMAND BASI IN RED WOMAN EDT 100ML @",
     "ARMANI DIAMONDS MAN EDT 50ML REGULAR",
@@ -31637,6 +31644,7 @@
     "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
     "LANVIN OXYGENE HOMME EDT 100ML REGULAR",
     "LAURA EDT 75ML REGULAR",
+    "LE IENE EDT 100 ML REGULAR",
     "LOEWE 001 MAN EDP 100 ML @",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
