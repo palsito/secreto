@@ -10658,6 +10658,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41424": {
+      "nombre": "NIKE SENSACTIONS PURPLE DELIGHT EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41424",
+      "en_stock": true
+    },
     "41423": {
       "nombre": "NIKE WOMAN SENSACTION PASSION VAINILLA EDT 50 ML @",
       "precio": "3.99 €",
@@ -24206,6 +24212,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31214",
       "en_stock": true
     },
+    "31213": {
+      "nombre": "NIKE THE PERFUME PASSION FOR VAINILLA EDT 50 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31213",
+      "en_stock": true
+    },
     "31211": {
       "nombre": "NIKE GOLD WOMAN EDT 100 ML @",
       "precio": "4.99 €",
@@ -26568,6 +26580,12 @@
       "nombre": "PLAYBOY IT SEXY EDT 75 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23991",
+      "en_stock": true
+    },
+    "23962": {
+      "nombre": "NIKE UP OR DOWN FOR WOMAN EDT 75 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23962",
       "en_stock": true
     },
     "23949": {
@@ -31441,6 +31459,8 @@
     "NIKE MEN ADDICTION EDT 100 ML @",
     "NIKE MEN AROMATIC ADDICTION EDT 75 ML @",
     "NIKE MOONLIGHT WOMAN EDT 100 ML @",
+    "NIKE SENSACTIONS PURPLE DELIGHT EDT 50 ML @",
+    "NIKE THE PERFUME PASSION FOR VAINILLA EDT 50 ML @",
     "NIKE ULTRA GREEN MAN EDT 100 ML @",
     "NIKE UP OR DOWN FOR MAN EDT 75 ML @",
     "NIKE WOMAN FLORAL BLOOM EDT 100 ML @",
