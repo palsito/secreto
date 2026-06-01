@@ -930,12 +930,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40356",
       "en_stock": true
     },
-    "40355": {
-      "nombre": "LOTE 20 DE HOMBRE: MANDARINA DUCK LETS TRAVEL NY MAN EDT 100 ML @ + TITTO BLUNI UOMO EDT 75 ML @ + SPAGNOLO SPORT EDT 75 ML @ + NIKE URBAN WOOD EDT 75 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40355",
-      "en_stock": true
-    },
     "40354": {
       "nombre": "LOTE 12 DE HOMBRE: ANTONIO BANDERAS THE GOLDEN SECRET EDT 100 ML @ + SPRINGFIELD EDT 100 ML @ + NIKE MAN A SPICY ROAD URBANITE EDT 75 ML @  + NIKE GOLD EDITION MAN EDT 100 ML @",
       "precio": "9.99 €",
@@ -1234,6 +1228,12 @@
       "nombre": "SET VERSACE POUR HOMME EDT 50 ML + GELL CHAMPU 50 ML + AFTER SHAVE BALSAMO 50 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39871",
+      "en_stock": true
+    },
+    "39860": {
+      "nombre": "MERCEDES BENZ SIGN YOUR POWER EDP INTENSE 100 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39860",
       "en_stock": true
     },
     "39859": {
@@ -7650,12 +7650,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21831",
       "en_stock": true
     },
-    "21829": {
-      "nombre": "LE IENE EDT 100 ML REGULAR",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21829",
-      "en_stock": true
-    },
     "21828": {
       "nombre": "HOOLI POUR HOMME EDT 100 ML REGULAR",
       "precio": "19.99 €",
@@ -10716,6 +10710,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41446": {
+      "nombre": "KAREN LOW BLACK MEN EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41446",
+      "en_stock": true
+    },
+    "41445": {
+      "nombre": "JACADI TOUTE PETITE AZUL EDT 50 ML @ (Sin caja)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41445",
       "en_stock": true
     },
     "41443": {
@@ -16443,8 +16449,8 @@
       "en_stock": true
     },
     "38304": {
-      "nombre": "JACADI TOUTE PETITE EDT 50 ML @ (Sin caja)",
-      "precio": "29.99 €",
+      "nombre": "JACADI TOUTE PETITE ROSA EDT 50 ML @ (Sin caja)",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38304",
       "en_stock": true
     },
@@ -27122,6 +27128,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23037",
       "en_stock": true
     },
+    "23024": {
+      "nombre": "ANNE MÖLLER PERFECT DAY EDT 100ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23024",
+      "en_stock": true
+    },
     "23010": {
       "nombre": "PROMESA EDT 100 ML @",
       "precio": "5.99 €",
@@ -31258,6 +31270,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30231",
       "en_stock": true
     },
+    "30035": {
+      "nombre": "ANTONIO BANDERAS BLUE SEDUCTION FOR WOMAN EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30035",
+      "en_stock": true
+    },
     "29743": {
       "nombre": "DEEP EUPHORIA WOMAN EDP 100 ML REGULAR (Sin caja)",
       "precio": "59.99 €",
@@ -31443,6 +31461,7 @@
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
     "ANGEL SCHELESSER HOMME EDT 125ML @",
+    "ANNE MÖLLER PERFECT DAY EDT 100ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
@@ -31593,6 +31612,7 @@
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
+    "JACADI TOUTE PETITE AZUL EDT 50 ML @ (SIN CAJA)",
     "JACOMO DE JACOMO (SILVER) EDT 100ML REGULAR",
     "JACOMO DEEP BLUE EDT 100ML REGULAR",
     "JAGUAR FRESH MEN EDT 100ML REGULAR",
@@ -31605,6 +31625,7 @@
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
+    "KAREN LOW BLACK MEN EDT 100 ML @",
     "KENZO POUR HOMME INTENSE EDT 110ML @",
     "KNOWING EDP  75ML REGULAR",
     "KOUROS MAN EDT 100ML @",
@@ -31626,6 +31647,7 @@
     "MALU LIVE EDT 100 ML @",
     "MANDARINA DUCK WOMAN  EDT 100ML @",
     "MAUBOUSSIN POUR HOMME EDT 100ML REGULAR",
+    "MERCEDES BENZ SIGN YOUR POWER EDP INTENSE 100 ML REGULAR",
     "MIAMI GLOW EDT 100ML REGULAR",
     "MINOTAURE EDT 75ML REGULAR",
     "MIRACLE HOMME EDT 75 ML REGULAR",
