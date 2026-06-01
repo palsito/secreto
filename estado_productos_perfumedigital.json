@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41450": {
+      "nombre": "ANTONIO BANDERAS KING OF SEDUCTION EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41450",
+      "en_stock": true
+    },
     "41444": {
       "nombre": "ICEBERG TWICE UOMO EDT 125 ML @",
       "precio": "22.99 €",
@@ -1222,12 +1228,6 @@
       "nombre": "SET VERSACE POUR HOMME EDT 50 ML + GELL CHAMPU 50 ML + AFTER SHAVE BALSAMO 50 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39871",
-      "en_stock": true
-    },
-    "39860": {
-      "nombre": "MERCEDES BENZ SIGN YOUR POWER EDP INTENSE 100 ML REGULAR",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39860",
       "en_stock": true
     },
     "39859": {
@@ -6618,6 +6618,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27740",
       "en_stock": true
     },
+    "27726": {
+      "nombre": "ANTONIO BANDERAS KING OF SEDUCTION ABSOLUTE EDT 100 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27726",
+      "en_stock": true
+    },
     "27716": {
       "nombre": "ADIDAS UEFA STAR EDT 100 ML @",
       "precio": "5.99 €",
@@ -10722,6 +10728,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41449": {
+      "nombre": "ANTONIO BANDERAS HER SECRET TEMPTATION EDT 80 ML @",
+      "precio": "11.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41449",
       "en_stock": true
     },
     "41446": {
@@ -25700,6 +25712,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27737",
       "en_stock": true
     },
+    "27727": {
+      "nombre": "ANTONIO BANDERAS QUEEN OF SEDUCTION EDT 80 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27727",
+      "en_stock": true
+    },
+    "27725": {
+      "nombre": "ANTONIO BANDERAS HER SECRET EDT 80 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27725",
+      "en_stock": true
+    },
     "27721": {
       "nombre": "MIO AMICHI EDT 75ML @",
       "precio": "9.99 €",
@@ -31476,6 +31500,8 @@
     "ANNE MÖLLER PERFECT DAY EDT 100ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
+    "ANTONIO BANDERAS KING OF SEDUCTION ABSOLUTE EDT 100 ML @",
+    "ANTONIO BANDERAS KING OF SEDUCTION EDT 50 ML @",
     "ANTONIO BANDERAS POWER OF SEDUCTION EDT 100 ML @",
     "ANTONIO BANDERAS THE SECRET TEMPTATION EDT 100 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
