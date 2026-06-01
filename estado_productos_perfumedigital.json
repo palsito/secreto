@@ -5904,6 +5904,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30692",
       "en_stock": true
     },
+    "30681": {
+      "nombre": "BENETTON COLORS MAN BLACK EDT 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30681",
+      "en_stock": true
+    },
     "30673": {
       "nombre": "MANUEL CARRASCO LIBRE INTENSO EDT 100 ML @",
       "precio": "5.99 €",
@@ -6154,6 +6160,12 @@
       "nombre": "MOUSTACHE ROCHAS EDP 125 ML REGULAR",
       "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30113",
+      "en_stock": true
+    },
+    "30034": {
+      "nombre": "BENETTON COLORS MAN BLUE EDT 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30034",
       "en_stock": true
     },
     "30015": {
@@ -7438,6 +7450,12 @@
       "nombre": "HUGO BOSS THE SCENT EDT 50 ML REGULAR",
       "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22692",
+      "en_stock": true
+    },
+    "22666": {
+      "nombre": "BENETTON AIM HIGH EDT 100 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22666",
       "en_stock": true
     },
     "22648": {
@@ -10670,14 +10688,44 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41437": {
+      "nombre": "B.U. WILD EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41437",
+      "en_stock": true
+    },
+    "41436": {
+      "nombre": "B.U. ROCKMANTIC EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41436",
+      "en_stock": true
+    },
+    "41435": {
+      "nombre": "B.U. ONE LOVE EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41435",
+      "en_stock": true
+    },
+    "41434": {
+      "nombre": "B.U. MY SECRET EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41434",
+      "en_stock": true
+    },
+    "41433": {
+      "nombre": "B.U. HIPPY SOUL EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41433",
+      "en_stock": true
+    },
     "41432": {
-      "nombre": "B.U. HIDDEN PARADISE EDT 50 ML REGULAR",
+      "nombre": "B.U. HIDDEN PARADISE EDT 50 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41432",
       "en_stock": true
     },
     "41431": {
-      "nombre": "B.U. HEARTBEAT EDT 50 ML REGULAR",
+      "nombre": "B.U. HEARTBEAT EDT 50 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41431",
       "en_stock": true
@@ -24632,6 +24680,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30714",
       "en_stock": true
     },
+    "30702": {
+      "nombre": "BENETTON COLORS ROSE EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30702",
+      "en_stock": true
+    },
     "30691": {
       "nombre": "NIKE SWEET BLOSSOM 75 ML (Sin caja)",
       "precio": "2.99 €",
@@ -25590,6 +25644,12 @@
       "nombre": "DAVID BISBAL ROSE WOMAN EDT 100 ML @",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27746",
+      "en_stock": true
+    },
+    "27737": {
+      "nombre": "BENETTON LOVE YOURSELF EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27737",
       "en_stock": true
     },
     "27721": {
@@ -26706,6 +26766,12 @@
       "nombre": "ADIDAS GET READY WOMAN EDT 50 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23602",
+      "en_stock": true
+    },
+    "23599": {
+      "nombre": "BENETTON LIVE FREE EDT 80 ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23599",
       "en_stock": true
     },
     "23598": {
@@ -31368,8 +31434,19 @@
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
     "B.U. HEARTBEAT EDT 50 ML REGULAR",
     "B.U. HIDDEN PARADISE EDT 50 ML REGULAR",
+    "B.U. HIPPY SOUL EDT 50 ML @",
+    "B.U. MY SECRET EDT 50 ML @",
+    "B.U. ONE LOVE EDT 50 ML @",
+    "B.U. ROCKMANTIC EDT 50 ML @",
+    "B.U. WILD EDT 50 ML @",
     "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
+    "BENETTON AIM HIGH EDT 100 ML @",
+    "BENETTON COLORS MAN BLACK EDT 100 ML @",
+    "BENETTON COLORS MAN BLUE EDT 100 ML @",
+    "BENETTON COLORS ROSE EDT 80 ML @",
+    "BENETTON LIVE FREE EDT 80 ML @",
+    "BENETTON LOVE YOURSELF EDT 80 ML @",
     "BIAGIOTTI DUE UOMO EDT 90ML @",
     "BLUE JEANS EDT 75ML @",
     "BLUE LABEL MAN EDT 100ML REGULAR",
