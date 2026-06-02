@@ -12602,12 +12602,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39949",
       "en_stock": true
     },
-    "39947": {
-      "nombre": "AL HARAMAIN AMBER OUD GOLD EDITION EDP 60 ML @",
-      "precio": "21.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39947",
-      "en_stock": true
-    },
     "39946": {
       "nombre": "AL HARAMAIN AMBER OUD GOLD 999.9 DUBAI EDITION EDP 75 ML @",
       "precio": "24.99 €",
@@ -20214,6 +20208,12 @@
       "nombre": "BURBERRY GODDESS INTENSE EDP 100 ML @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36107",
+      "en_stock": true
+    },
+    "36106": {
+      "nombre": "212 VIP ROSE ELIXIR EDP 80 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36106",
       "en_stock": true
     },
     "36105": {
@@ -31541,6 +31541,7 @@
     "1881 SILVER NIGHT HOMME EDP 100ML @",
     "212 MEN PARFUM 100 ML REGULAR",
     "212 SEXY WOMAN EDP 100ML REGULAR",
+    "212 VIP ROSE ELIXIR EDP 80 ML @",
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
