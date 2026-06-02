@@ -4574,7 +4574,7 @@
     },
     "34359": {
       "nombre": "CK ONE SUMMER 2023 REFLECTIONS EDT 100 ML @",
-      "precio": "15.99 €",
+      "precio": "13.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34359",
       "en_stock": true
     },
@@ -9956,12 +9956,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "41448": {
-      "nombre": "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41448",
-      "en_stock": true
-    },
     "40914": {
       "nombre": "PACK ESPECIAL LANCASTER: GOLDEN LIFT DISCOVERY ROUTINE REGULAR + GOLDEN TAN MAXIMIZER 125 ML @ + CONCENTRE LOTION JEUNESSE 200 ML REGULAR",
       "precio": "29.99 €",
@@ -10754,6 +10748,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41525": {
+      "nombre": "PACK LUJO 2x1 GUILLAB SEXTANS EDP UNISEX 100 ML REGULAR + GUILLAB HADAR  EDP UNISEX 100 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41525",
+      "en_stock": true
+    },
     "41488": {
       "nombre": "LOTE 4 DE MUJER: TITTO BLUNI PROFUMO SEDUZIONE DONNA 75 ML @ + PRET A PORTER BERLIN FASHION COLLECTION EDP 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @ + PACHA 24/ VIP WOMAN EDT 80 ML @",
       "precio": "9.99 €",
@@ -10800,6 +10800,12 @@
       "nombre": "ANTONIO BANDERAS HER SECRET TEMPTATION EDT 80 ML @",
       "precio": "11.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41449",
+      "en_stock": true
+    },
+    "41448": {
+      "nombre": "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41448",
       "en_stock": true
     },
     "41446": {
@@ -31800,6 +31806,7 @@
     "PACHA IBIZA PURE MAN EDT 100ML @ (DESCATALOGADA)",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
+    "PACK LUJO 2X1 GUILLAB SEXTANS EDP UNISEX 100 ML REGULAR + GUILLAB HADAR  EDP UNISEX 100 ML REGULAR",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
     "PACO RABANNE POUR HOMME EDT 100ML @",
