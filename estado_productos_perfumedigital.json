@@ -18926,12 +18926,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36975",
       "en_stock": true
     },
-    "36972": {
-      "nombre": "LATTAFA  MAYAR EDP 100 ML FOR WOMAN REGULAR",
-      "precio": "28.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36972",
-      "en_stock": true
-    },
     "36970": {
       "nombre": "LATTAFA  MAAHIR BLACK EDITION EDP 100 ML UNISEX REGULAR",
       "precio": "31.99 €",
@@ -29732,6 +29726,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14193",
       "en_stock": true
     },
+    "14181": {
+      "nombre": "PLEASURES WOMAN EDP 100ML @",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14181",
+      "en_stock": true
+    },
     "14169": {
       "nombre": "GIORGIO BEVERLY HILLS RED WOMAN EDT 50ML @",
       "precio": "24.99 €",
@@ -31767,6 +31767,7 @@
     "PARIS HILTON JUST ME MEN EDT 100ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "PLEASURES MAN EDC 100ML REGULAR",
+    "PLEASURES WOMAN EDP 100ML @",
     "PLEASURES WOMAN EDP 30ML REGULAR",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125ML @",
