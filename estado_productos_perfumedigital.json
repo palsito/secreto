@@ -552,12 +552,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41388",
       "en_stock": true
     },
-    "41379": {
-      "nombre": "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41379",
-      "en_stock": true
-    },
     "41375": {
       "nombre": "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
       "precio": "79.99 €",
@@ -9448,6 +9442,12 @@
       "nombre": "JOOP HOMME HOT CONTACT EDT 125ML@",
       "precio": "28.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12773",
+      "en_stock": true
+    },
+    "12693": {
+      "nombre": "JPG LE MALE EDT 200 ML REGULAR",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=12693",
       "en_stock": true
     },
     "12681": {
