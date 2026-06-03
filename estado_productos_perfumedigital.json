@@ -9000,12 +9000,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14741",
       "en_stock": true
     },
-    "14718": {
-      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML @",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14718",
-      "en_stock": true
-    },
     "14707": {
       "nombre": "GUCCI GUILTY MEN EDT 90 ML REGULAR",
       "precio": "59.99 €",
@@ -26558,6 +26552,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25077",
       "en_stock": true
     },
+    "25055": {
+      "nombre": "ANTONIO PUIG ANOUK (FORMATO ANTIGUO) EDT 75 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25055",
+      "en_stock": true
+    },
     "24989": {
       "nombre": "MANGO TATTOO WOMAN EDT 100ML REGULAR",
       "precio": "19.99 €",
@@ -31546,6 +31546,7 @@
     "ANTONIO BANDERAS THE ICON FOR MEN THE PARFUME  100 ML @",
     "ANTONIO BANDERAS THE ICON SUPREME FOR WOMEN EDP 100 ML @",
     "ANTONIO BANDERAS THE SECRET TEMPTATION EDT 100 ML @",
+    "ANTONIO PUIG ANOUK (FORMATO ANTIGUO) EDT 75 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
     "ARMAND BASI IN RED WOMAN EDT 100ML @",
     "ARMANI DIAMONDS MAN EDT 50ML REGULAR",
