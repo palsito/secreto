@@ -22724,6 +22724,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34093",
       "en_stock": true
     },
+    "34092": {
+      "nombre": "VERSACE DYLAN PURPLE WOMAN EDP 100ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34092",
+      "en_stock": true
+    },
     "34091": {
       "nombre": "VALENTINO DONNA  BORN IN ROMA YELLOW DREAM EDP 100 ML @",
       "precio": "42.99 €",
@@ -31012,6 +31018,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "41540": {
+      "nombre": "TOUS YOUR POWERS (AMARILLA) EDT 90 ML @ (80% del contenido)",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41540",
+      "en_stock": true
+    },
     "41524": {
       "nombre": "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (Vapo ligeramente dañado)",
       "precio": "49.99 €",
@@ -31094,6 +31106,12 @@
       "nombre": "TONINO LAMBORGHINI PRESTIGIO EDT 125 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40222",
+      "en_stock": true
+    },
+    "38613": {
+      "nombre": "BOSS MA VIE EDP 75 ML @ (90% del contenido, botella ligeramente dañada)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38613",
       "en_stock": true
     },
     "38495": {
@@ -31564,6 +31582,7 @@
     "BOSS BOTTLED MAN EDT 100 ML REGULAR",
     "BOSS BOTTLED MAN EDT 50 ML REGULAR (SIN CAJA)",
     "BOSS BOTTLED STRIKING LAVENDER EDP 100 ML @",
+    "BOSS MA VIE EDP 75 ML @ (90% DEL CONTENIDO, BOTELLA LIGERAMENTE DAÑADA)",
     "BOUCHERON POUR HOMME EDP 100 ML REGULAR",
     "BREIL MILANO MAN  EDT 100 ML @",
     "BRITNEY SPEARS HIDDEN FANTASY WOMAN EDP 100 ML REGULAR",
@@ -31810,6 +31829,7 @@
     "TOUS MAN SKY EDP100 ML @",
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TOUS TOUCH EDT 100ML @",
+    "TOUS YOUR POWERS (AMARILLA) EDT 90 ML @ (80% DEL CONTENIDO)",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "TRUE STAR MEN EDT 100ML @",
     "TRUTH FOR MEN EDT 100ML REGULAR",
@@ -31820,6 +31840,7 @@
     "VANDERBILT WOMAN EDT 100ML @",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
+    "VERSACE DYLAN PURPLE WOMAN EDP 100ML @",
     "VERSACE L´HOMME EDT 100ML REGULAR",
     "VERSACE MAN EAU FRAICHE EDT 100ML @",
     "VERSACE RED JEANS EDT 75ML REGULAR",
