@@ -11552,12 +11552,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40515",
       "en_stock": true
     },
-    "40508": {
-      "nombre": "LATTAFA YARA TOUS EDP 100 ML REGULAR (caja dañada)",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40508",
-      "en_stock": true
-    },
     "40507": {
       "nombre": "LATTAFA YARA EDP 100 ML REGULAR (caja dañada)",
       "precio": "19.99 €",
@@ -31000,6 +30994,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "41555": {
+      "nombre": "SUPREME GLOBAL BIOTECH SERUM 30 ML @ (Sin caja, bote ligeramente dañado)",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41555",
+      "en_stock": true
+    },
+    "41554": {
+      "nombre": "ARMANI CODE FEMME ABSOLU EDP 75 ML @ (Sin caja, 60% del contenido)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41554",
+      "en_stock": true
+    },
     "41524": {
       "nombre": "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (Vapo ligeramente dañado)",
       "precio": "49.99 €",
@@ -31501,6 +31507,7 @@
     "ANTONIO PUIG ANOUK (FORMATO ANTIGUO) EDT 75 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
     "ARMAND BASI IN RED WOMAN EDT 100ML @",
+    "ARMANI CODE FEMME ABSOLU EDP 75 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "ARMANI DIAMONDS MAN EDT 50ML REGULAR",
     "ARMANI DIAMONDS MEN EDT 75ML REGULAR",
     "ARMANI POWER OF YOU EDP 90 ML @",
@@ -31782,6 +31789,7 @@
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "SPLENDOR EDP 125ML REGULAR",
+    "SUPREME GLOBAL BIOTECH SERUM 30 ML @ (SIN CAJA, BOTE LIGERAMENTE DAÑADO)",
     "TABAC ORIGINAL EDC 50ML @",
     "TABAC SPORT EDT 100ML @",
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
