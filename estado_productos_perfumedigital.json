@@ -438,6 +438,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41560": {
+      "nombre": "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41560",
+      "en_stock": true
+    },
     "41453": {
       "nombre": "ANTONIO BANDERAS THE ICON ELIXIR FOR MEN EDP 100 ML @",
       "precio": "14.99 €",
@@ -604,6 +610,12 @@
       "nombre": "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41344",
+      "en_stock": true
+    },
+    "41341": {
+      "nombre": "EL GANSO BLUE CODE EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41341",
       "en_stock": true
     },
     "41340": {
@@ -9920,6 +9932,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "41559": {
+      "nombre": "ROCHAS POMELO PASSION EDT 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41559",
+      "en_stock": true
+    },
     "40914": {
       "nombre": "PACK ESPECIAL LANCASTER: GOLDEN LIFT DISCOVERY ROUTINE REGULAR + GOLDEN TAN MAXIMIZER 125 ML @ + CONCENTRE LOTION JEUNESSE 200 ML REGULAR",
       "precio": "29.99 €",
@@ -10712,6 +10730,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41561": {
+      "nombre": "CK ONE ESSENCE NIGHT PARFUM INTENSE 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41561",
+      "en_stock": true
+    },
     "41525": {
       "nombre": "PACK LUJO 2x1 GUILLAB SEXTANS EDP UNISEX 100 ML REGULAR + GUILLAB HADAR  EDP UNISEX 100 ML REGULAR",
       "precio": "29.99 €",
@@ -10936,7 +10960,7 @@
     },
     "41376": {
       "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML @",
-      "precio": "79.99 €",
+      "precio": "76.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41376",
       "en_stock": true
     },
@@ -11106,6 +11130,12 @@
       "nombre": "MILLION GOLD HER PURE DIAMONDS PARFUM 90ML @",
       "precio": "72.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41115",
+      "en_stock": true
+    },
+    "41114": {
+      "nombre": "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41114",
       "en_stock": true
     },
     "41110": {
@@ -31593,6 +31623,7 @@
     "CK BE UNISEX (NEGRA) EDT 100ML REGULAR",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CK IN2U MEN 150ML REGULAR",
+    "CK ONE ESSENCE NIGHT PARFUM INTENSE 100 ML @",
     "CK ONE UNISEX VIVA LOVE EDT 100ML @",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "CLIVE CHRISTIAN OC 1872 MASCULINE EDP 50 ML @",
@@ -31679,6 +31710,7 @@
     "JIL SANDER SUN MEN EDT 75 ML REGULAR",
     "JOOP HOMME EDT 125ML @",
     "JOOP HOMME HOT CONTACT EDT 125ML@",
+    "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
@@ -31774,6 +31806,7 @@
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN EDT 100ML @",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
+    "ROCHAS POMELO PASSION EDT 100 ML @",
     "ROGER & GALLET BOIS D`ORANGE EAU FRAICHE PERFUMEE EDT 100  (UNISEX) @",
     "ROGER & GALLET COLOGNE TWIST EDT 100  (UNISEX) @",
     "ROGER & GALLET EXTRACTO NEROLI FACETIE COLOGNE 100 ML @",
