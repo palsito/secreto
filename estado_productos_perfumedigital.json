@@ -10934,12 +10934,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41381",
       "en_stock": true
     },
-    "41377": {
-      "nombre": "ESCADA YUM ME SUNNY EDP 50 ML @",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41377",
-      "en_stock": true
-    },
     "41376": {
       "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML @",
       "precio": "79.99 €",
@@ -30994,6 +30988,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "41558": {
+      "nombre": "YSL LIBRE ABSOLU PLATINE EDP 90 ML @ (Sin caja, 50% del contenido)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41558",
+      "en_stock": true
+    },
+    "41557": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (sin caja, 30% del contenido)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41557",
+      "en_stock": true
+    },
+    "41556": {
+      "nombre": "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (sin caja, 80% del contenido)",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41556",
+      "en_stock": true
+    },
     "41555": {
       "nombre": "SUPREME GLOBAL BIOTECH SERUM 30 ML @ (Sin caja, bote ligeramente dañado)",
       "precio": "26.99 €",
@@ -31492,6 +31504,7 @@
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
     "ANGEL SCHELESSER HOMME EDT 125ML @",
+    "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (SIN CAJA, 30% DEL CONTENIDO)",
     "ANNE MÖLLER PERFECT DAY EDT 100ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
@@ -31647,6 +31660,7 @@
     "GREEN TEA EDT 100ML @",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
+    "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "HAPPY HEART EDP 100ML REGULAR",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (VAPO LIGERAMENTE DAÑADO)",
@@ -31840,6 +31854,7 @@
     "XERJOFF TENNIS CLUB TORINO 21 EDP 100 ML @",
     "YOUTH DEW EDP 67 ML REGULAR",
     "YSL  MYSLF EDP 100 ML @",
+    "YSL LIBRE ABSOLU PLATINE EDP 90 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ZINO DAVIDOFF EDT 125 ML REGULAR"
   ]
 }
