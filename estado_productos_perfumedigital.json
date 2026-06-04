@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "41562": {
+      "nombre": "CK ONE BODY MIST NUDE VANILLA 236 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41562",
+      "en_stock": true
+    },
     "41405": {
       "nombre": "RACING GREEN BRITISH STYLE FOR MEN EDT 50ML REGULAR",
       "precio": "4.99 €",
@@ -826,6 +832,12 @@
       "nombre": "ANTONIO BANDERAS THE ICON SUPREME FOR MEN EDP 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40598",
+      "en_stock": true
+    },
+    "40590": {
+      "nombre": "HUGO BOSS THE SCENT HIM EDP INTENSE 100 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40590",
       "en_stock": true
     },
     "40585": {
@@ -5568,12 +5580,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31489",
       "en_stock": true
     },
-    "31488": {
-      "nombre": "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31488",
-      "en_stock": true
-    },
     "31465": {
       "nombre": "UMBRO ICE EDT 60 ML @",
       "precio": "6.99 €",
@@ -5626,6 +5632,12 @@
       "nombre": "D&G THE ONE FOR MEN INTENSE EDP 100ML @",
       "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31335",
+      "en_stock": true
+    },
+    "31333": {
+      "nombre": "VERSACE EROS FOR MEN EDP 100 ML @",
+      "precio": "57.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31333",
       "en_stock": true
     },
     "31331": {
@@ -10956,6 +10968,18 @@
       "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (caja dañada)",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41381",
+      "en_stock": true
+    },
+    "41378": {
+      "nombre": "RED DOOR ETERNAL AURA EDP 100 ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41378",
+      "en_stock": true
+    },
+    "41377": {
+      "nombre": "ESCADA YUM ME SUNNY EDP 50 ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41377",
       "en_stock": true
     },
     "41376": {
@@ -16588,19 +16612,25 @@
     },
     "38133": {
       "nombre": "AIRE DE SEVILLA LETRA E EDT 150 ML @ (Sin caja)",
-      "precio": "5.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38133",
       "en_stock": true
     },
     "38132": {
       "nombre": "AIRE DE SEVILLA  LETRA I  EDT 150 ML @ (Sin caja)",
-      "precio": "5.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38132",
+      "en_stock": true
+    },
+    "38127": {
+      "nombre": "AIRE DE SEVILLA  LETRA A  EDT 150 ML @ (Sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38127",
       "en_stock": true
     },
     "38126": {
       "nombre": "AIRE DE SEVILLA LETRA R  EDT 150 ML @ (Sin caja)",
-      "precio": "5.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38126",
       "en_stock": true
     },
@@ -24226,7 +24256,7 @@
     },
     "31387": {
       "nombre": "ARMANI BECAUSE IT´S YOU EDP 100 ML REGULAR",
-      "precio": "59.99 €",
+      "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31387",
       "en_stock": true
     },
@@ -31523,6 +31553,7 @@
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
+    "AIRE DE SEVILLA  LETRA A  EDT 150 ML @ (SIN CAJA)",
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
     "AIRE DE SEVILLA ROSAS BLANCAS EDT 150 ML @ (SIN CAJA)",
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
@@ -31623,6 +31654,7 @@
     "CK BE UNISEX (NEGRA) EDT 100ML REGULAR",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CK IN2U MEN 150ML REGULAR",
+    "CK ONE BODY MIST NUDE VANILLA 236 ML @",
     "CK ONE ESSENCE NIGHT PARFUM INTENSE 100 ML @",
     "CK ONE UNISEX VIVA LOVE EDT 100ML @",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
@@ -31689,6 +31721,7 @@
     "HAPPY HEART EDP 100ML REGULAR",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (VAPO LIGERAMENTE DAÑADO)",
+    "HUGO BOSS THE SCENT HIM EDP INTENSE 100 ML @",
     "HUGO ENERGISE EDT 75ML REGULAR",
     "HUGO ENERGISE LIMITED SPRAY EDITION  EDT 75ML REGULAR",
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
@@ -31854,6 +31887,7 @@
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
     "VERSACE DYLAN PURPLE WOMAN EDP 100ML @",
+    "VERSACE EROS FOR MEN EDP 100 ML @",
     "VERSACE L´HOMME EDT 100ML REGULAR",
     "VERSACE MAN EAU FRAICHE EDT 100ML @",
     "VERSACE RED JEANS EDT 75ML REGULAR",
