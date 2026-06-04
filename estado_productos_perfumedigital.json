@@ -20102,12 +20102,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36194",
       "en_stock": true
     },
-    "36193": {
-      "nombre": "VALENTINO BORN IN ROMA EXTRADOSE DONNA  PARFUM 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36193",
-      "en_stock": true
-    },
     "36183": {
       "nombre": "GUILLAB DISCOVERY SET 7 VIALES DE 2 ML CADA UNO (EN TOTAL 14 ML) REGULAR",
       "precio": "9.99 €",
@@ -21630,6 +21624,12 @@
       "nombre": "BE REAL CHIC & FUN EDT 50ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35162",
+      "en_stock": true
+    },
+    "35156": {
+      "nombre": "BI-ES EMPIRE WOMAN EDP 90 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35156",
       "en_stock": true
     },
     "35155": {
@@ -31733,6 +31733,7 @@
     "BENTLEY FOR MEN AZURE EDT 100 ML @",
     "BENTLEY INFINITE EDT 100 ML @",
     "BENTLEY INFINITE INTENSE EDP 100 ML @",
+    "BI-ES EMPIRE WOMAN EDP 90 ML @",
     "BIAGIOTTI DUE UOMO EDT 90ML @",
     "BLUE JEANS EDT 75ML @",
     "BLUE LABEL MAN EDT 100ML REGULAR",
