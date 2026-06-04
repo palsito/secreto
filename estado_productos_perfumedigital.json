@@ -720,12 +720,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40925",
       "en_stock": true
     },
-    "40880": {
-      "nombre": "LOEWE 001 EDC (EAU DE COLOGNE) 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40880",
-      "en_stock": true
-    },
     "40840": {
       "nombre": "HUGO BOSS THE SCENT HIM EDP INTENSE 50 ML REGULAR",
       "precio": "44.99 €",
@@ -10728,6 +10722,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41569": {
+      "nombre": "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41569",
+      "en_stock": true
+    },
+    "41568": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41568",
       "en_stock": true
     },
     "41561": {
@@ -21434,6 +21440,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35287",
       "en_stock": true
     },
+    "35269": {
+      "nombre": "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35269",
+      "en_stock": true
+    },
     "35267": {
       "nombre": "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @",
       "precio": "9.99 €",
@@ -21618,12 +21630,6 @@
       "nombre": "BE REAL CHIC & FUN EDT 50ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35162",
-      "en_stock": true
-    },
-    "35156": {
-      "nombre": "BI-ES EMPIRE WOMAN EDP 90 ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35156",
       "en_stock": true
     },
     "35155": {
@@ -21942,6 +21948,12 @@
       "nombre": "JULIETTE HAS A GUN LUST FOR SUN EDP 100 ML @ (Sin caja)",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34916",
+      "en_stock": true
+    },
+    "34913": {
+      "nombre": "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34913",
       "en_stock": true
     },
     "34850": {
@@ -31036,6 +31048,90 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "41579": {
+      "nombre": "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (Sin caja, 70% del contenido)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41579",
+      "en_stock": true
+    },
+    "41578": {
+      "nombre": "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41578",
+      "en_stock": true
+    },
+    "41577": {
+      "nombre": "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (Sin caja, 50% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41577",
+      "en_stock": true
+    },
+    "41576": {
+      "nombre": "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41576",
+      "en_stock": true
+    },
+    "41575": {
+      "nombre": "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41575",
+      "en_stock": true
+    },
+    "41574": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41574",
+      "en_stock": true
+    },
+    "41573": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41573",
+      "en_stock": true
+    },
+    "41572": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (Sin caja, 60% del contenido))",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41572",
+      "en_stock": true
+    },
+    "41571": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (Sin caja, 80% del contenido))",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41571",
+      "en_stock": true
+    },
+    "41570": {
+      "nombre": "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (Sin caja, 90% del contenido))",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41570",
+      "en_stock": true
+    },
+    "41567": {
+      "nombre": "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (Sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41567",
+      "en_stock": true
+    },
+    "41566": {
+      "nombre": "ELIE SAAB  ELIXIR EDP 100 ML @ (Sin caja)",
+      "precio": "57.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41566",
+      "en_stock": true
+    },
+    "41565": {
+      "nombre": "SAPHIR ELITE GIVE ME ROSE EDP 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41565",
+      "en_stock": true
+    },
+    "41564": {
+      "nombre": "SAPHIR ELITE VAGUE ROUGE EDP 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41564",
+      "en_stock": true
+    },
     "41558": {
       "nombre": "YSL LIBRE ABSOLU PLATINE EDP 90 ML @ (Sin caja, 50% del contenido)",
       "precio": "39.99 €",
@@ -31162,6 +31258,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38448",
       "en_stock": true
     },
+    "38203": {
+      "nombre": "SAPHIR ELITE DARK DREAM EAU DE PARFUM 100 ML REGULAR (sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38203",
+      "en_stock": true
+    },
     "38074": {
       "nombre": "DEEP EUPHORIA FRESH WOMAN EDT 100 ML @ (Sin caja)",
       "precio": "52.99 €",
@@ -31172,6 +31274,12 @@
       "nombre": "SAPHIR BOTANIC BERGAMOT EDT 50 ML @ (Sin caja)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38057",
+      "en_stock": true
+    },
+    "38056": {
+      "nombre": "SAPHIR ELITE NOIR WHISPERS PARFUM 100 ML REGULAR (sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38056",
       "en_stock": true
     },
     "37836": {
@@ -31256,6 +31364,12 @@
       "nombre": "ULTRAVIOLET WOMAN EDP 80ML REGULAR (Caja dañada)",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33985",
+      "en_stock": true
+    },
+    "33957": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33957",
       "en_stock": true
     },
     "33376": {
@@ -31553,7 +31667,19 @@
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
     "ANGEL SCHELESSER HOMME EDT 125ML @",
+    "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA)",
+    "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
+    "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
+    "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (SIN CAJA)",
     "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (SIN CAJA, 30% DEL CONTENIDO)",
+    "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA)",
+    "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
+    "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
+    "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA)",
+    "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 60% DEL CONTENIDO))",
+    "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO))",
+    "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO))",
     "ANNE MÖLLER PERFECT DAY EDT 100ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
@@ -31682,6 +31808,7 @@
     "EAU DE ROCHAS POUR HOMME EDT 100ML @",
     "EAU SAUVAGE EXTREME EDT 100ML REGULAR",
     "EL GANSO BLUE CODE EDP 100 ML @",
+    "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA)",
     "ELIZABETH ARDEN WOMAN RED DOOR EDT 100ML REGULAR",
     "EMPORIO EL EDT 100ML REGULAR",
     "EMPORIO REMIX MEN EDT 50ML @",
@@ -31820,6 +31947,7 @@
     "PLEASURES MAN EDC 100ML REGULAR",
     "PLEASURES WOMAN EDP 100ML @",
     "PLEASURES WOMAN EDP 30ML REGULAR",
+    "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
@@ -31842,6 +31970,10 @@
     "ROGER&GALLET GIMGEMBRE EDT 100 ML @",
     "ROMA UOMO EDT 125ML REGULAR",
     "ROYAL COPENHAGEN MUSK MEN EDC 100ML REGULAR",
+    "SAPHIR ELITE DARK DREAM EAU DE PARFUM 100 ML REGULAR (SIN CAJA)",
+    "SAPHIR ELITE GIVE ME ROSE EDP 100 ML @ (SIN CAJA)",
+    "SAPHIR ELITE NOIR WHISPERS PARFUM 100 ML REGULAR (SIN CAJA)",
+    "SAPHIR ELITE VAGUE ROUGE EDP 100 ML @ (SIN CAJA)",
     "SEAN JOHN I AM KING EDT 100ML @",
     "SERGIO TACCHINI ACTIVE WATER MAN EDT 100ML @",
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
@@ -31861,6 +31993,7 @@
     "TABAC ORIGINAL EDC 50ML @",
     "TABAC SPORT EDT 100ML @",
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
+    "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA)",
     "TOMMY 10 MAN  EDT 100ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
     "TOMMY HILFIGER NOW MAN EDT 100 ML @",
