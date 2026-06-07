@@ -5526,6 +5526,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31497",
       "en_stock": true
     },
+    "31488": {
+      "nombre": "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31488",
+      "en_stock": true
+    },
     "31465": {
       "nombre": "UMBRO ICE EDT 60 ML @",
       "precio": "6.99 €",
@@ -5578,12 +5584,6 @@
       "nombre": "D&G THE ONE FOR MEN INTENSE EDP 100ML @",
       "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31335",
-      "en_stock": true
-    },
-    "31333": {
-      "nombre": "VERSACE EROS FOR MEN EDP 100 ML @",
-      "precio": "57.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31333",
       "en_stock": true
     },
     "31331": {
@@ -31769,6 +31769,7 @@
     "MIAMI GLOW EDT 100ML REGULAR",
     "MINOTAURE EDT 75ML REGULAR",
     "MIRACLE HOMME EDT 75 ML REGULAR",
+    "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONTBLANC INDIVIDUELLE FEMME EDT 75ML REGULAR",
     "MOSCHINO UOMO? EDT 125ML REGULAR",
     "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
