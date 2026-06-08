@@ -1722,12 +1722,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39211",
       "en_stock": true
     },
-    "39200": {
-      "nombre": "SET NIKE MOONLIGHT EDT 100 ML + DEO 200 ML REGULAR (Caja ligeramente dañada)",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39200",
-      "en_stock": true
-    },
     "39182": {
       "nombre": "CREED IMPERIAL MILLISIME EDP 100 ML @",
       "precio": "219.00 €",
@@ -9758,7 +9752,7 @@
     },
     "560": {
       "nombre": "ULTRAVIOLET MAN EDT 100ML REGULAR",
-      "precio": "39.99 €",
+      "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=560",
       "en_stock": true
     },
@@ -25544,6 +25538,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27778",
       "en_stock": true
     },
+    "27775": {
+      "nombre": "MALU GLAM ROCK EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27775",
+      "en_stock": true
+    },
     "27768": {
       "nombre": "GUESS SEDUCTIVE WOMAN EDT 50 ML @",
       "precio": "12.99 €",
@@ -31714,6 +31714,7 @@
     "L`EAU D`ISSEY POUR HOMME EDT 125ML @",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 125ML REGULAR",
     "L`EAU D`ISSEY POUR HOMME INTENSE EDT 75ML REGULAR",
+    "MALU GLAM ROCK EDT 100 ML @",
     "MALU LIVE EDT 100 ML @",
     "MANDARINA DUCK WOMAN  EDT 100ML @",
     "MAUBOUSSIN POUR HOMME EDT 100ML REGULAR",
