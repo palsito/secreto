@@ -4008,6 +4008,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35601",
       "en_stock": true
     },
+    "35600": {
+      "nombre": "GIVENCHY GENTLEMAN SOCIETY AMBRE EDP 100ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35600",
+      "en_stock": true
+    },
     "35596": {
       "nombre": "EL GANSO LIKE FATHER LIKE SON EDT 100 ML @",
       "precio": "16.99 €",
@@ -19388,12 +19394,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36537",
       "en_stock": true
     },
-    "36534": {
-      "nombre": "MONTALE VELVET FANTASY UNISEX EDP 100 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36534",
-      "en_stock": true
-    },
     "36533": {
       "nombre": "MONTALE ROSE NIGHT UNISEX EDP 100 ML @",
       "precio": "79.99 €",
@@ -19566,6 +19566,12 @@
       "nombre": "ARMANI SI PARFUM (MAS CONCENTRADA) 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36476",
+      "en_stock": true
+    },
+    "36438": {
+      "nombre": "GIVENCHY L`INTERDIT WOMAN PARFUM  80 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36438",
       "en_stock": true
     },
     "36436": {
@@ -31605,6 +31611,7 @@
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
     "GIORGIO BEVERLY HILLS FOR MEN EDT 118 ML REGULAR",
     "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
+    "GIVENCHY L`INTERDIT WOMAN PARFUM  80 ML @",
     "GREEN TEA EDT 100ML @",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
