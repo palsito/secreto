@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "41651": {
+      "nombre": "D&G K ELIXIR 50 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41651",
+      "en_stock": true
+    },
     "41405": {
       "nombre": "RACING GREEN BRITISH STYLE FOR MEN EDT 50ML REGULAR",
       "precio": "4.99 €",
@@ -3008,7 +3014,7 @@
     },
     "37718": {
       "nombre": "COACH OPEN ROAD EDT 100 ML @",
-      "precio": "22.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37718",
       "en_stock": true
     },
@@ -3896,7 +3902,7 @@
     },
     "35742": {
       "nombre": "D&G DEVOTION MALE EDP 100 ML @",
-      "precio": "54.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35742",
       "en_stock": true
     },
@@ -4984,6 +4990,12 @@
       "nombre": "MANDARINA DUCK FOR HIM EDT 100 ML @",
       "precio": "21.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33014",
+      "en_stock": true
+    },
+    "32972": {
+      "nombre": "D&G THE ONE FOR MEN EDT 100ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32972",
       "en_stock": true
     },
     "32894": {
@@ -7604,7 +7616,7 @@
     },
     "21794": {
       "nombre": "ETERNITY AQUA FOR MEN EDT 100 ML @",
-      "precio": "26.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21794",
       "en_stock": true
     },
@@ -10620,6 +10632,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41650": {
+      "nombre": "CK ONE SHOCK WOMAN EDT 100 ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41650",
       "en_stock": true
     },
     "41647": {
@@ -23998,7 +24016,7 @@
     },
     "31508": {
       "nombre": "D&G THE ONE WOMAN EDP 75ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31508",
       "en_stock": true
     },
@@ -24102,6 +24120,12 @@
       "nombre": "ARMANI BECAUSE IT´S YOU EDP 100 ML REGULAR",
       "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31387",
+      "en_stock": true
+    },
+    "31364": {
+      "nombre": "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31364",
       "en_stock": true
     },
     "31363": {
@@ -31692,6 +31716,7 @@
     "CK IN2U MEN 150ML REGULAR",
     "CK ONE BODY MIST NUDE VANILLA 236 ML @",
     "CK ONE ESSENCE NIGHT PARFUM INTENSE 100 ML @",
+    "CK ONE SHOCK WOMAN EDT 100 ML @",
     "CK ONE SHOCK WOMAN EDT 200 ML REGULAR",
     "CK ONE UNISEX VIVA LOVE EDT 100ML @",
     "CLARINS EAU DYNAMISANTE 100 ML @",
@@ -31718,8 +31743,10 @@
     "CUSTO GLAM STAR EDT 100 ML @",
     "CUSTO GLAM STAR EDT 100 ML REGULAR",
     "D&G FEMENINE EDT 100 ML @ (SIN CAJA)",
+    "D&G K ELIXIR 50 ML @",
     "D&G LIGHT BLUE WOMAN EDT 100ML REGULAR",
     "D&G THE ONE DESIRE EDP 75 ML REGULAR",
+    "D&G THE ONE FOR MEN EDT 100ML @",
     "D&G THE ONE FOR MEN EDT 100ML REGULAR",
     "D&G THE ONE WOMAN EDP 11ML (RECARGABLE) @",
     "D&G VELVET ZAFFERANO EDP 100 ML @",
@@ -31749,6 +31776,7 @@
     "DKNY GOLDEN DELICIOUS EDP 30 ML REGULAR",
     "DKNY MAN II EDT 100ML @ (SIN CAJA)",
     "DKNY RED DELICIOUS  MEN EDT 100ML @",
+    "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
     "DUNHILL DESIRE BLUE EDT 100ML REGULAR",
     "DUNHILL PURSUIR EDT 75ML @",
     "DUNHILL X-CENTRIC MAN EDT SPRAY 100ML REGULAR",
