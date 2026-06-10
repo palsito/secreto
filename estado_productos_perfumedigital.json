@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41653": {
+      "nombre": "POLO RED PARFUM 125 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41653",
+      "en_stock": true
+    },
     "41560": {
       "nombre": "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML @",
       "precio": "72.99 €",
@@ -1792,12 +1798,6 @@
       "nombre": "PENHALIGON´S LUNA EDT 100 ML REGULAR",
       "precio": "199.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38975",
-      "en_stock": true
-    },
-    "38974": {
-      "nombre": "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
-      "precio": "266.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38974",
       "en_stock": true
     },
     "38973": {
@@ -6254,7 +6254,7 @@
     },
     "29087": {
       "nombre": "1 MILLION LUCKY PACO RABANNE EDT 100ML @",
-      "precio": "49.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29087",
       "en_stock": true
     },
@@ -9758,7 +9758,7 @@
     },
     "568": {
       "nombre": "POLO BLACK MAN EDT 125ML @",
-      "precio": "46.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=568",
       "en_stock": true
     },
@@ -10632,6 +10632,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41655": {
+      "nombre": "CHOPARD ROSE MALAKI EDP 80 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41655",
+      "en_stock": true
+    },
+    "41654": {
+      "nombre": "CHOPARD PINK WISH EDP 75ML REGULAR",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41654",
       "en_stock": true
     },
     "41652": {
@@ -25864,7 +25876,7 @@
     },
     "26960": {
       "nombre": "HYPNOTIC POISON EDT 100ML @",
-      "precio": "59.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26960",
       "en_stock": true
     },
@@ -30316,7 +30328,7 @@
     },
     "12032": {
       "nombre": "CASMIR EDP 100ML REGULAR",
-      "precio": "26.99 €",
+      "precio": "27.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12032",
       "en_stock": true
     },
@@ -31710,6 +31722,7 @@
     "CHLOE INTENSE EDP 100ML @",
     "CHLOÉ EDT WOMAN 50ML REGULAR",
     "CHLOÉ EDT WOMAN 75ML REGULAR",
+    "CHOPARD ROSE MALAKI EDP 80 ML REGULAR",
     "CHOPARD WISH EDP 75ML @",
     "CHOPARD WISH EDP 75ML REGULAR",
     "CHRISTINA AGUILERA BY NIGHT FEMME EDP 50 ML @",
@@ -32155,6 +32168,7 @@
     "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125ML @",
+    "POLO RED PARFUM 125 ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
