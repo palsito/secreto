@@ -3236,7 +3236,7 @@
     },
     "37382": {
       "nombre": "COOL WATER REBORN MAN EDP INTENSE 100ML @",
-      "precio": "24.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37382",
       "en_stock": true
     },
@@ -3244,6 +3244,12 @@
       "nombre": "ICEBERG HOMME EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37379",
+      "en_stock": true
+    },
+    "37375": {
+      "nombre": "COOL WATER OCEANIC MAN EDT 125ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37375",
       "en_stock": true
     },
     "37333": {
@@ -5308,6 +5314,12 @@
       "nombre": "POLICE TO BE EXOTIC JUNGLE MAN EDT 125 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32316",
+      "en_stock": true
+    },
+    "32315": {
+      "nombre": "KENZO POUR HOMME INTENSE EDT 110ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32315",
       "en_stock": true
     },
     "32297": {
@@ -10620,6 +10632,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41652": {
+      "nombre": "D&G Q (QUEEN - REINA) ELIXIR 50 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41652",
       "en_stock": true
     },
     "41650": {
@@ -16864,7 +16882,7 @@
     },
     "37924": {
       "nombre": "D&G Q (QUEEN - REINA) LE PARFUM 100 ML @",
-      "precio": "74.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37924",
       "en_stock": true
     },
@@ -17374,7 +17392,7 @@
     },
     "37723": {
       "nombre": "KATE SPADE BLOOM EDT 100 ML @",
-      "precio": "22.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37723",
       "en_stock": true
     },
@@ -18082,7 +18100,7 @@
     },
     "37381": {
       "nombre": "ICEBERG TWICE DONNA EDT 100 ML @",
-      "precio": "16.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37381",
       "en_stock": true
     },
@@ -19912,7 +19930,7 @@
     },
     "36214": {
       "nombre": "COOL WATER REBORN WOMAN EDT 100ML @",
-      "precio": "29.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36214",
       "en_stock": true
     },
@@ -22192,7 +22210,7 @@
     },
     "34321": {
       "nombre": "DOLCE & GABBANA POUR FEMME (FRASCO ALARGADO TAPON ROJO)  EDP 100 ML @",
-      "precio": "62.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34321",
       "en_stock": true
     },
@@ -23542,7 +23560,7 @@
     },
     "32739": {
       "nombre": "DOLCE ROSE EDT 75 ML @",
-      "precio": "49.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32739",
       "en_stock": true
     },
@@ -31711,6 +31729,7 @@
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "CLIVE CHRISTIAN OC 1872 MASCULINE EDP 50 ML @",
     "COOL WATER ICE FRESH WOMAN EDT 100 ML@",
+    "COOL WATER OCEANIC MAN EDT 125ML @",
     "COOL WATER WAVE WOMAN EDT 100ML @",
     "COOL WATER WOMAN EDT 100ML REGULAR",
     "COOL WATER WOMAN SUMMER  PACIFIC EDT 100 ML @",
@@ -31733,6 +31752,7 @@
     "D&G FEMENINE EDT 100 ML @ (SIN CAJA)",
     "D&G K ELIXIR 50 ML @",
     "D&G LIGHT BLUE WOMAN EDT 100ML REGULAR",
+    "D&G Q (QUEEN - REINA) ELIXIR 50 ML @",
     "D&G THE ONE DESIRE EDP 75 ML REGULAR",
     "D&G THE ONE FOR MEN EDT 100ML @",
     "D&G THE ONE FOR MEN EDT 100ML REGULAR",
