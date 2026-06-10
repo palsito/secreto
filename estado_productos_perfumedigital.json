@@ -2490,12 +2490,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38443",
       "en_stock": true
     },
-    "38428": {
-      "nombre": "MANDARINA DUCK COOL BLACK EDT 100 ML @ (Sin caja)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38428",
-      "en_stock": true
-    },
     "38415": {
       "nombre": "POLICE TO BE MY AVATAR MAN EDT 125 ML @",
       "precio": "17.99 €",
@@ -9836,6 +9830,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "41649": {
+      "nombre": "ARDEN 5TH AVENUE NYC EDP 125 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41649",
+      "en_stock": true
+    },
     "40914": {
       "nombre": "PACK ESPECIAL LANCASTER: GOLDEN LIFT DISCOVERY ROUTINE REGULAR + GOLDEN TAN MAXIMIZER 125 ML @ + CONCENTRE LOTION JEUNESSE 200 ML REGULAR",
       "precio": "29.99 €",
@@ -10612,7 +10612,7 @@
     },
     "1563": {
       "nombre": "SUNFLOWERS EDT 100ML @",
-      "precio": "9.99 €",
+      "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1563",
       "en_stock": true
     },
@@ -27154,7 +27154,7 @@
     },
     "22580": {
       "nombre": "ELIZABETH ARDEN GREEN TEA LAVANDER WOMAN EDT 100 ML @",
-      "precio": "7.99 €",
+      "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22580",
       "en_stock": true
     },
@@ -31525,6 +31525,7 @@
     "ANTONIO PUIG ANOUK EDT 100 ML @",
     "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @",
     "AQUA ALLEGORIA HERBA FRESCA EDT 125ML @",
+    "ARDEN 5TH AVENUE NYC EDP 125 ML @",
     "ARDEN BEAUTY EDP 100ML REGULAR",
     "ARDEN BEAUTY EDP 50 ML @",
     "ARDEN MEDITERRANEAN EDP 100ML @",
