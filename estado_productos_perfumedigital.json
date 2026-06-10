@@ -4124,7 +4124,7 @@
     },
     "35384": {
       "nombre": "POLO EST 67 EDT 125 ML @",
-      "precio": "44.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35384",
       "en_stock": true
     },
@@ -5512,6 +5512,12 @@
       "nombre": "212 MEN HEROES EDT 90 ML @",
       "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31497",
+      "en_stock": true
+    },
+    "31488": {
+      "nombre": "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31488",
       "en_stock": true
     },
     "31465": {
