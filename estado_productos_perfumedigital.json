@@ -576,12 +576,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41367",
       "en_stock": true
     },
-    "41364": {
-      "nombre": "TOMMY MAN POOLSIDE EDT 100ML @",
-      "precio": "28.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41364",
-      "en_stock": true
-    },
     "41348": {
       "nombre": "CHANEL ALLURE HOMME SPORT 100 ML @",
       "precio": "94.99 €",
@@ -1798,6 +1792,12 @@
       "nombre": "PENHALIGON´S LUNA EDT 100 ML REGULAR",
       "precio": "199.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38975",
+      "en_stock": true
+    },
+    "38974": {
+      "nombre": "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
+      "precio": "266.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38974",
       "en_stock": true
     },
     "38973": {
@@ -32158,6 +32158,7 @@
     "PAUL SMITH PORTRAIT EDP 80 ML REGULAR",
     "PAUL SMITH WOMAN EXTREME EDT 100ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+    "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
     "PLEASURES EAU FRAICHE EDP 50ML REGULAR",
     "PLEASURES INTENSE EDP 100ML REGULAR",
