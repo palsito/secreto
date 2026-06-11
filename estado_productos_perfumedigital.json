@@ -432,6 +432,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41664": {
+      "nombre": "POLICE RICH GUY (HOMBRE) EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41664",
+      "en_stock": true
+    },
+    "41663": {
+      "nombre": "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41663",
+      "en_stock": true
+    },
     "41653": {
       "nombre": "POLO RED PARFUM 125 ML @",
       "precio": "44.99 €",
@@ -3110,7 +3122,7 @@
     },
     "37581": {
       "nombre": "POLICE RICH GUY (HOMBRE) EDP 100 ML @",
-      "precio": "19.99 €",
+      "precio": "17.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37581",
       "en_stock": true
     },
@@ -4094,7 +4106,7 @@
     },
     "35391": {
       "nombre": "PHILIPP PLEIN FATALE EDP 90 ML @",
-      "precio": "34.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35391",
       "en_stock": true
     },
@@ -9434,7 +9446,7 @@
     },
     "12317": {
       "nombre": "OSCAR POUR LUI EDT 90ML REGULAR",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12317",
       "en_stock": true
     },
@@ -10638,6 +10650,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41665": {
+      "nombre": "ACQUA DI PARMA OUD EDP 100 ML REGULAR",
+      "precio": "144.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41665",
       "en_stock": true
     },
     "41662": {
@@ -30026,6 +30044,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=13005",
       "en_stock": true
     },
+    "12994": {
+      "nombre": "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=12994",
+      "en_stock": true
+    },
     "12971": {
       "nombre": "CHANEL CHANCE EAU TENDRE EDT 100ML @",
       "precio": "99.99 €",
@@ -30540,12 +30564,6 @@
       "nombre": "ALIEN EDP 90ML  @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1928",
-      "en_stock": true
-    },
-    "1927": {
-      "nombre": "ARDEN MEDITERRANEAN EDP 100ML REGULAR",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1927",
       "en_stock": true
     },
     "1900": {
@@ -31533,6 +31551,7 @@
     "A MI AIRE EDT 100ML @ (FORMATO ANTIGUO REDONDO)",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
     "ACQUA DI GIOIA WOMAN EDP 100 ML @",
+    "ACQUA DI PARMA OUD EDP 100 ML REGULAR",
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
@@ -32193,6 +32212,7 @@
     "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
+    "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
     "PLEASURES EAU FRAICHE EDP 50ML REGULAR",
     "PLEASURES INTENSE EDP 100ML REGULAR",
@@ -32200,6 +32220,7 @@
     "PLEASURES WOMAN EDP 100ML @",
     "PLEASURES WOMAN EDP 30ML REGULAR",
     "POLICE PASION WOMAN EDT 100 ML REGULAR",
+    "POLICE RICH GUY (HOMBRE) EDP 100 ML REGULAR",
     "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125ML @",
@@ -32363,6 +32384,7 @@
     "VICTORIO & LUCCHINO AGUA N 5 JAZMIN, PIMIENTA NEGRA Y CASSIS 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 6 MAGNOLIA, FLOR DE AGUA Y MELOCOTON 150 ML REGULAR",
     "VICTORIO Y LUCCHINO CAPRICHO FLORAL TENTACION DE ROSAS 100 ML @",
+    "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
     "W ACQUA VERINO WOMAN  EDT 50ML @",
     "WHITE DIAMONDS EDT 100ML REGULAR",
     "WHITE DIAMONDS EDT 50ML REGULAR",
