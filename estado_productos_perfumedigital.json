@@ -5436,6 +5436,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31842",
       "en_stock": true
     },
+    "31841": {
+      "nombre": "JPG SCANDAL POUR HOMME EDT 100 ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31841",
+      "en_stock": true
+    },
     "31718": {
       "nombre": "EL GANSO LIMONCELO EDT 125 ML @",
       "precio": "14.99 €",
@@ -5572,6 +5578,12 @@
       "nombre": "YSL L HOMME LE PARFUM EDP 100 ML @",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31337",
+      "en_stock": true
+    },
+    "31336": {
+      "nombre": "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31336",
       "en_stock": true
     },
     "31335": {
@@ -10306,7 +10318,7 @@
     },
     "35592": {
       "nombre": "HALLOWEEN MY WISH EDP 100 ML @",
-      "precio": "19.99 €",
+      "precio": "17.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35592",
       "en_stock": true
     },
@@ -10626,6 +10638,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41659": {
+      "nombre": "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41659",
       "en_stock": true
     },
     "41658": {
@@ -10992,12 +11010,6 @@
       "nombre": "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
       "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41361",
-      "en_stock": true
-    },
-    "41360": {
-      "nombre": "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
-      "precio": "37.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41360",
       "en_stock": true
     },
     "41359": {
@@ -22022,6 +22034,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34757",
       "en_stock": true
     },
+    "34754": {
+      "nombre": "ESCADA SANTORINI SUNRISE EDT 100 ML @",
+      "precio": "28.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34754",
+      "en_stock": true
+    },
     "34753": {
       "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 60 ML @",
       "precio": "39.99 €",
@@ -26050,7 +26068,7 @@
     },
     "26442": {
       "nombre": "JUICY COUTURE VIVA LA JUICY ROSE EDP 100ML @",
-      "precio": "46.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26442",
       "en_stock": true
     },
@@ -31837,6 +31855,7 @@
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
     "ESCADA MAGNETISM EDP 75ML @",
+    "ESCADA SANTORINI SUNRISE EDT 100 ML @",
     "ESCADA YUM ME SUNNY EDP 50 ML @",
     "ESCALE À PORTOFINO EDT 125ML @",
     "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @",
@@ -31986,6 +32005,7 @@
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
+    "JPG SCANDAL POUR HOMME EDT 100 ML @",
     "JUICE COUTURE LA LA WOMAN  EDP 100 ML REGULAR",
     "JUICY COUTURE PEACE LOVE AND JUICY COUTURE WOMAN EDP 30 ML REGULAR",
     "JUICY COUTURE VIVA LA JUICY EDP 100ML @",
@@ -32154,6 +32174,8 @@
     "PAUL SMITH  OPTIMISTIC WOMAN EDT 100 ML REGULAR",
     "PAUL SMITH PORTRAIT EDP 80 ML REGULAR",
     "PAUL SMITH WOMAN EXTREME EDT 100ML @",
+    "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
+    "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
