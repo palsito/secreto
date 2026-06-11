@@ -432,6 +432,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41675": {
+      "nombre": "ACQUA DI PARMA MAGNOLIA INFINITA EDP 180 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41675",
+      "en_stock": true
+    },
+    "41674": {
+      "nombre": "ACQUA DI PARMA MAGNOLIA INFINITA EDP 100 ML REGULAR",
+      "precio": "139.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41674",
+      "en_stock": true
+    },
+    "41673": {
+      "nombre": "ACQUA DI PARMA OSMANTHUS EDP UNISEX 180 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41673",
+      "en_stock": true
+    },
+    "41666": {
+      "nombre": "ACQUA DI PARMA SIGNATURE OUD EDP 180 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41666",
+      "en_stock": true
+    },
     "41664": {
       "nombre": "POLICE RICH GUY (HOMBRE) EDP 100 ML REGULAR",
       "precio": "19.99 €",
@@ -10652,6 +10676,54 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41677": {
+      "nombre": "ACQUA DI PARMA LUCE DI ROSA EDP 180 ML REGULAR",
+      "precio": "189.00 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41677",
+      "en_stock": true
+    },
+    "41676": {
+      "nombre": "ACQUA DI PARMA LUCE DI ROSA EDP 100 ML REGULAR",
+      "precio": "139.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41676",
+      "en_stock": true
+    },
+    "41672": {
+      "nombre": "ACQUA DI PARMA YUZU EDP 180 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41672",
+      "en_stock": true
+    },
+    "41671": {
+      "nombre": "ACQUA DI PARMA SIGNATURE SANDALO EDP 180 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41671",
+      "en_stock": true
+    },
+    "41670": {
+      "nombre": "ACQUA DI PARMA QUERCIA EDP 180 ML REGULAR",
+      "precio": "184.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41670",
+      "en_stock": true
+    },
+    "41669": {
+      "nombre": "ACQUA DI PARMA QUERCIA EDP 100 ML REGULAR",
+      "precio": "134.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41669",
+      "en_stock": true
+    },
+    "41668": {
+      "nombre": "ACQUA DI PARMA OUD & SPICE EDP 180 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41668",
+      "en_stock": true
+    },
+    "41667": {
+      "nombre": "ACQUA DI PARMA OUD & SPICE EDP 100 ML REGULAR",
+      "precio": "139.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41667",
+      "en_stock": true
+    },
     "41665": {
       "nombre": "ACQUA DI PARMA OUD EDP 100 ML REGULAR",
       "precio": "144.99 €",
@@ -14652,12 +14724,6 @@
       "nombre": "ROSENDO MATEU 2010 EDP 100 ML REGULAR",
       "precio": "119.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38986",
-      "en_stock": true
-    },
-    "38985": {
-      "nombre": "ROSENDO MATEU 7 EDP 100 ML REGULAR",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38985",
       "en_stock": true
     },
     "38979": {
@@ -31551,7 +31617,16 @@
     "A MI AIRE EDT 100ML @ (FORMATO ANTIGUO REDONDO)",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
     "ACQUA DI GIOIA WOMAN EDP 100 ML @",
+    "ACQUA DI PARMA LUCE DI ROSA EDP 100 ML REGULAR",
+    "ACQUA DI PARMA LUCE DI ROSA EDP 180 ML REGULAR",
+    "ACQUA DI PARMA MAGNOLIA INFINITA EDP 100 ML REGULAR",
+    "ACQUA DI PARMA MAGNOLIA INFINITA EDP 180 ML REGULAR",
+    "ACQUA DI PARMA OSMANTHUS EDP UNISEX 180 ML REGULAR",
+    "ACQUA DI PARMA OUD & SPICE EDP 180 ML REGULAR",
     "ACQUA DI PARMA OUD EDP 100 ML REGULAR",
+    "ACQUA DI PARMA QUERCIA EDP 100 ML REGULAR",
+    "ACQUA DI PARMA QUERCIA EDP 180 ML REGULAR",
+    "ACQUA DI PARMA SIGNATURE OUD EDP 180 ML REGULAR",
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
