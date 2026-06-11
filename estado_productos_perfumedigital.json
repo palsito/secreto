@@ -2,7 +2,7 @@
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
     "41651": {
       "nombre": "D&G K ELIXIR 50 ML @",
-      "precio": "52.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41651",
       "en_stock": true
     },
@@ -428,7 +428,7 @@
     },
     "397": {
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
@@ -3476,7 +3476,7 @@
     },
     "36639": {
       "nombre": "ETERNITY AIR FOR MEN EDT 100ML REGULAR",
-      "precio": "32.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36639",
       "en_stock": true
     },
@@ -4478,7 +4478,7 @@
     },
     "34415": {
       "nombre": "ETERNITY FOR MEN COLOGNE EDT 100 ML REGULAR",
-      "precio": "32.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34415",
       "en_stock": true
     },
@@ -10640,6 +10640,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41662": {
+      "nombre": "OSCAR DE LA RENTA BELLA ROSA EDP 100 ML REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41662",
+      "en_stock": true
+    },
+    "41661": {
+      "nombre": "OSCAR DE LA RENTA BELLA ESSENCE EDP 100 ML REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41661",
+      "en_stock": true
+    },
+    "41660": {
+      "nombre": "OSCAR DE LA RENTA BELLA BLANCA EDP 100 ML REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41660",
+      "en_stock": true
+    },
     "41659": {
       "nombre": "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
       "precio": "19.99 €",
@@ -15358,7 +15376,7 @@
     },
     "38799": {
       "nombre": "JUICY COUTURE COUTURE EDP 100ML REGULAR",
-      "precio": "36.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38799",
       "en_stock": true
     },
@@ -17122,7 +17140,7 @@
     },
     "37841": {
       "nombre": "CK ETERNITY AIR WOMAN EDP 100ML REGULAR",
-      "precio": "34.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37841",
       "en_stock": true
     },
@@ -24148,7 +24166,7 @@
     },
     "31364": {
       "nombre": "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
-      "precio": "39.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31364",
       "en_stock": true
     },
@@ -26392,7 +26410,7 @@
     },
     "25569": {
       "nombre": "OSCAR DE LA RENTA EXTRAORDINARY WOMAN EDP 90ML REGULAR",
-      "precio": "42.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25569",
       "en_stock": true
     },
@@ -28876,7 +28894,7 @@
     },
     "17481": {
       "nombre": "ESPRIT D´OSCAR EDP 100 ML REGULAR",
-      "precio": "45.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=17481",
       "en_stock": true
     },
@@ -31006,12 +31024,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41557",
       "en_stock": true
     },
-    "41556": {
-      "nombre": "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (sin caja, 80% del contenido)",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41556",
-      "en_stock": true
-    },
     "41555": {
       "nombre": "SUPREME GLOBAL BIOTECH SERUM 30 ML @ (Sin caja, bote ligeramente dañado)",
       "precio": "26.99 €",
@@ -32154,6 +32166,9 @@
     "OPIUM EDT 90ML @",
     "OPIUM POUR HOMME EDT 100ML REGULAR",
     "ORGANZA EDP 50ML @",
+    "OSCAR DE LA RENTA BELLA BLANCA EDP 100 ML REGULAR",
+    "OSCAR DE LA RENTA BELLA ESSENCE EDP 100 ML REGULAR",
+    "OSCAR DE LA RENTA BELLA ROSA EDP 100 ML REGULAR",
     "OSCAR DE LA RENTA INTRUSION WOMAN EDP 100 ML REGULAR (MODELO ANTIGUO)",
     "OSCAR POUR LUI EDT 90ML REGULAR",
     "OSCAR ROSAMOR EDT 100 ML REGULAR",
