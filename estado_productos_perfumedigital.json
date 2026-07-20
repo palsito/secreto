@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41930": {
+      "nombre": "AZZARO CHROME MEN EDP (EAU DE PARFUM) 100ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41930",
+      "en_stock": true
+    },
     "41929": {
       "nombre": "ARMAF CLUB DE NUIT PRIVATE KEY TO MY SUCCESS UNISEX EXTRAIT DE PARFUM 100 ML REGULAR",
       "precio": "46.99 €",
@@ -3074,7 +3080,7 @@
     },
     "37835": {
       "nombre": "ACQUA DI PARMA BLU MEDITERRANEO ARANCIA DI CAPRI EDT UNISEX 100 ML REGULAR",
-      "precio": "99.99 €",
+      "precio": "94.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37835",
       "en_stock": true
     },
@@ -5246,7 +5252,7 @@
     },
     "32617": {
       "nombre": "PEPE JEANS LONDON CALLING HIM EDP 100 ML @",
-      "precio": "19.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32617",
       "en_stock": true
     },
@@ -6098,7 +6104,7 @@
     },
     "30494": {
       "nombre": "PEPE JEANS CELEBRATE FOR HIM EDP 100 ML @",
-      "precio": "16.99 €",
+      "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30494",
       "en_stock": true
     },
@@ -32046,6 +32052,7 @@
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
     "AZZARO CHROME LEGEND MEN EDT 125ML REGULAR",
+    "AZZARO CHROME MEN EDP (EAU DE PARFUM) 100ML @",
     "AZZARO CHROME MEN EDT 100ML @",
     "AZZARO CHROME MEN EDT 100ML REGULAR",
     "AZZARO CHROME MEN EDT 200ML REGULAR",
