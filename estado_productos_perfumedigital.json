@@ -4242,12 +4242,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35280",
       "en_stock": true
     },
-    "35279": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 75 ML REGULAR (Caja ligeramente dañada)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35279",
-      "en_stock": true
-    },
     "35266": {
       "nombre": "THE MANDARINERS FOR HIM EDT 100 ML @",
       "precio": "9.99 €",
@@ -31624,6 +31618,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34294",
       "en_stock": true
     },
+    "34167": {
+      "nombre": "A MI AIRE EDT 100ML @ (FORMATO NUEVO) (Sin caja, 80% del contenido)",
+      "precio": "37.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34167",
+      "en_stock": true
+    },
     "34151": {
       "nombre": "SAPHIR SILOE BOHEME WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -31930,6 +31930,7 @@
     "A DROP D`ISSEY FRAICHE WOMAN EDP 90 ML @",
     "A MI AIRE EDT 100ML @ (FORMATO ANTIGUO REDONDO)",
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO)",
+    "A MI AIRE EDT 100ML @ (FORMATO NUEVO) (SIN CAJA, 80% DEL CONTENIDO)",
     "ACQUA DI GIOIA WOMAN EDP 100 ML @",
     "ACQUA DI GIÒ POUR HOMME INTENSE EDP 100 ML REGULAR",
     "ACQUA DI PARMA BERGAMOTTO EDT 100 ML REGULAR",
