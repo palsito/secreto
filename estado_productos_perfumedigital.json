@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "41932": {
+      "nombre": "ETERNITY FOR MEN EDT 15 ML @ (Sin caja, no es vaporizador es splash)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41932",
+      "en_stock": true
+    },
     "41405": {
       "nombre": "RACING GREEN BRITISH STYLE FOR MEN EDT 50ML REGULAR",
       "precio": "4.99 €",
@@ -9860,48 +9866,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "41925": {
-      "nombre": "LOTE 2 DE MUJER: VICTORIO & LUCCHINO VIVA EDT 100 ML @ + BODY MIST LAISEVEN FRESA DULCE 200 ML @ + PLAYBOY PLAY IT SEXY 75 ML @ + SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41925",
-      "en_stock": true
-    },
-    "41924": {
-      "nombre": "LOTE 26 DE MUJER: AGUA DE SEVILLA AZAHAR 150 ML @ + LAISEVEN TROPIC BODY MIST 200 ML @ + COQUETE SECRET DE AMOUR EDT 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41924",
-      "en_stock": true
-    },
-    "41915": {
-      "nombre": "CHLOE LOVE STORY WOMAN EDP 75 ML @ + MINIBOLSO CHLOE + VERA WANG 30 ML REGULAR DE REGALO",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41915",
-      "en_stock": true
-    },
-    "41913": {
-      "nombre": "D&G LIGHT BLUE EAU PARFUM GEL 30 ML REGULAR",
-      "precio": "36.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41913",
-      "en_stock": true
-    },
-    "41906": {
-      "nombre": "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
-      "precio": "84.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41906",
-      "en_stock": true
-    },
-    "41863": {
-      "nombre": "MIU MIU L`EAU ROSE EDP 100 ML @",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41863",
-      "en_stock": true
-    },
-    "41858": {
-      "nombre": "PACK FRAGANCIAS FRESCAS: ANGEL SCHLESSER LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @ + CK ONE SUMMER REFLECTIONS EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41858",
-      "en_stock": true
-    },
     "41838": {
       "nombre": "VERA WANG EMBRACE PERIWINKLE AND IRID EDT 30 ML REGULAR",
       "precio": "2.99 €",
@@ -10718,6 +10682,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41926",
       "en_stock": true
     },
+    "41925": {
+      "nombre": "LOTE 2 DE MUJER: VICTORIO & LUCCHINO VIVA EDT 100 ML @ + BODY MIST LAISEVEN FRESA DULCE 200 ML @ + PLAYBOY PLAY IT SEXY 75 ML @ + SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41925",
+      "en_stock": true
+    },
+    "41924": {
+      "nombre": "LOTE 26 DE MUJER: AGUA DE SEVILLA AZAHAR 150 ML @ + LAISEVEN TROPIC BODY MIST 200 ML @ + COQUETE SECRET DE AMOUR EDT 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41924",
+      "en_stock": true
+    },
+    "41915": {
+      "nombre": "CHLOE LOVE STORY WOMAN EDP 75 ML @ + MINIBOLSO CHLOE + VERA WANG 30 ML REGULAR DE REGALO",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41915",
+      "en_stock": true
+    },
+    "41913": {
+      "nombre": "D&G LIGHT BLUE EAU PARFUM GEL 30 ML REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41913",
+      "en_stock": true
+    },
+    "41906": {
+      "nombre": "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
+      "precio": "84.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41906",
+      "en_stock": true
+    },
     "41901": {
       "nombre": "JIL SANDER N 4 EDP 100 ML @",
       "precio": "24.99 €",
@@ -10874,10 +10868,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41866",
       "en_stock": true
     },
+    "41863": {
+      "nombre": "MIU MIU L`EAU ROSE EDP 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41863",
+      "en_stock": true
+    },
     "41862": {
       "nombre": "MIU MIU MIUTINE EDP 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41862",
+      "en_stock": true
+    },
+    "41858": {
+      "nombre": "PACK FRAGANCIAS FRESCAS: ANGEL SCHLESSER LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @ + CK ONE SUMMER REFLECTIONS EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41858",
       "en_stock": true
     },
     "41857": {
@@ -22454,12 +22460,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34776",
       "en_stock": true
     },
-    "34775": {
-      "nombre": "V&L EVASION AZUL 250 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34775",
-      "en_stock": true
-    },
     "34772": {
       "nombre": "LOEWE AGUA ELLA EDT (FORMATO NUEVO) 100 ML @",
       "precio": "49.99 €",
@@ -32366,6 +32366,7 @@
     "ETAT LIBRE D ORANGER FIN DU MONDE EDP 100 ML @",
     "ETERNITY AQUA FOR MEN EDT 100 ML REGULAR",
     "ETERNITY FOR MEN EDT 100ML REGULAR",
+    "ETERNITY FOR MEN EDT 15 ML @ (SIN CAJA, NO ES VAPORIZADOR ES SPLASH)",
     "ETRO DIANTHUS EDT 100 ML REGULAR",
     "ETRO NECTAR EDP 100 ML @",
     "EUPHORIA ENDLESS EDP 125 ML REGULAR",
