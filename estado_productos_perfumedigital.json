@@ -410,7 +410,7 @@
     },
     "1179": {
       "nombre": "HERRERA FOR MEN EDT 100ML @",
-      "precio": "42.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1179",
       "en_stock": true
     },
@@ -1432,12 +1432,6 @@
       "nombre": "MERCEDES BENZ MAN FRESH EDT 100 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39859",
-      "en_stock": true
-    },
-    "39854": {
-      "nombre": "MERCEDES BENZ FOR MEN INTENSE EDT 120 ML REGULAR",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39854",
       "en_stock": true
     },
     "39853": {
@@ -6324,6 +6318,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29087",
       "en_stock": true
     },
+    "29077": {
+      "nombre": "AGUA FRESCA CITRUS CEDRO MAN EDT 120ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29077",
+      "en_stock": true
+    },
     "29049": {
       "nombre": "BVLGARI MAN WOOD ESSENCE EDP 100 ML @",
       "precio": "59.99 €",
@@ -10710,12 +10710,6 @@
       "nombre": "DKNY 24/7 WOMAN EDP 100ML REGULAR",
       "precio": "25.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41926",
-      "en_stock": true
-    },
-    "41903": {
-      "nombre": "JUST CAVALLI WILD HEARTS FOR HER EDP 90 ML @",
-      "precio": "22.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41903",
       "en_stock": true
     },
     "41901": {
@@ -31931,6 +31925,7 @@
     "AGUA DE COLONIA ÁLVAREZ GÓMEZ CONCENTRADA EDC 80 ML @ (SIN CAJA, 50% DEL CONTENIDO Y SIN TAPON)",
     "AGUA DE COLONIA ÁLVAREZ GÓMEZ EDC 80ML @ (80% CONTENIDO)",
     "AGUA DE COLONIA ÁLVAREZ GÓMEZ EDC 80ML @ (90% CONTENIDO)",
+    "AGUA FRESCA CITRUS CEDRO MAN EDT 120ML @",
     "AIGNER FIRST CLAS EXPLORER EDT 100 ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
     "AIGNER TOO FEMININE EDP 100 ML REGULAR",
