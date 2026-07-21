@@ -9855,7 +9855,7 @@
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
     "41838": {
-      "nombre": "VERA WANG EMBRACE PERIWINKLE AND IRID EDT 30 ML REGULAR",
+      "nombre": "VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML REGULAR",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41838",
       "en_stock": true
@@ -10644,6 +10644,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41933": {
+      "nombre": "PACK 5 FRAGANCIAS TAMAÑO PEQUEÑO 89 ML EN TOTAL",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41933",
       "en_stock": true
     },
     "41931": {
@@ -28658,12 +28664,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20183",
       "en_stock": true
     },
-    "20171": {
-      "nombre": "GREEN TEA EDT 100ML @",
-      "precio": "12.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20171",
-      "en_stock": true
-    },
     "20167": {
       "nombre": "SPF FOREVER FREE WOMAN EDT 100 ML @",
       "precio": "4.99 €",
@@ -32795,6 +32795,7 @@
     "PACHA PSICODELIC WOMAN EDT 80ML REGULAR",
     "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
+    "PACK 5 FRAGANCIAS TAMAÑO PEQUEÑO 89 ML EN TOTAL",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PACK FRAGANCIAS FRESCAS: ANGEL SCHLESSER LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @ + CK ONE SUMMER REFLECTIONS EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
     "PACK LUJO 2X1 GUILLAB SEXTANS EDP UNISEX 100 ML REGULAR + GUILLAB HADAR  EDP UNISEX 100 ML REGULAR",
