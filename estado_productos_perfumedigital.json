@@ -426,6 +426,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41936": {
+      "nombre": "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41936",
+      "en_stock": true
+    },
     "41930": {
       "nombre": "AZZARO CHROME MEN EDP (EAU DE PARFUM) 100ML @",
       "precio": "49.99 €",
@@ -5394,12 +5400,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32288",
       "en_stock": true
     },
-    "32280": {
-      "nombre": "1 MILLION PACO RABANNE EDT 200ML REGULAR",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32280",
-      "en_stock": true
-    },
     "32273": {
       "nombre": "TRUSSARDI RIFLESSO BLUE VIBE EDT 100 ML @",
       "precio": "39.99 €",
@@ -8950,6 +8950,12 @@
       "nombre": "IMPACTO EAU DE COLOGNE 100 ML @ #",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14491",
+      "en_stock": true
+    },
+    "14409": {
+      "nombre": "CARTIER DECLARATION EDT 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14409",
       "en_stock": true
     },
     "14402": {
@@ -32220,6 +32226,7 @@
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+    "CARTIER DECLARATION EDT 100 ML @",
     "CARTIER PANTHERE EDP 100 ML @",
     "CASMIR EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
@@ -32755,6 +32762,7 @@
     "MONSOON ELATION EDT 30 ML REGULAR",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
+    "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
     "MONTALE INTENSE CAFE UNISEX EDP 100 ML @",
     "MONTALE MUKHALLAT (UNISEX) EDP 100 ML @",
     "MONTANA CLAUDE MONTANA FOR WOMAN EDP 100 ML @",
