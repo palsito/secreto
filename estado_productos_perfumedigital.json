@@ -8370,6 +8370,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=18622",
       "en_stock": true
     },
+    "18621": {
+      "nombre": "TERRE D HERMES EDP 75ML @",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=18621",
+      "en_stock": true
+    },
     "18619": {
       "nombre": "ADOLFO DOMINGUEZ BAMBÚ MAN EDP 120ML @",
       "precio": "14.99 €",
@@ -10638,6 +10644,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41935": {
+      "nombre": "MON BOURJOIS LA CAPTIVANTE EDP 50 ML REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41935",
       "en_stock": true
     },
     "41933": {
@@ -25904,6 +25916,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=28001",
       "en_stock": true
     },
+    "27999": {
+      "nombre": "MONTALE INTENSE CAFE UNISEX EDP 100 ML @",
+      "precio": "67.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27999",
+      "en_stock": true
+    },
     "27998": {
       "nombre": "MONTALE EMBRUNS D`ESSAOUIRA UNISEX EDP 100 ML @",
       "precio": "69.99 €",
@@ -28380,6 +28398,12 @@
       "nombre": "NOA L`EAU EDT 50ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20783",
+      "en_stock": true
+    },
+    "20759": {
+      "nombre": "CARTIER PANTHERE EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20759",
       "en_stock": true
     },
     "20757": {
@@ -32196,6 +32220,7 @@
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+    "CARTIER PANTHERE EDP 100 ML @",
     "CASMIR EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CERRUTI 1881 RIVIERA POUR HOMME EDT EDT 100 ML @",
@@ -32719,6 +32744,7 @@
     "MIU MIU MIUTINE EDP 100 ML @",
     "MIYAKE PLEASE PLEATS EDT 100 ML @",
     "MIYAKE PLEASE PLEATS EDT 100 ML REGULAR",
+    "MON BOURJOIS LA CAPTIVANTE EDP 50 ML REGULAR",
     "MONELLA VAGABONDA CUORE ITALIANO MEN EDT 100 ML REGULAR",
     "MONELLA VAGABONDA EDT 100 ML REGULAR",
     "MONELLA VAGABONDA MONELLO EDT 100 ML REGULAR",
@@ -32729,6 +32755,7 @@
     "MONSOON ELATION EDT 30 ML REGULAR",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
+    "MONTALE INTENSE CAFE UNISEX EDP 100 ML @",
     "MONTALE MUKHALLAT (UNISEX) EDP 100 ML @",
     "MONTANA CLAUDE MONTANA FOR WOMAN EDP 100 ML @",
     "MONTBLANC INDIVIDUEL MEN EDT 75ML REGULAR",
@@ -33037,6 +33064,7 @@
     "SWISS ARMY MOUNTAIN WATER FOR HER EDT 100 ML @",
     "TABAC ORIGINAL EDC 50ML @",
     "TABAC SPORT EDT 100ML @",
+    "TERRE D HERMES EDP 75ML @",
     "TERRE D HERMES EDT 100ML @",
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
     "THAT´S AMORE! FOR WOMAN 75ML @",
