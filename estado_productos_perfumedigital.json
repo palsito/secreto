@@ -2040,12 +2040,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38882",
       "en_stock": true
     },
-    "38878": {
-      "nombre": "TOMMY HILFIGER VIBRANT SUMMER HIM EDT 100 ML @",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38878",
-      "en_stock": true
-    },
     "38876": {
       "nombre": "LAPIDUS POKER FACE EDT 100 ML @",
       "precio": "39.99 €",
@@ -5398,6 +5392,12 @@
       "nombre": "XS POUR HOMME MODELO NUEVO EDT 100ML REGULAR",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32288",
+      "en_stock": true
+    },
+    "32280": {
+      "nombre": "1 MILLION PACO RABANNE EDT 200ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32280",
       "en_stock": true
     },
     "32273": {
@@ -10650,6 +10650,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41939": {
+      "nombre": "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41939",
+      "en_stock": true
+    },
+    "41938": {
+      "nombre": "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41938",
+      "en_stock": true
+    },
+    "41937": {
+      "nombre": "ARISTROCRAZY AMETHYST EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41937",
       "en_stock": true
     },
     "41935": {
@@ -25088,6 +25106,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30990",
       "en_stock": true
     },
+    "30989": {
+      "nombre": "ARMANI SI PASSIONE INTENSE EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30989",
+      "en_stock": true
+    },
     "30987": {
       "nombre": "ARISTROCRAZY WONDER EDT 80 ML@",
       "precio": "49.99 €",
@@ -32041,6 +32065,9 @@
     "ARIANA GRANDE CLOUD PINK EDP 100 ML REGULAR",
     "ARIANA GRANDE THANK U NEXT 2.0 EDP EDP 100 ML REGULAR",
     "ARIANA GRANDE THANK U NEXT EDP EDP 50 ML REGULAR",
+    "ARISTROCRAZY AMETHYST EDP 100 ML @",
+    "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
+    "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
     "ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML REGULAR",
     "ARMAF CLUB DE NUIT PRIVATE KEY TO MY SUCCESS UNISEX EXTRAIT DE PARFUM 100 ML REGULAR",
     "ARMAF CLUB DE NUIT URBAN MAN ELIXIR 105 ML REGULAR",
@@ -32057,6 +32084,7 @@
     "ARMANI ONDE EXTASE EDP 100ML @",
     "ARMANI POWER OF YOU EDP 90 ML @",
     "ARMANI SI EDP 100 ML @",
+    "ARMANI SI PASSIONE INTENSE EDP 100 ML @",
     "ARMANI STRONGER WITH INTENSELY YOU EDP 100 @",
     "AROMATICS ELIXIR EDP 100ML REGULAR",
     "ARPEGE EDP 100ML REGULAR",
