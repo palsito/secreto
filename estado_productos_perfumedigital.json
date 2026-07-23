@@ -10082,12 +10082,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37044",
       "en_stock": true
     },
-    "36620": {
-      "nombre": "LOTE 11 DE MUJER: BENETTON SISTERLAND PINK RASPBERRY EDT 80 ML @ + SHAKIRA DANCE EDT 80 ML @ + PLAYBOY PLAY IT WILD WOMAN EDT 50 ML @ + ANA ROSA AGUA DE FLORES EDT 100 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36620",
-      "en_stock": true
-    },
     "36569": {
       "nombre": "OFERTA ESPECIAL: GUILLAB ANDROMEDA EDP UNISEX 100 ML REGULAR + BIOTHERM BLUE PEPTIDES UPLIFT CREAM 15 ML @ + MAYBELLINE SUPER STAY MATTE INK LABIAL LIQUIDO 117 GROUND BREAKER 5 ML @",
       "precio": "29.99 €",
@@ -10652,10 +10646,112 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
-    "41950": {
-      "nombre": "MOLINARD GINGEMBRE EDP 75 ML @",
+    "41968": {
+      "nombre": "MOLINARD VETIVER EDP 75 ML @",
       "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41950",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41968",
+      "en_stock": true
+    },
+    "41967": {
+      "nombre": "MOLINARD VENTS ET MAREES EDP 75 ML @",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41967",
+      "en_stock": true
+    },
+    "41966": {
+      "nombre": "MOLINARD VANILLE PATCHOULI EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41966",
+      "en_stock": true
+    },
+    "41965": {
+      "nombre": "MOLINARD VANILLE EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41965",
+      "en_stock": true
+    },
+    "41964": {
+      "nombre": "MOLINARD TUBEREUSE VERTIGINEUSE EDP 75 ML @",
+      "precio": "47.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41964",
+      "en_stock": true
+    },
+    "41963": {
+      "nombre": "MOLINARD SANTAL INSOLENT EDP 75 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41963",
+      "en_stock": true
+    },
+    "41962": {
+      "nombre": "MOLINARD ROSE EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41962",
+      "en_stock": true
+    },
+    "41961": {
+      "nombre": "MOLINARD PATCHOULI EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41961",
+      "en_stock": true
+    },
+    "41960": {
+      "nombre": "MOLINARD OSMANTHUS EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41960",
+      "en_stock": true
+    },
+    "41959": {
+      "nombre": "MOLINARD NIRMALA EDP 75 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41959",
+      "en_stock": true
+    },
+    "41958": {
+      "nombre": "MOLINARD MUSC EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41958",
+      "en_stock": true
+    },
+    "41957": {
+      "nombre": "MOLINARD MUGUET EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41957",
+      "en_stock": true
+    },
+    "41956": {
+      "nombre": "MOLINARD MIREA EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41956",
+      "en_stock": true
+    },
+    "41955": {
+      "nombre": "MOLINARD VIOLETTE EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41955",
+      "en_stock": true
+    },
+    "41954": {
+      "nombre": "MOLINARD MADRIGAL EDP 75 ML @",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41954",
+      "en_stock": true
+    },
+    "41953": {
+      "nombre": "MOLINARD IRIS EDP 75 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41953",
+      "en_stock": true
+    },
+    "41952": {
+      "nombre": "MOLINARD IRIS ARDENT EDP 75 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41952",
+      "en_stock": true
+    },
+    "41951": {
+      "nombre": "MOLINARD HABANITA EDP 75 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41951",
       "en_stock": true
     },
     "41949": {
@@ -11988,12 +12084,6 @@
       "nombre": "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
       "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41361",
-      "en_stock": true
-    },
-    "41359": {
-      "nombre": "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
-      "precio": "37.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41359",
       "en_stock": true
     },
     "41346": {
@@ -32860,6 +32950,23 @@
     "MOLINARD CITRUS NOIR EDP 75 ML @",
     "MOLINARD FIGUE EDP 75 ML @",
     "MOLINARD GINGEMBRE EDP 75 ML @",
+    "MOLINARD HABANITA EDP 75 ML @",
+    "MOLINARD IRIS ARDENT EDP 75 ML @",
+    "MOLINARD IRIS EDP 75 ML @",
+    "MOLINARD MADRIGAL EDP 75 ML @",
+    "MOLINARD MIREA EDP 75 ML @",
+    "MOLINARD MUSC EDP 75 ML @",
+    "MOLINARD NIRMALA EDP 75 ML @",
+    "MOLINARD OSMANTHUS EDP 75 ML @",
+    "MOLINARD PATCHOULI EDP 75 ML @",
+    "MOLINARD ROSE EDP 75 ML @",
+    "MOLINARD SANTAL INSOLENT EDP 75 ML @",
+    "MOLINARD TUBEREUSE VERTIGINEUSE EDP 75 ML @",
+    "MOLINARD VANILLE EDP 75 ML @",
+    "MOLINARD VANILLE PATCHOULI EDP 75 ML @",
+    "MOLINARD VENTS ET MAREES EDP 75 ML @",
+    "MOLINARD VETIVER EDP 75 ML @",
+    "MOLINARD VIOLETTE EDP 75 ML @",
     "MON BOURJOIS LA CAPTIVANTE EDP 50 ML REGULAR",
     "MONELLA VAGABONDA CUORE ITALIANO MEN EDT 100 ML REGULAR",
     "MONELLA VAGABONDA EDT 100 ML REGULAR",
