@@ -10652,6 +10652,42 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41950": {
+      "nombre": "MOLINARD GINGEMBRE EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41950",
+      "en_stock": true
+    },
+    "41949": {
+      "nombre": "MOLINARD FIGUE EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41949",
+      "en_stock": true
+    },
+    "41948": {
+      "nombre": "MOLINARD CITRUS NOIR EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41948",
+      "en_stock": true
+    },
+    "41947": {
+      "nombre": "LORENZO PAZZAGLIA SUGAR KISSES EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "104.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41947",
+      "en_stock": true
+    },
+    "41946": {
+      "nombre": "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41946",
+      "en_stock": true
+    },
+    "41945": {
+      "nombre": "LORENZO PAZZAGLIA EXTREME PASSION EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41945",
+      "en_stock": true
+    },
     "41944": {
       "nombre": "GOLDFIELD & BANKS ISLAND LUSH EDP 100 ML @",
       "precio": "109.99 €",
@@ -11486,9 +11522,15 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41702",
       "en_stock": true
     },
+    "41701": {
+      "nombre": "GOLDFIELD & BANKS TALES OF AMBER EDP 100 ML @",
+      "precio": "129.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41701",
+      "en_stock": true
+    },
     "41700": {
       "nombre": "GOLDFIELD & BANKS SILKY WOODS ELIXIR 100 ML @",
-      "precio": "132.99 €",
+      "precio": "122.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41700",
       "en_stock": true
     },
@@ -18930,6 +18972,18 @@
       "nombre": "MATIERE PREMIERE COLOGNE CEDRAT EDP 100 ML @",
       "precio": "139.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37279",
+      "en_stock": true
+    },
+    "37277": {
+      "nombre": "LORENZO PAZZAGLIA VAN EXSTASYX EXTRAIT PARFUM 50 ML @",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37277",
+      "en_stock": true
+    },
+    "37276": {
+      "nombre": "LORENZO PAZZAGLIA PASSION ROSE EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "104.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37276",
       "en_stock": true
     },
     "37275": {
@@ -31923,6 +31977,24 @@
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=17468",
       "en_stock": true
+    },
+    "14547": {
+      "nombre": "MINI LOVE WOMAN EDT 25ML @ (sin caja y sin tapón) @ ~",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14547",
+      "en_stock": true
+    },
+    "13524": {
+      "nombre": "ROYALE AMBREE LEGRAIN EDC 100ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=13524",
+      "en_stock": true
+    },
+    "13045": {
+      "nombre": "BURBERRY THE BEAT MEN EDT 100ML @ (70% del contenido, se le cae capo)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=13045",
+      "en_stock": true
     }
   },
   "ultimo_numero_oferta": 815,
@@ -32212,6 +32284,7 @@
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
     "BURBERRY LONDON MEN  (CAJA DE RAYAS)  EDT 100ML REGULAR",
+    "BURBERRY THE BEAT MEN EDT 100ML @ (70% DEL CONTENIDO, SE LE CAE CAPO)",
     "BURBERRY TOUCH FOR MEN EDT 100ML REGULAR",
     "BURBERRY TOUCH WOMAN EDP 100ML @",
     "BURBERRY TOUCH WOMAN EDP 100ML REGULAR",
@@ -32539,6 +32612,7 @@
     "GOLDFIELD & BANKS ROSE MAGNITUDE EDP 100ML @",
     "GOLDFIELD & BANKS SILKY WOODS ELIXIR 100 ML @",
     "GOLDFIELD & BANKS SOUTHERN BLOOM PERFUME 100ML @",
+    "GOLDFIELD & BANKS TALES OF AMBER EDP 100 ML @",
     "GOLDFIELD & BANKS VELVET SPLENDOUR PERFUME 100ML @",
     "GOLDFIELD & BANKS WHITE SANDALWOOD EDP 100 ML @",
     "GOLDFIELD & BANKS WOOD INFUSION CONCENTRATE EDP 100ML @",
@@ -32722,6 +32796,11 @@
     "LOEWE 7 MEN EDT 100ML REGULAR",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
     "LOEWE ESENCIA ELIXIR POUR HOMME BOTELLA ALARGADA 100ML @",
+    "LORENZO PAZZAGLIA EXTREME PASSION EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA PASSION ROSE EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA SUGAR KISSES EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA VAN EXSTASYX EXTRAIT PARFUM 50 ML @",
     "LOTE 11 DE MUJER: BENETTON SISTERLAND PINK RASPBERRY EDT 80 ML @ + SHAKIRA DANCE EDT 80 ML @ + PLAYBOY PLAY IT WILD WOMAN EDT 50 ML @ + ANA ROSA AGUA DE FLORES EDT 100 ML @",
     "LOTE 2 DE MUJER: VICTORIO & LUCCHINO VIVA EDT 100 ML @ + BODY MIST LAISEVEN FRESA DULCE 200 ML @ + PLAYBOY PLAY IT SEXY 75 ML @ + SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
     "LOTE 26 DE MUJER: AGUA DE SEVILLA AZAHAR 150 ML @ + LAISEVEN TROPIC BODY MIST 200 ML @ + COQUETE SECRET DE AMOUR EDT 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @",
@@ -32766,6 +32845,7 @@
     "MICHAEL KORS SEXY AMBER EDP 50 ML @",
     "MICHAEL KORS SPORTY CITRUS EDP VAPO 50 ML @ (SIN CAJA)",
     "MIDNIGHT FANTASY EDP 100ML REGULAR",
+    "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
     "MINOTAURE EDT 75ML REGULAR",
     "MIRACLE HOMME EDT 75 ML REGULAR",
     "MISS BOUCHERON EDP 100ML REGULAR",
@@ -32777,6 +32857,9 @@
     "MIU MIU MIUTINE EDP 100 ML @",
     "MIYAKE PLEASE PLEATS EDT 100 ML @",
     "MIYAKE PLEASE PLEATS EDT 100 ML REGULAR",
+    "MOLINARD CITRUS NOIR EDP 75 ML @",
+    "MOLINARD FIGUE EDP 75 ML @",
+    "MOLINARD GINGEMBRE EDP 75 ML @",
     "MON BOURJOIS LA CAPTIVANTE EDP 50 ML REGULAR",
     "MONELLA VAGABONDA CUORE ITALIANO MEN EDT 100 ML REGULAR",
     "MONELLA VAGABONDA EDT 100 ML REGULAR",
@@ -33037,6 +33120,7 @@
     "ROSARIO FLORES DE MIL COLORES EDT 100 ML @",
     "ROSARIO FLORES SIENTO WOMAN EDT 100 ML @",
     "ROYAL COPENHAGEN MUSK MEN EDC 100ML REGULAR",
+    "ROYALE AMBREE LEGRAIN EDC 100ML @",
     "SALVADOR DALI PURPLELIGHT WOMAN EDT 100 ML REGULAR",
     "SALVADOR DALI RUBYLIPS WOMAN EDT 100 ML REGULAR",
     "SALVATORE FERRAGAMO WOMAN EDP 50ML @",
