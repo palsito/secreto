@@ -10652,6 +10652,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41944": {
+      "nombre": "GOLDFIELD & BANKS ISLAND LUSH EDP 100 ML @",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41944",
+      "en_stock": true
+    },
     "41939": {
       "nombre": "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
       "precio": "59.99 €",
@@ -12624,6 +12630,12 @@
       "nombre": "GOLDFIELD & BANKS TALES OF AMBER EXTRAIT PARFUM 100 ML @",
       "precio": "139.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40428",
+      "en_stock": true
+    },
+    "40424": {
+      "nombre": "GOLDFIELD & BANKS BOHEMIAN LIME EDP 100 ML @",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40424",
       "en_stock": true
     },
     "40422": {
@@ -31911,24 +31923,6 @@
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=17468",
       "en_stock": true
-    },
-    "14547": {
-      "nombre": "MINI LOVE WOMAN EDT 25ML @ (sin caja y sin tapón) @ ~",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14547",
-      "en_stock": true
-    },
-    "13524": {
-      "nombre": "ROYALE AMBREE LEGRAIN EDC 100ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=13524",
-      "en_stock": true
-    },
-    "13045": {
-      "nombre": "BURBERRY THE BEAT MEN EDT 100ML @ (70% del contenido, se le cae capo)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=13045",
-      "en_stock": true
     }
   },
   "ultimo_numero_oferta": 815,
@@ -32537,7 +32531,9 @@
     "GIVENCHY VERY IRRESISTIBLE ELECTRIC ROSE EDT 75 ML @",
     "GLOW AFTER DARK EDT 100ML @",
     "GOLDFIELD & BANKS BLUE CYPRESS EDP 100ML @",
+    "GOLDFIELD & BANKS BOHEMIAN LIME EDP 100 ML @",
     "GOLDFIELD & BANKS DESERT ROSEWOOD EDP 100ML @",
+    "GOLDFIELD & BANKS ISLAND LUSH EDP 100 ML @",
     "GOLDFIELD & BANKS MYSTIC BLISS EDP 100ML @",
     "GOLDFIELD & BANKS PACIFIC ROCK FLOWER EDP 100ML @",
     "GOLDFIELD & BANKS ROSE MAGNITUDE EDP 100ML @",
