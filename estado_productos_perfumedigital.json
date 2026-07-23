@@ -9740,7 +9740,7 @@
     },
     "878": {
       "nombre": "212 MEN EDT 100ML REGULAR",
-      "precio": "49.99 €",
+      "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=878",
       "en_stock": true
     },
@@ -9860,6 +9860,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "41942": {
+      "nombre": "COLECCIÓN GOOD GIRL ESTUCHE 3x7 ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41942",
+      "en_stock": true
+    },
     "41838": {
       "nombre": "VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML REGULAR",
       "precio": "2.99 €",
@@ -11926,7 +11932,7 @@
     },
     "41369": {
       "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
-      "precio": "96.99 €",
+      "precio": "94.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41369",
       "en_stock": true
     },
@@ -32322,6 +32328,7 @@
     "CLARINS EAU DYNAMISANTE 100 ML @",
     "CLEAN CASHMERE UNISEX EDP 60 ML @",
     "CLIVE CHRISTIAN OC 1872 MASCULINE EDP 50 ML @",
+    "COLECCIÓN GOOD GIRL ESTUCHE 3X7 ML REGULAR",
     "COOL WATER ICE FRESH WOMAN EDT 100 ML@",
     "COOL WATER MAN EDT 125ML @",
     "COOL WATER OCEANIC MAN EDT 125ML @",
