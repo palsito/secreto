@@ -4826,7 +4826,7 @@
     },
     "33998": {
       "nombre": "TIFFANY&CO LOVE MEN (HOMBRE) EDT 90 ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33998",
       "en_stock": true
     },
@@ -10646,6 +10646,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41969": {
+      "nombre": "PHILLY&PHILL ROMEO ON THE ROCKS EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41969",
+      "en_stock": true
+    },
     "41968": {
       "nombre": "MOLINARD VETIVER EDP 75 ML @",
       "precio": "39.99 €",
@@ -10752,6 +10758,12 @@
       "nombre": "MOLINARD HABANITA EDP 75 ML @",
       "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41951",
+      "en_stock": true
+    },
+    "41950": {
+      "nombre": "MOLINARD GINGEMBRE EDP 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41950",
       "en_stock": true
     },
     "41949": {
@@ -25372,7 +25384,7 @@
     },
     "30714": {
       "nombre": "TIFFANY&CO SHEER EDT 30 ML REGULAR",
-      "precio": "29.99 €",
+      "precio": "25.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30714",
       "en_stock": true
     },
@@ -33157,6 +33169,7 @@
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
+    "PHILLY&PHILL ROMEO ON THE ROCKS EDP 100 ML @",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
     "PLAYBOY VEGAS MEN EDT 100ML @",
     "PLEASURES EAU FRAICHE EDP 50ML REGULAR",
