@@ -3540,12 +3540,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36768",
       "en_stock": true
     },
-    "36767": {
-      "nombre": "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) REGULAR",
-      "precio": "99.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36767",
-      "en_stock": true
-    },
     "36707": {
       "nombre": "LOTE 3 UNIDADES GENESSE SPORT MAN FREE EDT 115 ML CADA UNA (EN TOTAL 450 ML) @",
       "precio": "5.99 €",
@@ -12996,12 +12990,6 @@
       "nombre": "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40312",
-      "en_stock": true
-    },
-    "40309": {
-      "nombre": "GAULTIER DIVINE COUTURE EDP 100ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40309",
       "en_stock": true
     },
     "40308": {
@@ -27320,6 +27308,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23620",
       "en_stock": true
     },
+    "23602": {
+      "nombre": "ADIDAS GET READY WOMAN EDT 50 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23602",
+      "en_stock": true
+    },
     "23599": {
       "nombre": "BENETTON LIVE FREE EDT 80 ML @",
       "precio": "16.99 €",
@@ -31984,6 +31978,7 @@
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "ADIDAS DYNAMIC PULSE EDT 100ML REGULAR",
+    "ADIDAS GET READY WOMAN EDT 50 ML @",
     "ADIDAS ICE DIVE EDT 100 ML @",
     "ADIDAS VICTORY LEAGUE EDT 100ML @",
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
