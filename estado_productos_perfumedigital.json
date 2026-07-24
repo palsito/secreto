@@ -9842,12 +9842,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "41942": {
-      "nombre": "COLECCIÓN GOOD GIRL ESTUCHE 3x7 ML REGULAR",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41942",
-      "en_stock": true
-    },
     "41838": {
       "nombre": "VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML REGULAR",
       "precio": "2.99 €",
@@ -10634,6 +10628,54 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41980": {
+      "nombre": "PHILLY&PHILL RAILWAY TO THE ROOFTOP EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41980",
+      "en_stock": true
+    },
+    "41979": {
+      "nombre": "PHILLY&PHILL PUNKS IN PARADISE EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41979",
+      "en_stock": true
+    },
+    "41978": {
+      "nombre": "PHILLY&PHILL OUT AT THE OPERA EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41978",
+      "en_stock": true
+    },
+    "41977": {
+      "nombre": "PHILLY&PHILL NAUGHTY BY NATURE EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41977",
+      "en_stock": true
+    },
+    "41976": {
+      "nombre": "PHILLY&PHILL MIDNIGHT ON MAXSTREET EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41976",
+      "en_stock": true
+    },
+    "41975": {
+      "nombre": "PHILLY&PHILL FAITH FOR FANTASY EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41975",
+      "en_stock": true
+    },
+    "41974": {
+      "nombre": "PHILLY&PHILL EVE GOES EDEN EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41974",
+      "en_stock": true
+    },
+    "41973": {
+      "nombre": "PHILLY&PHILL EASY FOR ECSTASY EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41973",
+      "en_stock": true
+    },
     "41972": {
       "nombre": "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
       "precio": "69.99 €",
@@ -10800,6 +10842,12 @@
       "nombre": "GOLDFIELD & BANKS ISLAND LUSH EDP 100 ML @",
       "precio": "109.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41944",
+      "en_stock": true
+    },
+    "41942": {
+      "nombre": "COLECCIÓN GOOD GIRL ESTUCHE 3x7 ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41942",
       "en_stock": true
     },
     "41939": {
@@ -27194,12 +27242,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=24887",
       "en_stock": true
     },
-    "24867": {
-      "nombre": "LOEWE AURA SPORT WOMAN EDT 120 ML @",
-      "precio": "46.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=24867",
-      "en_stock": true
-    },
     "24844": {
       "nombre": "PRADA INFUSIÓN FLEUR D`ORANGER EDP 100 ML @",
       "precio": "49.99 €",
@@ -30628,7 +30670,7 @@
     },
     "13016": {
       "nombre": "MARIAH CAREY FOREVER EDP 100ML REGULAR",
-      "precio": "39.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=13016",
       "en_stock": true
     },
@@ -33159,6 +33201,14 @@
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
     "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
     "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
+    "PHILLY&PHILL EASY FOR ECSTASY EDP 100 ML @",
+    "PHILLY&PHILL EVE GOES EDEN EDP 100 ML @",
+    "PHILLY&PHILL FAITH FOR FANTASY EDP 100 ML @",
+    "PHILLY&PHILL MIDNIGHT ON MAXSTREET EDP 100 ML @",
+    "PHILLY&PHILL NAUGHTY BY NATURE EDP 100 ML @",
+    "PHILLY&PHILL OUT AT THE OPERA EDP 100 ML @",
+    "PHILLY&PHILL PUNKS IN PARADISE EDP 100 ML @",
+    "PHILLY&PHILL RAILWAY TO THE ROOFTOP EDP 100 ML @",
     "PHILLY&PHILL ROMEO ON THE ROCKS EDP 100 ML @",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
     "PLAYBOY VEGAS MEN EDT 100ML @",
