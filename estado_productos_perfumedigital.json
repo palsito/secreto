@@ -4968,12 +4968,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33333",
       "en_stock": true
     },
-    "33317": {
-      "nombre": "PACHA I AM BE INSANE BLACK HIM EDT 100 ML @",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33317",
-      "en_stock": true
-    },
     "33302": {
       "nombre": "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
       "precio": "3.99 €",
@@ -10638,6 +10632,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "41972": {
+      "nombre": "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41972",
+      "en_stock": true
+    },
+    "41971": {
+      "nombre": "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41971",
       "en_stock": true
     },
     "41969": {
@@ -26210,12 +26216,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27858",
       "en_stock": true
     },
-    "27854": {
-      "nombre": "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27854",
-      "en_stock": true
-    },
     "27853": {
       "nombre": "WOMAN SECRET EDT 100 ML @",
       "precio": "9.99 €",
@@ -33157,6 +33157,8 @@
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
+    "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
+    "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
     "PHILLY&PHILL ROMEO ON THE ROCKS EDP 100 ML @",
     "PLAYBOY MIAMI MEN EDT 100ML @ (SIN CAJA)",
     "PLAYBOY VEGAS MEN EDT 100ML @",
