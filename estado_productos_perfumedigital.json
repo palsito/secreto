@@ -10928,12 +10928,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41906",
       "en_stock": true
     },
-    "41901": {
-      "nombre": "JIL SANDER N 4 EDP 100 ML @",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41901",
-      "en_stock": true
-    },
     "41900": {
       "nombre": "GUESS SEDUCTIVE RED WOMAN EDT 75 ML @",
       "precio": "17.99 €",
@@ -12534,6 +12528,12 @@
       "nombre": "LA VIE EST BELLE ROSE EXTRAORDINAIRE L EAU DE PARFUM 50 ML @",
       "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40567",
+      "en_stock": true
+    },
+    "40560": {
+      "nombre": "EIGHT & BOB MEMOIRES MUSTIQUE EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40560",
       "en_stock": true
     },
     "40558": {
@@ -32622,6 +32622,7 @@
     "ED HARDY MEN EDT 100ML REGULAR",
     "ED HARDY VILLAIN MEN EDT 125 ML REGULAR",
     "EDEN EDP 30ML REGULAR",
+    "EIGHT & BOB MEMOIRES MUSTIQUE EDP 100 ML @",
     "EL GANSO BLUE CODE EDP 100 ML @",
     "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA)",
     "ELIE SAAB  GIRL OF NOW EDP WOMAN 90 ML @",
