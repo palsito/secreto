@@ -426,6 +426,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "41999": {
+      "nombre": "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41999",
+      "en_stock": true
+    },
     "41936": {
       "nombre": "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
       "precio": "86.99 €",
@@ -5360,7 +5366,7 @@
     },
     "32313": {
       "nombre": "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @",
-      "precio": "86.99 €",
+      "precio": "82.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32313",
       "en_stock": true
     },
@@ -10620,6 +10626,30 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42002": {
+      "nombre": "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42002",
+      "en_stock": true
+    },
+    "42001": {
+      "nombre": "MIU MIU FLEUR DE LAIT EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42001",
+      "en_stock": true
+    },
+    "42000": {
+      "nombre": "MIU MIU L EAU DE MUGUET EDP 100 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42000",
+      "en_stock": true
+    },
+    "41998": {
+      "nombre": "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41998",
       "en_stock": true
     },
     "41993": {
@@ -32975,6 +33005,8 @@
     "MISS FIORUCCI ICY FANTASY EDT 50 ML REGULAR",
     "MISS SOPRANI LUCIANO SOPRANI MISS EDT 100 ML REGULAR",
     "MIU MIU EAU BLEUE EDP 100 ML @",
+    "MIU MIU FLEUR DE LAIT EDP 100 ML @",
+    "MIU MIU L EAU DE MUGUET EDP 100 ML @",
     "MIU MIU L`EAU ROSE EDP 100 ML @",
     "MIU MIU MIUTINE EDP 100 ML @",
     "MIYAKE PLEASE PLEATS EDT 100 ML @",
@@ -33180,6 +33212,7 @@
     "PACO RABANNE POUR HOMME EDT 100ML @",
     "PALOMA PICASSO EDP 100ML @",
     "PALOMA PICASSO EDP 100ML REGULAR",
+    "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
     "PARIS HILTON JUST ME MEN EDT 100ML REGULAR",
     "PAUL SMITH  OPTIMISTIC WOMAN EDT 100 ML REGULAR",
     "PAUL SMITH PORTRAIT EDP 80 ML REGULAR",
@@ -33305,6 +33338,8 @@
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
+    "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
+    "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET SOLO LOEWE ELLA EDP 100 ML + 20 ML REGULAR",
