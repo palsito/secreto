@@ -926,7 +926,7 @@
     },
     "40838": {
       "nombre": "HUGO BOSS THE SCENT ELIXIR FOR HIM  PARFUM INTENSE 100 ML @",
-      "precio": "69.99 €",
+      "precio": "64.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40838",
       "en_stock": true
     },
@@ -1168,6 +1168,12 @@
       "nombre": "PHILIPP PLEIN NO LIMITS EDP 90 ML @ + BARAJA CARTAS POKER DE REGALO",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40333",
+      "en_stock": true
+    },
+    "40330": {
+      "nombre": "LAGERFELD CLASSIC EDT 100 ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40330",
       "en_stock": true
     },
     "40327": {
@@ -3954,6 +3960,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35742",
       "en_stock": true
     },
+    "35738": {
+      "nombre": "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
+      "precio": "83.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35738",
+      "en_stock": true
+    },
     "35707": {
       "nombre": "BRECOURT MAUVAIS GARCON EDP 100 ML REGULAR",
       "precio": "89.99 €",
@@ -4207,8 +4219,8 @@
       "en_stock": true
     },
     "35254": {
-      "nombre": "KARL LAGERFELD  MERCER STREET EDT 100 ML @",
-      "precio": "14.99 €",
+      "nombre": "KARL LAGERFELD NEW YORK MERCER STREET EDT 100 ML @",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35254",
       "en_stock": true
     },
@@ -10604,6 +10616,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "41984": {
+      "nombre": "KENZO L`EAU AMBRE EDP 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41984",
+      "en_stock": true
+    },
+    "41983": {
+      "nombre": "KARL LAGERFELD  PARIS 21 RUE SAINT GUILLAUME EDP 100 ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41983",
+      "en_stock": true
+    },
     "41980": {
       "nombre": "PHILLY&PHILL RAILWAY TO THE ROOFTOP EDP 100 ML @ Sin caja",
       "precio": "69.99 €",
@@ -14667,8 +14691,8 @@
       "en_stock": true
     },
     "39426": {
-      "nombre": "JPG SCANDAL ELIXIR PARFUM 80 ML REGULAR",
-      "precio": "89.99 €",
+      "nombre": "JPG SCANDAL ELIXIR PARFUM 80 ML @",
+      "precio": "82.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39426",
       "en_stock": true
     },
@@ -17226,6 +17250,12 @@
       "nombre": "ELIE SAAB LE PARFUM EDP 90 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38369",
+      "en_stock": true
+    },
+    "38368": {
+      "nombre": "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38368",
       "en_stock": true
     },
     "38366": {
@@ -25052,12 +25082,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31197",
       "en_stock": true
     },
-    "31196": {
-      "nombre": "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
-      "precio": "62.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31196",
-      "en_stock": true
-    },
     "31195": {
       "nombre": "L`EAU D`ISSEY ROSE & ROSE EDP 90 ML @",
       "precio": "39.99 €",
@@ -32579,6 +32603,7 @@
     "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA)",
     "ELIE SAAB  GIRL OF NOW EDP WOMAN 90 ML @",
     "ELIE SAAB L HOMME INTENSE EDP 100 ML @",
+    "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @",
     "ELIXIR BY SHAKIRA EDT 80 ML @",
     "ELIZABETH ARDEN BLUE GRASS EDP 100ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA CHERRY BLOSSOM EDT 100 ML REGULAR",
@@ -32805,6 +32830,7 @@
     "JOUR D`HERMES EDP 85 ML REGULAR",
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
     "JPG LE MALE EDT 200 ML REGULAR",
+    "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
     "JPG LE MALE PRIDE EDITION EDT 125ML @",
     "JPG SCANDAL EDP 80 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
@@ -32828,11 +32854,13 @@
     "J´ADORE INTENSE PARFUM 100 ML @",
     "J´ADORE L´ABSOLU EDP 75ML @",
     "KAREN LOW BLACK MEN EDT 100 ML @",
+    "KARL LAGERFELD  PARIS 21 RUE SAINT GUILLAUME EDP 100 ML @",
     "KENZO EAU DE FLEUR DE SOIE SILK EDT 50ML @",
     "KENZO EAU DE FLEUR YUZU EDT 50 ML @",
     "KENZO EAU DE FLEURS DE THEA  EDT 50ML @",
     "KENZO JUNGLE WOMAN EDP 100ML @",
     "KENZO LEAU 2 MAN EDT 100 ML REGULAR",
+    "KENZO L`EAU AMBRE EDP 100 ML @",
     "KENZO POUR HOMME INTENSE EDT 110ML @",
     "KNOWING EDP  75ML REGULAR",
     "KOUROS MAN EDT 100ML @",
@@ -32850,6 +32878,7 @@
     "LACOSTE POUR HOMME EDT 100ML @",
     "LACOSTE TOUCH OF PINK EDT 90ML @",
     "LADY MILLION EDT 80ML @",
+    "LAGERFELD CLASSIC EDT 100 ML @",
     "LALIQUE AMETHYST EDP 100ML REGULAR",
     "LALIQUE ENCRE NOIRE POUR HOMME EDT 100ML REGULAR",
     "LALIQUE LE PERFUM EDP 100ML @",
