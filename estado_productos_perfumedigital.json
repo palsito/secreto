@@ -426,6 +426,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42009": {
+      "nombre": "SCALPERS THE BAND HIM EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42009",
+      "en_stock": true
+    },
     "41999": {
       "nombre": "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
       "precio": "16.99 €",
@@ -1716,12 +1722,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39473",
       "en_stock": true
     },
-    "39472": {
-      "nombre": "SCALPERS THE BAND HIM EDP 100 ML @",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39472",
-      "en_stock": true
-    },
     "39467": {
       "nombre": "PHILIPP PLEIN FATALE ROSE INTENSE EDP 90 ML @",
       "precio": "34.99 €",
@@ -2944,6 +2944,12 @@
       "nombre": "SERGIO TACCHINI SPLENDIDA WOMAN EDP 100 ML @",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37988",
+      "en_stock": true
+    },
+    "37987": {
+      "nombre": "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37987",
       "en_stock": true
     },
     "37983": {
@@ -4804,6 +4810,12 @@
       "nombre": "JIMMY CHOO MAN AQUA EDT 100 ML @",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34073",
+      "en_stock": true
+    },
+    "34059": {
+      "nombre": "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34059",
       "en_stock": true
     },
     "34058": {
@@ -10628,6 +10640,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42010": {
+      "nombre": "TIFFANY&CO ROSE GOLD EDP 5 ML (CINCO ML) REGULAR",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42010",
+      "en_stock": true
+    },
     "42004": {
       "nombre": "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
       "precio": "9.99 €",
@@ -14658,6 +14676,18 @@
       "nombre": "SCALPERS THE BAND HER EDP 100 ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39471",
+      "en_stock": true
+    },
+    "39469": {
+      "nombre": "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39469",
+      "en_stock": true
+    },
+    "39468": {
+      "nombre": "SCALPERS HER & HERE EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39468",
       "en_stock": true
     },
     "39463": {
@@ -20846,6 +20876,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36193",
       "en_stock": true
     },
+    "36191": {
+      "nombre": "OLYMPEA ABSOLU INTENSE EDP 80 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36191",
+      "en_stock": true
+    },
     "36183": {
       "nombre": "GUILLAB DISCOVERY SET 7 VIALES DE 2 ML CADA UNO (EN TOTAL 14 ML) REGULAR",
       "precio": "9.99 €",
@@ -24882,6 +24918,12 @@
       "nombre": "ANGEL SCHLESSER FEMME MAGIQUE EDP 100ML @",
       "precio": "18.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31490",
+      "en_stock": true
+    },
+    "31485": {
+      "nombre": "SHISEIDO GINZA EDP 90 ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31485",
       "en_stock": true
     },
     "31477": {
@@ -33113,6 +33155,7 @@
     "OBSESSION EDP 50ML REGULAR",
     "OBSESSION WOMAN  EDP 100ML REGULAR",
     "OBSESSION WOMAN EDP 100ML @",
+    "OLYMPEA ABSOLU INTENSE EDP 80 ML @",
     "OLYMPEA ELIXIR PARFUM 80 ML @",
     "OLYMPEA ELIXIR PARFUM 80 ML REGULAR",
     "OMAR SHARIF FEMME EDP 7,5ML RECARGA REGULAR",
@@ -33224,6 +33267,8 @@
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
+    "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
+    "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
     "PACO RABANNE POUR HOMME EDT 100ML @",
     "PALOMA PICASSO EDP 100ML @",
     "PALOMA PICASSO EDP 100ML REGULAR",
@@ -33337,6 +33382,8 @@
     "SARAH JESSICA PARKER  TWILIGHT WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER DAWN WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER NYC EDT 60ML @",
+    "SCALPERS HER & HERE EDP 100 ML @",
+    "SCALPERS THE BAND HIM EDP 100 ML @",
     "SCALPERS THE CLUB EDP 125 ML @",
     "SCALPERS THE SPEED CLUB EDP 125 ML @",
     "SEAN JOHN I AM KING EDT 100ML @",
@@ -33357,6 +33404,7 @@
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
+    "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
     "SET SOLO LOEWE ELLA EDP 100 ML + 20 ML REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
@@ -33367,6 +33415,7 @@
     "SHAKIRA ROJO EDP 80ML @",
     "SHAKIRA SWEET DREAMS EDT 80 ML @",
     "SHAKIRA WILD ELIXIR EDT 80 ML @",
+    "SHISEIDO GINZA EDP 90 ML @",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "SISLEY EAU DE CAMPAGNE UNISEX EDT 100ML @",
@@ -33389,6 +33438,7 @@
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
     "THAT´S AMORE! FOR WOMAN 75ML @",
     "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA)",
+    "TIFFANY&CO ROSE GOLD EDP 5 ML (CINCO ML) REGULAR",
     "TITTO BLUNI COLEZIONE EDT 100 ML @ (SIN CAJA)",
     "TOM FORD BLACK ORCHID WOMAN EDP  (CUADRADO NEGRO) 100 ML REGULAR",
     "TOM FORD NOIR EXTREME MAN EDP 100 ML REGULAR",
