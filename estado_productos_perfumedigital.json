@@ -10628,6 +10628,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42004": {
+      "nombre": "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42004",
+      "en_stock": true
+    },
+    "42003": {
+      "nombre": "JAWHARA ARABIC COLLECTION GOLDE NECTAR UNISEX EDP 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42003",
+      "en_stock": true
+    },
     "42002": {
       "nombre": "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
       "precio": "12.99 €",
@@ -32116,6 +32128,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19594",
       "en_stock": true
     },
+    "19016": {
+      "nombre": "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML @ (Sin caja, 60% del contenido)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19016",
+      "en_stock": true
+    },
     "17468": {
       "nombre": "BIG PONY FOR WOMEN N 2  EDT 100 ML @ (Sin caja)",
       "precio": "39.99 €",
@@ -32196,6 +32214,7 @@
     "AGUA DE COLONIA ÁLVAREZ GÓMEZ EDC 80ML @ (90% CONTENIDO)",
     "AGUA DE SEVILLA HOMME NOIR EDT 125 ML REGULAR",
     "AGUA FRESCA CITRUS CEDRO MAN EDT 120ML @",
+    "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "AGUA FRESCA MAN EDT 120ML @",
     "AIGNER FIRST CLAS EXPLORER EDT 100 ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
@@ -32832,6 +32851,8 @@
     "JAGUAR MEN (NEGRO) EDT 100ML REGULAR",
     "JAIPUR BRACELET EDP 100 ML REGULAR",
     "JAMES BOND 007 MEN EDT 125 ML REGULAR",
+    "JAWHARA ARABIC COLLECTION GOLDE NECTAR UNISEX EDP 100 ML @",
+    "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
     "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML @",
     "JEANNE LANVIN WOMAN EDP 100ML @",
     "JENNIFER LOPEZ BLUE GLOW EDT 100ML @",
