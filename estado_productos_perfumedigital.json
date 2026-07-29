@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42033": {
+      "nombre": "POLICE HYPERVERSE MAN EDT 100 ML REGULAR",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42033",
+      "en_stock": true
+    },
     "42032": {
       "nombre": "BENETTON WE ARE TRIBE PLAY EDT 90 ML REGULAR",
       "precio": "14.99 €",
@@ -8988,12 +8994,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14490",
       "en_stock": true
     },
-    "14443": {
-      "nombre": "EAU DE LACOSTE L.12.12 BLANC EDP 100 ML @",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14443",
-      "en_stock": true
-    },
     "14409": {
       "nombre": "CARTIER DECLARATION EDT 100 ML @",
       "precio": "69.99 €",
@@ -10686,6 +10686,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42036": {
+      "nombre": "TOUS EDP 50ML REGULAR (Caja ligeramente dañada)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42036",
+      "en_stock": true
+    },
+    "42035": {
+      "nombre": "AGUA FRESCA JAZMIN TONKA EDT 120ML REGULAR (caja dañada)",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42035",
       "en_stock": true
     },
     "42030": {
@@ -29978,6 +29990,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16326",
       "en_stock": true
     },
+    "16320": {
+      "nombre": "TOUS EDP 90ML REGULAR (Caja ligeramente dañada)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=16320",
+      "en_stock": true
+    },
     "16249": {
       "nombre": "L`INSTANT DE GUERLAIN EDP 75 ML @",
       "precio": "49.99 €",
@@ -32337,6 +32355,7 @@
     "AGUA FRESCA CITRUS CEDRO MAN EDT 120ML @",
     "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML REGULAR",
+    "AGUA FRESCA JAZMIN TONKA EDT 120ML REGULAR (CAJA DAÑADA)",
     "AGUA FRESCA MAN EDT 120ML @",
     "AIGNER FIRST CLAS EXPLORER EDT 100 ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
@@ -33396,6 +33415,7 @@
     "PLEASURES WOMAN EDP 30ML REGULAR",
     "POLICE COSMOPOLITAN MAN EDT 100 ML REGULAR",
     "POLICE DARK MAN EDT 100 ML REGULAR",
+    "POLICE HYPERVERSE MAN EDT 100 ML REGULAR",
     "POLICE PASION WOMAN EDT 100 ML REGULAR",
     "POLICE RICH GUY (HOMBRE) EDP 100 ML REGULAR",
     "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
@@ -33547,6 +33567,8 @@
     "TONINO LAMBORGHINI OVERALL WOMAN EDT 100 ML @",
     "TOTEM EDT 100 ML REGULAR",
     "TOTEM EDT 100 ML REGULAR (SIN CAJA)",
+    "TOUS EDP 50ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "TOUS EDP 90ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "TOUS EDT 90ML @",
     "TOUS GEMS POWER EDT 90 ML @ (SIN CAJA)",
     "TOUS KIDS BOY EDT 100 ML @",
