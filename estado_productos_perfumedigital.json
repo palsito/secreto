@@ -432,6 +432,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42032": {
+      "nombre": "BENETTON WE ARE TRIBE PLAY EDT 90 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42032",
+      "en_stock": true
+    },
+    "42031": {
+      "nombre": "BAD BOY EDT 50 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42031",
+      "en_stock": true
+    },
     "42022": {
       "nombre": "DAVID BECKHAM INSTINCT MAN 20 ANIVERSARIO EDP 75 ML @",
       "precio": "5.99 €",
@@ -10676,6 +10688,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42030": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (caja ligeramente dañada)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42030",
+      "en_stock": true
+    },
+    "42029": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (caja ligeramente dañada)",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42029",
+      "en_stock": true
+    },
+    "42028": {
+      "nombre": "CHLOE EDP 50 ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42028",
+      "en_stock": true
+    },
     "42010": {
       "nombre": "TIFFANY&CO ROSE GOLD EDP 5 ML (CINCO ML) REGULAR",
       "precio": "4.99 €",
@@ -17486,6 +17516,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38206",
       "en_stock": true
     },
+    "38194": {
+      "nombre": "FARALA ORIGINAL EDT 150 ML REGULAR",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38194",
+      "en_stock": true
+    },
     "38188": {
       "nombre": "ADIDAS FIZZY ENERGY DT 75 ML REGULAR",
       "precio": "6.99 €",
@@ -17532,6 +17568,12 @@
       "nombre": "AIRE DE SEVILLA LETRA R  EDT 150 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38126",
+      "en_stock": true
+    },
+    "38119": {
+      "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML REGULAR",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38119",
       "en_stock": true
     },
     "38114": {
@@ -17922,12 +17964,6 @@
       "nombre": "BOND Nº 9 SO NEW YORK EDP 100 ML UNISEX @",
       "precio": "129.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37903",
-      "en_stock": true
-    },
-    "37902": {
-      "nombre": "BOND Nº 9 OFF BROADWAY EDP 100 ML @",
-      "precio": "129.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37902",
       "en_stock": true
     },
     "37901": {
@@ -20244,6 +20280,12 @@
       "nombre": "BORNTOSTANDOUT ANGELS POWDER EDP 50 ML REGULAR",
       "precio": "149.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36796",
+      "en_stock": true
+    },
+    "36792": {
+      "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML @ (sin caja)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36792",
       "en_stock": true
     },
     "36778": {
@@ -25642,7 +25684,7 @@
     },
     "30524": {
       "nombre": "VARENS INDRA WOMAN EDP 100 ML @ (Sin caja)",
-      "precio": "6.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30524",
       "en_stock": true
     },
@@ -29408,6 +29450,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19039",
       "en_stock": true
     },
+    "19015": {
+      "nombre": "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19015",
+      "en_stock": true
+    },
     "19013": {
       "nombre": "TRUSSARDI DELICATE ROSE EDT 100 ML REGULAR",
       "precio": "44.99 €",
@@ -31720,6 +31768,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42025": {
+      "nombre": "LOTE 5 UNIDADES DE SAPHIR VARIADAS EDP 30 ML @ (sin caja, en total 150 ml)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42025",
+      "en_stock": true
+    },
     "41922": {
       "nombre": "TOUS GEMS POWER EDT 90 ML @ (Sin caja)",
       "precio": "22.99 €",
@@ -32294,6 +32348,7 @@
     "AGUA DE SEVILLA HOMME NOIR EDT 125 ML REGULAR",
     "AGUA FRESCA CITRUS CEDRO MAN EDT 120ML @",
     "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
+    "AGUA FRESCA DE ROSAS BLANCAS EDT 120 ML REGULAR",
     "AGUA FRESCA MAN EDT 120ML @",
     "AIGNER FIRST CLAS EXPLORER EDT 100 ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
@@ -32421,6 +32476,7 @@
     "B.U. WILD EDT 50 ML @",
     "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
+    "BAD BOY EDT 50 ML REGULAR",
     "BAMBINA EDT 100ML @",
     "BATTICUORE AMBER EDT 50ML @ (SIN CAJA)",
     "BATTICUORE GINSENG EDT 50ML @ (SIN CAJA)",
@@ -32438,6 +32494,7 @@
     "BENETTON LIVE FREE EDT 80 ML @",
     "BENETTON LOVE YOURSELF EDT 80 ML @",
     "BENETTON WE ARE TRIBE COOL EDT 90 ML @",
+    "BENETTON WE ARE TRIBE PLAY EDT 90 ML REGULAR",
     "BENTLEY FOR MEN AZURE EDT 100 ML @",
     "BENTLEY INFINITE EDT 100 ML @",
     "BENTLEY INFINITE INTENSE EDP 100 ML @",
@@ -32561,6 +32618,8 @@
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+    "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CARTIER DECLARATION EDT 100 ML @",
     "CARTIER PANTHERE EDP 100 ML @",
     "CASMIR EDP 100ML REGULAR",
@@ -32588,6 +32647,7 @@
     "CHARRO FOR WOMAN EDP 100 ML REGULAR",
     "CHARRO RED WOMAN EDP 100 ML REGULAR",
     "CHIC WOMAN EDP 80ML @",
+    "CHLOE EDP 50 ML REGULAR",
     "CHLOE EDT WOMAN 75ML @",
     "CHLOE INTENSE EDP 100ML @",
     "CHLOE LOVE STORY WOMAN EDP 75 ML @ + MINIBOLSO CHLOE + VERA WANG 30 ML REGULAR DE REGALO",
@@ -32784,6 +32844,7 @@
     "FAHRENHEIT EDT 100ML REGULAR",
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
     "FANTASY EDP 100ML REGULAR",
+    "FARALA ORIGINAL EDT 150 ML REGULAR",
     "FCUK HER EDT 100 ML REGULAR",
     "FCUK HER SUMMER EDT 100 ML REGULAR",
     "FCUK HIM EDT 100 ML REGULAR",
@@ -33057,6 +33118,7 @@
     "LOTE 27 DE MUJER: ANTONIO PUIG ANOUK EDT 100 ML @ + MANDARINA DUCK LETS MIAMI FOR HER EDT 100 ML @ + SPRINGFIELD PURE ATTITUDE FLORAL CITRUS EDT 100ML @ + FARALA ORIGINAL EDT 75 ML @",
     "LOTE 29 DE MUJER: VANDERBILT WOMAN EDT 100ML @ + INESSANCE PARIS EAU DE COLOGNE FRAICHEUR 500 ML + DON ALGODON MUJER EDT 100 ML @ + COQUETTE COUCOU MA BELLE EDT 100 ML@ (SIN CAJA)",
     "LOTE 4 DE MUJER: ANTONIO PUIG ANOUK EDT 100 ML @ + PRET A PORTER BERLIN FASHION COLLECTION EDP 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @ + PACHA 24/ VIP WOMAN EDT 80 ML @",
+    "LOTE 5 UNIDADES DE SAPHIR VARIADAS EDP 30 ML @ (SIN CAJA, EN TOTAL 150 ML)",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + ALASKA Y MARIO POCION PARA EL 100 ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
@@ -33614,6 +33676,8 @@
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "ZADIG BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML @",
     "ZINNIA WOMAN EDT 100 ML @",
-    "ZINO DAVIDOFF EDT 125 ML REGULAR"
+    "ZINO DAVIDOFF EDT 125 ML REGULAR",
+    "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML @ (SIN CAJA)",
+    "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML REGULAR"
   ]
 }
