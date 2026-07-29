@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42022": {
+      "nombre": "DAVID BECKHAM INSTINCT MAN 20 ANIVERSARIO EDP 75 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42022",
+      "en_stock": true
+    },
     "42011": {
       "nombre": "TOM FORD NOIR EXTREME MAN EDP 50 ML @",
       "precio": "86.99 €",
@@ -3042,6 +3048,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37889",
       "en_stock": true
     },
+    "37863": {
+      "nombre": "AZZARO CHROME UNITED MEN EDT 100ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37863",
+      "en_stock": true
+    },
     "37862": {
       "nombre": "AZZARO CHROME AZZURE MEN EDT 100ML @",
       "precio": "44.99 €",
@@ -3388,6 +3400,12 @@
       "nombre": "HAUTE FRAGRANCE COMPANY LOVER MAN EDP 75 ML @",
       "precio": "129.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37254",
+      "en_stock": true
+    },
+    "37240": {
+      "nombre": "ACQUA DI PARMA COLONIA FUTURA EDT 50 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37240",
       "en_stock": true
     },
     "37222": {
@@ -4702,12 +4720,6 @@
       "nombre": "ETERNITY FOR MEN PARFUM (MAS INTENSA QUE LA EDP) 100ML @",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34278",
-      "en_stock": true
-    },
-    "34244": {
-      "nombre": "ACQUA DI PARMA COLONIA FUTURA EDT 100 ML @",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34244",
       "en_stock": true
     },
     "34242": {
@@ -8106,6 +8118,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20005",
       "en_stock": true
     },
+    "19969": {
+      "nombre": "TERRE D HERMES EDT 100ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19969",
+      "en_stock": true
+    },
     "19935": {
       "nombre": "L`EAU D`ISSEY POUR HOMME SPORT EDT 100ML REGULAR",
       "precio": "46.99 €",
@@ -10665,7 +10683,7 @@
       "en_stock": true
     },
     "42003": {
-      "nombre": "JAWHARA ARABIC COLLECTION GOLDE NECTAR UNISEX EDP 100 ML @",
+      "nombre": "JAWHARA ARABIC COLLECTION GOLDEN NECTAR UNISEX EDP 100 ML @",
       "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42003",
       "en_stock": true
@@ -32238,6 +32256,7 @@
     "ACQUA DI PARMA BLU MEDITERRANEO MANDARINO DI SICILIA EDT UNISEX 180 ML REGULAR",
     "ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT UNISEX 100 ML REGULAR",
     "ACQUA DI PARMA BLU MEDITERRANEO MANDORLO DI SICILIA EDT UNISEX 180 ML REGULAR",
+    "ACQUA DI PARMA COLONIA FUTURA EDT 50 ML REGULAR",
     "ACQUA DI PARMA LUCE DI ROSA EDP 100 ML REGULAR",
     "ACQUA DI PARMA LUCE DI ROSA EDP 180 ML REGULAR",
     "ACQUA DI PARMA MAGNOLIA INFINITA EDP 100 ML REGULAR",
@@ -32374,6 +32393,7 @@
     "AZZARO CHROME MEN EDT 100ML @",
     "AZZARO CHROME MEN EDT 100ML REGULAR",
     "AZZARO CHROME MEN EDT 200ML REGULAR",
+    "AZZARO CHROME UNITED MEN EDT 100ML @",
     "AZZARO FOREVER WANTED ABSOLU EDP 100 ML @",
     "AZZARO JOLIE ROSE EDT 50 ML REGULAR",
     "AZZARO NIGHT TIME EDT 100 ML REGULAR",
@@ -32630,6 +32650,7 @@
     "D&G THE ONE FOR MEN EDT 100ML REGULAR",
     "D&G THE ONE WOMAN EDP 11ML (RECARGABLE) @",
     "D&G VELVET ZAFFERANO EDP 100 ML @",
+    "DAVID BECKHAM INSTINCT MAN 20 ANIVERSARIO EDP 75 ML @",
     "DAVID BECKHAM SIGNATURE STORY WOMAN EDT 75 ML @",
     "DAVID BISBAL PURA ESENCIA MAN EDT 100 ML @",
     "DAVID BISBAL PURA ESENCIA WOMAN EDT 100 ML @",
@@ -33450,6 +33471,7 @@
     "TABAC SPORT EDT 100ML @",
     "TERRE D HERMES EDP 75ML @",
     "TERRE D HERMES EDT 100ML @",
+    "TERRE D HERMES EDT 100ML REGULAR",
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
     "THAT´S AMORE! FOR WOMAN 75ML @",
     "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA)",
