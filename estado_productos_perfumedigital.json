@@ -996,6 +996,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40838",
       "en_stock": true
     },
+    "40837": {
+      "nombre": "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (caja ligeramente dañada)",
+      "precio": "57.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40837",
+      "en_stock": true
+    },
     "40834": {
       "nombre": "GUCCI GUILTY MEN EDP 90 ML REGULAR",
       "precio": "59.99 €",
@@ -6124,12 +6130,6 @@
       "nombre": "UNGARO L`HOMME EDT 100 ML @",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30497",
-      "en_stock": true
-    },
-    "30496": {
-      "nombre": "GIVENCHY GENTLEMAN EDP 100ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30496",
       "en_stock": true
     },
     "30494": {
@@ -28688,6 +28688,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21252",
       "en_stock": true
     },
+    "21224": {
+      "nombre": "ULRIC DE VARENS MINI SEXY EDP 25 ML REGULAR",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21224",
+      "en_stock": true
+    },
     "21222": {
       "nombre": "ULRIC DE VARENS EAU DE VARENS Nº 3 UNISEX EDT 150 ML @ (Sin caja)",
       "precio": "5.99 €",
@@ -32586,6 +32592,7 @@
     "BOND Nº 9 WEST BROADWAY EDP 50 ML REGULAR UNISEX",
     "BONGO EDT 100 ML REGULAR",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
+    "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "BOSS BOTTLED MAN EDT 100 ML REGULAR",
     "BOSS BOTTLED MAN EDT 50 ML REGULAR (SIN CAJA)",
     "BOSS BOTTLED MAN NIGHT EDT 100ML REGULAR",
@@ -33636,6 +33643,7 @@
     "TRÉSOR EDP 100ML @",
     "U BLACK WOMAN EDT 75ML @",
     "ULRIC DE VARENS EAU DE VARENS Nº 7 UNISEX EDT 150 ML @ (SIN CAJA)",
+    "ULRIC DE VARENS MINI SEXY EDP 25 ML REGULAR",
     "ULTRARED MAN EDT 100ML @",
     "ULTRARED WOMAN EDP 80ML@",
     "ULTRAVIOLET MAN EDT 100ML REGULAR",
