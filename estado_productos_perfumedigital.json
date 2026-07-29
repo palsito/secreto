@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "42020": {
+      "nombre": "BENETTON WE ARE TRIBE COOL EDT 90 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42020",
+      "en_stock": true
+    },
     "41932": {
       "nombre": "ETERNITY FOR MEN EDT 15 ML @ (Sin caja, no es vaporizador es splash)",
       "precio": "1.99 €",
@@ -22774,7 +22780,7 @@
     },
     "34778": {
       "nombre": "MAROUSSIA EDT 100ML @",
-      "precio": "7.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34778",
       "en_stock": true
     },
@@ -32399,6 +32405,7 @@
     "BENETTON ENERGY MAN 100ML REGULAR",
     "BENETTON LIVE FREE EDT 80 ML @",
     "BENETTON LOVE YOURSELF EDT 80 ML @",
+    "BENETTON WE ARE TRIBE COOL EDT 90 ML @",
     "BENTLEY FOR MEN AZURE EDT 100 ML @",
     "BENTLEY INFINITE EDT 100 ML @",
     "BENTLEY INFINITE INTENSE EDP 100 ML @",
