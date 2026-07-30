@@ -4398,6 +4398,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35135",
       "en_stock": true
     },
+    "35132": {
+      "nombre": "ÁLVAREZ GÓMEZ VERSION BARBERIA EDP 80 ML @ + BARBERIA EDP 30 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35132",
+      "en_stock": true
+    },
     "35121": {
       "nombre": "TPF NUMBER ONE EDT 60 ML @",
       "precio": "1.99 €",
@@ -33721,6 +33727,7 @@
     "ZINNIA WOMAN EDT 100 ML @",
     "ZINO DAVIDOFF EDT 125 ML REGULAR",
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML @ (SIN CAJA)",
-    "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML REGULAR"
+    "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML REGULAR",
+    "ÁLVAREZ GÓMEZ VERSION BARBERIA EDP 80 ML @ + BARBERIA EDP 30 ML @"
   ]
 }
