@@ -432,6 +432,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42062": {
+      "nombre": "AZZARO WANTED ELIXIR PARFUM 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42062",
+      "en_stock": true
+    },
+    "42061": {
+      "nombre": "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42061",
+      "en_stock": true
+    },
     "42041": {
       "nombre": "BOSS BOTTLED MAN EDT 30 ML REGULAR",
       "precio": "22.99 €",
@@ -1804,6 +1816,12 @@
       "nombre": "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML REGULAR",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39441",
+      "en_stock": true
+    },
+    "39439": {
+      "nombre": "JPG SCANDAL FOR HIM ELIXIR PARFUM 100 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39439",
       "en_stock": true
     },
     "39390": {
@@ -3476,7 +3494,7 @@
     },
     "37036": {
       "nombre": "BOSS BOTTLED BEYOND EDP 100 ML REGULAR",
-      "precio": "69.99 €",
+      "precio": "64.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37036",
       "en_stock": true
     },
@@ -8358,6 +8376,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=18980",
       "en_stock": true
     },
+    "18926": {
+      "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML REGULAR",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=18926",
+      "en_stock": true
+    },
     "18793": {
       "nombre": "JUST CAVALLI MAN EDT 90 ML REGULAR",
       "precio": "29.99 €",
@@ -10698,6 +10722,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42063": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML REGULAR",
+      "precio": "81.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42063",
+      "en_stock": true
+    },
+    "42060": {
+      "nombre": "MOSCHINO TOY 2 YUMMY EDP 100 ML REGULAR",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42060",
       "en_stock": true
     },
     "42059": {
@@ -14904,6 +14940,12 @@
       "nombre": "EUPHORIA SOLAR ELIXIR WOMAN EDP 100 ML REGULAR",
       "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39425",
+      "en_stock": true
+    },
+    "39424": {
+      "nombre": "EUPHORIA MAGNETIC ELIXIR WOMAN EDP 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39424",
       "en_stock": true
     },
     "39423": {
@@ -32523,6 +32565,7 @@
     "AZZARO POUR HOMME EDT 100ML REGULAR",
     "AZZARO SILVER BLACK EDT 100ML REGULAR",
     "AZZARO TWIN WOMAN EDT 50ML @",
+    "AZZARO WANTED ELIXIR PARFUM 100 ML @",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
     "B.U. ABSOLUTE ME EDT 50 ML @",
     "B.U. CANDY LOVE EDT 50 ML @",
@@ -32604,6 +32647,7 @@
     "BOND Nº 9 WEST BROADWAY EDP 50 ML REGULAR UNISEX",
     "BONGO EDT 100 ML REGULAR",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
+    "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "BOSS BOTTLED MAN EDT 100 ML REGULAR",
     "BOSS BOTTLED MAN EDT 50 ML REGULAR (SIN CAJA)",
@@ -32679,6 +32723,7 @@
     "CAROLINA HERRERA 212 VIP EDP 80ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
+    "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
@@ -32907,6 +32952,7 @@
     "ETRO MAGOT EDT 100 ML REGULAR UNISEX",
     "ETRO NECTAR EDP 100 ML @",
     "EUPHORIA ENDLESS EDP 125 ML REGULAR",
+    "EUPHORIA MAGNETIC ELIXIR WOMAN EDP 100 ML REGULAR",
     "EUPHORIA MEN EDT 100ML REGULAR",
     "FAHRENHEIT EDT 100ML REGULAR",
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
@@ -33103,6 +33149,7 @@
     "JPG LE MALE PRIDE EDITION EDT 125ML @",
     "JPG SCANDAL EDP 80 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
+    "JPG SCANDAL FOR HIM ELIXIR PARFUM 100 ML REGULAR",
     "JPG SCANDAL POUR HOMME EDT 100 ML @",
     "JPG ULTRA MALE INTENSE EDT 125ML REGULAR",
     "JUICE COUTURE LA LA WOMAN  EDP 100 ML REGULAR",
@@ -33439,6 +33486,7 @@
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
+    "PACO RABANNE INVICTUS MAN EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
     "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
     "PACO RABANNE POUR HOMME EDT 100ML @",
