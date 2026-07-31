@@ -5832,6 +5832,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31184",
       "en_stock": true
     },
+    "31182": {
+      "nombre": "PACHA I AM BE INSANE HIM EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31182",
+      "en_stock": true
+    },
     "31181": {
       "nombre": "MTV AMPLIFIED MAN EDT 50 ML @ (sin caja)",
       "precio": "6.99 €",
@@ -10728,6 +10734,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42071": {
+      "nombre": "JAWHARA SULTAN ROSE UNISEX EDP 100 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42071",
       "en_stock": true
     },
     "42070": {
@@ -33098,6 +33110,7 @@
     "JAWHARA AMBERWOOD NOMADE UNISEX EDP 100 ML @",
     "JAWHARA ARABIC COLLECTION GOLDE NECTAR UNISEX EDP 100 ML @",
     "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
+    "JAWHARA SULTAN ROSE UNISEX EDP 100 ML @",
     "JAWHARA SWEET DATES UNISEX EDP 100 ML @",
     "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML @",
     "JEANNE LANVIN WOMAN EDP 100ML @",
