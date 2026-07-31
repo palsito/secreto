@@ -5058,6 +5058,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33333",
       "en_stock": true
     },
+    "33316": {
+      "nombre": "BUSTAMANTE MUY MIO ORIGEN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33316",
+      "en_stock": true
+    },
     "33302": {
       "nombre": "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
       "precio": "3.99 €",
@@ -6026,7 +6032,7 @@
     },
     "30681": {
       "nombre": "BENETTON COLORS MAN BLACK EDT 100 ML @",
-      "precio": "14.99 €",
+      "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30681",
       "en_stock": true
     },
@@ -10728,6 +10734,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42070": {
+      "nombre": "JAWHARA SWEET DATES UNISEX EDP 100 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42070",
+      "en_stock": true
+    },
+    "42069": {
+      "nombre": "JAWHARA AMBERWOOD NOMADE UNISEX EDP 100 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42069",
       "en_stock": true
     },
     "42063": {
@@ -20360,12 +20378,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36796",
       "en_stock": true
     },
-    "36792": {
-      "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML @ (sin caja)",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36792",
-      "en_stock": true
-    },
     "36778": {
       "nombre": "CHANSON D´EAU AROMAS ROSE GRASSE EDT 100 ML REGULAR (caja ligeramente dañada)",
       "precio": "5.99 €",
@@ -23910,6 +23922,12 @@
       "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33956",
+      "en_stock": true
+    },
+    "33955": {
+      "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33955",
       "en_stock": true
     },
     "33947": {
@@ -31960,6 +31978,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38448",
       "en_stock": true
     },
+    "38230": {
+      "nombre": "DON ALGODON HOMBRE EDT 100 ML REGULAR (Sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38230",
+      "en_stock": true
+    },
     "38203": {
       "nombre": "SAPHIR ELITE DARK DREAM EAU DE PARFUM 100 ML REGULAR (sin caja)",
       "precio": "9.99 €",
@@ -32660,6 +32684,7 @@
     "BURBERRY WEEKEND WOMAN EDP 100ML @",
     "BURBERRY WOMEN EDP 100ML  @",
     "BURBERRY WOMEN EDP 100ML REGULAR",
+    "BUSTAMANTE MUY MIO ORIGEN EDT 100 ML @",
     "BVLGARI AQVA MARINE POUR HOMME EDT 100ML @",
     "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML REGULAR",
     "BVLGARI POUR HOMME EDT 100ML @",
@@ -32834,6 +32859,7 @@
     "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
     "DOLCE & GABBANA POUR HOMME EDT 125ML @",
     "DOLCE MAGNOLIA EDP 75 ML @",
+    "DON ALGODON HOMBRE EDT 100 ML REGULAR (SIN CAJA)",
     "DON ALGODON LA VIE EN ROSE MUJER  EDT 30 ML @",
     "DSQUARED2 ICON POUR FEMME EDP 100 ML REGULAR",
     "DSQUARED2 ICON POUR HOMME EDP 100 ML REGULAR",
@@ -33075,8 +33101,10 @@
     "JAGUAR MEN (NEGRO) EDT 100ML REGULAR",
     "JAIPUR BRACELET EDP 100 ML REGULAR",
     "JAMES BOND 007 MEN EDT 125 ML REGULAR",
+    "JAWHARA AMBERWOOD NOMADE UNISEX EDP 100 ML @",
     "JAWHARA ARABIC COLLECTION GOLDE NECTAR UNISEX EDP 100 ML @",
     "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
+    "JAWHARA SWEET DATES UNISEX EDP 100 ML @",
     "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML @",
     "JEANNE LANVIN WOMAN EDP 100ML @",
     "JENNIFER LOPEZ BLUE GLOW EDT 100ML @",
@@ -33734,6 +33762,7 @@
     "VICTORIO & LUCCHINO AGUA N 5 JAZMIN, PIMIENTA NEGRA Y CASSIS 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 6 MAGNOLIA, FLOR DE AGUA Y MELOCOTON 150 ML REGULAR",
     "VICTORIO & LUCCHINO AGUAS INFANTILES CORRE QUE TE PILLO EDC 150 ML @ + COLORIN COLORADO EDC 150 ML @",
+    "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @",
     "VICTORIO Y LUCCHINO CAPRICHO FLORAL TENTACION DE ROSAS 100 ML @",
     "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
     "W ACQUA VERINO WOMAN  EDT 50ML @",
