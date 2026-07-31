@@ -6564,12 +6564,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27850",
       "en_stock": true
     },
-    "27849": {
-      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 1 VITALIDAD SALVAJE 150 ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27849",
-      "en_stock": true
-    },
     "27826": {
       "nombre": "TITTO BLUNI AQUA (VERDE) EDT 75ML @",
       "precio": "6.99 €",
@@ -10824,12 +10818,6 @@
       "nombre": "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42002",
-      "en_stock": true
-    },
-    "42001": {
-      "nombre": "MIU MIU FLEUR DE LAIT EDP 100 ML @",
-      "precio": "54.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42001",
       "en_stock": true
     },
     "42000": {
@@ -29006,6 +28994,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20373",
       "en_stock": true
     },
+    "20372": {
+      "nombre": "SET CHARRO FOR WOMAN EDP 30 ML + GEL 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20372",
+      "en_stock": true
+    },
     "20345": {
       "nombre": "ARDEN 5TH AVENUE NYC EDP 125 ML REGULAR",
       "precio": "19.99 €",
@@ -33587,6 +33581,7 @@
     "SET BOSS BOTTLED EDT 100 ML + EDT 30 ML REGULAR",
     "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
+    "SET CHARRO FOR WOMAN EDP 30 ML + GEL 100 ML REGULAR",
     "SET CHARRO WOMAN 30ML + GEL 100 ML + BODY LOCION 100 ML REGULAR",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
