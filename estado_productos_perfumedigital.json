@@ -10460,6 +10460,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35255",
       "en_stock": true
     },
+    "35240": {
+      "nombre": "PACK 4x1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35240",
+      "en_stock": true
+    },
     "35239": {
       "nombre": "LOTE 19 DE MUJER: VICKY MARTIN BERROCAL ALBA WOMAN EDT 100 ML @ + BODY MIST HAWAIIAN TROPIC OASIS 250 ML @ + NIKE TRENDY PINK EDT 100 ML @ + BODY MIST LAISEVEN LAVANDA 200 ML @",
       "precio": "7.99 €",
@@ -12810,12 +12816,6 @@
       "nombre": "EIGHT & BOB CHAMPS DE PROVENCE EDP 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40558",
-      "en_stock": true
-    },
-    "40557": {
-      "nombre": "EIGHT & BOB CAP DANTIBES EDP 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40557",
       "en_stock": true
     },
     "40547": {
@@ -15954,12 +15954,6 @@
       "nombre": "NICOLAI PARFUMEUR CREATEUR MUCS INTENSE EDP 100 ML REGULAR",
       "precio": "106.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38943",
-      "en_stock": true
-    },
-    "38942": {
-      "nombre": "NICOLAI PARFUMEUR CREATEUR INCENSE OUD EDP 100 ML REGULAR",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38942",
       "en_stock": true
     },
     "38941": {
@@ -20246,12 +20240,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36842",
       "en_stock": true
     },
-    "36841": {
-      "nombre": "FRANCK BOCLET ASHES EXTRAIT DE PARFUM EDP 100 ML (Sin caja)",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36841",
-      "en_stock": true
-    },
     "36839": {
       "nombre": "ROJA PARFUMS ENIGMA POUR FEMME EDP 75 ML@ (SIN CAJA)",
       "precio": "199.99 €",
@@ -22436,6 +22424,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35214",
       "en_stock": true
     },
+    "35210": {
+      "nombre": "WOMAN SECRET DAILY ROMANCE 250 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35210",
+      "en_stock": true
+    },
     "35203": {
       "nombre": "BODY MIST SHIMMER HAWAIIAN TROPIC SUMMER DREAMS 250 ML @",
       "precio": "3.99 €",
@@ -22614,6 +22608,12 @@
       "nombre": "TPF BOUQUET EDT 60 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35137",
+      "en_stock": true
+    },
+    "35136": {
+      "nombre": "WOMAN SECRET BODY MIST KISS MOMENTS 250 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35136",
       "en_stock": true
     },
     "35130": {
@@ -33502,6 +33502,7 @@
     "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
     "PACK 3X1 VERANO: LANCASTER 365 CONCENTRE LOTION JEUNESSE 200 ML REGULAR + WOMAN SECRET BODY MIST EXOTIC LOVE 250 ML @ + BOLSA NECESER NIVEA",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
+    "PACK 4X1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
     "PACK 5 FRAGANCIAS TAMAÑO PEQUEÑO 89 ML EN TOTAL",
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PACK FRAGANCIAS FRESCAS: ANGEL SCHLESSER LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @ + CK ONE SUMMER REFLECTIONS EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
@@ -33799,6 +33800,8 @@
     "WHISKY MAN VINTAGE EDT 100 ML REGULAR",
     "WHITE DIAMONDS EDT 100ML REGULAR",
     "WHITE DIAMONDS EDT 50ML REGULAR",
+    "WOMAN SECRET BODY MIST KISS MOMENTS 250 ML @",
+    "WOMAN SECRET DAILY ROMANCE 250 ML @",
     "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
     "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
     "WOMAN SECRET ITS FRESH EDT 100 ML @",
