@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42079": {
+      "nombre": "CARAMELO LAVENDER WOODS MAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42079",
+      "en_stock": true
+    },
+    "42078": {
+      "nombre": "CARAMELO VETIVER LUSH MAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42078",
+      "en_stock": true
+    },
+    "42077": {
+      "nombre": "CARAMELO TONKA BREEZE MAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42077",
+      "en_stock": true
+    },
     "42065": {
       "nombre": "GAULTIER LE MALE COLLECTOR EDITION 125 ML REGULAR",
       "precio": "82.99 €",
@@ -9932,6 +9950,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42080": {
+      "nombre": "PACK 3x1 WOMAN: CARAMELO FREESIA BLOOM EDT 100 ML @ + FRUITY VELVET EDT 100 ML @ + CHERRY SWEETNESS EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42080",
+      "en_stock": true
+    },
     "42068": {
       "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ + BOLSA NECESER DE REGALO",
       "precio": "12.99 €",
@@ -10746,6 +10770,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42076": {
+      "nombre": "CARAMELO CHERRY SWEETNESS WOMAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42076",
+      "en_stock": true
+    },
+    "42075": {
+      "nombre": "CARAMELO FREESIA BLOOM WOMAN EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42075",
+      "en_stock": true
+    },
+    "42074": {
+      "nombre": "CARAMELO FRUITY VELVET  EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42074",
       "en_stock": true
     },
     "42072": {
@@ -22574,6 +22616,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35136",
       "en_stock": true
     },
+    "35133": {
+      "nombre": "WOMAN SECRET BODY MIST  PRETTY & SEXY 250 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35133",
+      "en_stock": true
+    },
     "35130": {
       "nombre": "WOMAN SECRET BODY MIST EXOTIC LOVE 250 ML @",
       "precio": "4.99 €",
@@ -22914,6 +22962,12 @@
       "nombre": "SHAKIRA ROJO EDP 80ML @",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34776",
+      "en_stock": true
+    },
+    "34775": {
+      "nombre": "V&L EVASION AZUL 250 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34775",
       "en_stock": true
     },
     "34772": {
@@ -32687,6 +32741,12 @@
     "CALVIN KLEIN MAN EDT 100ML @",
     "CALVIN KLEIN SHEER BEAUTY WOMAN EDT 100 ML REGULAR",
     "CALVIN KLEIN TRUTH WOMAN EDP 100ML REGULAR",
+    "CARAMELO CHERRY SWEETNESS WOMAN EDT 100 ML @",
+    "CARAMELO FREESIA BLOOM WOMAN EDT 100 ML @",
+    "CARAMELO FRUITY VELVET  EDT 100 ML @",
+    "CARAMELO LAVENDER WOODS MAN EDT 100 ML @",
+    "CARAMELO TONKA BREEZE MAN EDT 100 ML @",
+    "CARAMELO VETIVER LUSH MAN EDT 100 ML @",
     "CARMEN SEVILLA JOYA EDT 100 ML @",
     "CAROLINA HERRERA 212 VIP EDP 80ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
@@ -33453,6 +33513,7 @@
     "PACHA PSICODELIC WOMAN EDT 80ML REGULAR",
     "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
     "PACK 3X1 VERANO: LANCASTER 365 CONCENTRE LOTION JEUNESSE 200 ML REGULAR + WOMAN SECRET BODY MIST EXOTIC LOVE 250 ML @ + BOLSA NECESER NIVEA",
+    "PACK 3X1 WOMAN: CARAMELO FREESIA BLOOM EDT 100 ML @ + FRUITY VELVET EDT 100 ML @ + CHERRY SWEETNESS EDT 100 ML @",
     "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
     "PACK 4X1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
     "PACK 5 FRAGANCIAS TAMAÑO PEQUEÑO 89 ML EN TOTAL",
@@ -33696,6 +33757,7 @@
     "UNGARO APPARITION PINK WOMAN EDT 90 ML REGULAR",
     "UNGARO DIVA EDP 100 ML @",
     "USHER ELLA EDP 100 ML REGULAR",
+    "V&L EVASION AZUL 250 ML @",
     "VALENTINA EDP 80 ML @",
     "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
     "VALENTINO BORN IN ROMA EXTRADOSE DONNA  PARFUM 100 ML @",
@@ -33752,6 +33814,7 @@
     "WHISKY MAN VINTAGE EDT 100 ML REGULAR",
     "WHITE DIAMONDS EDT 100ML REGULAR",
     "WHITE DIAMONDS EDT 50ML REGULAR",
+    "WOMAN SECRET BODY MIST  PRETTY & SEXY 250 ML @",
     "WOMAN SECRET BODY MIST KISS MOMENTS 250 ML @",
     "WOMAN SECRET DAILY ROMANCE 250 ML @",
     "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
