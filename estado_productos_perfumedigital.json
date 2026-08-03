@@ -3744,6 +3744,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36287",
       "en_stock": true
     },
+    "36282": {
+      "nombre": "REEBOOK ACTIVATE YOUR SENSES FOR MEN EDT 100 ML @",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36282",
+      "en_stock": true
+    },
     "36278": {
       "nombre": "BUSTAMANTE MUY MIO POWER EDT 100 ML @",
       "precio": "4.99 €",
@@ -5138,7 +5144,7 @@
     },
     "33022": {
       "nombre": "REEBOOK COOL  MAN EDT 100 ML @",
-      "precio": "3.99 €",
+      "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33022",
       "en_stock": true
     },
@@ -10784,6 +10790,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42084": {
+      "nombre": "TPF BEAUTY IN FREEDOM 60 ML @",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42084",
+      "en_stock": true
+    },
+    "42083": {
+      "nombre": "CHANSON D´EAU BODY MIST BRUMA PERFUMADA PEACH MELOCOTON 75 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42083",
+      "en_stock": true
+    },
     "42082": {
       "nombre": "CHANSON D´EAU BODY MIST BRUMA PERFUMADA COCO 75 ML @",
       "precio": "2.99 €",
@@ -13728,6 +13746,12 @@
       "nombre": "ARMANI SI NUDE BLOOM EDP 100 ML @",
       "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40162",
+      "en_stock": true
+    },
+    "40159": {
+      "nombre": "FILIPPO SORCINELLI CHIESA DO`MM EXTRAIT 100 ML @ (Sin caja y sin tapon)",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40159",
       "en_stock": true
     },
     "40157": {
@@ -22642,7 +22666,7 @@
     },
     "35125": {
       "nombre": "TPF LUNE D OR EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35125",
       "en_stock": true
     },
@@ -24726,6 +24750,12 @@
       "nombre": "TPF OH MY LOVE EDT 60 ML @ ~",
       "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32339",
+      "en_stock": true
+    },
+    "32337": {
+      "nombre": "TPF FAIR LOVE EDT 60 ML @ ~",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32337",
       "en_stock": true
     },
     "32335": {
@@ -32755,6 +32785,7 @@
     "CHANEL GABRIELLE ESSENCE EDP 100 ML @",
     "CHANEL Nº 5 EDP 100ML @",
     "CHANSON D´EAU BODY MIST BRUMA PERFUMADA CHERRY 75 ML @",
+    "CHANSON D´EAU BODY MIST BRUMA PERFUMADA PEACH MELOCOTON 75 ML @",
     "CHANTILLY BLACK LACE EDT 60ML REGULAR",
     "CHARLIE REVLON BLUE EDT 100 ML (CAJA LIGERAMENTE DAÑADA) @",
     "CHARLIE REVLON SILVER EDT 100 MLREGULAR",
@@ -32983,6 +33014,7 @@
     "FERRAGAMO INCANTO POUR HOMME EDT 100 ML @",
     "FERRARI RED EDT 125ML @",
     "FIDJI  WOMAN EDT 100ML @",
+    "FILIPPO SORCINELLI CHIESA DO`MM EXTRAIT 100 ML @ (SIN CAJA Y SIN TAPON)",
     "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 100 ML @",
     "FLEUR D`OSMANTHUS EAU FRAICHE PERFUMEE 30 ML @",
     "FLOWER BY KENZO EDP 50 ML @",
@@ -33578,6 +33610,7 @@
     "REBEL CRAZY WOMAN EDT 100 ML @ (SIN CAJA)",
     "RED DOOR AURA EDT 100 ML REGULAR",
     "RED DOOR ETERNAL AURA EDP 100 ML @",
+    "REEBOOK ACTIVATE YOUR SENSES FOR MEN EDT 100 ML @",
     "REEBOOK ICONIC STATEMENT BLUE FOR MEN EDP 100 ML @",
     "REGULAR",
     "REMINISCENCE MUSC FEMME EDT 100ML REGULAR",
@@ -33717,6 +33750,7 @@
     "TOUS SORBET GARDEN EDT 90 ML @",
     "TOUS TOUCH EDT 100ML @",
     "TOUS YOUR POWERS (AMARILLA) EDT 90 ML @ (80% DEL CONTENIDO)",
+    "TPF BEAUTY IN FREEDOM 60 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "TPF INVENCIBLE EDT 60 ML @",
     "TPF SEXY GIRL EDT 60 ML @",
