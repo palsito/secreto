@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42081": {
+      "nombre": "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42081",
+      "en_stock": true
+    },
     "42079": {
       "nombre": "CARAMELO LAVENDER WOODS MAN EDT 100 ML @",
       "precio": "4.99 €",
@@ -3722,7 +3728,7 @@
     },
     "36293": {
       "nombre": "PRET A PORTER BERLIN FASHION COLLECTION EDP 100 ML @",
-      "precio": "5.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36293",
       "en_stock": true
     },
@@ -3746,7 +3752,7 @@
     },
     "36274": {
       "nombre": "TPF OWN IDENTITY EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36274",
       "en_stock": true
     },
@@ -4412,13 +4418,13 @@
     },
     "35140": {
       "nombre": "TPF BLUE SPORT EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35140",
       "en_stock": true
     },
     "35135": {
       "nombre": "TPF KINGDOM EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35135",
       "en_stock": true
     },
@@ -4426,6 +4432,12 @@
       "nombre": "ÁLVAREZ GÓMEZ VERSION BARBERIA EDP 80 ML @ + BARBERIA EDP 30 ML @",
       "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35132",
+      "en_stock": true
+    },
+    "35122": {
+      "nombre": "TPF INVENCIBLE EDT 60 ML @",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35122",
       "en_stock": true
     },
     "35121": {
@@ -10770,6 +10782,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42082": {
+      "nombre": "CHANSON D´EAU BODY MIST BRUMA PERFUMADA COCO 75 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42082",
       "en_stock": true
     },
     "42076": {
@@ -22540,7 +22558,7 @@
     },
     "35148": {
       "nombre": "TPF SOFT EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35148",
       "en_stock": true
     },
@@ -22614,6 +22632,12 @@
       "nombre": "TPF DEEP BLUE EDT 60 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35128",
+      "en_stock": true
+    },
+    "35127": {
+      "nombre": "TPF SEXY GIRL EDT 60 ML @",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35127",
       "en_stock": true
     },
     "35125": {
@@ -24400,7 +24424,7 @@
     },
     "33015": {
       "nombre": "NIKE TRENDY PINK EDT 100 ML @",
-      "precio": "12.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33015",
       "en_stock": true
     },
@@ -32062,12 +32086,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34971",
       "en_stock": true
     },
-    "34594": {
-      "nombre": "NARCISO RODRIGUEZ FOR HER FLEUR MUSC EDP 100ML @ (80% del contenido, vapo ligeramente dañado pero vaporiza bien)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34594",
-      "en_stock": true
-    },
     "34553": {
       "nombre": "INSTITUTO ESPAÑOL GOTAS FRESCAS AGUA DE COLONIA 50 ML @",
       "precio": "1.59 €",
@@ -33541,6 +33559,7 @@
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
     "PRADA LUNA ROSSA EDT 100 ML @",
+    "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
     "PROVOCATIVE EDP 100ML @",
     "PROVOCATIVE EDP 100ML REGULAR",
     "PULL MAN BY PULL AND BEAR EDT 100ML @",
@@ -33699,6 +33718,8 @@
     "TOUS TOUCH EDT 100ML @",
     "TOUS YOUR POWERS (AMARILLA) EDT 90 ML @ (80% DEL CONTENIDO)",
     "TPF FAIR LOVE EDT 60 ML @ ~",
+    "TPF INVENCIBLE EDT 60 ML @",
+    "TPF SEXY GIRL EDT 60 ML @",
     "TRESOR IN LOVE EDP 75ML @",
     "TRUE STAR MEN EDT 100ML @",
     "TRUSSARDI DELICATE ROSE EDT 100 ML REGULAR",
