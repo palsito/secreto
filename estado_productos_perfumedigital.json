@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42097": {
+      "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42097",
+      "en_stock": true
+    },
+    "42096": {
+      "nombre": "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42096",
+      "en_stock": true
+    },
+    "42095": {
+      "nombre": "DON ALGODON HOMBRE EDT 30 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42095",
+      "en_stock": true
+    },
     "42094": {
       "nombre": "MILANO SPORT EDT 100 ML @",
       "precio": "4.99 €",
@@ -2410,12 +2428,6 @@
       "nombre": "ACQUA DI PARMA OSMANTHUS EDP UNISEX 100 ML REGULAR",
       "precio": "119.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38712",
-      "en_stock": true
-    },
-    "38709": {
-      "nombre": "ACQUA DI PARMA COLONIA IL PROFUMO EDP 100 ML REGULAR",
-      "precio": "106.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38709",
       "en_stock": true
     },
     "38707": {
@@ -5168,7 +5180,7 @@
     },
     "33025": {
       "nombre": "AGUA FRESCA DE VETIVER TERRA EDP 120ML @",
-      "precio": "14.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33025",
       "en_stock": true
     },
@@ -24663,7 +24675,7 @@
       "en_stock": true
     },
     "32737": {
-      "nombre": "ANGEL NOVA EDP 100 ML @",
+      "nombre": "ANGEL NOVA EDP (EAU DE PARFUM) 100 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32737",
       "en_stock": true
@@ -24888,6 +24900,12 @@
       "nombre": "BENETTON SISTERLAND PINK RASPBERRY EDT 80 ML @",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32169",
+      "en_stock": true
+    },
+    "32111": {
+      "nombre": "WOMAN SECRET INTIMATE DAY DREAM EDP 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32111",
       "en_stock": true
     },
     "32090": {
@@ -29474,12 +29492,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19522",
       "en_stock": true
     },
-    "19510": {
-      "nombre": "GUERLAIN L`PETIT ROBE NOIR EDP 100 ML @",
-      "precio": "76.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19510",
-      "en_stock": true
-    },
     "19504": {
       "nombre": "LAPIDUS WOMAN EDT 100ML REGULAR",
       "precio": "19.99 €",
@@ -32961,7 +32973,9 @@
     "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
     "DOLCE & GABBANA POUR HOMME EDT 125ML @",
     "DOLCE MAGNOLIA EDP 75 ML @",
+    "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
     "DON ALGODON HOMBRE EDT 100 ML REGULAR (SIN CAJA)",
+    "DON ALGODON HOMBRE EDT 30 ML @",
     "DON ALGODON LA VIE EN ROSE MUJER  EDT 30 ML @",
     "DSQUARED2 ICON POUR FEMME EDP 100 ML REGULAR",
     "DSQUARED2 ICON POUR HOMME EDP 100 ML REGULAR",
@@ -33589,6 +33603,7 @@
     "PACK CANTANTES FEMENINAS: ROSARIO FLORES DE MIL COLORES EDT 100 ML @ + SIENTO EDT 100 ML @ + MALU LOVE EDT 100 ML @ + SHAKIRA ELIXIR EDT 80 ML @",
     "PACK FRAGANCIAS FRESCAS: ANGEL SCHLESSER LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @ + CK ONE SUMMER REFLECTIONS EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
     "PACK LUJO 2X1 GUILLAB SEXTANS EDP UNISEX 100 ML REGULAR + GUILLAB HADAR  EDP UNISEX 100 ML REGULAR",
+    "PACK ULTRA NIKE 4X1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
     "PACO RABANE PACO ROSE EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
@@ -33897,6 +33912,7 @@
     "WOMAN SECRET DAILY ROMANCE 250 ML @",
     "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
     "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
+    "WOMAN SECRET INTIMATE DAY DREAM EDP 100 ML @",
     "WOMAN SECRET ITS FRESH EDT 100 ML @",
     "WORKSHOP SAMBA  MEN EDT 100ML REGULAR",
     "WORKSHOP SAMBA FRESH MEN EDT 100ML REGULAR",
