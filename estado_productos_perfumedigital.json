@@ -432,6 +432,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42094": {
+      "nombre": "MILANO SPORT EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42094",
+      "en_stock": true
+    },
+    "42092": {
+      "nombre": "FC BARCELONA BALON EDP 100 ML @ (Sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42092",
+      "en_stock": true
+    },
+    "42091": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 12 ENERGIA URBANA EDT 150 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42091",
+      "en_stock": true
+    },
     "42090": {
       "nombre": "TPF JUNGLE EDT 60 ML @",
       "precio": "0.99 €",
@@ -6140,7 +6158,7 @@
     },
     "30575": {
       "nombre": "MILANO CLASSIC EDT 100 ML @",
-      "precio": "7.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30575",
       "en_stock": true
     },
@@ -22552,8 +22570,14 @@
     },
     "35164": {
       "nombre": "MR WONDERFUL WHERE THE PARTY EDT 75 ML @",
-      "precio": "6.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35164",
+      "en_stock": true
+    },
+    "35163": {
+      "nombre": "MR WONDERFUL TODAY IS MY DAY EDT 75 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35163",
       "en_stock": true
     },
     "35162": {
@@ -22986,6 +23010,12 @@
       "nombre": "ADOLFO DOMINGUEZ VERBENA WOMAN EDT 120ML @",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34783",
+      "en_stock": true
+    },
+    "34779": {
+      "nombre": "VICTORIO & LUCCHINO AGUA N 20 VITAMINA EXOTICA EDT 150 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34779",
       "en_stock": true
     },
     "34778": {
@@ -26540,6 +26570,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27951",
       "en_stock": true
     },
+    "27947": {
+      "nombre": "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27947",
+      "en_stock": true
+    },
     "27943": {
       "nombre": "PACHA IBIZA SEXY EDT 80 ML @",
       "precio": "8.99 €",
@@ -26568,6 +26604,12 @@
       "nombre": "NATURAL FRAGANCES WILD VIOLET 50 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27858",
+      "en_stock": true
+    },
+    "27854": {
+      "nombre": "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27854",
       "en_stock": true
     },
     "27853": {
@@ -33010,6 +33052,7 @@
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
     "FANTASY EDP 100ML REGULAR",
     "FARALA ORIGINAL EDT 150 ML REGULAR",
+    "FC BARCELONA BALON EDP 100 ML @ (SIN CAJA)",
     "FCUK HER EDT 100 ML REGULAR",
     "FCUK HER SUMMER EDT 100 ML REGULAR",
     "FCUK HIM EDT 100 ML REGULAR",
@@ -33330,6 +33373,7 @@
     "MICHAEL KORS SEXY AMBER EDP 50 ML @",
     "MICHAEL KORS SPORTY CITRUS EDP VAPO 50 ML @ (SIN CAJA)",
     "MIDNIGHT FANTASY EDP 100ML REGULAR",
+    "MILANO SPORT EDT 100 ML @",
     "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
     "MINOTAURE EDT 75ML REGULAR",
     "MIRACLE HOMME EDT 75 ML REGULAR",
@@ -33390,6 +33434,7 @@
     "MOSCHINO UOMO? EDT 125ML REGULAR",
     "MOSCHINO WOMAN EDT 75ML @",
     "MOUSTACHE ROCHAS EDT 125 ML @",
+    "MR WONDERFUL TODAY IS MY DAY EDT 75 ML @",
     "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
     "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
@@ -33823,6 +33868,7 @@
     "VICKY MARTIN BERROCAL CORAL WOMAN EDT 100 ML @",
     "VICKY MARTIN BERROCAL ETERNA WOMAN EDT 100 ML @",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 1 VITALIDAD SALVAJE 150 ML @",
+    "VICTORIO & LUCCHINO AGUA MASCULINA N 12 ENERGIA URBANA EDT 150 ML @",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 3 SEDUCCION MAGNETICA 150 ML @",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 5 FRESCOR ABSOLUTO 150 ML @",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 6 ELEGANCIA NATURAL 150 ML @",
@@ -33830,6 +33876,7 @@
     "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 1 AZAHAR RADIANTE 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 2 LITCHI, ROSA Y MUSC 150 ML @",
+    "VICTORIO & LUCCHINO AGUA N 20 VITAMINA EXOTICA EDT 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 3 HIEDRA, IRIS Y AMBAR 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 4 PEONIA, SANDALO Y MANZANA 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 5 JAZMIN, PIMIENTA NEGRA Y CASSIS 150 ML @",
