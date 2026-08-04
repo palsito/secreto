@@ -2,7 +2,7 @@
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
     "42020": {
       "nombre": "BENETTON WE ARE TRIBE COOL EDT 90 ML @",
-      "precio": "6.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42020",
       "en_stock": true
     },
@@ -68,7 +68,7 @@
     },
     "38678": {
       "nombre": "BENETTON WE ARE TRIBE INTENSE EDP 90 ML @",
-      "precio": "8.99 €",
+      "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38678",
       "en_stock": true
     },
@@ -430,6 +430,12 @@
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
+      "en_stock": true
+    },
+    "42090": {
+      "nombre": "TPF JUNGLE EDT 60 ML @",
+      "precio": "0.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42090",
       "en_stock": true
     },
     "42085": {
@@ -2468,7 +2474,7 @@
     },
     "38680": {
       "nombre": "BENETTON WE ARE TRIBE EDT 90 ML @",
-      "precio": "7.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38680",
       "en_stock": true
     },
@@ -4370,7 +4376,7 @@
     },
     "35212": {
       "nombre": "TPF SOLID EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35212",
       "en_stock": true
     },
@@ -4448,7 +4454,7 @@
     },
     "35121": {
       "nombre": "TPF NUMBER ONE EDT 60 ML @",
-      "precio": "1.99 €",
+      "precio": "0.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35121",
       "en_stock": true
     },
@@ -27844,7 +27850,7 @@
     },
     "23584": {
       "nombre": "AGUA DE LUNA FRAICHE DE PUIG EDT 100 ML @",
-      "precio": "4.99 €",
+      "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23584",
       "en_stock": true
     },
@@ -31586,12 +31592,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1841",
       "en_stock": true
     },
-    "1840": {
-      "nombre": "ANGEL SCHLESSER FEMME EDT 100ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1840",
-      "en_stock": true
-    },
     "1810": {
       "nombre": "DIOR DOLCE VITA EDT 100ML @",
       "precio": "54.99 €",
@@ -33788,6 +33788,7 @@
     "TPF BEAUTY IN FREEDOM 60 ML @",
     "TPF FAIR LOVE EDT 60 ML @ ~",
     "TPF INVENCIBLE EDT 60 ML @",
+    "TPF JUNGLE EDT 60 ML @",
     "TPF SEXY GIRL EDT 60 ML @",
     "TRESOR IN LOVE EDP 75ML @",
     "TRUE STAR MEN EDT 100ML @",
