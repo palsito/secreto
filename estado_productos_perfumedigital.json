@@ -438,6 +438,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42143": {
+      "nombre": "LOLITA LEMPICKA GREEN LOVER HOMME EDT 100 ML REGULAR",
+      "precio": "38.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42143",
+      "en_stock": true
+    },
+    "42139": {
+      "nombre": "LAGERFELD BOIS DE CYPRESS EDT 100 ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42139",
+      "en_stock": true
+    },
     "42138": {
       "nombre": "BYREDO LA TULIPE EDP 100 ML REGULAR",
       "precio": "229.99 €",
@@ -3320,7 +3332,7 @@
     },
     "37718": {
       "nombre": "COACH OPEN ROAD EDT 100 ML @",
-      "precio": "16.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37718",
       "en_stock": true
     },
@@ -3661,8 +3673,8 @@
       "en_stock": true
     },
     "36924": {
-      "nombre": "LOLITA LEMPICKA GREEN LOVE HOMME EDT 50 ML REGULAR",
-      "precio": "28.99 €",
+      "nombre": "LOLITA LEMPICKA GREEN LOVER HOMME EDT 50 ML REGULAR",
+      "precio": "27.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36924",
       "en_stock": true
     },
@@ -4928,7 +4940,7 @@
     },
     "34235": {
       "nombre": "LOLITA LEMPICKA HOMME EDT 100 ML REGULAR",
-      "precio": "44.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34235",
       "en_stock": true
     },
@@ -6566,7 +6578,7 @@
     },
     "29003": {
       "nombre": "LOLITA LEMPICKA HOMME EDT 100 ML @",
-      "precio": "42.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29003",
       "en_stock": true
     },
@@ -8030,7 +8042,7 @@
     },
     "21176": {
       "nombre": "ROMA UOMO EDT 125ML @",
-      "precio": "22.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21176",
       "en_stock": true
     },
@@ -10892,6 +10904,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=11382",
       "en_stock": true
     },
+    "1985": {
+      "nombre": "CACHAREL NOA EDT 100ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1985",
+      "en_stock": true
+    },
     "1958": {
       "nombre": "HUGO BOSS DEEP RED EDP 90ML  @",
       "precio": "19.99 €",
@@ -10914,6 +10932,30 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42144": {
+      "nombre": "LOLITA LEMPICKA MON EAU EDP 30 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42144",
+      "en_stock": true
+    },
+    "42142": {
+      "nombre": "LOLITA LEMPICKA SO SWEET EDP 50ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42142",
+      "en_stock": true
+    },
+    "42141": {
+      "nombre": "LOLITA LEMPICKA SWEET EDP 50ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42141",
+      "en_stock": true
+    },
+    "42140": {
+      "nombre": "LAURA BIAGIOTTI ROMA FIORI BIANCHI EDT 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42140",
       "en_stock": true
     },
     "42136": {
@@ -18748,7 +18790,7 @@
     },
     "37722": {
       "nombre": "KATE SPADE CHERIE EDP 100 ML @",
-      "precio": "27.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37722",
       "en_stock": true
     },
@@ -32978,6 +33020,7 @@
     "CACHAREL BODY MIST ROSE MALLOW 100 ML @",
     "CACHAREL BODY MIST VANILLA COTTA 100 ML @",
     "CACHAREL BODY MIST VIOLET CANDY 100 ML @",
+    "CACHAREL NOA EDT 100ML @",
     "CACHAREL POUR HOMME EDT 100ML @",
     "CACHAREL POUR HOMME EDT 100ML REGULAR",
     "CACHAREL YES I AM GLORIOUS EDP 50 ML @",
@@ -33499,6 +33542,7 @@
     "LACOSTE POUR HOMME EDT 100ML @",
     "LACOSTE TOUCH OF PINK EDT 90ML @",
     "LADY MILLION EDT 80ML @",
+    "LAGERFELD BOIS DE CYPRESS EDT 100 ML @",
     "LAGERFELD CLASSIC EDT 100 ML @",
     "LALIQUE AMETHYST EDP 100ML REGULAR",
     "LALIQUE ENCRE NOIRE POUR HOMME EDT 100ML REGULAR",
@@ -33514,6 +33558,7 @@
     "LAPIDUS WOMAN EDT 100ML REGULAR",
     "LATTAFA  AMEERAT AL ARAB PRIVE ROSE EDP 100 ML REGULAR",
     "LATTAFA  OPULENT DUBAI EDP 100 ML UNISEX REGULAR",
+    "LAURA BIAGIOTTI ROMA FIORI BIANCHI EDT 100 ML @",
     "LAURA BIAGIOTTI ROMA UOMO GREEN SWING EDT 125 ML @",
     "LAURA BIAGIOTTI ROMA WOMAN EDT 100ML @",
     "LAURA EDT 75ML REGULAR",
@@ -33527,6 +33572,10 @@
     "LOEWE 7 MEN EDT 100ML REGULAR",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
     "LOEWE ESENCIA ELIXIR POUR HOMME BOTELLA ALARGADA 100ML @",
+    "LOLITA LEMPICKA GREEN LOVER HOMME EDT 100 ML REGULAR",
+    "LOLITA LEMPICKA MON EAU EDP 30 ML REGULAR",
+    "LOLITA LEMPICKA SO SWEET EDP 50ML REGULAR",
+    "LOLITA LEMPICKA SWEET EDP 50ML REGULAR",
     "LORENZO PAZZAGLIA EXTREME PASSION EXTRAIT PARFUM 50 ML @ SIN CAJA",
     "LORENZO PAZZAGLIA PASSION ROSE EXTRAIT PARFUM 50 ML @ SIN CAJA",
     "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 50 ML @ SIN CAJA",
