@@ -10904,6 +10904,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42134": {
+      "nombre": "FRANCK OLIVIER CHOCOLAT AZUL ABSOLU EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42134",
+      "en_stock": true
+    },
+    "42133": {
+      "nombre": "FRANCK OLIVIER CHOCOLAT VANILLA CRUSH EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42133",
+      "en_stock": true
+    },
+    "42132": {
+      "nombre": "FRANCK OLIVIER CHOCOLAT PISTALICIOUS EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42132",
+      "en_stock": true
+    },
+    "42131": {
+      "nombre": "FRANCK OLIVIER CHOCOLAT CANDY KISS EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42131",
+      "en_stock": true
+    },
     "42130": {
       "nombre": "FRANCK OLIVIER WHITE ABSOLUTELY BLUSH WOMAN EDP 75 ML REGULAR",
       "precio": "19.99 €",
@@ -13494,12 +13518,6 @@
       "nombre": "XERJOFF TONY IOMMI DEIFIED PARFUM 50 ML @",
       "precio": "149.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40383",
-      "en_stock": true
-    },
-    "40380": {
-      "nombre": "XERJOFF SOPRANO EDP 100 ML @",
-      "precio": "169.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40380",
       "en_stock": true
     },
     "40379": {
@@ -33212,6 +33230,10 @@
     "FRANCK OLIVIER BELLA IN PARIS EDP 75 ML REGULAR",
     "FRANCK OLIVIER BLACK TOUCH MEN 100 ML REGULAR",
     "FRANCK OLIVIER BLUE TOUCH WOMAN EDT 100 ML REGULAR",
+    "FRANCK OLIVIER CHOCOLAT AZUL ABSOLU EDP 100 ML REGULAR",
+    "FRANCK OLIVIER CHOCOLAT CANDY KISS EDP 100 ML REGULAR",
+    "FRANCK OLIVIER CHOCOLAT PISTALICIOUS EDP 100 ML REGULAR",
+    "FRANCK OLIVIER CHOCOLAT VANILLA CRUSH EDP 100 ML REGULAR",
     "FRANCK OLIVIER EDP 75ML REGULAR",
     "FRANCK OLIVIER FABULOUS EDP 100 ML REGULAR",
     "FRANCK OLIVIER IN PINK EDP 75 ML REGULAR",
