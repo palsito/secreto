@@ -438,6 +438,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42126": {
+      "nombre": "FRANCK OLIVIER SUN JAVA MAN EDT 75 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42126",
+      "en_stock": true
+    },
     "42120": {
       "nombre": "PENHALIGON´S MR THOMPSON EDP 75 ML @",
       "precio": "166.99 €",
@@ -10896,6 +10902,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42127": {
+      "nombre": "FRANCK OLIVIER SUN ROYALE OUD EDP 75ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42127",
+      "en_stock": true
+    },
+    "42125": {
+      "nombre": "FRANCK OLIVIER BELLA IN PARIS EDP 75 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42125",
+      "en_stock": true
+    },
+    "42124": {
+      "nombre": "FRANCK OLIVIER BELLA EDP 75 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42124",
       "en_stock": true
     },
     "42123": {
@@ -33166,6 +33190,8 @@
     "FLOWERBOMB EDP 100ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "FOREVER ELIZABETH EDP 100ML REGULAR",
+    "FRANCK OLIVIER BELLA EDP 75 ML REGULAR",
+    "FRANCK OLIVIER BELLA IN PARIS EDP 75 ML REGULAR",
     "FRANCK OLIVIER BLACK TOUCH MEN 100 ML REGULAR",
     "FRANCK OLIVIER BLUE TOUCH WOMAN EDT 100 ML REGULAR",
     "FRANCK OLIVIER EDP 75ML REGULAR",
@@ -33178,7 +33204,9 @@
     "FRANCK OLIVIER OUD VANILLE MEN EDP 100 ML REGULAR",
     "FRANCK OLIVIER PASSION EXTREME EDP 75 ML REGULAR",
     "FRANCK OLIVIER POUR HOMME PURE EDT 100 ML REGULAR",
+    "FRANCK OLIVIER SUN JAVA MAN EDT 75 ML REGULAR",
     "FRANCK OLIVIER SUN JAVA WHITE EDP 75 ML REGULAR",
+    "FRANCK OLIVIER SUN ROYALE OUD EDP 75ML REGULAR",
     "FRUIT COMPANY MORAS EDT 100 ML @ (SIN CAJA)",
     "FUJIYAMA DEEP PURPLE WOMAN EDT 100ML REGULAR",
     "FUJIYAMA GREEN WOMAN EDT 100ML REGULAR",
