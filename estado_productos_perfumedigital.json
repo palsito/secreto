@@ -636,12 +636,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42038",
       "en_stock": true
     },
-    "42033": {
-      "nombre": "POLICE HYPERVERSE MAN EDT 100 ML REGULAR",
-      "precio": "17.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42033",
-      "en_stock": true
-    },
     "42032": {
       "nombre": "BENETTON WE ARE TRIBE PLAY EDT 90 ML REGULAR",
       "precio": "14.99 €",
@@ -1948,12 +1942,6 @@
       "nombre": "PHILIPP PLEIN FATALE ROSE INTENSE EDP 90 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39467",
-      "en_stock": true
-    },
-    "39459": {
-      "nombre": "RALPH`S CLUB NEW YORK EDP 100 ML @",
-      "precio": "56.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39459",
       "en_stock": true
     },
     "39445": {
@@ -5310,6 +5298,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32972",
       "en_stock": true
     },
+    "32894": {
+      "nombre": "EL GANSO FRIDAY EDITION EDT 125 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32894",
+      "en_stock": true
+    },
     "32851": {
       "nombre": "TOMMY HILFIGER NOW MAN EDT 100 ML @",
       "precio": "36.99 €",
@@ -6838,6 +6832,12 @@
       "nombre": "BUSTAMANTE ESENCIA IN BLACK EL EDT 100 ML @",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27740",
+      "en_stock": true
+    },
+    "27726": {
+      "nombre": "ANTONIO BANDERAS KING OF SEDUCTION ABSOLUTE EDT 100 ML @",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27726",
       "en_stock": true
     },
     "27716": {
@@ -23822,12 +23822,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34122",
       "en_stock": true
     },
-    "34117": {
-      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34117",
-      "en_stock": true
-    },
     "34116": {
       "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 90 ML @",
       "precio": "39.99 €",
@@ -33211,6 +33205,7 @@
     "EDEN EDP 50ML @",
     "EIGHT & BOB MEMOIRES MUSTIQUE EDP 100 ML @",
     "EL GANSO BLUE CODE EDP 100 ML @",
+    "EL GANSO FRIDAY EDITION EDT 125 ML REGULAR",
     "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA)",
     "ELIE SAAB  GIRL OF NOW EDP WOMAN 90 ML @",
     "ELIE SAAB L HOMME INTENSE EDP 100 ML @",
