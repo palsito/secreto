@@ -438,6 +438,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42109": {
+      "nombre": "FRANCK OLIVIER POUR HOMME PURE EDT 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42109",
+      "en_stock": true
+    },
+    "42108": {
+      "nombre": "FRANCK OLIVIER OUD VANILLE MEN EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42108",
+      "en_stock": true
+    },
+    "42107": {
+      "nombre": "FRANCK OLIVIER OUD TOUCH MEN EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42107",
+      "en_stock": true
+    },
+    "42106": {
+      "nombre": "FRANCK OLIVIER BLUE TOUCH WOMAN EDT 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42106",
+      "en_stock": true
+    },
     "42096": {
       "nombre": "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
       "precio": "6.99 €",
@@ -7710,6 +7734,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21987",
       "en_stock": true
     },
+    "21984": {
+      "nombre": "FRANCK OLIVIER BLACK TOUCH MEN 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21984",
+      "en_stock": true
+    },
     "21917": {
       "nombre": "PAOLO GIGLI FINAL TOUCH MAN EDP 100 ML @",
       "precio": "69.99 €",
@@ -13436,12 +13466,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40351",
       "en_stock": true
     },
-    "40349": {
-      "nombre": "CHANEL CHANCE EAU FRAICHE EDP 100ML @",
-      "precio": "114.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40349",
-      "en_stock": true
-    },
     "40348": {
       "nombre": "CHANEL CHANCE EAU FRAICHE EDT 100ML @",
       "precio": "104.99 €",
@@ -13450,7 +13474,7 @@
     },
     "40347": {
       "nombre": "CHANEL CHANCE EDP 100ML @",
-      "precio": "109.99 €",
+      "precio": "115.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40347",
       "en_stock": true
     },
@@ -28436,6 +28460,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21986",
       "en_stock": true
     },
+    "21985": {
+      "nombre": "FRANCK OLIVIER WHITE TOUCH WOMAN EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21985",
+      "en_stock": true
+    },
     "21972": {
       "nombre": "RODWAY WOMAN Nº 28 100 ml.",
       "precio": "9.99 €",
@@ -30384,6 +30414,12 @@
       "nombre": "FERRAGAMO INCANTO CHARMS EDT 100 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=15731",
+      "en_stock": true
+    },
+    "15730": {
+      "nombre": "FRANCK OLIVIER EDP 75ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=15730",
       "en_stock": true
     },
     "15727": {
@@ -33058,10 +33094,16 @@
     "FLOWERBOMB EDP 100ML @",
     "FLOWERBOMB NECTAR INTENSE EDP 100ML @",
     "FOREVER ELIZABETH EDP 100ML REGULAR",
+    "FRANCK OLIVIER BLACK TOUCH MEN 100 ML REGULAR",
+    "FRANCK OLIVIER BLUE TOUCH WOMAN EDT 100 ML REGULAR",
+    "FRANCK OLIVIER EDP 75ML REGULAR",
     "FRANCK OLIVIER FABULOUS EDP 100 ML REGULAR",
     "FRANCK OLIVIER IN PINK EDP 75 ML REGULAR",
     "FRANCK OLIVIER NATURE WOMAN EDP 75ML REGULAR",
+    "FRANCK OLIVIER OUD TOUCH MEN EDP 100 ML REGULAR",
+    "FRANCK OLIVIER OUD VANILLE MEN EDP 100 ML REGULAR",
     "FRANCK OLIVIER PASSION EXTREME EDP 75 ML REGULAR",
+    "FRANCK OLIVIER POUR HOMME PURE EDT 100 ML REGULAR",
     "FRANCK OLIVIER SUN JAVA WHITE EDP 75 ML REGULAR",
     "FRUIT COMPANY MORAS EDT 100 ML @ (SIN CAJA)",
     "FUJIYAMA DEEP PURPLE WOMAN EDT 100ML REGULAR",
