@@ -3660,12 +3660,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36823",
       "en_stock": true
     },
-    "36768": {
-      "nombre": "LOEWE 7 COBALT EDP 100 ML REGULAR (FORMATO NUEVO)",
-      "precio": "88.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36768",
-      "en_stock": true
-    },
     "36707": {
       "nombre": "LOTE 3 UNIDADES GENESSE SPORT MAN FREE EDT 115 ML CADA UNA (EN TOTAL 450 ML) @",
       "precio": "5.99 €",
@@ -3688,6 +3682,12 @@
       "nombre": "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML REGULAR",
       "precio": "84.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36610",
+      "en_stock": true
+    },
+    "36609": {
+      "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36609",
       "en_stock": true
     },
     "36608": {
