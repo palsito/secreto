@@ -348,12 +348,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31021",
       "en_stock": true
     },
-    "30700": {
-      "nombre": "BOSS BOTTLED MAN EDT 200 ML REGULAR",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30700",
-      "en_stock": true
-    },
     "29930": {
       "nombre": "D&G K EDT 100 ML @",
       "precio": "39.99 €",
@@ -548,7 +542,7 @@
     },
     "42115": {
       "nombre": "PENHALIGON´S POTIONS A KISS OF BLISS EDP 100 ML REGULAR",
-      "precio": "199.99 €",
+      "precio": "209.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42115",
       "en_stock": true
     },
@@ -566,7 +560,7 @@
     },
     "42110": {
       "nombre": "PENHALIGON´S EAU DE AUDACITY EDP 100 ML REGULAR",
-      "precio": "199.99 €",
+      "precio": "209.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42110",
       "en_stock": true
     },
@@ -2228,7 +2222,7 @@
     },
     "38976": {
       "nombre": "PENHALIGON´S MR THOMPSON EDP 75 ML REGULAR",
-      "precio": "266.99 €",
+      "precio": "246.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38976",
       "en_stock": true
     },
@@ -7248,12 +7242,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25878",
       "en_stock": true
     },
-    "25876": {
-      "nombre": "TRUSSARDI BLUE LAND FOR HIM EDT 100 ML REGULAR",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25876",
-      "en_stock": true
-    },
     "25871": {
       "nombre": "MONT BLANC EMBLEM INTENSE EDT 100 ML REGULAR",
       "precio": "52.99 €",
@@ -10970,6 +10958,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42174": {
+      "nombre": "PENHALIGON´S VRA VRA VROOM EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42174",
+      "en_stock": true
+    },
+    "42173": {
+      "nombre": "PENHALIGON´S LIQUID LOVE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42173",
+      "en_stock": true
+    },
+    "42172": {
+      "nombre": "PENHALIGON´S A BALM OF CALM EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42172",
+      "en_stock": true
+    },
     "42166": {
       "nombre": "PENHALIGON´S CAIRO EDP 100 ML REGULAR",
       "precio": "219.99 €",
@@ -11574,12 +11580,6 @@
       "nombre": "LORENZO PAZZAGLIA EXTREME PASSION EXTRAIT PARFUM 50 ML @ sin caja",
       "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41945",
-      "en_stock": true
-    },
-    "41944": {
-      "nombre": "GOLDFIELD & BANKS ISLAND LUSH EDP 100 ML @",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41944",
       "en_stock": true
     },
     "41942": {
@@ -19958,12 +19958,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37226",
       "en_stock": true
     },
-    "37225": {
-      "nombre": "CHLOE ROSES EDT 50 ML REGULAR",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37225",
-      "en_stock": true
-    },
     "37220": {
       "nombre": "LOLITALAND EDP 80 ML REGULAR",
       "precio": "59.99 €",
@@ -20814,6 +20808,12 @@
       "nombre": "TOUS KAOS EDP 100 ML @",
       "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36719",
+      "en_stock": true
+    },
+    "36710": {
+      "nombre": "ANGEL NOVA FRUITEE EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36710",
       "en_stock": true
     },
     "36650": {
@@ -25002,12 +25002,6 @@
       "nombre": "DEVOTA & LOMBA HIPNOTICA EDP 100 ML @",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32738",
-      "en_stock": true
-    },
-    "32737": {
-      "nombre": "ANGEL NOVA EDP (EAU DE PARFUM) 100 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32737",
       "en_stock": true
     },
     "32735": {
@@ -32920,6 +32914,7 @@
     "ANGE OU DEMON WOMAN EDP 100ML @",
     "ANGEL EDP 100ML REGULAR (RECARGABLE)",
     "ANGEL NOVA EDP 100 ML @",
+    "ANGEL NOVA FRUITEE EDP 100 ML @",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
     "ANGEL SCHELESSER HOMME EDT 125ML @",
     "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA)",
@@ -34011,6 +34006,7 @@
     "PAULA EDT 100 ML @",
     "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
     "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
+    "PENHALIGON´S A BALM OF CALM EDP 100 ML REGULAR",
     "PENHALIGON´S AL ULA EDP 100 ML REGULAR",
     "PENHALIGON´S ARTHUR EDP 75 ML REGULAR",
     "PENHALIGON´S BABYLON EDP 100 ML REGULAR",
@@ -34029,6 +34025,7 @@
     "PENHALIGON´S HAMMAM BOUQUET EDT 100 ML REGULAR",
     "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
     "PENHALIGON´S LADY BLANCHE EDP 75 ML REGULAR",
+    "PENHALIGON´S LIQUID LOVE EDP 100 ML REGULAR",
     "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PENHALIGON´S LUNA EDT 100 ML @",
@@ -34042,6 +34039,7 @@
     "PENHALIGON´S TERRIBLE TEDDY EDP 75 ML REGULAR",
     "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
     "PENHALIGON´S THE FAVOURITE EDP 100 ML @",
+    "PENHALIGON´S VRA VRA VROOM EDP 100 ML REGULAR",
     "PENHALIGON´S YASMINE EDP 75 ML REGULAR",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
