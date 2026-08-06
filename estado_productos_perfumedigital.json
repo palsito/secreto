@@ -7200,6 +7200,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25928",
       "en_stock": true
     },
+    "25909": {
+      "nombre": "PENHALIGON´S HAMMAM BOUQUET EDT 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25909",
+      "en_stock": true
+    },
     "25880": {
       "nombre": "TRUSSARDI BLACK EXTREME EDT 100 ML REGULAR",
       "precio": "49.99 €",
@@ -10940,6 +10946,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42164": {
+      "nombre": "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42164",
+      "en_stock": true
+    },
+    "42163": {
+      "nombre": "PENHALIGON´S SPORTS CAR CLUB EDP 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42163",
+      "en_stock": true
+    },
     "42162": {
       "nombre": "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
       "precio": "176.99 €",
@@ -11298,12 +11316,6 @@
       "nombre": "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42002",
-      "en_stock": true
-    },
-    "42000": {
-      "nombre": "MIU MIU L EAU DE MUGUET EDP 100 ML @",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42000",
       "en_stock": true
     },
     "41998": {
@@ -33981,6 +33993,7 @@
     "PENHALIGON´S ENDYMION CONCENTRE EDP 100 ML REGULAR",
     "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+    "PENHALIGON´S HAMMAM BOUQUET EDT 100 ML REGULAR",
     "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
     "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
@@ -33991,6 +34004,7 @@
     "PENHALIGON´S POTIONS A KISS OF BLISS EDP 100 ML REGULAR",
     "PENHALIGON´S QUERCUS EDC 100 ML REGULAR",
     "PENHALIGON´S SARTORIAL EDT 100 ML REGULAR",
+    "PENHALIGON´S SPORTS CAR CLUB EDP 100 ML REGULAR",
     "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
     "PENHALIGON´S THE FAVOURITE EDP 100 ML @",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
