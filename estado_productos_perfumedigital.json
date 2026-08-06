@@ -444,6 +444,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42158": {
+      "nombre": "PENHALIGON´S LUNA EDT 30 ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42158",
+      "en_stock": true
+    },
     "42154": {
       "nombre": "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
       "precio": "149.99 €",
@@ -2204,7 +2210,7 @@
     },
     "38973": {
       "nombre": "PENHALIGON´S JUNIPER SLING EDT 100 ML REGULAR",
-      "precio": "209.99 €",
+      "precio": "189.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38973",
       "en_stock": true
     },
@@ -10920,6 +10926,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42157": {
+      "nombre": "PENHALIGON´S ELISABETHAN ROSE EDP 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42157",
+      "en_stock": true
+    },
+    "42156": {
+      "nombre": "PENHALIGON´S BABYLON EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42156",
+      "en_stock": true
+    },
+    "42155": {
+      "nombre": "PENHALIGON´S AL ULA EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42155",
       "en_stock": true
     },
     "42153": {
@@ -28880,6 +28904,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21605",
       "en_stock": true
     },
+    "21591": {
+      "nombre": "PENHALIGON´S BLUEBELL EDT 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21591",
+      "en_stock": true
+    },
     "21580": {
       "nombre": "SECRET DE ROCHAS WOMAN EDP 50 ML REGULAR",
       "precio": "38.99 €",
@@ -33903,15 +33933,20 @@
     "PAULA EDT 100 ML @",
     "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
     "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
+    "PENHALIGON´S AL ULA EDP 100 ML REGULAR",
+    "PENHALIGON´S BABYLON EDP 100 ML REGULAR",
+    "PENHALIGON´S BLUEBELL EDT 100 ML REGULAR",
     "PENHALIGON´S COVETED DUCHESS ROSE EDP 75 ML REGULAR",
     "PENHALIGON´S DANDY EDP 100 ML REGULAR",
     "PENHALIGON´S EAU DE AUDACITY EDP 100 ML REGULAR",
+    "PENHALIGON´S ELISABETHAN ROSE EDP 100 ML REGULAR",
     "PENHALIGON´S EMPRESSA EDP 100 ML @",
     "PENHALIGON´S EMPRESSA EDP 100 ML REGULAR",
     "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PENHALIGON´S LUNA EDT 100 ML @",
+    "PENHALIGON´S LUNA EDT 30 ML REGULAR",
     "PENHALIGON´S MR THOMPSON EDP 75 ML @",
     "PENHALIGON´S POTIONS A KISS OF BLISS EDP 100 ML REGULAR",
     "PENHALIGON´S QUERCUS EDC 100 ML REGULAR",
