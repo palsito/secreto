@@ -444,6 +444,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42154": {
+      "nombre": "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42154",
+      "en_stock": true
+    },
     "42143": {
       "nombre": "LOLITA LEMPICKA GREEN LOVER HOMME EDT 100 ML REGULAR",
       "precio": "37.99 €",
@@ -10914,6 +10920,42 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42153": {
+      "nombre": "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42153",
+      "en_stock": true
+    },
+    "42152": {
+      "nombre": "DIPTYQUE VETYVERIO EDT 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42152",
+      "en_stock": true
+    },
+    "42151": {
+      "nombre": "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42151",
+      "en_stock": true
+    },
+    "42150": {
+      "nombre": "DIPTYQUE VETYVERIO EDT 50 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42150",
+      "en_stock": true
+    },
+    "42149": {
+      "nombre": "DIPTYQUE OYEDO EDT 50 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42149",
+      "en_stock": true
+    },
+    "42148": {
+      "nombre": "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42148",
       "en_stock": true
     },
     "42145": {
@@ -32152,6 +32194,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35377",
       "en_stock": true
     },
+    "34548": {
+      "nombre": "GUILLAB EDP UNISEX 70 ML REGULAR (Caja dañada)",
+      "precio": "21.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34548",
+      "en_stock": true
+    },
     "23150": {
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
@@ -33153,6 +33201,12 @@
     "DIOR HOMME EDT 100ML REGULAR",
     "DIOR HOMME INTENSE EDP 100ML @",
     "DIOR POISON EDT 100ML @",
+    "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
+    "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
+    "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
+    "DIPTYQUE OYEDO EDT 50 ML REGULAR",
+    "DIPTYQUE VETYVERIO EDT 100 ML REGULAR",
+    "DIPTYQUE VETYVERIO EDT 50 ML REGULAR",
     "DKNY 24/7 ELECTRIC WOMAN EDP 100ML @",
     "DKNY 24/7 WOMAN EDP 100ML REGULAR",
     "DKNY BE DELICIOUS COCONUT ABOUT EDT 50 ML @",
@@ -33386,6 +33440,7 @@
     "GUESS MAN EDT 75 ML REGULAR",
     "GUESS SEDUCTIVE HOMME EDT 50 ML @",
     "GUESS SEDUCTIVE RED WOMAN EDT 75 ML @",
+    "GUILLAB EDP UNISEX 70 ML REGULAR (CAJA DAÑADA)",
     "GUILLAB EDP UNISEX 70 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "HALLOWEEN BLUE DROP EDT 100 ML @",
     "HALLOWEEN FEVER EDP 100 ML @",
@@ -33853,6 +33908,7 @@
     "PENHALIGON´S EAU DE AUDACITY EDP 100 ML REGULAR",
     "PENHALIGON´S EMPRESSA EDP 100 ML @",
     "PENHALIGON´S EMPRESSA EDP 100 ML REGULAR",
+    "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PENHALIGON´S LUNA EDT 100 ML @",
