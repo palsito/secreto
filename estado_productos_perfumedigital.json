@@ -444,6 +444,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42171": {
+      "nombre": "PENHALIGON´S LADY BLANCHE EDP 75 ML REGULAR",
+      "precio": "236.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42171",
+      "en_stock": true
+    },
+    "42170": {
+      "nombre": "PENHALIGON´S YASMINE EDP 75 ML REGULAR",
+      "precio": "236.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42170",
+      "en_stock": true
+    },
+    "42169": {
+      "nombre": "PENHALIGON´S TERRIBLE TEDDY EDP 75 ML REGULAR",
+      "precio": "236.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42169",
+      "en_stock": true
+    },
+    "42168": {
+      "nombre": "PENHALIGON´S ARTHUR EDP 75 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42168",
+      "en_stock": true
+    },
     "42167": {
       "nombre": "PENHALIGON´S HALFETI EDP 30 ML REGULAR",
       "precio": "109.99 €",
@@ -2198,13 +2222,13 @@
     },
     "38980": {
       "nombre": "PENHALIGON´S THE INIMITABLE WILLIAM EDP 75 ML REGULAR",
-      "precio": "266.99 €",
+      "precio": "236.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38980",
       "en_stock": true
     },
     "38978": {
       "nombre": "PENHALIGON´S THE BLAZING SAM EDP 75 ML REGULAR",
-      "precio": "266.99 €",
+      "precio": "236.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38978",
       "en_stock": true
     },
@@ -16258,7 +16282,7 @@
     },
     "38968": {
       "nombre": "PENHALIGON´S CHANGING CONSTANCE EDP 75 ML REGULAR",
-      "precio": "266.99 €",
+      "precio": "236.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38968",
       "en_stock": true
     },
@@ -33994,6 +34018,7 @@
     "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
     "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
     "PENHALIGON´S AL ULA EDP 100 ML REGULAR",
+    "PENHALIGON´S ARTHUR EDP 75 ML REGULAR",
     "PENHALIGON´S BABYLON EDP 100 ML REGULAR",
     "PENHALIGON´S BLUEBELL EDT 100 ML REGULAR",
     "PENHALIGON´S CAIRO EDP 100 ML REGULAR",
@@ -34009,6 +34034,7 @@
     "PENHALIGON´S HALFETI EDP 30 ML REGULAR",
     "PENHALIGON´S HAMMAM BOUQUET EDT 100 ML REGULAR",
     "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
+    "PENHALIGON´S LADY BLANCHE EDP 75 ML REGULAR",
     "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PENHALIGON´S LUNA EDT 100 ML @",
@@ -34019,8 +34045,10 @@
     "PENHALIGON´S QUERCUS EDC 100 ML REGULAR",
     "PENHALIGON´S SARTORIAL EDT 100 ML REGULAR",
     "PENHALIGON´S SPORTS CAR CLUB EDP 100 ML REGULAR",
+    "PENHALIGON´S TERRIBLE TEDDY EDP 75 ML REGULAR",
     "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
     "PENHALIGON´S THE FAVOURITE EDP 100 ML @",
+    "PENHALIGON´S YASMINE EDP 75 ML REGULAR",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
     "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
