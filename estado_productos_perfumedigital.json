@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "42146": {
+      "nombre": "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42146",
+      "en_stock": true
+    },
     "42097": {
       "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
       "precio": "9.99 €",
@@ -32434,6 +32440,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32262",
       "en_stock": true
     },
+    "32254": {
+      "nombre": "BAD BOY EDT 100ML @ (TAPON ROTO PERO VAPORIZA BIEN)",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32254",
+      "en_stock": true
+    },
     "31779": {
       "nombre": "ANDROS EDT 100 ML  @ ( sin caja )",
       "precio": "4.99 €",
@@ -32853,6 +32865,7 @@
     "B.U. WILD EDT 50 ML @",
     "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
+    "BAD BOY EDT 100ML @ (TAPON ROTO PERO VAPORIZA BIEN)",
     "BAD BOY EDT 50 ML REGULAR",
     "BAMBINA EDT 100ML @",
     "BATTICUORE AMBER EDT 50ML @ (SIN CAJA)",
@@ -33696,6 +33709,7 @@
     "NIKE WOMAN LOVING FLORAL EDT 75 ML @",
     "NIKE WOMAN SENSACTION PASSION VAINILLA EDT 50 ML @",
     "NIKE WOMAN YUMMY MUSK EDT 100 ML @",
+    "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
     "NINA WOMAN EDT 50ML REGULAR",
     "NINA WOMAN EDT 80ML @",
     "NOA EDT 100ML REGULAR",
