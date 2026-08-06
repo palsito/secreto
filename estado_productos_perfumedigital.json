@@ -444,6 +444,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42167": {
+      "nombre": "PENHALIGON´S HALFETI EDP 30 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42167",
+      "en_stock": true
+    },
+    "42165": {
+      "nombre": "PENHALIGON´S HALFETI LEATHER EDP 100 ML REGULAR",
+      "precio": "239.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42165",
+      "en_stock": true
+    },
     "42161": {
       "nombre": "PENHALIGON´S ENDYMION CONCENTRE EDP 100 ML REGULAR",
       "precio": "179.99 €",
@@ -2206,12 +2218,6 @@
       "nombre": "PENHALIGON´S LUNA EDT 100 ML REGULAR",
       "precio": "199.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38975",
-      "en_stock": true
-    },
-    "38974": {
-      "nombre": "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
-      "precio": "266.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38974",
       "en_stock": true
     },
     "38973": {
@@ -10944,6 +10950,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42166": {
+      "nombre": "PENHALIGON´S CAIRO EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42166",
       "en_stock": true
     },
     "42164": {
@@ -33984,6 +33996,7 @@
     "PENHALIGON´S AL ULA EDP 100 ML REGULAR",
     "PENHALIGON´S BABYLON EDP 100 ML REGULAR",
     "PENHALIGON´S BLUEBELL EDT 100 ML REGULAR",
+    "PENHALIGON´S CAIRO EDP 100 ML REGULAR",
     "PENHALIGON´S COVETED DUCHESS ROSE EDP 75 ML REGULAR",
     "PENHALIGON´S DANDY EDP 100 ML REGULAR",
     "PENHALIGON´S EAU DE AUDACITY EDP 100 ML REGULAR",
@@ -33993,6 +34006,7 @@
     "PENHALIGON´S ENDYMION CONCENTRE EDP 100 ML REGULAR",
     "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+    "PENHALIGON´S HALFETI EDP 30 ML REGULAR",
     "PENHALIGON´S HAMMAM BOUQUET EDT 100 ML REGULAR",
     "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
     "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
