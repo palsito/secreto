@@ -444,6 +444,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42161": {
+      "nombre": "PENHALIGON´S ENDYMION CONCENTRE EDP 100 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42161",
+      "en_stock": true
+    },
     "42158": {
       "nombre": "PENHALIGON´S LUNA EDT 30 ML REGULAR",
       "precio": "89.99 €",
@@ -7188,6 +7194,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25934",
       "en_stock": true
     },
+    "25928": {
+      "nombre": "PENHALIGON´S SARTORIAL EDT 100 ML REGULAR",
+      "precio": "149.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25928",
+      "en_stock": true
+    },
     "25880": {
       "nombre": "TRUSSARDI BLACK EXTREME EDT 100 ML REGULAR",
       "precio": "49.99 €",
@@ -10926,6 +10938,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42162": {
+      "nombre": "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
+      "precio": "176.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42162",
+      "en_stock": true
+    },
+    "42160": {
+      "nombre": "PENHALIGON´S LONDON DANDY EDP 100 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42160",
+      "en_stock": true
+    },
+    "42159": {
+      "nombre": "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42159",
       "en_stock": true
     },
     "42157": {
@@ -27752,6 +27782,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25557",
       "en_stock": true
     },
+    "25552": {
+      "nombre": "PENHALIGON´S OPUS 1870 EDT 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25552",
+      "en_stock": true
+    },
     "25549": {
       "nombre": "ARMAND BASI ROSE LUMIERE EDT 100 ML REGULAR",
       "precio": "34.99 €",
@@ -33942,14 +33978,19 @@
     "PENHALIGON´S ELISABETHAN ROSE EDP 100 ML REGULAR",
     "PENHALIGON´S EMPRESSA EDP 100 ML @",
     "PENHALIGON´S EMPRESSA EDP 100 ML REGULAR",
+    "PENHALIGON´S ENDYMION CONCENTRE EDP 100 ML REGULAR",
     "PENHALIGON´S ENDYMION EDC 100 ML REGULAR",
     "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
+    "PENHALIGON´S HIGHGROVE BOUQUET EDP 100 ML REGULAR",
+    "PENHALIGON´S LONDON DANDY EDP 30 ML REGULAR",
     "PENHALIGON´S LORD GEORGE EDP 75 ML REGULAR",
     "PENHALIGON´S LUNA EDT 100 ML @",
     "PENHALIGON´S LUNA EDT 30 ML REGULAR",
     "PENHALIGON´S MR THOMPSON EDP 75 ML @",
+    "PENHALIGON´S OPUS 1870 EDT 100 ML REGULAR",
     "PENHALIGON´S POTIONS A KISS OF BLISS EDP 100 ML REGULAR",
     "PENHALIGON´S QUERCUS EDC 100 ML REGULAR",
+    "PENHALIGON´S SARTORIAL EDT 100 ML REGULAR",
     "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
     "PENHALIGON´S THE FAVOURITE EDP 100 ML @",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
