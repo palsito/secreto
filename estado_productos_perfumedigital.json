@@ -29402,12 +29402,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20520",
       "en_stock": true
     },
-    "20485": {
-      "nombre": "REMINISCENCE AMBRE WOMAN EDT 100ML @",
-      "precio": "26.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20485",
-      "en_stock": true
-    },
     "20470": {
       "nombre": "YSL PARIS EDT 125ML @",
       "precio": "54.99 €",
@@ -31890,6 +31884,12 @@
       "nombre": "ARPEGE EDP 100ML REGULAR",
       "precio": "43.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=2003",
+      "en_stock": true
+    },
+    "1996": {
+      "nombre": "CH WOMAN EDT 100ML REGULAR",
+      "precio": "61.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1996",
       "en_stock": true
     },
     "1993": {
