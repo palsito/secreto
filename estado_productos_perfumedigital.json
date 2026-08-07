@@ -438,6 +438,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42177": {
+      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42177",
+      "en_stock": true
+    },
     "42171": {
       "nombre": "PENHALIGON´S LADY BLANCHE EDP 75 ML REGULAR",
       "precio": "236.99 €",
@@ -1972,6 +1978,12 @@
       "nombre": "PHILIPP PLEIN FATALE ROSE INTENSE EDP 90 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39467",
+      "en_stock": true
+    },
+    "39466": {
+      "nombre": "1 MILLION PACO RABANNE GOLD ELIXIR HIM EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39466",
       "en_stock": true
     },
     "39445": {
@@ -10920,6 +10932,42 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42182": {
+      "nombre": "ANNICK GOUTAL BOIS D`HADRIEN MIXT EDP 100 ML @",
+      "precio": "87.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42182",
+      "en_stock": true
+    },
+    "42181": {
+      "nombre": "ANNICK GOUTAL NUIT ETOILEE EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42181",
+      "en_stock": true
+    },
+    "42180": {
+      "nombre": "ANNICK GOUTAL TENUE DE SOIREE EDP 100 ML @",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42180",
+      "en_stock": true
+    },
+    "42179": {
+      "nombre": "ANNICK GOUTAL SONGES EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42179",
+      "en_stock": true
+    },
+    "42178": {
+      "nombre": "ANNICK GOUTAL ROSE POMPON EDP 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42178",
+      "en_stock": true
+    },
+    "42176": {
+      "nombre": "PRADA AMBER EDP 80ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42176",
       "en_stock": true
     },
     "42174": {
@@ -24844,7 +24892,7 @@
     },
     "32841": {
       "nombre": "ANNICK GOUTAL PETITE CHERIE EDT 100 ML @",
-      "precio": "79.99 €",
+      "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32841",
       "en_stock": true
     },
@@ -24852,6 +24900,12 @@
       "nombre": "ANNICK GOUTAL PETITE CHERIE SIN ALCOHOL 100 ML @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32840",
+      "en_stock": true
+    },
+    "32839": {
+      "nombre": "ANNICK GOUTAL LILE AU THE EDT 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32839",
       "en_stock": true
     },
     "32830": {
@@ -32768,6 +32822,7 @@
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
     "1 MILLION PACO RABANNE EDT 100ML REGULAR",
+    "1 MILLION PACO RABANNE GOLD ELIXIR HIM EDP 100 ML @",
     "1881 FEMME EDT 100ML @",
     "1881 HOMME EDT 100ML @",
     "1881 HOMME FRAICHEUR D`EAU EDT 100 ML REGULAR",
@@ -32882,6 +32937,12 @@
     "ANNA SUI FLIGHT OF FANCY FEMME EDT 75 ML @",
     "ANNA SUI SECRET WISH FEMME EDT 30 ML REGULAR (CAJA DAÑADA)",
     "ANNE MÖLLER PERFECT DAY EDT 100ML @",
+    "ANNICK GOUTAL BOIS D`HADRIEN MIXT EDP 100 ML @",
+    "ANNICK GOUTAL LILE AU THE EDT 100 ML @",
+    "ANNICK GOUTAL NUIT ETOILEE EDP 100 ML @",
+    "ANNICK GOUTAL ROSE POMPON EDP 100 ML @",
+    "ANNICK GOUTAL SONGES EDP 100 ML @",
+    "ANNICK GOUTAL TENUE DE SOIREE EDP 100 ML @",
     "ANTONIO BANDERAS BLUE SEDUCTION FOR MEN EDT 100 ML @",
     "ANTONIO BANDERAS HER SECRET DESIRE EDT 80 ML @",
     "ANTONIO BANDERAS KING OF SEDUCTION ABSOLUTE EDT 100 ML @",
@@ -34021,7 +34082,9 @@
     "POLO RED PARFUM 125 ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
     "POSEIDON CLASSIC MAN EDT 150ML @ (SIN CAJA Y SIN TAPÓN)",
+    "PRADA AMBER EDP 80ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
+    "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
     "PRADA LUNA ROSSA EDT 100 ML @",
     "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
