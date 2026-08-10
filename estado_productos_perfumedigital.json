@@ -432,6 +432,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42189": {
+      "nombre": "BAD BOY COBALT ABSOLUTE EDP 100 ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42189",
+      "en_stock": true
+    },
+    "42188": {
+      "nombre": "CK ONE BODY MIST SMOOTH BERRY 236 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42188",
+      "en_stock": true
+    },
+    "42187": {
+      "nombre": "BIOTHERM EAU VITAMINEE CITRON EDT 100 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42187",
+      "en_stock": true
+    },
+    "42185": {
+      "nombre": "AZZARO WANTED ELIXIR PARFUM 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42185",
+      "en_stock": true
+    },
     "42177": {
       "nombre": "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
       "precio": "79.99 €",
@@ -10892,6 +10916,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42190": {
+      "nombre": "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42190",
+      "en_stock": true
+    },
     "42183": {
       "nombre": "ANNICK GOUTAL AMBRE SAUVAGE EDP 100 ML @",
       "precio": "88.99 €",
@@ -11704,7 +11734,7 @@
     },
     "41890": {
       "nombre": "CACHAREL BODY MIST ROSE MALLOW 100 ML @",
-      "precio": "16.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41890",
       "en_stock": true
     },
@@ -32938,6 +32968,7 @@
     "B.U. ONE LOVE EDT 50 ML @",
     "B.U. ROCKMANTIC EDT 50 ML @",
     "B.U. WILD EDT 50 ML @",
+    "BAD BOY COBALT ABSOLUTE EDP 100 ML @",
     "BAD BOY COBALT ABSOLUTE EDP 100ML REGULAR",
     "BAD BOY EDT 100ML @",
     "BAD BOY EDT 100ML @ (TAPON ROTO PERO VAPORIZA BIEN)",
@@ -32972,6 +33003,7 @@
     "BIG PONY FOR WOMEN N 1 EDT 100 ML @ (SIN CAJA)",
     "BIG PONY Nº 1 AZUL MAN 100 ML @",
     "BIG PONY Nº 1 AZUL MAN 50 ML @",
+    "BIOTHERM EAU VITAMINEE CITRON EDT 100 ML @",
     "BLEU DE CHANEL POUR HOMME EDT 100ML @",
     "BLU MEDITERRANEO MIRTO DI PANAREA EDT UNISEX 100 ML REGULAR",
     "BLU MEDITERRANEO MIRTO DI PANAREA EDT UNISEX 180 ML REGULAR",
@@ -33101,6 +33133,7 @@
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
     "CARTIER DECLARATION EDT 100 ML @",
     "CARTIER PANTHERE EDP 100 ML @",
     "CASMIR EDP 100ML REGULAR",
@@ -33152,6 +33185,7 @@
     "CK IN2U MEN 150ML REGULAR",
     "CK OBSESSION NIGHT FOR MEN EDT 125 ML REGULAR",
     "CK ONE BODY MIST NUDE VANILLA 236 ML @",
+    "CK ONE BODY MIST SMOOTH BERRY 236 ML @",
     "CK ONE ESSENCE NIGHT PARFUM INTENSE 100 ML @",
     "CK ONE SHOCK MEN EDT 100 ML REGULAR",
     "CK ONE SHOCK MEN EDT 200 ML REGULAR",
