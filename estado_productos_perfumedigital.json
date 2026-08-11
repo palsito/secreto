@@ -768,12 +768,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41910",
       "en_stock": true
     },
-    "41909": {
-      "nombre": "YSL  MYSLF EDP 100 ML REGULAR",
-      "precio": "87.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41909",
-      "en_stock": true
-    },
     "41908": {
       "nombre": "D&G LIGHT BLUE EAU DE PARFUM POUR HOMME EDP 100 ML REGULAR",
       "precio": "69.99 €",
@@ -13812,6 +13806,12 @@
       "nombre": "TIFFANY&CO SHEER EDT 50 ML REGULAR",
       "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40351",
+      "en_stock": true
+    },
+    "40349": {
+      "nombre": "CHANEL CHANCE EAU FRAICHE EDP 100ML @",
+      "precio": "114.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40349",
       "en_stock": true
     },
     "40348": {
@@ -33166,6 +33166,7 @@
     "CH WOMAN EDT 100ML REGULAR",
     "CHANEL ALLURE HOMME SPORT 100 ML @",
     "CHANEL ALLURE WOMAN EDT 100ML @",
+    "CHANEL CHANCE EAU FRAICHE EDP 100ML @",
     "CHANEL CHANCE EAU TENDRE EDP 100ML @",
     "CHANEL CHANCE EAU TENDRE EDT 100ML @",
     "CHANEL CHANCE EDP 100ML @",
