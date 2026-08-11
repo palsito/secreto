@@ -708,12 +708,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42039",
       "en_stock": true
     },
-    "42033": {
-      "nombre": "POLICE HYPERVERSE MAN EDT 100 ML REGULAR",
-      "precio": "17.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42033",
-      "en_stock": true
-    },
     "42032": {
       "nombre": "BENETTON WE ARE TRIBE PLAY EDT 90 ML REGULAR",
       "precio": "14.99 €",
@@ -4584,6 +4578,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35093",
       "en_stock": true
     },
+    "35089": {
+      "nombre": "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35089",
+      "en_stock": true
+    },
     "35030": {
       "nombre": "ACQUA DI GIO PROFONDO EDP 100 ML@",
       "precio": "54.99 €",
@@ -5746,6 +5746,12 @@
       "nombre": "EL GANSO LIMONCELO EDT 125 ML @",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31718",
+      "en_stock": true
+    },
+    "31663": {
+      "nombre": "HUGO BOSS THE SCENT PURE ACCORD HIM EDT 100 ML REGULAR (caja dañada)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31663",
       "en_stock": true
     },
     "31631": {
@@ -10844,6 +10850,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16898",
       "en_stock": true
     },
+    "15959": {
+      "nombre": "GUERLAIN LA PETITE ROBE NOIRE EDT 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=15959",
+      "en_stock": true
+    },
     "15858": {
       "nombre": "ARMAND BASI ROSE GLACEE EDT 100 ML @",
       "precio": "9.99 €",
@@ -10914,6 +10926,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42195": {
+      "nombre": "KENZO L`EAU AMBREE EDP 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42195",
       "en_stock": true
     },
     "42194": {
@@ -13778,12 +13796,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40368",
       "en_stock": true
     },
-    "40367": {
-      "nombre": "D&G LIGHT BLUE EAU DE PARFUM WOMAN EDP 100ML @",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40367",
-      "en_stock": true
-    },
     "40362": {
       "nombre": "LOTE 17 DE MUJER: PLAYBOY GENERATION WOMAN EDT 50 ML @ + VANDERBILT WOMAN EDT 100 ML @ + CHANSON DE EAU EDT 100 ML @ + BODY MIST SHIMMER HAWAIIAN GOLDEN PARADIS 250 ML @",
       "precio": "9.99 €",
@@ -13878,6 +13890,12 @@
       "nombre": "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40312",
+      "en_stock": true
+    },
+    "40309": {
+      "nombre": "GAULTIER DIVINE COUTURE EDP 100ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40309",
       "en_stock": true
     },
     "40308": {
@@ -13992,12 +14010,6 @@
       "nombre": "LA MANUFACTURE CASHMERE EDP 100 ML @ (Sin caja)",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40193",
-      "en_stock": true
-    },
-    "40192": {
-      "nombre": "D&G VIB3 EDP 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40192",
       "en_stock": true
     },
     "40191": {
@@ -22290,6 +22302,12 @@
       "nombre": "GIVENCHY L`INTERDIT ABSOLUE INTENSE WOMAN EDP 80 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35745",
+      "en_stock": true
+    },
+    "35741": {
+      "nombre": "GUERLAIN  AQUA  ALLEGORIA ROSA VERDE EDT 125 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35741",
       "en_stock": true
     },
     "35740": {
@@ -33497,6 +33515,7 @@
     "GUCCI GUILTY MEN EDT 90 ML REGULAR",
     "GUCCI GUILTY PURSE SPRAY EDT  WOMAN + 3 RECARGAS 15ML (TOTAL 60ML) @",
     "GUCCI RUSH EDT 75ML  @",
+    "GUERLAIN  AQUA  ALLEGORIA ROSA VERDE EDT 125 ML @",
     "GUERLAIN L`PETIT ROBE NOIR EDP 100 ML @",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
@@ -33522,6 +33541,7 @@
     "HERMES UN JARDIN EN MEDITERRANEE UNISEX EDT 100 ML @",
     "HERMES UN JARDIN SUR LE TOIT 100 ML @",
     "HUGO BOSS THE SCENT HIM EDP INTENSE 100 ML @",
+    "HUGO BOSS THE SCENT PURE ACCORD HIM EDT 100 ML REGULAR (CAJA DAÑADA)",
     "HUGO DARK BLUE EDT 75ML REGULAR",
     "HUGO ENERGISE EDT 75ML @",
     "HUGO ENERGISE EDT 75ML REGULAR",
