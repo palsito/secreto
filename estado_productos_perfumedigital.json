@@ -10910,6 +10910,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42201": {
+      "nombre": "VIKTOR & ROLF BONBON COLA FIZZ EDP 50ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42201",
+      "en_stock": true
+    },
+    "42200": {
+      "nombre": "VIKTOR & ROLF BONBON CARAMEL CRUNCH EDP 50ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42200",
+      "en_stock": true
+    },
+    "42199": {
+      "nombre": "VIKTOR & ROLF BONBON BERRY JELLY EDP 50ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42199",
+      "en_stock": true
+    },
     "42198": {
       "nombre": "LANCOME O ZENITH MIST BRUMA PELO Y CUERPO 100 ML @",
       "precio": "14.99 €",
@@ -11652,12 +11670,6 @@
       "nombre": "PACK 5 FRAGANCIAS TAMAÑO PEQUEÑO 89 ML EN TOTAL",
       "precio": "8.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41933",
-      "en_stock": true
-    },
-    "41931": {
-      "nombre": "CHANEL CHANCE EAU SPLENDIDE EDP 100ML @",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41931",
       "en_stock": true
     },
     "41928": {
@@ -27128,6 +27140,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27673",
       "en_stock": true
     },
+    "27661": {
+      "nombre": "VIKTOR & ROLPH BONBON EDP 50 ML @",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27661",
+      "en_stock": true
+    },
     "27649": {
       "nombre": "JULIETTE OIL FICTION UNISEX EDP 75 ML @",
       "precio": "99.99 €",
@@ -34314,6 +34332,10 @@
     "VICTORIO & LUCCHINO AGUAS INFANTILES CORRE QUE TE PILLO EDC 150 ML @ + COLORIN COLORADO EDC 150 ML @",
     "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @",
     "VICTORIO Y LUCCHINO CAPRICHO FLORAL TENTACION DE ROSAS 100 ML @",
+    "VIKTOR & ROLF BONBON BERRY JELLY EDP 50ML @",
+    "VIKTOR & ROLF BONBON CARAMEL CRUNCH EDP 50ML @",
+    "VIKTOR & ROLF BONBON COLA FIZZ EDP 50ML @",
+    "VIKTOR & ROLPH BONBON EDP 50 ML @",
     "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
     "W ACQUA VERINO WOMAN  EDT 50ML @",
     "WHISKY MAN HOMME SPORT EDT 100 ML REGULAR",
