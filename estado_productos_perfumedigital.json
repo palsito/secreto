@@ -5670,6 +5670,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32173",
       "en_stock": true
     },
+    "32092": {
+      "nombre": "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32092",
+      "en_stock": true
+    },
     "32082": {
       "nombre": "JUST CAVALLI MAN EDT 50 ML REGULAR",
       "precio": "24.99 €",
@@ -10293,7 +10299,7 @@
       "en_stock": true
     },
     "38436": {
-      "nombre": "PACK 10 PRODUCTOS: 5 FRAGANCIAS SAHPIR 30 ML CADA UNA + 5 MAQUILAJES 10 ML CADA UNO @",
+      "nombre": "PACK 10 PRODUCTOS: 5 FRAGANCIAS SAPHIR 30 ML CADA UNA + 5 MAQUILAJES 10 ML CADA UNO @",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38436",
       "en_stock": true
@@ -10910,6 +10916,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42198": {
+      "nombre": "LANCOME O ZENITH MIST BRUMA PELO Y CUERPO 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42198",
+      "en_stock": true
+    },
+    "42197": {
+      "nombre": "LANCOME O OUI MIST BRUMA PELO Y CUERPO 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42197",
+      "en_stock": true
+    },
+    "42196": {
+      "nombre": "LANCOME O COOL MIST BRUMA PELO Y CUERPO 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42196",
+      "en_stock": true
+    },
     "42195": {
       "nombre": "KENZO L`EAU AMBREE EDP 100 ML @",
       "precio": "39.99 €",
@@ -11370,6 +11394,18 @@
       "nombre": "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42002",
+      "en_stock": true
+    },
+    "42001": {
+      "nombre": "MIU MIU FLEUR DE LAIT EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42001",
+      "en_stock": true
+    },
+    "42000": {
+      "nombre": "MIU MIU L EAU DE MUGUET EDP 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42000",
       "en_stock": true
     },
     "41998": {
@@ -20338,13 +20374,13 @@
     },
     "36917": {
       "nombre": "LANCOME OVER THE TOP EDT 100 ML @",
-      "precio": "39.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36917",
       "en_stock": true
     },
     "36915": {
       "nombre": "LANCOME O OFF NOW EDT 100 ML @",
-      "precio": "32.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36915",
       "en_stock": true
     },
@@ -33646,6 +33682,9 @@
     "LALIQUE SATINE EDP 50 ML REGULAR",
     "LAMBRETTA MEN EDT 100 ML REGULAR",
     "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
+    "LANCOME O COOL MIST BRUMA PELO Y CUERPO 100 ML @",
+    "LANCOME O OUI MIST BRUMA PELO Y CUERPO 100 ML @",
+    "LANCOME O ZENITH MIST BRUMA PELO Y CUERPO 100 ML @",
     "LANVIN MARRY ME WOMAN EDP 75 ML REGULAR",
     "LANVIN ME EDP 50 ML REGULAR",
     "LANVIN OXYGENE HOMME EDT 100ML REGULAR",
@@ -34146,6 +34185,7 @@
     "SISLEY EAU DE CAMPAGNE UNISEX EDT 100ML @",
     "SO YOU GIORGIO BEVERLY HILLS EDP 90ML REGULAR",
     "SOLO AMORE BY LUCIANO SOPRANI WOMAN EDT 90 ML REGULAR",
+    "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
     "SOLO LOEWE ELLA EDT 100 ML @",
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
     "SPLENDOR EDP 125ML REGULAR",
