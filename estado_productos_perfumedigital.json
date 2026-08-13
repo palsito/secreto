@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42204": {
+      "nombre": "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42204",
+      "en_stock": true
+    },
     "42189": {
       "nombre": "BAD BOY COBALT ABSOLUTE EDP 100 ML @",
       "precio": "72.99 €",
@@ -10920,6 +10926,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42208": {
+      "nombre": "TOUS LOVE ME EDP 30 ML REGULAR (caja ligeramente dañada)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42208",
+      "en_stock": true
+    },
+    "42207": {
+      "nombre": "CHLOE EDP 100 ML RECARGABLE REGULAR (caja ligeramente dañada)",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42207",
+      "en_stock": true
+    },
+    "42206": {
+      "nombre": "TOUS LOVE ME ESMERALD ELIXIR EDP 30 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42206",
       "en_stock": true
     },
     "42201": {
@@ -33211,6 +33235,7 @@
     "CHARRO FOR WOMAN EDP 100 ML REGULAR",
     "CHARRO RED WOMAN EDP 100 ML REGULAR",
     "CHIC WOMAN EDP 80ML @",
+    "CHLOE EDP 100 ML RECARGABLE REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CHLOE EDP 50 ML REGULAR",
     "CHLOE EDT WOMAN 75ML @",
     "CHLOE INTENSE EDP 100ML @",
@@ -34246,6 +34271,8 @@
     "TOUS GEMS POWER EDT 90 ML @ (SIN CAJA)",
     "TOUS KIDS BOY EDT 100 ML @",
     "TOUS KIDS GIRL EDT 100 ML @",
+    "TOUS LOVE ME EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "TOUS LOVE ME ESMERALD ELIXIR EDP 30 ML REGULAR",
     "TOUS LOVE ME THE AMETHYST ELIXIR EDP 90 ML REGULAR",
     "TOUS MAN EDT 100 ML @",
     "TOUS MAN INTENSE EDT 100 ML REGULAR",
@@ -34379,6 +34406,7 @@
     "YSL MANIFESTO EDP 90 ML @",
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "YSL RIVE GAUCHE EDT 100ML REGULAR",
+    "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML @",
     "ZADIG BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML @",
     "ZINNIA WOMAN EDT 100 ML @",
     "ZINO DAVIDOFF EDT 125 ML REGULAR",
