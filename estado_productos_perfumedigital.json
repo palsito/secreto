@@ -10106,10 +10106,10 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "42203": {
-      "nombre": "PACK PLAYA GUILLAB CASSIOPEA FOR WOMAN EDP 100 ML REGULAR + DISCOVERY SET + BOLSA RAYAS NART DE TELA",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42203",
+    "42221": {
+      "nombre": "ELIZABETH ARDEN GREEN TEA SAKURA EDT 100 ML @ + 2 REGALOS ( BOLSA RAYAS NART DE TELA + NIKE SWEET BLOSSOM EDT 75 ML)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42221",
       "en_stock": true
     },
     "42080": {
@@ -12954,12 +12954,6 @@
       "nombre": "ISSE MIYAKE L EAU D`ISSEY WOMAN EDP INTENSE 100 ML @",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41345",
-      "en_stock": true
-    },
-    "41343": {
-      "nombre": "BOSS ALIVE PARFUM 80 ML REGULAR",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41343",
       "en_stock": true
     },
     "41255": {
@@ -23154,6 +23148,12 @@
       "nombre": "ESTEE LAUDER BEAUTIFUL MAGNOLIA  EDP 30 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35047",
+      "en_stock": true
+    },
+    "35046": {
+      "nombre": "JIMMY CHOO FLORAL EDT 90 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35046",
       "en_stock": true
     },
     "35045": {
@@ -33407,6 +33407,7 @@
     "ELIZABETH ARDEN GREEN TEA EXOTIC EDT 100 ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA LAVENDER WOMAN EDT 100 ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA LOTUS EDT 100 ML REGULAR",
+    "ELIZABETH ARDEN GREEN TEA SAKURA EDT 100 ML @ + 2 REGALOS ( BOLSA RAYAS NART DE TELA + NIKE SWEET BLOSSOM EDT 75 ML)",
     "ELIZABETH ARDEN RED DOOR REVEALED EDP 100ML REGULAR",
     "ELIZABETH ARDEN RED DOOR REVEALED EDP 50ML REGULAR",
     "ELIZABETH ARDEN WHITE TEA EDT 100 ML @ (75% DEL CONTENIDO)",
@@ -33651,6 +33652,7 @@
     "JIMMY CHOO EDT 100ML @",
     "JIMMY CHOO FLASH EDP 100ML @",
     "JIMMY CHOO FLASH EDP 100ML REGULAR",
+    "JIMMY CHOO FLORAL EDT 90 ML @",
     "JIMMY CHOO ILLICIT EDP 100 ML @",
     "JLO LOVE AND LIGHT EDP 75 ML REGULAR",
     "JLO SUNKISSED GLOW EDT 30 ML REGULAR",
