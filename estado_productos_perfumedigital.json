@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42209": {
+      "nombre": "CH MEN EDT 100 ML REGULAR",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42209",
+      "en_stock": true
+    },
     "42204": {
       "nombre": "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML @",
       "precio": "49.99 €",
@@ -10944,6 +10950,12 @@
       "nombre": "TOUS LOVE ME ESMERALD ELIXIR EDP 30 ML REGULAR",
       "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42206",
+      "en_stock": true
+    },
+    "42205": {
+      "nombre": "CH WOMAN EDT 30ML REGULAR (Caja ligeramente dañada)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42205",
       "en_stock": true
     },
     "42201": {
@@ -25238,6 +25250,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32237",
       "en_stock": true
     },
+    "32229": {
+      "nombre": "ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR WOMAN EDT 60 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32229",
+      "en_stock": true
+    },
     "32175": {
       "nombre": "BOUCHERON SERPENT BOHEME EDP 90 ML @",
       "precio": "36.99 €",
@@ -32885,6 +32903,7 @@
     "ADIDAS ICE DIVE EDT 100 ML @",
     "ADIDAS VICTORY LEAGUE EDT 100ML @",
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
+    "ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR WOMAN EDT 60 ML REGULAR",
     "ADOLFO DOMINGUEZ BAMBÚ MAN EDP 120ML @",
     "ADOLFO DOMINGUEZ NEROLI FOR MEN EDT 120 ML @",
     "AGUA BRAVA EDC 100ML @",
@@ -33213,6 +33232,7 @@
     "CH MEN SPORT EDT 100 ML REGULAR",
     "CH WOMAN EDT 100ML @",
     "CH WOMAN EDT 100ML REGULAR",
+    "CH WOMAN EDT 30ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CHANEL ALLURE HOMME SPORT 100 ML @",
     "CHANEL ALLURE WOMAN EDT 100ML @",
     "CHANEL CHANCE EAU FRAICHE EDP 100ML @",
