@@ -4578,6 +4578,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34990",
       "en_stock": true
     },
+    "34986": {
+      "nombre": "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML REGULAR",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34986",
+      "en_stock": true
+    },
     "34968": {
       "nombre": "NIKE MAN EDT (FORMATO NUEVO) 100ML @",
       "precio": "5.99 €",
@@ -6498,6 +6504,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29283",
       "en_stock": true
     },
+    "29270": {
+      "nombre": "REAL MADRID EDT 100 ML @ (Sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29270",
+      "en_stock": true
+    },
     "29260": {
       "nombre": "JAGUAR CLASSIC BLACK EDT 100 ML @",
       "precio": "8.99 €",
@@ -6832,6 +6844,12 @@
       "nombre": "BUSTAMANTE ESENCIA IN BLACK EL EDT 100 ML @",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27740",
+      "en_stock": true
+    },
+    "27731": {
+      "nombre": "AXE BLACK EDT 100 ML @ (Sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27731",
       "en_stock": true
     },
     "27726": {
@@ -18150,6 +18168,12 @@
       "nombre": "SET REEBOOK ACTIVATE FOR HER EDT 100 ML + SHOWER GEL 250 ML + BODY LOCION 250 ML REGULAR (Caja ligeramente dañada)",
       "precio": "11.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38166",
+      "en_stock": true
+    },
+    "38151": {
+      "nombre": "AIRE DE SEVILLA ROSE EDT 150 ML @ (sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38151",
       "en_stock": true
     },
     "38138": {
@@ -32850,7 +32874,7 @@
     },
     "20190": {
       "nombre": "AIRE DE SEVILLA AGUA DE ROSAS FRESCAS 150 ML @ (Sin caja)",
-      "precio": "9.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20190",
       "en_stock": true
     },
@@ -32968,6 +32992,7 @@
     "AIRE DE SEVILLA AGUA FRESCA DE AZAHAR 150 ML @",
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
     "AIRE DE SEVILLA ROSAS BLANCAS EDT 150 ML @ (SIN CAJA)",
+    "AIRE DE SEVILLA ROSE EDT 150 ML @ (SIN CAJA)",
     "AITANA 1999 EDT 80 ML @",
     "AITANA STARS EDT 80 ML @ ~",
     "ALESSANDRO DELLA TORRE EDT 50 ML REGULAR",
@@ -33072,6 +33097,7 @@
     "AROMATICS ELIXIR EDP 100ML REGULAR",
     "ARPEGE EDP 100ML REGULAR",
     "AXE ANARCHY FOR HER EDT 50 ML @",
+    "AXE BLACK EDT 100 ML @ (SIN CAJA)",
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE DARK TEMPTATION EDT 100 ML @ (SIN CAJA)",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
@@ -34206,6 +34232,7 @@
     "RAMON MOLVIZAR LEAVES HOMME EDP 75 ML REGULAR",
     "RAMON MOLVIZAR PASSIONATE WOMAN EDP 100 ML REGULAR",
     "RAMON MOLVIZAR PK TWO EDP BLACK MAN 100 ML REGULAR",
+    "REAL MADRID EDT 100 ML @ (SIN CAJA)",
     "REBEL CRAZY WOMAN EDT 100 ML @ (SIN CAJA)",
     "RED DOOR AURA EDT 100 ML REGULAR",
     "RED DOOR ETERNAL AURA EDP 100 ML @",
@@ -34487,6 +34514,7 @@
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS BERGAMOTA CALABRIA 150 ML REGULAR",
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS FLOR DE NARANJO 150 ML @ (SIN CAJA)",
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS VERBENA AZAHAR 150 ML @ (SIN CAJA)",
+    "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML REGULAR",
     "ÁLVAREZ GÓMEZ VERSION BARBERIA EDP 80 ML @ + BARBERIA EDP 30 ML @"
   ]
 }
