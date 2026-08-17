@@ -1086,12 +1086,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41367",
       "en_stock": true
     },
-    "41347": {
-      "nombre": "1881 SILVER NIGHT HOMME EDP 100ML @",
-      "precio": "26.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41347",
-      "en_stock": true
-    },
     "41344": {
       "nombre": "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
       "precio": "49.99 €",
@@ -2162,7 +2156,7 @@
     },
     "39182": {
       "nombre": "CREED IMPERIAL MILLISIME EDP 100 ML @",
-      "precio": "219.00 €",
+      "precio": "199.00 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39182",
       "en_stock": true
     },
@@ -10944,6 +10938,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42231": {
+      "nombre": "ANNICK GOUTAL NUIT CONFIDENCES EDP 100 ML @",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42231",
       "en_stock": true
     },
     "42225": {
@@ -32970,6 +32970,7 @@
     "ANNICK GOUTAL EAU D`HADRIEN RECARGA EDT 100 ML REGULAR (CAJA DAÑADA)",
     "ANNICK GOUTAL FOLIE D UN SOIR EDP 50 ML REGULAR",
     "ANNICK GOUTAL LILE AU THE EDT 100 ML @",
+    "ANNICK GOUTAL NUIT CONFIDENCES EDP 100 ML @",
     "ANNICK GOUTAL NUIT ETOILEE EDP 100 ML @",
     "ANNICK GOUTAL ROSE POMPON EDP 100 ML @",
     "ANNICK GOUTAL SONGES EDP 100 ML @",
