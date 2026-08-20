@@ -32212,6 +32212,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42243": {
+      "nombre": "SAPHIR GOLDEN VEIL WOMAN EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42243",
+      "en_stock": true
+    },
+    "42242": {
+      "nombre": "SAPHIR TOY INTENSE EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42242",
+      "en_stock": true
+    },
     "42240": {
       "nombre": "FARALA ORIGINAL EDT 75 ML @ (Sin caja)",
       "precio": "4.99 €",
@@ -32416,6 +32428,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35823",
       "en_stock": true
     },
+    "35226": {
+      "nombre": "SAPHIR MIST SILOE WOMAN EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35226",
+      "en_stock": true
+    },
     "35217": {
       "nombre": "SAPHIR AGUA DE MAYO CRO MAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -32438,6 +32456,12 @@
       "nombre": "INSTITUTO ESPAÑOL GOTAS FRESCAS AGUA DE COLONIA 50 ML @",
       "precio": "1.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34553",
+      "en_stock": true
+    },
+    "34502": {
+      "nombre": "SAPHIR MY FUTURE FEMME EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34502",
       "en_stock": true
     },
     "34294": {
@@ -32536,10 +32560,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31468",
       "en_stock": true
     },
+    "30885": {
+      "nombre": "SAPHIR STAR 30 ML @ (sin caja)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30885",
+      "en_stock": true
+    },
     "30685": {
       "nombre": "SAPHIR PERFECT WOMAN  EDP 30 ML @ (sin caja) |",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30685",
+      "en_stock": true
+    },
+    "30666": {
+      "nombre": "SAPHIR COOL EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30666",
       "en_stock": true
     },
     "30231": {
@@ -32552,6 +32588,12 @@
       "nombre": "DEEP EUPHORIA WOMAN EDP 100 ML REGULAR (Sin caja)",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29743",
+      "en_stock": true
+    },
+    "28287": {
+      "nombre": "SAPHIR SELECT BLUE WOMAN EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=28287",
       "en_stock": true
     },
     "28279": {
@@ -32618,6 +32660,12 @@
       "nombre": "ANTONIO BANDERAS SEDUCTION IN BLACK FOR MEN EDT 100 ML @ (vapo se suelta pero vaporiza bien)",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23790",
+      "en_stock": true
+    },
+    "23655": {
+      "nombre": "SAPHIR PRESTIGE WOMAN EDP 30 ML @ (sin caja)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23655",
       "en_stock": true
     },
     "23653": {
@@ -34104,6 +34152,7 @@
     "SALVATORE FERRAGAMO WOMAN EDP 50ML @",
     "SAPHIR AMBAR & MUGET 175 ML (SIN CAJA) @",
     "SAPHIR AMBAR & MUGUET 30 ML @ (SIN CAJA)",
+    "SAPHIR COOL EDP 30 ML @ (SIN CAJA)",
     "SAPHIR ELITE DARK DREAM EAU DE PARFUM 100 ML REGULAR (SIN CAJA)",
     "SAPHIR ELITE GIVE ME ROSE EDP 100 ML @ (SIN CAJA)",
     "SAPHIR ELITE NOIR WHISPERS PARFUM 100 ML REGULAR (SIN CAJA)",
@@ -34111,8 +34160,15 @@
     "SAPHIR FLORES BERGAMOTA & MANDARINA 175 ML @ (SIN CAJA)",
     "SAPHIR FLORES VERBENA & LIMON 175 ML @ (SIN CAJA)",
     "SAPHIR FRESA Y NATA EDT 30 ML @ (SIN CAJA)",
+    "SAPHIR GOLDEN VEIL WOMAN EDP 30 ML @ (SIN CAJA)",
+    "SAPHIR MIST SILOE WOMAN EDP 30 ML @ (SIN CAJA)",
     "SAPHIR MUSK BLANCO & JAZMIN 175 ML @ (SIN CAJA)",
     "SAPHIR MUSK BLANCO & JAZMIN 30 ML @",
+    "SAPHIR MY FUTURE FEMME EDP 30 ML @ (SIN CAJA)",
+    "SAPHIR PRESTIGE WOMAN EDP 30 ML @ (SIN CAJA)",
+    "SAPHIR SELECT BLUE WOMAN EDP 30 ML @ (SIN CAJA)",
+    "SAPHIR STAR 30 ML @ (SIN CAJA)",
+    "SAPHIR TOY INTENSE EDP 30 ML @ (SIN CAJA)",
     "SARAH JESSICA PARKER  TWILIGHT WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER DAWN WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER NYC EDT 60ML @",
