@@ -23770,7 +23770,7 @@
     },
     "34180": {
       "nombre": "FARALA ORIGINAL EDT 75 ML @",
-      "precio": "7.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34180",
       "en_stock": true
     },
@@ -32212,6 +32212,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42240": {
+      "nombre": "FARALA ORIGINAL EDT 75 ML @ (Sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42240",
+      "en_stock": true
+    },
     "42025": {
       "nombre": "LOTE 5 UNIDADES DE SAPHIR VARIADAS EDP 30 ML @ (sin caja, en total 150 ml)",
       "precio": "4.99 €",
@@ -33360,6 +33366,7 @@
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
     "FANTASY EDP 100ML REGULAR",
     "FARALA ORIGINAL EDT 150 ML REGULAR",
+    "FARALA ORIGINAL EDT 75 ML @ (SIN CAJA)",
     "FC BARCELONA BALON EDP 100 ML @ (SIN CAJA)",
     "FCUK HER EDT 100 ML REGULAR",
     "FCUK HER SUMMER EDT 100 ML REGULAR",
