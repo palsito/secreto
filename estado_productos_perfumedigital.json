@@ -2748,12 +2748,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38482",
       "en_stock": true
     },
-    "38479": {
-      "nombre": "MONTALE OUD ISLAND (UNISEX) EDP 100 ML REGULAR",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38479",
-      "en_stock": true
-    },
     "38477": {
       "nombre": "MONTALE NEPAL AOUD (UNISEX) EDP 100 ML @",
       "precio": "89.99 €",
@@ -13784,12 +13778,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40351",
       "en_stock": true
     },
-    "40349": {
-      "nombre": "CHANEL CHANCE EAU FRAICHE EDP 100ML @",
-      "precio": "114.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40349",
-      "en_stock": true
-    },
     "40348": {
       "nombre": "CHANEL CHANCE EAU FRAICHE EDT 100ML @",
       "precio": "104.99 €",
@@ -24176,6 +24164,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34022",
       "en_stock": true
     },
+    "34020": {
+      "nombre": "PACO RABANNE GENIUS ME EDP 62 ML @ (SIN CAJA)",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34020",
+      "en_stock": true
+    },
     "34019": {
       "nombre": "PACO RABANNE DANGEROUS ME EDP 62 ML @(sin caja)",
       "precio": "86.99 €",
@@ -33940,6 +33934,7 @@
     "PACO RABANE PACO ROSE EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
+    "PACO RABANNE GENIUS ME EDP 62 ML @ (SIN CAJA)",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
     "PACO RABANNE INVICTUS MAN EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
