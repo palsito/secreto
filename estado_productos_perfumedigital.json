@@ -22244,12 +22244,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35745",
       "en_stock": true
     },
-    "35741": {
-      "nombre": "GUERLAIN  AQUA  ALLEGORIA ROSA VERDE EDT 125 ML @",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35741",
-      "en_stock": true
-    },
     "35740": {
       "nombre": "D&G DEVOTION INTENSE EDP 100 ML @",
       "precio": "69.99 €",
@@ -28040,6 +28034,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23749",
       "en_stock": true
     },
+    "23665": {
+      "nombre": "DESIGUAL LOVE EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23665",
+      "en_stock": true
+    },
     "23663": {
       "nombre": "VANDERBILT MINUIT A NEW YORK EDP 100ML REGULAR",
       "precio": "12.99 €",
@@ -33331,6 +33331,7 @@
     "DAVIDOFF HOT WATER EDT 110ML REGULAR",
     "DAVIDOFF THE GAME EDT 100 ML @",
     "DAVIDOFF THE GAME EDT 100 ML REGULAR",
+    "DESIGUAL LOVE EDT 100 ML @",
     "DESIGUAL LOVE EDT 100 ML REGULAR",
     "DESIR POUR HOMME EDT 100ML @",
     "DEVOTA & LOMBA ELIXIR DESNUDO EDT 100 ML @ (SIN CAJA)",
