@@ -4500,12 +4500,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35093",
       "en_stock": true
     },
-    "35089": {
-      "nombre": "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35089",
-      "en_stock": true
-    },
     "35030": {
       "nombre": "ACQUA DI GIO PROFONDO EDP 100 ML@",
       "precio": "54.99 €",
@@ -8100,6 +8094,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20754",
       "en_stock": true
     },
+    "20729": {
+      "nombre": "PACO RABANE UNISEX EDT 100 ML @",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20729",
+      "en_stock": true
+    },
     "20714": {
       "nombre": "MONT BLANC EMBLEM EDT 100 ML REGULAR",
       "precio": "52.99 €",
@@ -10212,12 +10212,6 @@
       "nombre": "GISADA AMBASSADORA WOMAN EDP 100 ML @ (Sin caja)",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39082",
-      "en_stock": true
-    },
-    "38925": {
-      "nombre": "PACK 4 FRAGANCIAS ALVAREZ GOMEZ: FRUIT TEA COLLECTION COCO 100 ML @ +  VAINILLA 100 ML @ +  FRESA 100 ML @ + BERGAMOTA 50 ML @",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38925",
       "en_stock": true
     },
     "38679": {
@@ -34093,6 +34087,7 @@
     "PACK PLAYA GUILLAB CASSIOPEA FOR WOMAN EDP 100 ML REGULAR + DISCOVERY SET + BOLSA RAYAS NART DE TELA",
     "PACK ULTRA NIKE 4X1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
     "PACO RABANE PACO ROSE EDT 100 ML @",
+    "PACO RABANE UNISEX EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
     "PACO RABANNE GENIUS ME EDP 62 ML @ (SIN CAJA)",
