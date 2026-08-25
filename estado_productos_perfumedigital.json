@@ -27356,12 +27356,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26282",
       "en_stock": true
     },
-    "26280": {
-      "nombre": "EAU DE LACOSTE L.12.12 POUR ELLE ELEGANT EDT 90 ML @",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26280",
-      "en_stock": true
-    },
     "26279": {
       "nombre": "EAU DE LACOSTE L.12.12 POUR ELLE NATURAL EDT 90 ML @",
       "precio": "39.99 €",
@@ -28914,6 +28908,12 @@
       "nombre": "LALIQUE AZALEE EDP 100 ML REGULAR",
       "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21390",
+      "en_stock": true
+    },
+    "21387": {
+      "nombre": "ALVIERO MARTINI 1A CLASSE IRIS WOMAN EDP 100 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21387",
       "en_stock": true
     },
     "21384": {
@@ -32904,6 +32904,7 @@
     "ALIEN EDT 60ML @",
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
     "ALVAREZ GOMEZ MUSK 175 ML @",
+    "ALVIERO MARTINI 1A CLASSE IRIS WOMAN EDP 100 ML REGULAR",
     "ALYSSA ASHLEY GREEN TEA ESSENCE EDT 30 ML REGULAR",
     "ALYSSA ASHLEY MATCH RACE EDP 100 ML REGULAR",
     "ALYSSA FIZZY EDT 100 ML REGULAR",
