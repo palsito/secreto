@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42275": {
+      "nombre": "SPAGNOLO MEDITERRANEO EDT 75 ML @ (sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42275",
+      "en_stock": true
+    },
     "42228": {
       "nombre": "ESPECIAL 2x1 GUILLAB: GUILLAB CANIS FOR MEN EDP 100 ML REGULAR + GUILLAB PICTOR EDP 100 ML REGULAR",
       "precio": "19.99 €",
@@ -10032,6 +10038,12 @@
       "nombre": "PACK 3x1 WOMAN: CARAMELO FREESIA BLOOM EDT 100 ML @ + FRUITY VELVET EDT 100 ML @ + CHERRY SWEETNESS EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42080",
+      "en_stock": true
+    },
+    "42068": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ + BOLSA NECESER DE REGALO",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42068",
       "en_stock": true
     },
     "42066": {
@@ -34269,6 +34281,7 @@
     "SOLO AMORE BY LUCIANO SOPRANI WOMAN EDT 90 ML REGULAR",
     "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
     "SOLO LOEWE ELLA EDT 100 ML @",
+    "SPAGNOLO MEDITERRANEO EDT 75 ML @ (SIN CAJA)",
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
     "SPLENDOR EDP 125ML REGULAR",
     "SPRINGFIELD SPF WOMAN EDT 100 ML @",
