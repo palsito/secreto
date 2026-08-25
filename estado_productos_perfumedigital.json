@@ -5208,12 +5208,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32894",
       "en_stock": true
     },
-    "32851": {
-      "nombre": "TOMMY HILFIGER NOW MAN EDT 100 ML @",
-      "precio": "36.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32851",
-      "en_stock": true
-    },
     "32834": {
       "nombre": "GIVENCHY GENTLEMAN INTENSE EDT 100ML @",
       "precio": "52.99 €",
@@ -6028,6 +6022,12 @@
       "nombre": "RALPH LAUREN POLO DEEP BLUE PARFUM 125 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31020",
+      "en_stock": true
+    },
+    "31017": {
+      "nombre": "ROCHAS L HOMME EDT 100 ML @",
+      "precio": "30.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31017",
       "en_stock": true
     },
     "31016": {
@@ -34153,6 +34153,7 @@
     "ROCCO BAROCCO  PIAZZA DI SPAGNA UOMO EDT 75 ML REGULAR",
     "ROCCO BAROCCO TRE EDP 100 ML REGULAR",
     "ROCHAS DESIR EDT 75ML @",
+    "ROCHAS L HOMME EDT 100 ML @",
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN EDT 100ML @",
     "ROCHAS MAN INTENSE EDP 100ML REGULAR",
