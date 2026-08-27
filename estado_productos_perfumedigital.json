@@ -15116,6 +15116,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39546",
       "en_stock": true
     },
+    "39489": {
+      "nombre": "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39489",
+      "en_stock": true
+    },
     "39479": {
       "nombre": "HERMES UN JARDIN SOUS LA MER EDT 100 ML REGULAR",
       "precio": "56.99 €",
@@ -23166,12 +23172,6 @@
       "nombre": "ALVAREZ GOMEZ BERGAMOTA 30 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34768",
-      "en_stock": true
-    },
-    "34767": {
-      "nombre": "VICKY MARTIN BERROCAL CORAL WOMAN EDT 100 ML @",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34767",
       "en_stock": true
     },
     "34764": {
@@ -33328,6 +33328,7 @@
     "ETRO NECTAR EDP 100 ML @",
     "EUPHORIA ENDLESS EDP 125 ML REGULAR",
     "EUPHORIA MAGNETIC ELIXIR WOMAN EDP 100 ML REGULAR",
+    "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "EUPHORIA MEN EDT 100ML REGULAR",
     "FAHRENHEIT EDT 100ML REGULAR",
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
