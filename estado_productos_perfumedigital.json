@@ -10004,6 +10004,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42279": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42279",
+      "en_stock": true
+    },
     "42222": {
       "nombre": "PACK 4x1 CLASICAS DE SIEMPRE: CHANSON D´EAU WOMAN EDT 100 ML @ + ANTONIO PUIG ANOUK EDT 100 ML @ + AGUA DE LUNA FRAICHE DE PUIG EDT 100 ML @ + VANDERBILT WOMAN EDT 100ML @",
       "precio": "9.99 €",
@@ -10284,6 +10290,12 @@
       "nombre": "SET CK ONE UNISEX BLANCA 100 ML REGULAR + DEO SPRAY 150 ML REGULAR",
       "precio": "25.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36403",
+      "en_stock": true
+    },
+    "36375": {
+      "nombre": "PRADA LA FEMME INTENSE EDP 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36375",
       "en_stock": true
     },
     "36367": {
@@ -21032,12 +21044,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36376",
       "en_stock": true
     },
-    "36375": {
-      "nombre": "PRADA LA FEMME INTENSE EDP 100 ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36375",
-      "en_stock": true
-    },
     "36374": {
       "nombre": "ELIZABETH ARDEN GREEN TEA CITRON FREESIA EDT 100 ML @",
       "precio": "9.99 €",
@@ -31682,6 +31688,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1841",
       "en_stock": true
     },
+    "1840": {
+      "nombre": "ANGEL SCHLESSER FEMME EDT 100ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=1840",
+      "en_stock": true
+    },
     "1810": {
       "nombre": "DIOR DOLCE VITA EDT 100ML @",
       "precio": "54.99 €",
@@ -33076,6 +33088,7 @@
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+    "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
