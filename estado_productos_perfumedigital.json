@@ -420,6 +420,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42284": {
+      "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR (Caja dañada)",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42284",
+      "en_stock": true
+    },
+    "42283": {
+      "nombre": "PASHA DE CARTIER EDITION NOIRE EDT 100ML REGULAR (Caja dañada)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42283",
+      "en_stock": true
+    },
+    "42282": {
+      "nombre": "CARTIER DECLARATION PARFUM 100 ML REGULAR (Caja dañada)",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42282",
+      "en_stock": true
+    },
     "42275": {
       "nombre": "SPAGNOLO MEDITERRANEO EDT 75 ML @ (sin caja)",
       "precio": "5.99 €",
@@ -3528,6 +3546,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37191",
       "en_stock": true
     },
+    "37045": {
+      "nombre": "BOSS BOTTLED BEYOND EDP 100 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37045",
+      "en_stock": true
+    },
     "37038": {
       "nombre": "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML REGULAR",
       "precio": "82.99 €",
@@ -3712,6 +3736,12 @@
       "nombre": "YSL Y MYSLF L ABSOLU 100 ML @",
       "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36477",
+      "en_stock": true
+    },
+    "36432": {
+      "nombre": "ACQUA DI GIÒ POUR ELIXIR HOMME PARFUM 50ML @",
+      "precio": "57.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36432",
       "en_stock": true
     },
     "36331": {
@@ -10004,9 +10034,15 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42280": {
+      "nombre": "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42280",
+      "en_stock": true
+    },
     "42279": {
       "nombre": "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
-      "precio": "19.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42279",
       "en_stock": true
     },
@@ -10648,7 +10684,7 @@
     },
     "31273": {
       "nombre": "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
-      "precio": "86.99 €",
+      "precio": "76.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31273",
       "en_stock": true
     },
@@ -10722,6 +10758,12 @@
       "nombre": "ADOLFO DOMINGUEZ BAMBU WOMAN EDT 100 ML @",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23053",
+      "en_stock": true
+    },
+    "22929": {
+      "nombre": "J´ADORE EDT 100ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22929",
       "en_stock": true
     },
     "22745": {
@@ -10836,6 +10878,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42281": {
+      "nombre": "ALLURE SENSUELLE EDT 100ML @ (Sin caja)",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42281",
       "en_stock": true
     },
     "42235": {
@@ -13736,6 +13784,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40328",
       "en_stock": true
     },
+    "40326": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML @",
+      "precio": "72.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40326",
+      "en_stock": true
+    },
     "40325": {
       "nombre": "IRRESISTIBLE NECTAR EDP 80 ML @",
       "precio": "54.99 €",
@@ -15132,6 +15186,18 @@
       "nombre": "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39489",
+      "en_stock": true
+    },
+    "39488": {
+      "nombre": "EUPHORIA BOLD ELIXIR WOMAN PARFUM INTENSE 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39488",
+      "en_stock": true
+    },
+    "39487": {
+      "nombre": "EUPHORIA SOLAR ELIXIR WOMAN PARFUM INTENSE 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39487",
       "en_stock": true
     },
     "39479": {
@@ -20210,6 +20276,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36910",
       "en_stock": true
     },
+    "36909": {
+      "nombre": "ESCADA BALI PARADISE EDT 100 ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36909",
+      "en_stock": true
+    },
     "36908": {
       "nombre": "ELIZABETH ARDEN WOMAN RED DOOR EDT 100ML @",
       "precio": "19.99 €",
@@ -21244,7 +21316,7 @@
     },
     "36191": {
       "nombre": "OLYMPEA ABSOLU INTENSE EDP 80 ML @",
-      "precio": "74.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36191",
       "en_stock": true
     },
@@ -24926,6 +24998,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32330",
       "en_stock": true
     },
+    "32328": {
+      "nombre": "SOLO LOEWE ELLA EDP 100 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32328",
+      "en_stock": true
+    },
     "32325": {
       "nombre": "CAROLINA HERRERA VERY GOOD GIRL EDP 80 ML @",
       "precio": "54.99 €",
@@ -26182,7 +26260,7 @@
     },
     "30004": {
       "nombre": "ALLURE SENSUELLE EDT 100ML @",
-      "precio": "89.99 €",
+      "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30004",
       "en_stock": true
     },
@@ -29330,6 +29408,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20183",
       "en_stock": true
     },
+    "20171": {
+      "nombre": "GREEN TEA EDT 100ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20171",
+      "en_stock": true
+    },
     "20167": {
       "nombre": "SPF FOREVER FREE WOMAN EDT 100 ML @",
       "precio": "4.99 €",
@@ -31606,7 +31690,7 @@
     },
     "11390": {
       "nombre": "CHANEL COCO EDT 100ML @",
-      "precio": "69.99 €",
+      "precio": "66.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=11390",
       "en_stock": true
     },
@@ -32114,6 +32198,12 @@
       "nombre": "FARALA ORIGINAL EDT 75 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42240",
+      "en_stock": true
+    },
+    "42239": {
+      "nombre": "J´ADORE L´ABSOLU EDP 75ML @ (Sin caja, 95% del contenido)",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42239",
       "en_stock": true
     },
     "42025": {
@@ -32650,12 +32740,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22635",
       "en_stock": true
     },
-    "20940": {
-      "nombre": "TERRE D HERMES EDP 75ML (95% del contenido, vapo ligeramente dañado pero vaporiza bien)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20940",
-      "en_stock": true
-    },
     "20558": {
       "nombre": "AGUA DE COLONIA ÁLVAREZ GÓMEZ EDC 80ML @ (80% contenido)",
       "precio": "1.79 €",
@@ -32737,6 +32821,7 @@
     "A MI AIRE EDT 100ML @ (FORMATO NUEVO) (SIN CAJA, 80% DEL CONTENIDO)",
     "ACQUA DI GIO POUR HOMME EDT 100ML @",
     "ACQUA DI GIOIA WOMAN EDP 100 ML @",
+    "ACQUA DI GIÒ POUR ELIXIR HOMME PARFUM 50ML @",
     "ACQUA DI GIÒ POUR HOMME INTENSE EDP 100 ML REGULAR",
     "ACQUA DI PARMA BERGAMOTTO EDT 100 ML REGULAR",
     "ACQUA DI PARMA BERGAMOTTO EDT 180 ML REGULAR",
@@ -32795,6 +32880,7 @@
     "ALIEN EDP 90ML  @",
     "ALIEN EDT 60ML @",
     "ALIEN GODDESS INTENSE EDP INTENSE 90 ML REGULAR (CAJA DAÑADA)",
+    "ALLURE SENSUELLE EDT 100ML @ (SIN CAJA)",
     "ALVAREZ GOMEZ MUSK 175 ML @",
     "ALVIERO MARTINI 1A CLASSE IRIS WOMAN EDP 100 ML REGULAR",
     "ALYSSA ASHLEY GREEN TEA ESSENCE EDT 30 ML REGULAR",
@@ -32999,6 +33085,7 @@
     "BOND Nº 9 WEST BROADWAY EDP 50 ML REGULAR UNISEX",
     "BONGO EDT 100 ML REGULAR",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
+    "BOSS BOTTLED BEYOND EDP 100 ML @",
     "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "BOSS BOTTLED MAN EDT 100 ML REGULAR",
@@ -33036,6 +33123,7 @@
     "BURBERRY FOR WOMEN EDP 100 ML REGULAR",
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
+    "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @",
     "BURBERRY LONDON MEN  (CAJA DE RAYAS)  EDT 100ML REGULAR",
     "BURBERRY THE BEAT MEN EDT 100ML @ (70% DEL CONTENIDO, SE LE CAE CAPO)",
     "BURBERRY TOUCH FOR MEN EDT 100ML REGULAR",
@@ -33089,11 +33177,14 @@
     "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
+    "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
     "CARTIER DECLARATION EDT 100 ML @",
+    "CARTIER DECLARATION PARFUM 100 ML REGULAR (CAJA DAÑADA)",
     "CARTIER PANTHERE EDP 100 ML @",
+    "CARTIER PASHA PARFUM 100 ML REGULAR (CAJA DAÑADA)",
     "CASMIR EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CERRUTI 1881 RIVIERA POUR HOMME EDT EDT 100 ML @",
@@ -33314,6 +33405,7 @@
     "EMANUEL UNGARO PARTY FEMME EDT 90 ML REGULAR",
     "EMPORIO EL EDT 100ML REGULAR",
     "EMPORIO REMIX MEN EDT 50ML @",
+    "ESCADA BALI PARADISE EDT 100 ML @",
     "ESCADA ESPECIALLY EDP 75 ML @",
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE 75 ML @",
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
@@ -33339,10 +33431,12 @@
     "ETRO DIANTHUS EDT 100 ML REGULAR",
     "ETRO MAGOT EDT 100 ML REGULAR UNISEX",
     "ETRO NECTAR EDP 100 ML @",
+    "EUPHORIA BOLD ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "EUPHORIA ENDLESS EDP 125 ML REGULAR",
     "EUPHORIA MAGNETIC ELIXIR WOMAN EDP 100 ML REGULAR",
     "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "EUPHORIA MEN EDT 100ML REGULAR",
+    "EUPHORIA SOLAR ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "FAHRENHEIT EDT 100ML REGULAR",
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
     "FANTASY EDP 100ML REGULAR",
@@ -33589,9 +33683,11 @@
     "JUST CAVALLI WILD HEARTS MAN EDT 90 ML @",
     "JUST CAVALLI WOMAN EDT 75 ML @",
     "JUST CAVALLI WOMAN EDT 75 ML REGULAR",
+    "J´ADORE EDT 100ML @",
     "J´ADORE INFINISSIME PERL DE PARFUM 20ML @",
     "J´ADORE INTENSE PARFUM 100 ML @",
     "J´ADORE L´ABSOLU EDP 75ML @",
+    "J´ADORE L´ABSOLU EDP 75ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "KAREN LOW BLACK MEN EDT 100 ML @",
     "KARL LAGERFELD  PARIS 21 RUE SAINT GUILLAUME EDP 100 ML @",
     "KENZO EAU DE FLEUR DE SOIE SILK EDT 50ML @",
@@ -33948,6 +34044,7 @@
     "PALOMA PICASSO EDP 100ML REGULAR",
     "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
     "PARIS HILTON JUST ME MEN EDT 100ML REGULAR",
+    "PASHA DE CARTIER EDITION NOIRE EDT 100ML REGULAR (CAJA DAÑADA)",
     "PAUL SMITH  OPTIMISTIC WOMAN EDT 100 ML REGULAR",
     "PAUL SMITH PORTRAIT EDP 80 ML REGULAR",
     "PAUL SMITH WOMAN EXTREME EDT 100ML @",
