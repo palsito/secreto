@@ -10934,6 +10934,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42300": {
+      "nombre": "SISLEY REVEE D ARIA EDT 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42300",
+      "en_stock": true
+    },
     "42299": {
       "nombre": "SISLEY DELIYA EDP 100 ML @",
       "precio": "69.99 €",
@@ -10941,7 +10947,7 @@
       "en_stock": true
     },
     "42298": {
-      "nombre": "SISLEY ALMA EDP 100 ML @",
+      "nombre": "SISLEY ALMA EDT 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42298",
       "en_stock": true
@@ -13840,7 +13846,7 @@
     },
     "40339": {
       "nombre": "SISLEY L`EAU REVEE D`HUBERT EDT 100ML @",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40339",
       "en_stock": true
     },
@@ -19958,12 +19964,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37218",
       "en_stock": true
     },
-    "37217": {
-      "nombre": "SENSAI THE SILK EDT 50 ML @",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37217",
-      "en_stock": true
-    },
     "37206": {
       "nombre": "ELIE SAAB  GIRL OF NOW SHINE EDP WOMAN 50 ML REGULAR",
       "precio": "59.99 €",
@@ -20092,7 +20092,7 @@
     },
     "37109": {
       "nombre": "SISLEY L`EAU REVEE D`ISA EDT 100 ML @",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37109",
       "en_stock": true
     },
@@ -20334,12 +20334,6 @@
       "nombre": "LATTAFA  BAYAAN EDP 100 ML FOR WOMAN REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36946",
-      "en_stock": true
-    },
-    "36934": {
-      "nombre": "SISLEY L`EAU REVEE D ARIA EDT 100 ML @",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36934",
       "en_stock": true
     },
     "36921": {
@@ -22260,6 +22254,12 @@
       "nombre": "ALIEN HYPERSENSE EDP 90ML  @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35749",
+      "en_stock": true
+    },
+    "35748": {
+      "nombre": "LOEWE PAULA`S COSMIC EDP 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35748",
       "en_stock": true
     },
     "35747": {
@@ -28808,6 +28808,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21757",
       "en_stock": true
     },
+    "21756": {
+      "nombre": "SISLEY PARIS SOIR DE LUNE EDP 100 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21756",
+      "en_stock": true
+    },
     "21747": {
       "nombre": "EUPHORIA ENDLESS EDP 125 ML @",
       "precio": "39.99 €",
@@ -33848,6 +33854,7 @@
     "LOEWE 7 MEN EDT 100ML REGULAR",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
     "LOEWE ESENCIA ELIXIR POUR HOMME BOTELLA ALARGADA 100ML @",
+    "LOEWE PAULA`S COSMIC EDP 100 ML @",
     "LOLITA LEMPICKA GREEN LOVER HOMME EDT 100 ML REGULAR",
     "LOLITA LEMPICKA LE PARFUM EDP 100ML REGULAR",
     "LOLITA LEMPICKA MON EAU EDP 30 ML REGULAR",
@@ -34366,6 +34373,8 @@
     "SISLEY EAU DE CAMPAGNE UNISEX EDT 100ML @",
     "SISLEY EAU IZIA EDP 100 ML @",
     "SISLEY EAU SOIR EDP 100 ML @",
+    "SISLEY PARIS SOIR DE LUNE EDP 100 ML @",
+    "SISLEY REVEE D ARIA EDT 100 ML @",
     "SO YOU GIORGIO BEVERLY HILLS EDP 90ML REGULAR",
     "SOLO AMORE BY LUCIANO SOPRANI WOMAN EDT 90 ML REGULAR",
     "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
