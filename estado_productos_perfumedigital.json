@@ -282,12 +282,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35027",
       "en_stock": true
     },
-    "34765": {
-      "nombre": "LOTE 6 DE HOMBRE: JACQ`S EDC 100ML @ + REEBOOK INSPIRE MAN EDT 100 ML @ + SPAGNOLO ESENCIA EDT 75 ML @ + GENESSE SPORT MAN EDT 150 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34765",
-      "en_stock": true
-    },
     "34297": {
       "nombre": "GUILLAB DENEB KAITOS FOR MAN EDP 100 ML REGULAR + 2 REGALOS (JAGUAR CLASSIC BLACK EDT 100 ML + BIOTHERM HOMME AGE FITNESS EYE ADVANCED SMOOTHING TRATAMIENTO ALISADOR CONTORNO OJOS 15 ML REGULAR)",
       "precio": "37.99 €",
@@ -418,6 +412,18 @@
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
+      "en_stock": true
+    },
+    "42286": {
+      "nombre": "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42286",
+      "en_stock": true
+    },
+    "42285": {
+      "nombre": "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42285",
       "en_stock": true
     },
     "42284": {
@@ -1420,12 +1426,6 @@
       "nombre": "ABERCROMBIE & FITCH AUTHENTIC MAN EDT 100 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40335",
-      "en_stock": true
-    },
-    "40333": {
-      "nombre": "PHILIPP PLEIN NO LIMITS EDP 90 ML @ + BARAJA CARTAS POKER DE REGALO",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40333",
       "en_stock": true
     },
     "40330": {
@@ -2854,6 +2854,12 @@
       "nombre": "KARL LAGERFELD  URBAN PINK EDP 60 ML @",
       "precio": "18.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38373",
+      "en_stock": true
+    },
+    "38371": {
+      "nombre": "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME EDP (EAU DE PARFUM) 125 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38371",
       "en_stock": true
     },
     "38362": {
@@ -11580,12 +11586,6 @@
       "nombre": "MOLINARD IRIS ARDENT EDP 75 ML @ Sin caja",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41952",
-      "en_stock": true
-    },
-    "41951": {
-      "nombre": "MOLINARD HABANITA EDP 75 ML @ Sin caja",
-      "precio": "42.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41951",
       "en_stock": true
     },
     "41947": {
@@ -21690,12 +21690,6 @@
       "nombre": "MONOTHEME BERGAMOTTO EDT 100 ML @",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35993",
-      "en_stock": true
-    },
-    "35992": {
-      "nombre": "MILLER HARRIS VETIVER INSOLENT EDP 100 ML @ (Sin caja)",
-      "precio": "106.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35992",
       "en_stock": true
     },
     "35990": {
@@ -33546,6 +33540,7 @@
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "GUCCI GUILTY FEMME INTENSE EDP 90 ML @",
+    "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
     "GUCCI GUILTY MEN EDT 90 ML @",
     "GUCCI GUILTY MEN EDT 90 ML REGULAR",
     "GUCCI GUILTY PURSE SPRAY EDT  WOMAN + 3 RECARGAS 15ML (TOTAL 60ML) @",
@@ -33605,6 +33600,7 @@
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
+    "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME EDP (EAU DE PARFUM) 125 ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
     "JACADI TOUTE PETITE AZUL EDT 50 ML @ (SIN CAJA)",
     "JACOMO DE JACOMO (SILVER) EDT 100ML REGULAR",
@@ -33846,6 +33842,7 @@
     "MONELLA VAGABONDA VIP WOMAN EDT 100 ML REGULAR",
     "MONSOON EDT 30 ML REGULAR",
     "MONSOON ELATION EDT 30 ML REGULAR",
+    "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
     "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
