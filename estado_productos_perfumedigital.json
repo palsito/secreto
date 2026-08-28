@@ -414,6 +414,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42290": {
+      "nombre": "ESTUCHE ARMAF CLUB DE NUIT URBAN ELIXIR EDP 105 ML REGULAR",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42290",
+      "en_stock": true
+    },
+    "42289": {
+      "nombre": "ARMAF CLUB DE NUIT MILESTONE EDP 105 ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42289",
+      "en_stock": true
+    },
+    "42288": {
+      "nombre": "ESTUCHE ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML + DEO 200 ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42288",
+      "en_stock": true
+    },
+    "42287": {
+      "nombre": "ARMAF CLUB DE NUIT ICONIC EDP 105 ML REGULAR",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42287",
+      "en_stock": true
+    },
     "42286": {
       "nombre": "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
       "precio": "44.99 €",
@@ -1328,7 +1352,7 @@
     },
     "40513": {
       "nombre": "ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML REGULAR",
-      "precio": "29.99 €",
+      "precio": "28.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40513",
       "en_stock": true
     },
@@ -10886,6 +10910,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42291": {
+      "nombre": "ARMAF CLUB DE NUIT WOMAN EDP 105 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42291",
+      "en_stock": true
+    },
     "42281": {
       "nombre": "ALLURE SENSUELLE EDT 100ML @ (Sin caja)",
       "precio": "69.99 €",
@@ -20058,6 +20088,12 @@
       "nombre": "ARMAF CLUB THE NUIT WOMAN EDP 105 REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37066",
+      "en_stock": true
+    },
+    "37065": {
+      "nombre": "ARMAF CLUB THE NUIT UNTOLD EDP 105 REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37065",
       "en_stock": true
     },
     "37058": {
@@ -32954,9 +32990,12 @@
     "ARISTROCRAZY AMETHYST EDP 100 ML @",
     "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
     "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
+    "ARMAF CLUB DE NUIT ICONIC EDP 105 ML REGULAR",
     "ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML REGULAR",
+    "ARMAF CLUB DE NUIT MILESTONE EDP 105 ML REGULAR",
     "ARMAF CLUB DE NUIT PRIVATE KEY TO MY SUCCESS UNISEX EXTRAIT DE PARFUM 100 ML REGULAR",
     "ARMAF CLUB DE NUIT URBAN MAN ELIXIR 105 ML REGULAR",
+    "ARMAF CLUB THE NUIT UNTOLD EDP 105 REGULAR",
     "ARMAND BASI COLOR STORIES IRIS EDT 100 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
     "ARMAND BASI IN BLUE EDT 100ML REGULAR",
@@ -33416,6 +33455,8 @@
     "ESTEE LADER BEAUTIFUL EDP 75ML @",
     "ESTEE LAUDER ESTEE EDP 50ML @",
     "ESTEE LAUDER KNOWING  EDP 75ML @",
+    "ESTUCHE ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML + DEO 200 ML REGULAR",
+    "ESTUCHE ARMAF CLUB DE NUIT URBAN ELIXIR EDP 105 ML REGULAR",
     "ETAT LIBRE D ORANGER FIN DU MONDE EDP 100 ML @",
     "ETERNITY AMBER ESSENCE FOR MEN PARFUM INTENSE 100 ML REGULAR",
     "ETERNITY AMBER ESSENCE FOR MEN PARFUM INTENSE 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
