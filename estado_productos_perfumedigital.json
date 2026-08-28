@@ -4123,7 +4123,7 @@
       "en_stock": true
     },
     "35742": {
-      "nombre": "D&G DEVOTION MALE EDP 100 ML @",
+      "nombre": "D&G DEVOTION POUR HOMME EDP 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35742",
       "en_stock": true
@@ -10064,6 +10064,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42293": {
+      "nombre": "CACHAREL YES I AM DELICIOUS EDP 50 ML + MINIATURA 10 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42293",
+      "en_stock": true
+    },
     "42280": {
       "nombre": "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @",
       "precio": "62.99 €",
@@ -10390,7 +10396,7 @@
     },
     "36306": {
       "nombre": "D&G Q (QUEEN - REINA) INTENSE EDP 100 ML @",
-      "precio": "49.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36306",
       "en_stock": true
     },
@@ -33192,6 +33198,7 @@
     "CACHAREL NOA EDT 100ML @",
     "CACHAREL POUR HOMME EDT 100ML @",
     "CACHAREL POUR HOMME EDT 100ML REGULAR",
+    "CACHAREL YES I AM DELICIOUS EDP 50 ML + MINIATURA 10 ML REGULAR",
     "CACHAREL YES I AM GLORIOUS EDP 50 ML @",
     "CAFE GREEN MUJER EDT 100ML REGULAR",
     "CAFE SOUTH BEACH WOMAN EDT 90ML REGULAR",
