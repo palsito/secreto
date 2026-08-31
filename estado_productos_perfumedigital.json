@@ -5706,12 +5706,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31542",
       "en_stock": true
     },
-    "31535": {
-      "nombre": "NIKE ULTRA BLUE MAN EDT 100 ML @",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31535",
-      "en_stock": true
-    },
     "31528": {
       "nombre": "ZADIG & VOLTAIRE THIS IS LOVE HIM (PARA EL) EDT 100 ML @",
       "precio": "29.99 €",
@@ -7828,6 +7822,12 @@
       "nombre": "JIL SANDER SUN RISE MEN EDT 125 ML @",
       "precio": "28.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21790",
+      "en_stock": true
+    },
+    "21772": {
+      "nombre": "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21772",
       "en_stock": true
     },
     "21771": {
@@ -34235,6 +34235,7 @@
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
+    "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
