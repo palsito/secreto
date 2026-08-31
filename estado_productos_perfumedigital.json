@@ -18362,12 +18362,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37942",
       "en_stock": true
     },
-    "37934": {
-      "nombre": "A DROP D`ISSEY WOMAN EDP 90 ML + CREMA DE MANOS 50 ML + 10 ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37934",
-      "en_stock": true
-    },
     "37929": {
       "nombre": "NARCISO EDP AMBREE 50 ML REGULAR",
       "precio": "49.99 €",
@@ -26342,6 +26336,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29249",
       "en_stock": true
     },
+    "29169": {
+      "nombre": "REPETTO LE BALLET BLANC EDT 50 ML @",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29169",
+      "en_stock": true
+    },
     "29160": {
       "nombre": "MARC JACOBS DAISY LOVE EDT 100ML @",
       "precio": "59.99 €",
@@ -34141,6 +34141,7 @@
     "REEBOOK ICONIC STATEMENT BLUE FOR MEN EDP 100 ML @",
     "REGULAR",
     "REMINISCENCE MUSC FEMME EDT 100ML REGULAR",
+    "REPETTO LE BALLET BLANC EDT 50 ML @",
     "REPORTER FOR MEN EDT 125 ML @",
     "RITUALS HAIR AND BODY MIST BRUMEE PERFUMEE CHERRY BLOSSOM 50 ML @",
     "RIVE GAUCHE EDT 100ML REGULAR",
