@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "42302": {
+      "nombre": "KENZO POUR HOMME INDIGO EDP 100ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42302",
+      "en_stock": true
+    },
     "42146": {
       "nombre": "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
       "precio": "9.99 €",
@@ -174,10 +180,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36260",
       "en_stock": true
     },
+    "36255": {
+      "nombre": "ACQUA DI GIÒ POUR HOMME EDP 200 ML @",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36255",
+      "en_stock": true
+    },
     "36233": {
       "nombre": "BURBERRY HERO EDP 100 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36233",
+      "en_stock": true
+    },
+    "36232": {
+      "nombre": "ARMANI CODE MAN EDP 75ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36232",
       "en_stock": true
     },
     "36231": {
@@ -412,6 +430,24 @@
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
+      "en_stock": true
+    },
+    "42304": {
+      "nombre": "OPIUM POUR HOMME EDT 100ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42304",
+      "en_stock": true
+    },
+    "42303": {
+      "nombre": "POLO EST 67 EDP (EAU DE PARFUM) 125 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42303",
+      "en_stock": true
+    },
+    "42301": {
+      "nombre": "CK IN2U MEN 150ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42301",
       "en_stock": true
     },
     "42290": {
@@ -1540,6 +1576,12 @@
       "nombre": "SERGIO TACCHINI SMASH EDT 100 ML REGULAR",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40208",
+      "en_stock": true
+    },
+    "40046": {
+      "nombre": "212 VIP BLACK MEN ELIXIR 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40046",
       "en_stock": true
     },
     "40044": {
@@ -3942,6 +3984,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36213",
       "en_stock": true
     },
+    "36192": {
+      "nombre": "VALENTINO UOMO BORN IN ROMA INTENSE EAU DE PARFUM MEN 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36192",
+      "en_stock": true
+    },
     "36188": {
       "nombre": "1 MILLION PACO RABANNE GOLD ELIXIR HIM EDP 100 ML REGULAR",
       "precio": "76.99 €",
@@ -4090,6 +4138,12 @@
       "nombre": "TRUSSARDI UOMO EDT 50 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35772",
+      "en_stock": true
+    },
+    "35756": {
+      "nombre": "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35756",
       "en_stock": true
     },
     "35753": {
@@ -4640,7 +4694,7 @@
     },
     "34897": {
       "nombre": "POLO RED EDT (FORMATO NUEVO) 125 ML @",
-      "precio": "32.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34897",
       "en_stock": true
     },
@@ -4982,7 +5036,7 @@
     },
     "34058": {
       "nombre": "PACO RABANNE PHANTOM  (ROBOT HOMBRE)  PARFUM (NEGRA) 100 ML @",
-      "precio": "64.99 €",
+      "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34058",
       "en_stock": true
     },
@@ -5138,7 +5192,7 @@
     },
     "33350": {
       "nombre": "SCALPERS BOXING CLUB EDP 125 ML @",
-      "precio": "29.99 €",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33350",
       "en_stock": true
     },
@@ -5228,7 +5282,7 @@
     },
     "33014": {
       "nombre": "MANDARINA DUCK FOR HIM EDT 100 ML @",
-      "precio": "21.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33014",
       "en_stock": true
     },
@@ -5756,13 +5810,13 @@
     },
     "31497": {
       "nombre": "212 MEN HEROES EDT 90 ML @",
-      "precio": "44.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31497",
       "en_stock": true
     },
     "31489": {
       "nombre": "SCALPERS THE CLUB EDP 125 ML @",
-      "precio": "29.99 €",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31489",
       "en_stock": true
     },
@@ -6054,6 +6108,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31020",
       "en_stock": true
     },
+    "31018": {
+      "nombre": "VALENTINO UOMO BORN IN ROMA EDT 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31018",
+      "en_stock": true
+    },
     "31017": {
       "nombre": "ROCHAS L HOMME EDT 100 ML @",
       "precio": "30.99 €",
@@ -6240,6 +6300,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30504",
       "en_stock": true
     },
+    "30502": {
+      "nombre": "JESUS DEL POZO HALLOWEEN MAN X EDT 125 ML @",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30502",
+      "en_stock": true
+    },
     "30500": {
       "nombre": "COACH FOR MEN EDT 100 ML @",
       "precio": "19.99 €",
@@ -6266,7 +6332,7 @@
     },
     "30492": {
       "nombre": "PEPE JEANS FOR HIM EDT 100 ML @",
-      "precio": "14.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30492",
       "en_stock": true
     },
@@ -6304,6 +6370,12 @@
       "nombre": "BAD BOY EDT 100ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30273",
+      "en_stock": true
+    },
+    "30221": {
+      "nombre": "AZZARO WANTED BY NIGHT MAN EDP 100 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30221",
       "en_stock": true
     },
     "30219": {
@@ -6460,6 +6532,12 @@
       "nombre": "BALDESSARINI ULTIMATE EDT 90 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29131",
+      "en_stock": true
+    },
+    "29096": {
+      "nombre": "PRADA L`HOMME L`EAU EDT 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29096",
       "en_stock": true
     },
     "29089": {
@@ -6854,7 +6932,7 @@
     },
     "27090": {
       "nombre": "AZZARO WANTED MAN EDT 100 ML @",
-      "precio": "29.99 €",
+      "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27090",
       "en_stock": true
     },
@@ -6920,7 +6998,7 @@
     },
     "26985": {
       "nombre": "ARMANI STRONGER WITH YOU EDT 100 @",
-      "precio": "52.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26985",
       "en_stock": true
     },
@@ -7066,6 +7144,12 @@
       "nombre": "CH MEN EDT 100 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26329",
+      "en_stock": true
+    },
+    "26315": {
+      "nombre": "PRADA L`HOMME EDT 100 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26315",
       "en_stock": true
     },
     "26304": {
@@ -9632,7 +9716,7 @@
     },
     "12385": {
       "nombre": "LA NUIT DE L`HOMME LE PARFUM EDP 100ML @",
-      "precio": "56.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12385",
       "en_stock": true
     },
@@ -9766,6 +9850,12 @@
       "nombre": "DESIR POUR HOMME EDT 100ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=11271",
+      "en_stock": true
+    },
+    "11264": {
+      "nombre": "212 MEN EDT 100ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=11264",
       "en_stock": true
     },
     "1999": {
@@ -10908,6 +10998,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42305": {
+      "nombre": "GUCCI FLORA GORGEUS GARDENIA INTENSE WOMAN EDP 100 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42305",
       "en_stock": true
     },
     "42300": {
@@ -22168,7 +22264,7 @@
     },
     "35749": {
       "nombre": "ALIEN HYPERSENSE EDP 90ML  @",
-      "precio": "39.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35749",
       "en_stock": true
     },
@@ -23230,7 +23326,7 @@
     },
     "34772": {
       "nombre": "LOEWE AGUA ELLA EDT (FORMATO NUEVO) 100 ML @",
-      "precio": "49.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34772",
       "en_stock": true
     },
@@ -24852,6 +24948,12 @@
       "nombre": "SHISEIDO GINZA MURASAKI EDP 90 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32735",
+      "en_stock": true
+    },
+    "32734": {
+      "nombre": "VALENTINO DONNA  BORN IN ROMA CORAL FANTASY EDP 100 ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32734",
       "en_stock": true
     },
     "32733": {
@@ -32783,6 +32885,7 @@
     "212 MEN PARFUM 100 ML REGULAR",
     "212 SEXY MEN EDT 100ML REGULAR",
     "212 SEXY WOMAN EDP 100ML REGULAR",
+    "212 VIP BLACK MEN ELIXIR 100 ML @",
     "212 VIP MEN EDT 100ML @",
     "212 VIP ROSE ELIXIR EDP 80 ML @",
     "212 WOMAN EDT 100ML REGULAR",
@@ -32950,6 +33053,7 @@
     "ARMAND BASI L`EAU POUR HOMME EDT 125ML @",
     "ARMANI CODE FEMME ABSOLU EDP 75 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "ARMANI CODE FEMME EDP 75ML @",
+    "ARMANI CODE MAN EDP 75ML @",
     "ARMANI DIAMONDS MAN EDT 50ML REGULAR",
     "ARMANI DIAMONDS MEN EDT 75ML REGULAR",
     "ARMANI ONDE EXTASE EDP 100ML @",
@@ -32978,6 +33082,7 @@
     "AZZARO SILVER BLACK EDT 100ML REGULAR",
     "AZZARO THE MOST WANTED INTENSE EDP 100 ML @",
     "AZZARO TWIN WOMAN EDT 50ML @",
+    "AZZARO WANTED BY NIGHT MAN EDP 100 ML @",
     "AZZARO WANTED ELIXIR PARFUM 100 ML @",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
     "B.U. ABSOLUTE ME EDT 50 ML @",
@@ -33215,6 +33320,7 @@
     "CK FREE EDT 100ML @",
     "CK FREE EDT 50ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CK IN 2U WOMAN EDT 100ML @",
+    "CK IN2U MEN 150ML @",
     "CK IN2U MEN 150ML REGULAR",
     "CK OBSESSION NIGHT FOR MEN EDT 125 ML REGULAR",
     "CK ONE BODY MIST NUDE VANILLA 236 ML @",
@@ -33535,6 +33641,7 @@
     "GRES MOONFLOWER EDT 100 ML @",
     "GRES MOONFLOWER EDT 50 ML REGULAR",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
+    "GUCCI FLORA GORGEUS GARDENIA INTENSE WOMAN EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
     "GUCCI GUILTY FEMME INTENSE EDP 90 ML @",
     "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
@@ -33622,6 +33729,7 @@
     "JESUS DEL POZO AMBAR WOMAN EDT 100 ML @",
     "JESUS DEL POZO AMBAR WOMAN EDT 50 ML REGULAR",
     "JESUS DEL POZO HALLOWEEN MAN EDT 75 ML REGULAR",
+    "JESUS DEL POZO HALLOWEEN MAN X EDT 125 ML @",
     "JHON RICHMON VIVA ROCK EDT 100 ML REGULAR",
     "JHON RICHMON WOMAN EDP 100 ML @",
     "JIL SANDER DAY SUN MEN EDT 125 ML @",
@@ -33683,6 +33791,7 @@
     "KENZO JUNGLE WOMAN EDP 100ML @",
     "KENZO LEAU 2 MAN EDT 100 ML REGULAR",
     "KENZO L`EAU AMBRE EDP 100 ML @",
+    "KENZO POUR HOMME INDIGO EDP 100ML @",
     "KENZO POUR HOMME INTENSE EDT 110ML @",
     "KNOWING EDP  75ML REGULAR",
     "KOUROS MAN EDT 100ML @",
@@ -33913,6 +34022,7 @@
     "OMBRE ROSE WOMAN EDC 100ML REGULAR",
     "ONLY THE BRAVE TATTOO EDT 75 ML @",
     "OPIUM EDT 90ML @",
+    "OPIUM POUR HOMME EDT 100ML @",
     "OPIUM POUR HOMME EDT 100ML REGULAR",
     "ORGANZA EDP 50ML @",
     "ORIENTICA AMBER NOIR EDP 150 ML REGULAR",
@@ -34109,6 +34219,7 @@
     "POLO BLACK MAN EDT 125 ML REGULAR",
     "POLO BLACK MAN EDT 125ML @",
     "POLO BLUE MAN EDT 125ML @",
+    "POLO EST 67 EDP (EAU DE PARFUM) 125 ML @",
     "POLO RED PARFUM 125 ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
     "POSEIDON CLASSIC MAN EDT 150ML @ (SIN CAJA Y SIN TAPÓN)",
@@ -34117,6 +34228,8 @@
     "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
     "PRADA LUNA ROSSA EDT 100 ML @",
+    "PRADA L`HOMME EDT 100 ML @",
+    "PRADA L`HOMME L`EAU EDT 100 ML @",
     "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
     "PROVOCATIVE EDP 100ML @",
     "PROVOCATIVE EDP 100ML REGULAR",
@@ -34349,9 +34462,12 @@
     "VALENTINA EDP 80 ML @",
     "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
     "VALENTINO BORN IN ROMA EXTRADOSE DONNA  PARFUM 100 ML @",
+    "VALENTINO DONNA  BORN IN ROMA CORAL FANTASY EDP 100 ML @",
     "VALENTINO DONNA  BORN IN ROMA INTENSE EDP 100 ML @",
     "VALENTINO ROCK AND ROSE EDP 90 ML @",
     "VALENTINO ROCK AND ROSE PRET A PORTER EDT 90ML @",
+    "VALENTINO UOMO BORN IN ROMA EDT 100 ML @",
+    "VALENTINO UOMO BORN IN ROMA INTENSE EAU DE PARFUM MEN 100 ML @",
     "VANDERBILT WOMAN EDT 100ML @",
     "VARENS INDRA WOMAN EDP 100 ML REGULAR",
     "VELA AROMATICA ARMANI PRIVE PIVOINE SUZHOU 175 GRAMOS REGULAR",
@@ -34445,6 +34561,7 @@
     "YSL MANIFESTO EDP 90 ML @",
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "YSL RIVE GAUCHE EDT 100ML REGULAR",
+    "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @",
     "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML @",
     "ZADIG BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML @",
     "ZINNIA WOMAN EDT 100 ML @",
