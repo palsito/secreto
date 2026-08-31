@@ -10994,6 +10994,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42307": {
+      "nombre": "PRADA INFUSION DE RHUBARBE EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42307",
+      "en_stock": true
+    },
     "42306": {
       "nombre": "NINA ROUGE CRUSH EDP 80 ML @",
       "precio": "29.99 €",
@@ -13130,6 +13136,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40878",
       "en_stock": true
     },
+    "40872": {
+      "nombre": "MUGLER ALIEN EXTRAINTENSE EDP 90 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40872",
+      "en_stock": true
+    },
     "40852": {
       "nombre": "LES NEREIDES VANILLE BLEUE EDP 100 ML @ (Sin caja)",
       "precio": "49.99 €",
@@ -14226,6 +14238,12 @@
       "nombre": "YSL LIBRE BERRY CRUSH ROUGE EAU DE PARFUM FRUITEE EDP 90 ML @",
       "precio": "92.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40047",
+      "en_stock": true
+    },
+    "40043": {
+      "nombre": "GAULTIER DIVINE ELIXIR EDP 100ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40043",
       "en_stock": true
     },
     "40042": {
@@ -20374,7 +20392,7 @@
     },
     "36917": {
       "nombre": "LANCOME OVER THE TOP EDT 100 ML @",
-      "precio": "29.99 €",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36917",
       "en_stock": true
     },
@@ -23464,7 +23482,7 @@
     },
     "34452": {
       "nombre": "EL GANSO SEÑORITA MON AMOUR EDT 125 ML @",
-      "precio": "19.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34452",
       "en_stock": true
     },
@@ -25998,6 +26016,12 @@
       "nombre": "NINA ROUGE EDT 80 ML @",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30916",
+      "en_stock": true
+    },
+    "30915": {
+      "nombre": "JPG CLASSIQUE LA BELLE EDP 100ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30915",
       "en_stock": true
     },
     "30912": {
@@ -32236,6 +32260,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42309": {
+      "nombre": "GAULTIER DIVINE EDP 100ML @ (40% del contenido)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42309",
+      "en_stock": true
+    },
+    "42308": {
+      "nombre": "GAULTIER DIVINE EDP 100ML @ (50% del contenido)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42308",
+      "en_stock": true
+    },
     "42249": {
       "nombre": "SAPHIR OUD EDT 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -33588,6 +33624,9 @@
     "FUJIYAMA SEXY WOMAN EDT 100ML REGULAR",
     "GAI MATTIOLO DONNA EDT 50 ML REGULAR",
     "GAULTIER DIVINE COUTURE EDP 100ML @",
+    "GAULTIER DIVINE EDP 100ML @ (40% DEL CONTENIDO)",
+    "GAULTIER DIVINE EDP 100ML @ (50% DEL CONTENIDO)",
+    "GAULTIER DIVINE ELIXIR EDP 100ML @",
     "GAULTIER LE MALE COLLECTOR EDITION 125 ML REGULAR",
     "GENESSE SPORT MAN EDT 150 ML @",
     "GENTLEMEN ONLY FOR MEN EDT 100 ML @",
@@ -33973,6 +34012,7 @@
     "MOSCHINO WOMAN EDT 75ML @",
     "MOUSTACHE ROCHAS EDT 125 ML @",
     "MR WONDERFUL TODAY IS MY DAY EDT 75 ML @",
+    "MUGLER ALIEN EXTRAINTENSE EDP 90 ML @",
     "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
     "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
@@ -34230,6 +34270,7 @@
     "PRADA AMBER EDP 80ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
+    "PRADA INFUSION DE RHUBARBE EDP 100 ML @",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
     "PRADA LUNA ROSSA EDT 100 ML @",
     "PRADA L`HOMME EDT 100 ML @",
