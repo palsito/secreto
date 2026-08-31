@@ -13010,12 +13010,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41361",
       "en_stock": true
     },
-    "41349": {
-      "nombre": "LANCOME IDOLE PEACH N ROSES EDP 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41349",
-      "en_stock": true
-    },
     "41346": {
       "nombre": "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
       "precio": "79.99 €",
@@ -13912,7 +13906,7 @@
     },
     "40346": {
       "nombre": "D&G THE ONE INTENSE WOMAN EDP 75ML @",
-      "precio": "69.99 €",
+      "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40346",
       "en_stock": true
     },
@@ -20398,7 +20392,7 @@
     },
     "36914": {
       "nombre": "LANCOME O ZENITH EDT 100 ML @",
-      "precio": "44.99 €",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36914",
       "en_stock": true
     },
@@ -20416,7 +20410,7 @@
     },
     "36908": {
       "nombre": "ELIZABETH ARDEN WOMAN RED DOOR EDT 100ML @",
-      "precio": "19.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36908",
       "en_stock": true
     },
@@ -24298,7 +24292,7 @@
     },
     "33956": {
       "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @",
-      "precio": "16.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33956",
       "en_stock": true
     },
@@ -27594,6 +27588,12 @@
       "nombre": "TRUSSARDI MY SCENT EDT 100 ML REGULAR",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25877",
+      "en_stock": true
+    },
+    "25869": {
+      "nombre": "GIANFRANCO MOOD FOR LOVE PURE EDP 100 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25869",
       "en_stock": true
     },
     "25863": {
@@ -32422,12 +32422,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37836",
       "en_stock": true
     },
-    "37550": {
-      "nombre": "LACOSTE STYLE IN PLAY  (ROJA) EDT 125ML @ (85% del contenido, vapor dañado pero vaporiza)",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37550",
-      "en_stock": true
-    },
     "37335": {
       "nombre": "JIMMY CHOO L EAU EDT 90 ML @ (Sin caja)",
       "precio": "36.99 €",
@@ -33620,6 +33614,7 @@
     "GIANFRANCO FERRE ACQUA AZZURRA MEN EDT 100 ML REGULAR",
     "GIANFRANCO FERRE ROSE  WOMAN EDT100 ML REGULAR",
     "GIANFRANCO FERRE ROSE PRINCESS WOMAN EDT100 ML REGULAR",
+    "GIANFRANCO MOOD FOR LOVE PURE EDP 100 ML REGULAR",
     "GIANFRANCO MOOD FOR LOVE TENDER EDT 100 ML REGULAR",
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
     "GIORGIO BEVERLY HILLS AIRE WOMAN EDT 50ML @",
