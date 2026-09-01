@@ -11066,12 +11066,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42225",
       "en_stock": true
     },
-    "42224": {
-      "nombre": "VICTORIO & LUCCHINO AGUA N 16  AGUAS DE PERFUME FLOR EXOTICA EDP 150 ML @",
-      "precio": "8.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42224",
-      "en_stock": true
-    },
     "42223": {
       "nombre": "VICTORIO & LUCCHINO AGUA N 15 AGUAS DE PERFUME FLOR ORIENTAL EDP 150 ML @",
       "precio": "6.99 €",
@@ -17596,7 +17590,7 @@
     },
     "38505": {
       "nombre": "DKNY BE DELICIOUS ICE POP BERRY BLISS EDP 50 ML @",
-      "precio": "22.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38505",
       "en_stock": true
     },
@@ -17920,7 +17914,7 @@
     },
     "38399": {
       "nombre": "FANTASY DID IT AGAIN EDT 100ML @",
-      "precio": "22.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38399",
       "en_stock": true
     },
@@ -17934,6 +17928,12 @@
       "nombre": "FLOWER BY KENZO IKEBANA INDIGO EDP 75 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38374",
+      "en_stock": true
+    },
+    "38372": {
+      "nombre": "JIMMY CHOO WANT CHOO WITH LOVE EDP 125ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38372",
       "en_stock": true
     },
     "38370": {
@@ -25238,12 +25238,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31759",
       "en_stock": true
     },
-    "31754": {
-      "nombre": "VICTORIO & LUCCHINO AGUA N 16  AGUAS INTENSAS  FLOR EXOTICA EDT 150 ML @",
-      "precio": "7.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31754",
-      "en_stock": true
-    },
     "31721": {
       "nombre": "SAPHIR AMBAR & MUGET 175 ML (sin caja) @",
       "precio": "5.99 €",
@@ -25356,6 +25350,12 @@
       "nombre": "YSL BLACK OPIUM NEON (BLISTER NOVEDAD) EDP 75 ML REGULAR",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31558",
+      "en_stock": true
+    },
+    "31544": {
+      "nombre": "GUCCI GUILTY FEMME EDP 90 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31544",
       "en_stock": true
     },
     "31534": {
@@ -26336,6 +26336,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30035",
       "en_stock": true
     },
+    "30032": {
+      "nombre": "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO)",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30032",
+      "en_stock": true
+    },
     "30024": {
       "nombre": "GAI MATTIOLO WOMANS 75 ML REGULAR",
       "precio": "29.99 €",
@@ -27210,6 +27216,12 @@
       "nombre": "KENZO WORLD EDP 75 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26973",
+      "en_stock": true
+    },
+    "26972": {
+      "nombre": "JPG SCANDAL EDP 80 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26972",
       "en_stock": true
     },
     "26969": {
@@ -33644,6 +33656,7 @@
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
     "GUCCI FLORA GORGEUS GARDENIA INTENSE WOMAN EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
+    "GUCCI GUILTY FEMME EDP 90 ML @",
     "GUCCI GUILTY FEMME INTENSE EDP 90 ML @",
     "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
     "GUCCI GUILTY MEN EDT 90 ML @",
@@ -33745,6 +33758,7 @@
     "JIMMY CHOO FLASH EDP 100ML REGULAR",
     "JIMMY CHOO FLORAL EDT 90 ML @",
     "JIMMY CHOO ILLICIT EDP 100 ML @",
+    "JIMMY CHOO WANT CHOO WITH LOVE EDP 125ML @",
     "JLO LOVE AND LIGHT EDP 75 ML REGULAR",
     "JLO SUNKISSED GLOW EDT 30 ML REGULAR",
     "JOOP FEMME EDT 100ML REGULAR",
@@ -33760,6 +33774,7 @@
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
     "JPG LE MALE PRIDE EDITION EDT 125ML @",
+    "JPG SCANDAL EDP 80 ML @",
     "JPG SCANDAL EDP 80 ML REGULAR",
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
     "JPG SCANDAL FOR HIM ELIXIR PARFUM 100 ML REGULAR",
@@ -33845,6 +33860,7 @@
     "LOEWE 7 ELIXIR (MAS CONCENTRADA) EDP 100ML REGULAR",
     "LOEWE 7 MEN EDT 100ML REGULAR",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
+    "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO)",
     "LOEWE ESENCIA ELIXIR POUR HOMME BOTELLA ALARGADA 100ML @",
     "LOEWE PAULA`S COSMIC EDP 100 ML @",
     "LOLITA LEMPICKA GREEN LOVER HOMME EDT 100 ML REGULAR",
