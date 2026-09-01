@@ -16028,6 +16028,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39061",
       "en_stock": true
     },
+    "39060": {
+      "nombre": "LIQUIDES IMAGINAIRES LIQUIDE GOLD EDP 100 ML @ (Sin caja)",
+      "precio": "139.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39060",
+      "en_stock": true
+    },
     "39059": {
       "nombre": "LIQUIDES IMAGINAIRES LES EAUX BUVEUR DE VENT EDP 100 ML @ (Sin caja)",
       "precio": "106.99 €",
@@ -19544,12 +19550,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37427",
       "en_stock": true
     },
-    "37424": {
-      "nombre": "SET TOUS BABY EDC  ML + DOY 250 ML + NECESER REGULAR",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37424",
-      "en_stock": true
-    },
     "37423": {
       "nombre": "SET TOUS EDT 90ML + MINIATURA + LLAVERO REGULAR",
       "precio": "43.99 €",
@@ -21912,6 +21912,12 @@
       "nombre": "LIQUIDES IMAGINAIRES DESERT SUAVE EDP 100 ML @ (Sin caja)",
       "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35952",
+      "en_stock": true
+    },
+    "35951": {
+      "nombre": "LIQUIDES IMAGINAIRES BEAUTE DU DIABLE EDP 100 ML @ (Sin caja)",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35951",
       "en_stock": true
     },
     "35949": {
@@ -31648,7 +31654,7 @@
     },
     "12061": {
       "nombre": "NINA WOMAN EDT 80ML @",
-      "precio": "19.99 €",
+      "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12061",
       "en_stock": true
     },
@@ -33831,6 +33837,8 @@
     "LE IENE EDT 100 ML REGULAR",
     "LES COPAINS EDT 100 ML REGULAR",
     "LIBERTE WOMAN EDT 75ML REGULAR",
+    "LIQUIDES IMAGINAIRES BEAUTE DU DIABLE EDP 100 ML @ (SIN CAJA)",
+    "LIQUIDES IMAGINAIRES LIQUIDE GOLD EDP 100 ML @ (SIN CAJA)",
     "LOEWE 001 MAN EDP 100 ML @",
     "LOEWE 7 ANONIMO EDP 100 ML @ (FORMATO ANTIGUO, 85% DEL CONTENIDO, VAPO SE ATASCA)",
     "LOEWE 7 COBALT EDP 100 ML REGULAR (FORMATO NUEVO)",
