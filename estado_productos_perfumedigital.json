@@ -19820,12 +19820,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37276",
       "en_stock": true
     },
-    "37273": {
-      "nombre": "LORENZO PAZZAGLIA CARBONARA EXTRAIT PARFUM 50 ML @ sin caja",
-      "precio": "119.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37273",
-      "en_stock": true
-    },
     "37272": {
       "nombre": "LORENZO PAZZAGLIA BLOODY SMOKE EXTRAIT PARFUM 50 ML @ sin caja",
       "precio": "119.99 €",
@@ -22716,6 +22710,12 @@
       "nombre": "PLANET FRUIT MORA EDT 30 ML @ (Sin caja)",
       "precio": "1.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35229",
+      "en_stock": true
+    },
+    "35227": {
+      "nombre": "BODY MIST LAISEVEN LAVANDA 200 ML @",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35227",
       "en_stock": true
     },
     "35222": {
@@ -33139,6 +33139,7 @@
     "BLUE LABEL MAN EDT 100ML REGULAR",
     "BLUMARINE BELLISSIMA EDP 100 ML @",
     "BLV POUR HOMME EDT 100ML REGULAR",
+    "BODY MIST LAISEVEN LAVANDA 200 ML @",
     "BODY MIST LAISEVEN MIST MAR BRUMA DE MAR Y SOL 200 ML @",
     "BODY-X WOMENPASSION EDT 50 ML REGULAR",
     "BOGART STORY BLUE EDT 100 ML REGULAR",
