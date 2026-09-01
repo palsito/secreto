@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42311": {
+      "nombre": "ANGEL SCHELESSER EXOTIC LYCHEE EDT 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42311",
+      "en_stock": true
+    },
     "42304": {
       "nombre": "OPIUM POUR HOMME EDT 100ML @",
       "precio": "64.99 €",
@@ -2908,6 +2914,12 @@
       "nombre": "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME EDP (EAU DE PARFUM) 125 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38371",
+      "en_stock": true
+    },
+    "38363": {
+      "nombre": "ANGEL SCHLESSER CITRUSY MAGNOLIA EDT 100 ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38363",
       "en_stock": true
     },
     "38362": {
@@ -10968,6 +10980,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42314": {
+      "nombre": "VERSACE BRIGHT CRYSTAL POUR FEMME PARFUM 90 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42314",
+      "en_stock": true
+    },
+    "42313": {
+      "nombre": "HERMES BARENIA INTENSE EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42313",
+      "en_stock": true
+    },
+    "42312": {
+      "nombre": "BURBERRY GODDESS PARFUM 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42312",
       "en_stock": true
     },
     "42310": {
@@ -19432,7 +19462,7 @@
     },
     "37481": {
       "nombre": "FLOWER BY KENZO POPPY BOUQUET EDT 50 ML @",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37481",
       "en_stock": true
     },
@@ -20808,6 +20838,12 @@
       "nombre": "AIRE DE SEVILLA  SOY YO EDT 150 ML @ (Sin caja)",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36770",
+      "en_stock": true
+    },
+    "36722": {
+      "nombre": "NARCISO RODRIGUEZ FOR HER INTENSE EDP 100ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36722",
       "en_stock": true
     },
     "36720": {
@@ -23002,7 +23038,7 @@
     },
     "35099": {
       "nombre": "FLOWER BY KENZO IKEBANA MIMOSA EDP 75 ML @",
-      "precio": "36.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35099",
       "en_stock": true
     },
@@ -23392,7 +23428,7 @@
     },
     "34753": {
       "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 60 ML @",
-      "precio": "39.99 €",
+      "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34753",
       "en_stock": true
     },
@@ -24488,6 +24524,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33723",
       "en_stock": true
     },
+    "33722": {
+      "nombre": "MY WAY INTENSE ARMANI EDP 90 ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33722",
+      "en_stock": true
+    },
     "33720": {
       "nombre": "212 HEROES WOMAN EDP 80 ML @",
       "precio": "32.99 €",
@@ -25002,6 +25044,12 @@
       "nombre": "ELIZABETH ARDEN WHITE TEA EDP 100 ML @",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32626",
+      "en_stock": true
+    },
+    "32618": {
+      "nombre": "PEPE JEANS LONDON CALLING HER EDP 80 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32618",
       "en_stock": true
     },
     "32597": {
@@ -27508,7 +27556,7 @@
     },
     "26265": {
       "nombre": "KENZO JEU D`AMOURE EDP 50 ML @",
-      "precio": "26.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26265",
       "en_stock": true
     },
@@ -31834,7 +31882,7 @@
     },
     "11390": {
       "nombre": "CHANEL COCO EDT 100ML @",
-      "precio": "66.99 €",
+      "precio": "64.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=11390",
       "en_stock": true
     },
@@ -33025,6 +33073,7 @@
     "ANGEL NOVA EDP 100 ML @",
     "ANGEL NOVA FRUITEE EDP 100 ML @",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
+    "ANGEL SCHELESSER EXOTIC LYCHEE EDT 100 ML @",
     "ANGEL SCHELESSER HOMME EDT 125ML @",
     "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA)",
     "ANGEL SCHLESSER  CITRUSY MAGNOLIA EDT 100 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
@@ -33032,6 +33081,7 @@
     "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (SIN CAJA)",
     "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (SIN CAJA, 30% DEL CONTENIDO)",
     "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ + BOLSA NECESER DE REGALO",
+    "ANGEL SCHLESSER CITRUSY MAGNOLIA EDT 100 ML @",
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA)",
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
@@ -33260,6 +33310,7 @@
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
     "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @",
+    "BURBERRY GODDESS PARFUM 100 ML @",
     "BURBERRY HER PARFUM 100 ML @",
     "BURBERRY LONDON MEN  (CAJA DE RAYAS)  EDT 100ML REGULAR",
     "BURBERRY THE BEAT MEN EDT 100ML @ (70% DEL CONTENIDO, SE LE CAE CAPO)",
@@ -33730,6 +33781,7 @@
     "HAPPY HEART EDP 100ML REGULAR",
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HARAJUKU LOVERS LIL´ANGEL EDT 100 ML @",
+    "HERMES BARENIA INTENSE EDP 100 ML @",
     "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (VAPO LIGERAMENTE DAÑADO)",
     "HERMES EAU DES MERVEILLES WOMAN EDT 100ML @",
     "HERMES ELIXIR DES MERVEILLES EDP 100ML @",
@@ -34041,6 +34093,7 @@
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
     "MY BREIL WOMAN EDP 75 ML @",
     "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
+    "MY WAY INTENSE ARMANI EDP 90 ML @",
     "MYRURGIA 1916 AGUA DE COLONIA 100 ML @",
     "MYTH FOR MEN EDT 120 ML REGULAR",
     "NARCISO RODRIGUEZ FOR HER EDP 100ML @",
@@ -34254,6 +34307,7 @@
     "PENHALIGON´S THE FAVOURITE EDP 100 ML @",
     "PENHALIGON´S VRA VRA VROOM EDP 100 ML REGULAR",
     "PENHALIGON´S YASMINE EDP 75 ML REGULAR",
+    "PEPE JEANS LONDON CALLING HER EDP 80 ML @",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
     "PHILIPP PLEIN NO LIMITS EDP 90 ML @ + BARAJA CARTAS POKER DE REGALO",
@@ -34548,6 +34602,7 @@
     "VERA WANG GLAM PRINCESS EDT 100ML @",
     "VERSACE  YELLOW DIAMOND EDT 90ML @",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
+    "VERSACE BRIGHT CRYSTAL POUR FEMME PARFUM 90 ML @",
     "VERSACE CRYSTAL NOIR PARFUM 90ML @",
     "VERSACE DYLAN PURPLE WOMAN EDP 100ML @",
     "VERSACE EROS FOR MEN EDP 100 ML @",
