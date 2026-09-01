@@ -1,11 +1,5 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
-    "42302": {
-      "nombre": "KENZO POUR HOMME INDIGO EDP 100ML @",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42302",
-      "en_stock": true
-    },
     "42146": {
       "nombre": "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
       "precio": "9.99 €",
@@ -448,6 +442,12 @@
       "nombre": "POLO EST 67 EDP (EAU DE PARFUM) 125 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42303",
+      "en_stock": true
+    },
+    "42302": {
+      "nombre": "KENZO POUR HOMME INDIGO EDP 100ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42302",
       "en_stock": true
     },
     "42301": {
@@ -3782,7 +3782,7 @@
     },
     "36432": {
       "nombre": "ACQUA DI GIÒ POUR ELIXIR HOMME PARFUM 50ML @",
-      "precio": "57.99 €",
+      "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36432",
       "en_stock": true
     },
@@ -4124,7 +4124,7 @@
     },
     "35756": {
       "nombre": "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @",
-      "precio": "64.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35756",
       "en_stock": true
     },
@@ -5018,7 +5018,7 @@
     },
     "34058": {
       "nombre": "PACO RABANNE PHANTOM  (ROBOT HOMBRE)  PARFUM (NEGRA) 100 ML @",
-      "precio": "56.99 €",
+      "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34058",
       "en_stock": true
     },
@@ -5582,7 +5582,7 @@
     },
     "32315": {
       "nombre": "KENZO POUR HOMME INTENSE EDT 110ML @",
-      "precio": "49.99 €",
+      "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32315",
       "en_stock": true
     },
@@ -22270,7 +22270,7 @@
     },
     "35751": {
       "nombre": "PRADA INFUSION DE YLANG EDP 100 ML @",
-      "precio": "49.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35751",
       "en_stock": true
     },
@@ -24982,7 +24982,7 @@
     },
     "32734": {
       "nombre": "VALENTINO DONNA  BORN IN ROMA CORAL FANTASY EDP 100 ML @",
-      "precio": "64.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32734",
       "en_stock": true
     },
