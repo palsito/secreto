@@ -3030,6 +3030,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38105",
       "en_stock": true
     },
+    "38097": {
+      "nombre": "DIESEL ONLY THE BRAVE MEN EDT 125 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38097",
+      "en_stock": true
+    },
     "38096": {
       "nombre": "DIESEL BAD EDT 100 ML REGULAR",
       "precio": "39.99 €",
@@ -3940,6 +3946,12 @@
       "nombre": "HUGO MAN INTENSE EDP 125ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36239",
+      "en_stock": true
+    },
+    "36238": {
+      "nombre": "AZZARO THE MOST WANTED INTENSE EDP 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36238",
       "en_stock": true
     },
     "36234": {
@@ -13358,6 +13370,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40576",
       "en_stock": true
     },
+    "40570": {
+      "nombre": "ETRO NECTAR EDP 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40570",
+      "en_stock": true
+    },
     "40567": {
       "nombre": "LA VIE EST BELLE ROSE EXTRAORDINAIRE L EAU DE PARFUM 50 ML @",
       "precio": "42.99 €",
@@ -13824,6 +13842,12 @@
       "nombre": "XERJOFF JTC 400 EDP 50 ML @",
       "precio": "129.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40376",
+      "en_stock": true
+    },
+    "40375": {
+      "nombre": "XERJOFFJOIN THE CLUB 40 KNOTS EDP 100 ML @",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40375",
       "en_stock": true
     },
     "40374": {
@@ -15474,6 +15498,12 @@
       "nombre": "JPG SCANDAL ELIXIR PARFUM 80 ML @",
       "precio": "82.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39426",
+      "en_stock": true
+    },
+    "39425": {
+      "nombre": "EUPHORIA SOLAR ELIXIR WOMAN EDP 100 ML REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39425",
       "en_stock": true
     },
     "39424": {
@@ -21950,6 +21980,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35951",
       "en_stock": true
     },
+    "35950": {
+      "nombre": "LIQUIDES IMAGINAIRES AME DU COEUR EDP 100 ML @ (Sin caja)",
+      "precio": "84.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35950",
+      "en_stock": true
+    },
     "35949": {
       "nombre": "LE COUVENT DES MINIMES SINGULIERES SAIGA EDP 100 ML @",
       "precio": "69.99 €",
@@ -25444,7 +25480,7 @@
     },
     "31514": {
       "nombre": "AIRE DE LOEWE EDT 100 ML @ (FORMATO NUEVO)",
-      "precio": "36.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31514",
       "en_stock": true
     },
@@ -33490,6 +33526,7 @@
     "DIESEL FUEL FOR LIFE WOMEN EDT 120ML @",
     "DIESEL LOVERDOSE WOMAN EDP 75 ML @",
     "DIESEL ONLY DESIRE EDP 80 ML REGULAR",
+    "DIESEL ONLY THE BRAVE MEN EDT 125 ML @",
     "DIOR DOLCE VITA EDT 100ML @",
     "DIOR EAU SAUVAGE PARFUM 100ML @",
     "DIOR HOMME EDT 100ML @",
@@ -33620,6 +33657,7 @@
     "EUPHORIA MAGNETIC ELIXIR WOMAN EDP 100 ML REGULAR",
     "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "EUPHORIA MEN EDT 100ML REGULAR",
+    "EUPHORIA SOLAR ELIXIR WOMAN EDP 100 ML REGULAR",
     "EUPHORIA SOLAR ELIXIR WOMAN PARFUM INTENSE 100 ML @",
     "FAHRENHEIT EDT 100ML REGULAR",
     "FANTASY  MIDNIGHT EDP 100ML REGULAR",
@@ -33938,6 +33976,7 @@
     "LE IENE EDT 100 ML REGULAR",
     "LES COPAINS EDT 100 ML REGULAR",
     "LIBERTE WOMAN EDT 75ML REGULAR",
+    "LIQUIDES IMAGINAIRES AME DU COEUR EDP 100 ML @ (SIN CAJA)",
     "LIQUIDES IMAGINAIRES BEAUTE DU DIABLE EDP 100 ML @ (SIN CAJA)",
     "LIQUIDES IMAGINAIRES LIQUIDE GOLD EDP 100 ML @ (SIN CAJA)",
     "LOEWE 001 MAN EDP 100 ML @",
@@ -34664,6 +34703,7 @@
     "XERJOFF CASAMORATI FIERO EDP 100 ML @",
     "XERJOFF CASAMORATI QUATTRO PIZZI EDP 100 ML @",
     "XERJOFF TENNIS CLUB TORINO 21 EDP 100 ML @",
+    "XERJOFFJOIN THE CLUB 40 KNOTS EDP 100 ML @",
     "YARDLEY LILY OF THE VALLEY EDT 125 ML REGULAR (UNISEX)",
     "YOUTH DEW EDP 67 ML REGULAR",
     "YSL  MYSLF EDP 100 ML @",
