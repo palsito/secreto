@@ -14852,12 +14852,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39686",
       "en_stock": true
     },
-    "39685": {
-      "nombre": "CARNER BARCELONA D600 EDP 100 ML REGULAR",
-      "precio": "99.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39685",
-      "en_stock": true
-    },
     "39684": {
       "nombre": "CARNER BARCELONA BOTAFUMEIRO EDP 100 ML REGULAR",
       "precio": "79.99 €",
@@ -22080,6 +22074,12 @@
       "nombre": "JUS AMBRASER PARFUM 100ML @",
       "precio": "76.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35881",
+      "en_stock": true
+    },
+    "35876": {
+      "nombre": "JULIETTE HAS A GUN NOT ODE TO DULLNESS EDP 100 ML @ (Sin caja)",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35876",
       "en_stock": true
     },
     "35856": {
@@ -33871,6 +33871,7 @@
     "JUICY COUTURE WOMAN EDP 100ML REGULAR",
     "JUICY VIVA LA JUICY LA FLEUR WOMAN EDT 150 ML @",
     "JULIETTE HAS A GUN MAGNOLIA BLISS EDP 100 ML @ (SIN CAJA)",
+    "JULIETTE HAS A GUN NOT ODE TO DULLNESS EDP 100 ML @ (SIN CAJA)",
     "JUST CAVALLI MAN EDT 90 ML REGULAR",
     "JUST CAVALLI WILD HEARTS FOR HER EDP 90 ML @",
     "JUST CAVALLI WILD HEARTS MAN EDT 90 ML @",
