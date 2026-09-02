@@ -20096,12 +20096,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37123",
       "en_stock": true
     },
-    "37122": {
-      "nombre": "REGALIEN HAZZ EXTRAIT 80 ML (UNISEX) @",
-      "precio": "189.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37122",
-      "en_stock": true
-    },
     "37120": {
       "nombre": "REGALIEN ANTIDOTE EXTRAIT 80 ML (UNISEX) @",
       "precio": "189.99 €",
@@ -25764,6 +25758,12 @@
       "nombre": "MTV ELECTRIC BEAT WOMAN EDT 50 ML @ (sin caja)",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31178",
+      "en_stock": true
+    },
+    "31176": {
+      "nombre": "MTV WOMAN EDT 50 ML @ (sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31176",
       "en_stock": true
     },
     "31169": {
@@ -34050,6 +34050,7 @@
     "MOSCHINO WOMAN EDT 75ML @",
     "MOUSTACHE ROCHAS EDT 125 ML @",
     "MR WONDERFUL TODAY IS MY DAY EDT 75 ML @",
+    "MTV WOMAN EDT 50 ML @ (SIN CAJA)",
     "MUGLER ALIEN EXTRAINTENSE EDP 90 ML @",
     "MUGLER STARLICIOUS BERRY LICORICE 75 ML @",
     "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @",
