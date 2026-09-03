@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42317": {
+      "nombre": "1 MILLION BLACK PACO RABANNE EDP 30 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42317",
+      "en_stock": true
+    },
     "42311": {
       "nombre": "ANGEL SCHELESSER EXOTIC LYCHEE EDT 100 ML @",
       "precio": "14.99 €",
@@ -5236,12 +5242,6 @@
       "nombre": "REEBOOK COOL  MAN EDT 100 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33022",
-      "en_stock": true
-    },
-    "33020": {
-      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @",
-      "precio": "8.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33020",
       "en_stock": true
     },
     "33019": {
@@ -10976,6 +10976,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42319": {
+      "nombre": "MILLION RED HER PARFUM 90ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42319",
+      "en_stock": true
+    },
+    "42318": {
+      "nombre": "TOUS KAOS IN RED EDP 100 ML REGULAR",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42318",
+      "en_stock": true
+    },
+    "42316": {
+      "nombre": "JPG LA FAVORITE EDP 50 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42316",
+      "en_stock": true
+    },
     "42315": {
       "nombre": "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML REGULAR",
       "precio": "94.99 €",
@@ -11850,6 +11868,12 @@
       "nombre": "D&G LIGHT BLUE EAU PARFUM GEL 30 ML REGULAR",
       "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41913",
+      "en_stock": true
+    },
+    "41907": {
+      "nombre": "CAROLINA HERRERA LA BOMBA INTENSE EDP 80 ML REGULAR",
+      "precio": "84.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41907",
       "en_stock": true
     },
     "41901": {
@@ -32947,6 +32971,7 @@
   },
   "ultimo_numero_oferta": 815,
   "nombres_ya_notificados": [
+    "1 MILLION BLACK PACO RABANNE EDP 30 ML REGULAR",
     "1 MILLION PACO RABANNE EDT 100ML REGULAR",
     "1 MILLION PACO RABANNE GOLD ELIXIR HIM EDP 100 ML @",
     "1881 FEMME EDT 100ML @",
@@ -33345,6 +33370,7 @@
     "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 50 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "CAROLINA HERRERA LA BOMBA INTENSE EDP 80 ML REGULAR",
     "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
     "CARTIER DECLARATION EDT 100 ML @",
     "CARTIER DECLARATION PARFUM 100 ML REGULAR (CAJA DAÑADA)",
@@ -33848,6 +33874,7 @@
     "JOUR D`HERMES EDP 85 ML REGULAR",
     "JPG CLASSIQUE LA BELLE EDP 100ML REGULAR",
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
+    "JPG LA FAVORITE EDP 50 ML REGULAR",
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
     "JPG LE MALE PRIDE EDITION EDT 125ML @",
@@ -34005,6 +34032,7 @@
     "MICHAEL KORS SPORTY CITRUS EDP VAPO 50 ML @ (SIN CAJA)",
     "MIDNIGHT FANTASY EDP 100ML REGULAR",
     "MILANO SPORT EDT 100 ML @",
+    "MILLION RED HER PARFUM 90ML REGULAR",
     "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
     "MINI PINK WOMAN EDP 25ML @ (SIN CAJA Y SIN TAPÓN) ~",
     "MINISET VERSACE CRYSTAL ESMERAL EDP 5 ML + SHOWER GEL 25 ML + BODY LOCION 25 ML REGULAR",
@@ -34519,6 +34547,7 @@
     "TOUS EDT 90ML @",
     "TOUS FLORAL TOUCH EDT 100 ML @",
     "TOUS GEMS POWER EDT 90 ML @ (SIN CAJA)",
+    "TOUS KAOS IN RED EDP 100 ML REGULAR",
     "TOUS KIDS BOY EDT 100 ML @",
     "TOUS KIDS GIRL EDT 100 ML @",
     "TOUS LOVE ME EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
