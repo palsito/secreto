@@ -342,6 +342,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31021",
       "en_stock": true
     },
+    "30700": {
+      "nombre": "BOSS BOTTLED MAN EDT 200 ML REGULAR",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30700",
+      "en_stock": true
+    },
     "29930": {
       "nombre": "D&G K EDT 100 ML @",
       "precio": "39.99 €",
@@ -4246,6 +4252,12 @@
       "nombre": "GIVENCHY GENTLEMAN SOCIETY AMBRE EDP 100ML @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35600",
+      "en_stock": true
+    },
+    "35597": {
+      "nombre": "ETERNITY AMBER ESSENCE FOR MEN PARFUM INTENSE 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35597",
       "en_stock": true
     },
     "35596": {
@@ -10962,6 +10974,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42315": {
+      "nombre": "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42315",
       "en_stock": true
     },
     "42314": {
@@ -18018,12 +18036,6 @@
       "nombre": "ELIZABETH ARDEN WHITE TEA EDP 100 ML + BODY LOCION REGULAR",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38350",
-      "en_stock": true
-    },
-    "38349": {
-      "nombre": "ELIZABETH ARDEN WHITE TEA EDT 100 ML + BODY LOCION REGULAR",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38349",
       "en_stock": true
     },
     "38347": {
@@ -33727,6 +33739,7 @@
     "GUCCI GUILTY PURSE SPRAY EDT  WOMAN + 3 RECARGAS 15ML (TOTAL 60ML) @",
     "GUCCI RUSH EDT 75ML  @",
     "GUERLAIN  AQUA  ALLEGORIA ROSA VERDE EDT 125 ML @",
+    "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML REGULAR",
     "GUERLAIN L`PETIT ROBE NOIR EDP 100 ML @",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
