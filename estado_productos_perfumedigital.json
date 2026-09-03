@@ -32362,6 +32362,42 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42334": {
+      "nombre": "LOEWE AGUA DROP EDP 100 ML @ (Sin caja, 60% del contenido)",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42334",
+      "en_stock": true
+    },
+    "42333": {
+      "nombre": "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42333",
+      "en_stock": true
+    },
+    "42332": {
+      "nombre": "SOLO LOEWE ELIXIR (MAS CONCENTRADA) EDP 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "61.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42332",
+      "en_stock": true
+    },
+    "42331": {
+      "nombre": "LOEWE 7 ELIXIR (MAS CONCENTRADA) EDP 100ML @ (Sin caja, 5% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42331",
+      "en_stock": true
+    },
+    "42330": {
+      "nombre": "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @ (Sin caja, 55% del contenido)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42330",
+      "en_stock": true
+    },
+    "42329": {
+      "nombre": "LOEWE 7 MEN EDT 100ML REGULAR (Sin caja, 90% del contenido)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42329",
+      "en_stock": true
+    },
     "42328": {
       "nombre": "LOEWE EARTH UNISEX EDP 100 ML @ (Sin caja, 40% del contenido)",
       "precio": "36.99 €",
@@ -32662,10 +32698,28 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34294",
       "en_stock": true
     },
+    "34168": {
+      "nombre": "AIRE ANTHESIS DE LOEWE EDP 100 ML @ (Sin caja, 85% del contenido)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34168",
+      "en_stock": true
+    },
+    "34165": {
+      "nombre": "LOEWE 7 COBALT EDP 100 ML @ (FORMATO NUEVO) (Sin caja, 85% del contenido)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34165",
+      "en_stock": true
+    },
     "34163": {
       "nombre": "LOEWE EARTH UNISEX EDP 100 ML @ (Sin caja, 80% del contenido)",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34163",
+      "en_stock": true
+    },
+    "34162": {
+      "nombre": "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML @ (Sin caja, 40% del contenido)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34162",
       "en_stock": true
     },
     "34151": {
@@ -32674,10 +32728,22 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34151",
       "en_stock": true
     },
+    "34101": {
+      "nombre": "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @ (sin caja, 90% del contenido)",
+      "precio": "47.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34101",
+      "en_stock": true
+    },
     "34052": {
       "nombre": "AGUA DE COLONIA ÁLVAREZ GÓMEZ CONCENTRADA EDC 80 ML @ (sin caja, 50% del contenido y sin tapon)",
       "precio": "1.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34052",
+      "en_stock": true
+    },
+    "34034": {
+      "nombre": "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @ (sin caja, 35% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34034",
       "en_stock": true
     },
     "33917": {
@@ -32738,6 +32804,12 @@
       "nombre": "REBEL URBAN HAPPY EDT 100 ML @ (Sin caja)",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32263",
+      "en_stock": true
+    },
+    "32252": {
+      "nombre": "SOLO LOEWE CEDRO EDT 100 ML @ (FORMATO NUEVO) (Sin caja, 7% del contenido)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32252",
       "en_stock": true
     },
     "31779": {
@@ -33106,6 +33178,7 @@
     "AIGNER FIRST CLAS EXPLORER EDT 100 ML @",
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
     "AIGNER TOO FEMININE EDP 100 ML REGULAR",
+    "AIRE ANTHESIS DE LOEWE EDP 100 ML @ (SIN CAJA, 85% DEL CONTENIDO)",
     "AIRE DE SEVILLA  LETRA A  EDT 150 ML @ (SIN CAJA)",
     "AIRE DE SEVILLA AGUA FRESCA DE AZAHAR 150 ML @",
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
@@ -33673,7 +33746,9 @@
     "ESCADA YUM ME SUNNY EDP 50 ML @",
     "ESCALE À PORTOFINO EDT 125ML @",
     "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @",
+    "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @ (SIN CAJA, 55% DEL CONTENIDO)",
     "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @",
+    "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "ESPECIAL 2X1 GUILLAB: GUILLAB CANIS FOR MEN EDP 100 ML REGULAR + GUILLAB PICTOR EDP 100 ML REGULAR",
     "ESPRIT D´OSCAR EDP 100 ML REGULAR",
     "ESTEE LADER BEAUTIFUL EDP 75ML @",
@@ -34023,10 +34098,15 @@
     "LIQUIDES IMAGINAIRES LIQUIDE GOLD EDP 100 ML @ (SIN CAJA)",
     "LOEWE 001 MAN EDP 100 ML @",
     "LOEWE 7 ANONIMO EDP 100 ML @ (FORMATO ANTIGUO, 85% DEL CONTENIDO, VAPO SE ATASCA)",
+    "LOEWE 7 COBALT EDP 100 ML @ (FORMATO NUEVO) (SIN CAJA, 85% DEL CONTENIDO)",
     "LOEWE 7 COBALT EDP 100 ML REGULAR (FORMATO NUEVO)",
     "LOEWE 7 ELIXIR (MAS CONCENTRADA) EDP 100ML REGULAR",
     "LOEWE 7 MEN EDT 100ML REGULAR",
+    "LOEWE 7 MEN EDT 100ML REGULAR (SIN CAJA, 90% DEL CONTENIDO)",
+    "LOEWE AGUA DROP EDP 100 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
+    "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML REGULAR",
+    "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML @ (SIN CAJA, 40% DEL CONTENIDO)",
     "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO)",
     "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO) (SIN CAJA, 90% DEL CONTENIDO)",
     "LOEWE EARTH ELIXIR (MAS CONCENTRADA) EDP 100 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
@@ -34574,6 +34654,8 @@
     "SO YOU GIORGIO BEVERLY HILLS EDP 90ML REGULAR",
     "SOLO AMORE BY LUCIANO SOPRANI WOMAN EDT 90 ML REGULAR",
     "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
+    "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @ (SIN CAJA, 35% DEL CONTENIDO)",
+    "SOLO LOEWE CEDRO EDT 100 ML @ (FORMATO NUEVO) (SIN CAJA, 7% DEL CONTENIDO)",
     "SOLO LOEWE ELLA EDT 100 ML @",
     "SPAGNOLO MEDITERRANEO EDT 75 ML @ (SIN CAJA)",
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
