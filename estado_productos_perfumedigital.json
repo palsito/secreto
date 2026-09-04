@@ -11038,7 +11038,7 @@
     },
     "42315": {
       "nombre": "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML REGULAR",
-      "precio": "94.99 €",
+      "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42315",
       "en_stock": true
     },
@@ -28742,6 +28742,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22423",
       "en_stock": true
     },
+    "22422": {
+      "nombre": "BEYONCE HEAT EDP 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22422",
+      "en_stock": true
+    },
     "22379": {
       "nombre": "TOUS NEON CANDY EDT 90ML @",
       "precio": "32.99 €",
@@ -32362,34 +32368,16 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
-    "42335": {
-      "nombre": "AIRE DE LOEWE EDT 100 ML @ (FORMATO NUEVO) (Sin caja, 3% del contenido)",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42335",
-      "en_stock": true
-    },
     "42334": {
       "nombre": "LOEWE AGUA DROP EDP 100 ML @ (Sin caja, 60% del contenido)",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42334",
       "en_stock": true
     },
-    "42333": {
-      "nombre": "LOEWE AIRE SUTILEZA ELIXIR WOMAN EDP 100 ML @ (Sin caja, 80% del contenido)",
-      "precio": "62.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42333",
-      "en_stock": true
-    },
     "42332": {
       "nombre": "SOLO LOEWE ELIXIR (MAS CONCENTRADA) EDP 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "61.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42332",
-      "en_stock": true
-    },
-    "42331": {
-      "nombre": "LOEWE 7 ELIXIR (MAS CONCENTRADA) EDP 100ML @ (Sin caja, 5% del contenido)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42331",
       "en_stock": true
     },
     "42330": {
@@ -32710,40 +32698,16 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34165",
       "en_stock": true
     },
-    "34163": {
-      "nombre": "LOEWE EARTH UNISEX EDP 100 ML @ (Sin caja, 80% del contenido)",
-      "precio": "46.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34163",
-      "en_stock": true
-    },
-    "34162": {
-      "nombre": "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML @ (Sin caja, 40% del contenido)",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34162",
-      "en_stock": true
-    },
     "34151": {
       "nombre": "SAPHIR SILOE BOHEME WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34151",
       "en_stock": true
     },
-    "34101": {
-      "nombre": "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @ (sin caja, 90% del contenido)",
-      "precio": "47.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34101",
-      "en_stock": true
-    },
     "34052": {
       "nombre": "AGUA DE COLONIA ÁLVAREZ GÓMEZ CONCENTRADA EDC 80 ML @ (sin caja, 50% del contenido y sin tapon)",
       "precio": "1.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34052",
-      "en_stock": true
-    },
-    "34034": {
-      "nombre": "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @ (sin caja, 35% del contenido)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34034",
       "en_stock": true
     },
     "33917": {
@@ -32876,12 +32840,6 @@
       "nombre": "SAPHIR COOL EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30666",
-      "en_stock": true
-    },
-    "30231": {
-      "nombre": "BOSS ORANGE MAN EDT 100ML @ (sin caja)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30231",
       "en_stock": true
     },
     "29743": {
@@ -33362,6 +33320,7 @@
     "BESO BY AGATHA RUIZ DE LA PRADA EDT 100ML @",
     "BEST COMPANY DOUBLE WOMAN EDT 100 ML REGULAR",
     "BEVERLY HILLS POLO CLUB GREEN COLOURS FOR HIM EDT 100 ML REGULAR",
+    "BEYONCE HEAT EDP 100 ML @",
     "BI-ES EMPIRE WOMAN EDP 90 ML @",
     "BIAGIOTTI DUE UOMO EDT 90ML @",
     "BIAGIOTTI DUE WOMAN EDP 90 ML @",
