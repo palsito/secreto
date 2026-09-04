@@ -3396,12 +3396,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37601",
       "en_stock": true
     },
-    "37600": {
-      "nombre": "AMOUAGE JUBILATION 40 MAN EXTRAIT PARFUM 100 ML REGULAR",
-      "precio": "369.00 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37600",
-      "en_stock": true
-    },
     "37595": {
       "nombre": "AMOUAGE HONOUR MAN EDP 100 ML  REGULAR",
       "precio": "279.00 €",
@@ -32374,6 +32368,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42335": {
+      "nombre": "AIRE DE LOEWE EDT 100 ML @ (FORMATO NUEVO) (Sin caja, 3% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42335",
+      "en_stock": true
+    },
     "42334": {
       "nombre": "LOEWE AGUA DROP EDP 100 ML @ (Sin caja, 60% del contenido)",
       "precio": "46.99 €",
@@ -32606,12 +32606,6 @@
       "nombre": "SAPHIR ELITE NOIR WHISPERS PARFUM 100 ML REGULAR (sin caja)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38056",
-      "en_stock": true
-    },
-    "37985": {
-      "nombre": "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO) (Sin caja, 90% del contenido)",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37985",
       "en_stock": true
     },
     "37836": {
@@ -33191,6 +33185,7 @@
     "AIGNER ITS ME SOFT MUSK EDP 100 ML REGULAR",
     "AIGNER TOO FEMININE EDP 100 ML REGULAR",
     "AIRE ANTHESIS DE LOEWE EDP 100 ML @ (SIN CAJA, 85% DEL CONTENIDO)",
+    "AIRE DE LOEWE EDT 100 ML @ (FORMATO NUEVO) (SIN CAJA, 3% DEL CONTENIDO)",
     "AIRE DE SEVILLA  LETRA A  EDT 150 ML @ (SIN CAJA)",
     "AIRE DE SEVILLA AGUA FRESCA DE AZAHAR 150 ML @",
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
