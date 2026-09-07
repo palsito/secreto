@@ -13352,12 +13352,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40579",
       "en_stock": true
     },
-    "40576": {
-      "nombre": "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40576",
-      "en_stock": true
-    },
     "40570": {
       "nombre": "ETRO NECTAR EDP 100 ML @",
       "precio": "62.99 €",
@@ -23346,6 +23340,12 @@
       "nombre": "NARCISO RODRIGUEZ MUSC NOIR ROSE FOR HER  EDP 100ML @",
       "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34757",
+      "en_stock": true
+    },
+    "34756": {
+      "nombre": "COACH WILD ROSE EDP 90 ML @",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34756",
       "en_stock": true
     },
     "34753": {
