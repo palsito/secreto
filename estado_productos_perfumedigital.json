@@ -8166,12 +8166,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20610",
       "en_stock": true
     },
-    "20543": {
-      "nombre": "ADIDAS TEAM FORCE EDT 100ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20543",
-      "en_stock": true
-    },
     "20517": {
       "nombre": "UNGARO MASCULIN EDT 90 ML REGULAR",
       "precio": "19.99 €",
@@ -10644,6 +10638,12 @@
       "nombre": "PACK ESPECIAL GUILLAB MENKENT UNISEX EDP 100 ML REGULAR + GUILLAB EDP UNISEX 70 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35255",
+      "en_stock": true
+    },
+    "35240": {
+      "nombre": "PACK 4x1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35240",
       "en_stock": true
     },
     "35239": {
@@ -22686,12 +22686,6 @@
       "nombre": "NIKE PURPLEMOOD WOMAN EDT 100 ML @ (Sin caja)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35214",
-      "en_stock": true
-    },
-    "35210": {
-      "nombre": "WOMAN SECRET DAILY ROMANCE 250 ML @",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35210",
       "en_stock": true
     },
     "35203": {
