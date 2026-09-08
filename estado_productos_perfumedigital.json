@@ -14930,12 +14930,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39661",
       "en_stock": true
     },
-    "39660": {
-      "nombre": "ATELIER DES ORS PINK ME UP EDP 100 ML REGULAR",
-      "precio": "159.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39660",
-      "en_stock": true
-    },
     "39659": {
       "nombre": "ATELIER DES ORS OMEYYADE EXTRAIT 100 ML REGULAR",
       "precio": "209.99 €",
@@ -21066,6 +21060,12 @@
       "nombre": "HOSS INTROPIA GADEA EDP 100 ML @",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36388",
+      "en_stock": true
+    },
+    "36387": {
+      "nombre": "DOLCE  VIOLET DE DOLCE& GABBANA EDT 75 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36387",
       "en_stock": true
     },
     "36386": {
@@ -33396,6 +33396,7 @@
     "DKNY MAN II EDT 100ML @ (SIN CAJA)",
     "DKNY RED DELICIOUS  MEN EDT 100ML @",
     "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
+    "DOLCE  VIOLET DE DOLCE& GABBANA EDT 75 ML @",
     "DOLCE & GABBANA POUR HOMME EDT 125ML @",
     "DOLCE MAGNOLIA EDP 75 ML @",
     "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
