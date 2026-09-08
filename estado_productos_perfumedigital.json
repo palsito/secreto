@@ -8322,12 +8322,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20005",
       "en_stock": true
     },
-    "19969": {
-      "nombre": "TERRE D HERMES EDT 100ML REGULAR",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19969",
-      "en_stock": true
-    },
     "19935": {
       "nombre": "L`EAU D`ISSEY POUR HOMME SPORT EDT 100ML REGULAR",
       "precio": "46.99 €",
@@ -8458,6 +8452,12 @@
       "nombre": "TOUS MAN INTENSE EDT 50 ML REGULAR",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19162",
+      "en_stock": true
+    },
+    "19146": {
+      "nombre": "DUNHILL CUSTOM EDT SPRAY 100 ML REGULAR",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19146",
       "en_stock": true
     },
     "19125": {
