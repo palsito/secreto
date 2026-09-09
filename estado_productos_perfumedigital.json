@@ -432,6 +432,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42340": {
+      "nombre": "AZZARO WANTED MAN EDP 100 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42340",
+      "en_stock": true
+    },
     "42339": {
       "nombre": "1 MILLION BLACK PACO RABANNE EDP 200 ML REGULAR",
       "precio": "94.99 €",
@@ -6318,12 +6324,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30273",
       "en_stock": true
     },
-    "30221": {
-      "nombre": "AZZARO WANTED BY NIGHT MAN EDP 100 ML @",
-      "precio": "42.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30221",
-      "en_stock": true
-    },
     "30219": {
       "nombre": "ARMANI CODE MAN EDT 75ML (FORMATO ANTIGUO ALARGADO) @",
       "precio": "39.99 €",
@@ -10738,7 +10738,7 @@
     },
     "30960": {
       "nombre": "212 WOMAN EDT 100ML @",
-      "precio": "44.99 €",
+      "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30960",
       "en_stock": true
     },
@@ -33012,6 +33012,7 @@
     "AZZARO WANTED BY NIGHT MAN EDP 100 ML @",
     "AZZARO WANTED ELIXIR PARFUM 100 ML @",
     "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
+    "AZZARO WANTED MAN EDP 100 ML @",
     "B.U. ABSOLUTE ME EDT 50 ML @",
     "B.U. CANDY LOVE EDT 50 ML @",
     "B.U. FAIRYS SECRET EDT 50 ML @",
