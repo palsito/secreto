@@ -13010,12 +13010,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41110",
       "en_stock": true
     },
-    "41109": {
-      "nombre": "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41109",
-      "en_stock": true
-    },
     "41108": {
       "nombre": "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML REGULAR",
       "precio": "79.99 €",
@@ -21570,6 +21564,12 @@
       "nombre": "THAMEEN NOOROLAIN TAIF EXTRAIT PARFUM 50 ML @",
       "precio": "149.00 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36034",
+      "en_stock": true
+    },
+    "36033": {
+      "nombre": "THAMEEN INSIGNIA EXTRAIT PARFUM 50 ML @",
+      "precio": "149.00 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36033",
       "en_stock": true
     },
     "36032": {
@@ -34333,6 +34333,7 @@
     "TERRE D HERMES EDP 75ML @",
     "TERRE D HERMES EDT 100ML @",
     "TERRE D HERMES EDT 100ML REGULAR",
+    "THAMEEN INSIGNIA EXTRAIT PARFUM 50 ML @",
     "THATS AMORE GAI MATTIOLO FOR MEN EDT 75 ML @",
     "THAT´S AMORE! FOR WOMAN 75ML @",
     "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA)",
