@@ -20036,6 +20036,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37040",
       "en_stock": true
     },
+    "37039": {
+      "nombre": "PARIS CORNER AZM EDP 100ML UNISEX REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37039",
+      "en_stock": true
+    },
     "37035": {
       "nombre": "MONTALE INTENSE CAFE RISTRETTO UNISEX EDP 100 ML REGULAR",
       "precio": "139.99 €",
@@ -20454,12 +20460,6 @@
       "nombre": "CLIVE CHRISTIAN OC NO1 FEMENINE EDP 50 ML @",
       "precio": "299.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36832",
-      "en_stock": true
-    },
-    "36831": {
-      "nombre": "CLIVE CHRISTIAN NC COSMOS FLOWER EDP 50 ML @",
-      "precio": "229.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36831",
       "en_stock": true
     },
     "36830": {
@@ -33988,6 +33988,7 @@
     "PALOMA PICASSO EDP 100ML @",
     "PALOMA PICASSO EDP 100ML REGULAR",
     "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
+    "PARIS CORNER AZM EDP 100ML UNISEX REGULAR",
     "PARIS HILTON JUST ME MEN EDT 100ML REGULAR",
     "PASHA DE CARTIER EDITION NOIRE EDT 100ML REGULAR (CAJA DAÑADA)",
     "PAUL SMITH  OPTIMISTIC WOMAN EDT 100 ML REGULAR",
