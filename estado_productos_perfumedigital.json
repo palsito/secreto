@@ -162,12 +162,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36300",
       "en_stock": true
     },
-    "36269": {
-      "nombre": "LOTE 4 DE HOMBRE: SPRINGFIELD EDT 100 ML @ + NIKE URBAN WOOD EDT 100 ML @ + CROSSMEN ORIGINAL EDT 200 ML @ + ADIDAS TEAM FORCE 100 ML @",
-      "precio": "8.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36269",
-      "en_stock": true
-    },
     "36260": {
       "nombre": "GISADA TITANIUM MEN EDP 100 ML @",
       "precio": "79.99 €",
@@ -7648,6 +7642,12 @@
       "nombre": "DUNHILL LONDON PURE EDT 100 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22442",
+      "en_stock": true
+    },
+    "22406": {
+      "nombre": "HOOLI POUR HOMME EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22406",
       "en_stock": true
     },
     "22392": {
@@ -33490,6 +33490,7 @@
     "HERMES UN JARDIN APRES LA MOUSSON EDT 100ML (UNISEX) @",
     "HERMES UN JARDIN EN MEDITERRANEE UNISEX EDT 100 ML @",
     "HERMES UN JARDIN SUR LE TOIT 100 ML @",
+    "HOOLI POUR HOMME EDT 100 ML @",
     "HUGO BOSS THE SCENT HIM EDP INTENSE 100 ML @",
     "HUGO BOSS THE SCENT PURE ACCORD HIM EDT 100 ML REGULAR (CAJA DAÑADA)",
     "HUGO DARK BLUE EDT 75ML REGULAR",
