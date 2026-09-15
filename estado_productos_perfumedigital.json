@@ -504,6 +504,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42301",
       "en_stock": true
     },
+    "42292": {
+      "nombre": "ARMAF ODYSSEY MANDARIN SKY  EDITION MAN EDP 100 REGULAR",
+      "precio": "23.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42292",
+      "en_stock": true
+    },
     "42290": {
       "nombre": "ARMAF CLUB DE NUIT URBAN ELIXIR EDP 105 ML REGULAR",
       "precio": "26.99 €",
@@ -28778,6 +28784,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21434",
       "en_stock": true
     },
+    "21431": {
+      "nombre": "VERSACE BRIGHT CRYSTAL EDT 90ML @",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21431",
+      "en_stock": true
+    },
     "21399": {
       "nombre": "ELIZABETH ARDEN GREEN TEA TROPICAL EDT 100 ML REGULAR",
       "precio": "19.99 €",
@@ -32838,6 +32850,7 @@
     "ARMAF CLUB DE NUIT PRIVATE KEY TO MY SUCCESS UNISEX EXTRAIT DE PARFUM 100 ML REGULAR",
     "ARMAF CLUB DE NUIT URBAN MAN ELIXIR 105 ML REGULAR",
     "ARMAF CLUB THE NUIT UNTOLD EDP 105 REGULAR",
+    "ARMAF ODYSSEY MANDARIN SKY  EDITION MAN EDP 100 REGULAR",
     "ARMAND BASI COLOR STORIES IRIS EDT 100 ML @",
     "ARMAND BASI HOMME EDT 125ML @",
     "ARMAND BASI IN BLUE EDT 100ML REGULAR",
@@ -34340,6 +34353,7 @@
     "VERA WANG EMBRACE PERIWINKLE AND IRID EDT 30 ML REGULAR",
     "VERA WANG GLAM PRINCESS EDT 100ML @",
     "VERSACE  YELLOW DIAMOND EDT 90ML @",
+    "VERSACE BRIGHT CRYSTAL EDT 90ML @",
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
     "VERSACE BRIGHT CRYSTAL POUR FEMME PARFUM 90 ML @",
     "VERSACE CRYSTAL NOIR PARFUM 90ML @",
