@@ -576,12 +576,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42228",
       "en_stock": true
     },
-    "42209": {
-      "nombre": "CH MEN EDT 100 ML REGULAR",
-      "precio": "56.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42209",
-      "en_stock": true
-    },
     "42189": {
       "nombre": "BAD BOY COBALT ABSOLUTE EDP 100 ML @",
       "precio": "72.99 €",
@@ -4198,12 +4192,6 @@
       "nombre": "GIVENCHY GENTLEMAN SOCIETY AMBRE EDP 100ML @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35600",
-      "en_stock": true
-    },
-    "35597": {
-      "nombre": "ETERNITY AMBER ESSENCE FOR MEN PARFUM INTENSE 100 ML @",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35597",
       "en_stock": true
     },
     "35596": {
@@ -10554,6 +10542,12 @@
       "nombre": "PACK ESPECIAL GUILLAB MENKENT UNISEX EDP 100 ML REGULAR + GUILLAB EDP UNISEX 70 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35255",
+      "en_stock": true
+    },
+    "35240": {
+      "nombre": "PACK 4x1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35240",
       "en_stock": true
     },
     "35239": {
@@ -25566,12 +25560,6 @@
       "nombre": "SAPHIR FRUITS ATTRACTION MORA EDT 100 ML @ (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31155",
-      "en_stock": true
-    },
-    "31154": {
-      "nombre": "SAPHIR FRUITS ATTRACTION VAINILLA EDT 100 ML @ (Sin caja)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31154",
       "en_stock": true
     },
     "31153": {
