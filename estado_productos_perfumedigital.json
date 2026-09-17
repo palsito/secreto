@@ -10838,6 +10838,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42342",
       "en_stock": true
     },
+    "42341": {
+      "nombre": "LOEWE PAULA`S COSMIC EDP 100 ML @(80% DEL CONTENIDO)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42341",
+      "en_stock": true
+    },
     "42319": {
       "nombre": "MILLION RED HER PARFUM 90ML REGULAR",
       "precio": "79.99 €",
@@ -19968,6 +19974,12 @@
       "nombre": "JPG SCANDAL INTENSE HER EDP 80 ML REGULAR",
       "precio": "84.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37052",
+      "en_stock": true
+    },
+    "37048": {
+      "nombre": "PRADA PARADOXE RADICAL ESSENCE INTENSE PARFUM 90 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37048",
       "en_stock": true
     },
     "37041": {
@@ -32218,6 +32230,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34168",
       "en_stock": true
     },
+    "34165": {
+      "nombre": "LOEWE 7 COBALT EDP 100 ML @ (FORMATO NUEVO) (Sin caja, 85% del contenido)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34165",
+      "en_stock": true
+    },
     "34151": {
       "nombre": "SAPHIR SILOE BOHEME WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -34013,6 +34031,7 @@
     "PRADA LUNA ROSSA EDT 100 ML @",
     "PRADA L`HOMME EDT 100 ML @",
     "PRADA L`HOMME L`EAU EDT 100 ML @",
+    "PRADA PARADOXE RADICAL ESSENCE INTENSE PARFUM 90 ML REGULAR",
     "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
     "PROVOCATIVE EDP 100ML @",
     "PROVOCATIVE EDP 100ML REGULAR",
