@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42347": {
+      "nombre": "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @ (95% DEL CONTENIDO)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42347",
+      "en_stock": true
+    },
     "42346": {
       "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR (SIN CAJA)",
       "precio": "59.99 €",
@@ -4690,6 +4696,12 @@
       "nombre": "JPG SCANDAL POUR HOMME EDT 100 ML REGULAR",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34379",
+      "en_stock": true
+    },
+    "34375": {
+      "nombre": "ESENCIA LOEWE POUR HOMME EAU DE PARFUM EDP 100 ML @",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34375",
       "en_stock": true
     },
     "34374": {
@@ -12804,6 +12816,12 @@
       "nombre": "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41385",
+      "en_stock": true
+    },
+    "41378": {
+      "nombre": "RED DOOR ETERNAL AURA EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41378",
       "en_stock": true
     },
     "41377": {
@@ -32380,6 +32398,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30666",
       "en_stock": true
     },
+    "30279": {
+      "nombre": "AIRE DE SEVILLA SEVILLA NOIR POUR HOMME EDT 125 ML @ 50% (DEL CONTENIDO)",
+      "precio": "13.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30279",
+      "en_stock": true
+    },
     "30231": {
       "nombre": "BOSS ORANGE MAN EDT 100ML @ (sin caja)",
       "precio": "49.99 €",
@@ -32694,6 +32718,7 @@
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
     "AIRE DE SEVILLA ROSAS BLANCAS EDT 150 ML @ (SIN CAJA)",
     "AIRE DE SEVILLA ROSE EDT 150 ML @ (SIN CAJA)",
+    "AIRE DE SEVILLA SEVILLA NOIR POUR HOMME EDT 125 ML @ 50% (DEL CONTENIDO)",
     "AITANA 1999 EDT 80 ML @",
     "AITANA STARS EDT 80 ML @ ~",
     "ALESSANDRO DELLA TORRE EDT 50 ML REGULAR",
@@ -33270,6 +33295,7 @@
     "ESCADA SANTORINI SUNRISE EDT 100 ML @",
     "ESCADA YUM ME SUNNY EDP 50 ML @",
     "ESCALE À PORTOFINO EDT 125ML @",
+    "ESENCIA LOEWE POUR HOMME EAU DE PARFUM EDP 100 ML @",
     "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @",
     "ESENCIA LOEWE POUR HOMME EDP 100 ML (FORMATO NUEVO, BOTELLA ALARGADA) @ (SIN CAJA, 55% DEL CONTENIDO)",
     "ESENCIA LOEWE POUR HOMME EDT FORMATO NUEVO BOTELLA ALARGADA 100ML @",
@@ -34388,6 +34414,7 @@
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "YSL RIVE GAUCHE EDT 100ML REGULAR",
     "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @",
+    "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @ (95% DEL CONTENIDO)",
     "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML @",
     "ZADIG BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML @",
     "ZINNIA WOMAN EDT 100 ML @",
