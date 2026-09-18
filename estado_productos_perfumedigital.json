@@ -420,6 +420,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42346": {
+      "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR (SIN CAJA)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42346",
+      "en_stock": true
+    },
+    "42345": {
+      "nombre": "PASHA DE CARTIER EDITION NOIRE EDT 100ML REGULAR (SIN CAJA)",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42345",
+      "en_stock": true
+    },
+    "42344": {
+      "nombre": "CARTIER DECLARATION PARFUM 100 ML REGULAR (SIN CAJA)",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42344",
+      "en_stock": true
+    },
     "42340": {
       "nombre": "AZZARO WANTED MAN EDP 100 ML @",
       "precio": "42.99 €",
@@ -33011,8 +33029,10 @@
     "CAROLINA HERRERA VERY GOOD GIRL ELIXIR EDP 80 ML @",
     "CARTIER DECLARATION EDT 100 ML @",
     "CARTIER DECLARATION PARFUM 100 ML REGULAR (CAJA DAÑADA)",
+    "CARTIER DECLARATION PARFUM 100 ML REGULAR (SIN CAJA)",
     "CARTIER PANTHERE EDP 100 ML @",
     "CARTIER PASHA PARFUM 100 ML REGULAR (CAJA DAÑADA)",
+    "CARTIER PASHA PARFUM 100 ML REGULAR (SIN CAJA)",
     "CASMIR EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CERRUTI 1881 RIVIERA POUR HOMME EDT EDT 100 ML @",
