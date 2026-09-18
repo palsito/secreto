@@ -4758,6 +4758,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34351",
       "en_stock": true
     },
+    "34347": {
+      "nombre": "POSEIDON HOMBRE EDT 150ML @ ( sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34347",
+      "en_stock": true
+    },
     "34330": {
       "nombre": "TOM FORD VELVET ORCHID EDP 100 ML REGULAR",
       "precio": "129.99 €",
@@ -10874,6 +10880,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42354": {
+      "nombre": "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @ (SIN CAJA)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42354",
+      "en_stock": true
+    },
     "42352": {
       "nombre": "NINA FLEUR EDT 80ML @ (SIN CAJA)",
       "precio": "19.99 €",
@@ -16035,7 +16047,7 @@
       "en_stock": true
     },
     "39038": {
-      "nombre": "LOTE 1 DE MUJER: VICKY MARTIN BERROCAL ALBA WOMAN EDT 100 ML @ + SUPER PLAYBOY WOMAN EDT 50 ML @ + CHANSON DE EAU LEMON SICILY EDT 100 ML @ + ANTONIO PUIG ANOUK EDT 100 ML @ (LOTE 1)",
+      "nombre": "LOTE 1 DE MUJER: VICKY MARTIN BERROCAL ALBA WOMAN EDT 100 ML @ + SUPER PLAYBOY WOMAN EDT 50 ML @ + CHANSON DE EAU LEMON SICILY EDT 100 ML @ + ANTONIO PUIG ANOUK EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39038",
       "en_stock": true
@@ -17976,6 +17988,12 @@
       "nombre": "SET REEBOOK ACTIVATE FOR HER EDT 100 ML + SHOWER GEL 250 ML + BODY LOCION 250 ML REGULAR (Caja ligeramente dañada)",
       "precio": "11.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38166",
+      "en_stock": true
+    },
+    "38151": {
+      "nombre": "AIRE DE SEVILLA ROSE EDT 150 ML @ (sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38151",
       "en_stock": true
     },
     "38138": {
@@ -32848,6 +32866,7 @@
     "ANTONIO PUIG ANOUK EDT 100 ML @ FRASCO ANTIGUO (SIN CAJA)",
     "AQC FRAGRANCES LADY SECRET EDT 30 ML @",
     "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @",
+    "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @ (SIN CAJA)",
     "AQUA ALLEGORIA GRANADA SALVIA EDT 125ML @",
     "AQUA ALLEGORIA HERBA FRESCA EDT 125ML @",
     "ARAMIS EDT 110ML REGULAR",
@@ -34118,6 +34137,7 @@
     "POLO RED PARFUM 125 ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
     "POSEIDON CLASSIC MAN EDT 150ML @ (SIN CAJA Y SIN TAPÓN)",
+    "POSEIDON HOMBRE EDT 150ML @ ( SIN CAJA)",
     "PRADA AMBER EDP 80ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
