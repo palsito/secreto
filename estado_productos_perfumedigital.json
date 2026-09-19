@@ -15728,12 +15728,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39243",
       "en_stock": true
     },
-    "39241": {
-      "nombre": "MOSCHINO CHEAP AND CHIC SO REAL EDT 30 ML REGULAR",
-      "precio": "15.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39241",
-      "en_stock": true
-    },
     "39237": {
       "nombre": "CHLOE EDP NATURELLE 100 ML REGULAR",
       "precio": "44.99 €",
@@ -23514,6 +23508,12 @@
       "nombre": "LE COUVENT DES MINIMES AQUA SACRAE EDT 100 ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34217",
+      "en_stock": true
+    },
+    "34216": {
+      "nombre": "LE COUVENT DES MINIMES AQUA PARADISI EDT 100 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34216",
       "en_stock": true
     },
     "34215": {
@@ -33682,6 +33682,7 @@
     "LAURA BIAGIOTTI ROMA UOMO GREEN SWING EDT 125 ML @",
     "LAURA BIAGIOTTI ROMA WOMAN EDT 100ML @",
     "LAURA EDT 75ML REGULAR",
+    "LE COUVENT DES MINIMES AQUA PARADISI EDT 100 ML @",
     "LE IENE EDT 100 ML REGULAR",
     "LES COPAINS EDT 100 ML REGULAR",
     "LIBERTE WOMAN EDT 75ML REGULAR",
