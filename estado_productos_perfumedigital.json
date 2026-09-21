@@ -14036,12 +14036,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40179",
       "en_stock": true
     },
-    "40178": {
-      "nombre": "XERJOFF CASAMORATI FIERO EDP 100 ML @",
-      "precio": "144.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40178",
-      "en_stock": true
-    },
     "40177": {
       "nombre": "XERJOFF CASAMORATI DOLCE AMALFI EDP 100 ML @",
       "precio": "144.99 €",
@@ -25046,6 +25040,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31719",
       "en_stock": true
     },
+    "31717": {
+      "nombre": "ESCADA FAIRY LOVE EDT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31717",
+      "en_stock": true
+    },
     "31715": {
       "nombre": "YSL BLACK OPIUM INTENSE EDP 30 ML REGULAR",
       "precio": "37.99 €",
@@ -33292,6 +33292,7 @@
     "ESCADA CANDY LOVE EDT 100 ML REGULAR",
     "ESCADA ESPECIALLY EDP 75 ML @",
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE 75 ML @",
+    "ESCADA FAIRY LOVE EDT 100 ML @",
     "ESCADA JOYFUL EDP 50 ML @ (SIN CAJA)",
     "ESCADA JOYFUL MOMENTS EDP 30 ML REGULAR",
     "ESCADA MAGNETISM EDP 75ML @",
