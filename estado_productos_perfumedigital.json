@@ -3560,7 +3560,7 @@
     },
     "37036": {
       "nombre": "BOSS BOTTLED BEYOND EDP 100 ML REGULAR",
-      "precio": "64.99 €",
+      "precio": "66.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37036",
       "en_stock": true
     },
@@ -10854,6 +10854,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42365": {
+      "nombre": "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML + BODY LOCION + MINIATURA REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42365",
       "en_stock": true
     },
     "42364": {
@@ -32940,6 +32946,7 @@
     "BONGO EDT 100 ML REGULAR",
     "BOSS ALIVE PARFUM 80 ML REGULAR",
     "BOSS BOTTLED BEYOND EDP 100 ML @",
+    "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML + BODY LOCION + MINIATURA REGULAR",
     "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML REGULAR",
     "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
