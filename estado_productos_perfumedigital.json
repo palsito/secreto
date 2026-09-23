@@ -5850,12 +5850,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31203",
       "en_stock": true
     },
-    "31202": {
-      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 7 FRESCOR MEDITERRANEO 150 ML @",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31202",
-      "en_stock": true
-    },
     "31192": {
       "nombre": "TITTO BLUNI LEATHER STYLE EDT 100 ML @ (Sin caja)",
       "precio": "19.99 €",
@@ -10860,6 +10854,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42370": {
+      "nombre": "YSL LIBRE SANTAL COUTURE 50 ML REGULAR",
+      "precio": "82.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42370",
       "en_stock": true
     },
     "42369": {
@@ -34449,6 +34449,7 @@
     "YSL LIBRE ABSOLU PLATINE EDP 90 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "YSL LIBRE EDT 90 ML @",
     "YSL LIBRE INTENSE EDP 90 ML @",
+    "YSL LIBRE SANTAL COUTURE 50 ML REGULAR",
     "YSL MANIFESTO EDP 90 ML @",
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "YSL RIVE GAUCHE EDT 100ML REGULAR",
