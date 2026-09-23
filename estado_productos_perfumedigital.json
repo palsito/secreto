@@ -3714,12 +3714,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36535",
       "en_stock": true
     },
-    "36498": {
-      "nombre": "PURE XS PURE EXCESS 100 ML EDT @",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36498",
-      "en_stock": true
-    },
     "36480": {
       "nombre": "GAULTIER 2 EDP 100ML UNISEX REGULAR (REEDICION 2022)",
       "precio": "99.99 €",
@@ -8284,6 +8278,12 @@
       "nombre": "GUESS BY MARCIANO MAN EDT 100 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19763",
+      "en_stock": true
+    },
+    "19750": {
+      "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19750",
       "en_stock": true
     },
     "19604": {
