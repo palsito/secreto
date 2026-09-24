@@ -10112,12 +10112,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40618",
       "en_stock": true
     },
-    "40617": {
-      "nombre": "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40617",
-      "en_stock": true
-    },
     "40301": {
       "nombre": "SET ROCHAS GIRL LIFE EDP 75 ML + MINIATURA 7,5 ML + BODY LOCION 100 ML REGULAR",
       "precio": "19.99 €",
@@ -21720,6 +21714,12 @@
       "nombre": "MILLER HARRIS MYRICA MUSE EDP 100 ML @ (Sin caja)",
       "precio": "89.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35981",
+      "en_stock": true
+    },
+    "35980": {
+      "nombre": "MILLER HARRIS MINEIR EDP 100 ML @ (Sin caja)",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35980",
       "en_stock": true
     },
     "35979": {
@@ -33960,6 +33960,7 @@
     "MICHAEL KORS SPORTY CITRUS EDP VAPO 50 ML @ (SIN CAJA)",
     "MIDNIGHT FANTASY EDP 100ML REGULAR",
     "MILANO SPORT EDT 100 ML @",
+    "MILLER HARRIS MINEIR EDP 100 ML @ (SIN CAJA)",
     "MILLION RED HER PARFUM 90ML REGULAR",
     "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
     "MINI PINK WOMAN EDP 25ML @ (SIN CAJA Y SIN TAPÓN) ~",
