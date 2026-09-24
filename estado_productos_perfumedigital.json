@@ -5388,6 +5388,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32498",
       "en_stock": true
     },
+    "32472": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 80% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32472",
+      "en_stock": true
+    },
     "32373": {
       "nombre": "BLOOD CONCEPT A BLACK (NEGRA) EDP 60 ML VAPO REGULAR",
       "precio": "29.99 €",
@@ -32086,6 +32092,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42436": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 8 ATARDECER MAGNETICO EDP 150 ML @ (Sin caja, 60% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42436",
+      "en_stock": true
+    },
+    "42435": {
+      "nombre": "COQUETTE COUCOU MA BELLE EDT 100 ML@ (Sin caja, 80% del contenido)",
+      "precio": "2.59 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42435",
+      "en_stock": true
+    },
+    "42434": {
+      "nombre": "COQUETTE SECRET D AMOUR EDT 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42434",
+      "en_stock": true
+    },
     "42433": {
       "nombre": "PACHA PEOPLE LIKE US EDT 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "5.99 €",
@@ -32120,12 +32144,6 @@
       "nombre": "CHANSON D´EAU WOMAN EDT 100 ML@ (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42428",
-      "en_stock": true
-    },
-    "42427": {
-      "nombre": "SENSAI THE SILK EDP 50 ML @ (Sin caja)",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42427",
       "en_stock": true
     },
     "42426": {
@@ -32348,6 +32366,12 @@
       "nombre": "BENETTON SISTERLAND BLUE NEROLI EDT 80 ML @ (Sin caja, 50% del contenido)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42382",
+      "en_stock": true
+    },
+    "42381": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 8 ATARDECER MAGNETICO EDP 150 ML @ (Sin caja, 70% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42381",
       "en_stock": true
     },
     "42380": {
@@ -33637,6 +33661,8 @@
     "COOL WATER WOMAN SUMMER  PACIFIC EDT 100 ML @",
     "COOL WATER WOMAN SUMMER PURE PACIFIC 2012 EDT 100 ML REGULAR",
     "COOL WATER WOMAN SUMMER SEAS EDT 100ML @",
+    "COQUETTE COUCOU MA BELLE EDT 100 ML@ (SIN CAJA, 80% DEL CONTENIDO)",
+    "COQUETTE SECRET D AMOUR EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "CREED GREEN IRISH TWEED EDP 100ML @",
     "CRISTIANO RONALDO CR7 GAME ON EDT 100 ML @",
     "CRISTIANO RONALDO CR7 PLAY IT COOL EDT 100 ML @",
