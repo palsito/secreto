@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42437": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA SELVA EXOTICA 150 ML @ (Sin caja, 90% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42437",
+      "en_stock": true
+    },
     "42374": {
       "nombre": "VALENTINO VENDETTA UOMO (HOMBRE) EDP 90 ML @",
       "precio": "74.99 €",
@@ -31996,6 +32002,24 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42441": {
+      "nombre": "GUILLAB AL NAIR EDP UNISEX 100 ML @ (Sin caja)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42441",
+      "en_stock": true
+    },
+    "42440": {
+      "nombre": "GUILLAB HADAR EDP UNISEX 100 ML @ (Sin caja)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42440",
+      "en_stock": true
+    },
+    "42439": {
+      "nombre": "GUILLAB CRATER EDP UNISEX 100 ML @ (Sin caja)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42439",
+      "en_stock": true
+    },
     "42421": {
       "nombre": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (Sin caja, 75% del contenido)",
       "precio": "22.99 €",
@@ -32090,6 +32114,18 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42442": {
+      "nombre": "OPIUM EDT 90ML @ (Sin caja, 95% del contenido)",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42442",
+      "en_stock": true
+    },
+    "42438": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 7 FRESCOR MEDITERRANEO 150 ML @ (Sin caja, 70% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42438",
       "en_stock": true
     },
     "42436": {
@@ -32324,12 +32360,6 @@
       "nombre": "PALOMA PICASSO EDT 100ML @ (Sin caja, 80% del contenido)",
       "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42389",
-      "en_stock": true
-    },
-    "42388": {
-      "nombre": "HANNIBAL LAGUNA COSMOLOGY EDP 100 ML @ (Sin caja, 90% del contenido)",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42388",
       "en_stock": true
     },
     "42387": {
@@ -34006,9 +34036,12 @@
     "GUESS MAN EDT 75 ML REGULAR",
     "GUESS SEDUCTIVE HOMME EDT 50 ML @",
     "GUESS SEDUCTIVE RED WOMAN EDT 75 ML @",
+    "GUILLAB AL NAIR EDP UNISEX 100 ML @ (SIN CAJA)",
+    "GUILLAB CRATER EDP UNISEX 100 ML @ (SIN CAJA)",
     "GUILLAB EDP UNISEX 70 ML @ (50% DEL CONTENIDO)",
     "GUILLAB EDP UNISEX 70 ML REGULAR (CAJA DAÑADA)",
     "GUILLAB EDP UNISEX 70 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "GUILLAB HADAR EDP UNISEX 100 ML @ (SIN CAJA)",
     "GUILLAB MUSCA FOR WOMAN EDP 100 ML REGULAR + MINI BOLSO CHLOE + GUILLAB GOLD ESSENCIA CREAM DIA 50 ML REGULAR",
     "GUILLAB TUCANA FOR WOMAN EDP 100 ML REGULAR + LOREAL PARIS REVITALIFT FILLER ACIDO HIALUFRONICO 1.5% PURE SERUM ANTIARRUGAS 15 ML @",
     "HALLOWEEN BLUE DROP EDT 100 ML @",
@@ -34418,6 +34451,7 @@
     "OMBRE ROSE WOMAN EDC 100ML REGULAR",
     "ONLY THE BRAVE TATTOO EDT 75 ML @",
     "OPIUM EDT 90ML @",
+    "OPIUM EDT 90ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "OPIUM POUR HOMME EDT 100ML @",
     "OPIUM POUR HOMME EDT 100ML REGULAR",
     "ORGANZA EDP 50ML @",
@@ -34951,6 +34985,7 @@
     "VICTORIO & LUCCHINO AGUA MASCULINA N 8 ATARDECER MAGNETICO EDP 150 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @",
     "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "VICTORIO & LUCCHINO AGUA MASCULINA SELVA EXOTICA 150 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "VICTORIO & LUCCHINO AGUA N 1 AZAHAR RADIANTE 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 15 AGUAS DE PERFUME FLOR ORIENTAL EDP 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 16  AGUAS DE PERFUME FLOR EXOTICA EDP 150 ML @",
