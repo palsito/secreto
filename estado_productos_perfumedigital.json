@@ -10336,7 +10336,7 @@
     },
     "36366": {
       "nombre": "GUESS ICONIC WOMAN EDP 100 ML @",
-      "precio": "27.99 €",
+      "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36366",
       "en_stock": true
     },
@@ -21722,12 +21722,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35981",
       "en_stock": true
     },
-    "35980": {
-      "nombre": "MILLER HARRIS MINEIR EDP 100 ML @ (Sin caja)",
-      "precio": "119.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35980",
-      "en_stock": true
-    },
     "35979": {
       "nombre": "MILLER HARRIS LUMIERE DOREE EDP 100 ML @ (Sin caja)",
       "precio": "106.99 €",
@@ -32008,6 +32002,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41815",
       "en_stock": true
     },
+    "40895": {
+      "nombre": "GUESS ICONIC WOMAN EDP 100 ML @ (VAPO ROTO)",
+      "precio": "18.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40895",
+      "en_stock": true
+    },
     "39070": {
       "nombre": "ISSEY MIYAKE FUSION EDT 100 ML @ (Sin caja, 70% del contenido)",
       "precio": "24.99 €",
@@ -33675,6 +33675,7 @@
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
     "GUESS AMORE CAPRI WOMAN EDT 100 ML @",
     "GUESS BY MARCIANO MAN EDT 30 ML REGULAR",
+    "GUESS ICONIC WOMAN EDP 100 ML @ (VAPO ROTO)",
     "GUESS MAN EDT 75 ML REGULAR",
     "GUESS SEDUCTIVE HOMME EDT 50 ML @",
     "GUESS SEDUCTIVE RED WOMAN EDT 75 ML @",
