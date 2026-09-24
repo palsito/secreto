@@ -4580,7 +4580,7 @@
     },
     "34903": {
       "nombre": "CH MEN PASSION EDP 100 ML @",
-      "precio": "39.99 €",
+      "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34903",
       "en_stock": true
     },
@@ -10868,6 +10868,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42399": {
+      "nombre": "VERSACE DYLAN BLUE WOMAN EDP 100ML @ (Sin caja, 90% del contenido)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42399",
+      "en_stock": true
+    },
     "42375": {
       "nombre": "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML @",
       "precio": "82.99 €",
@@ -14778,12 +14784,6 @@
       "nombre": "CHERIGAN ADHARA OUD EXTRAIT PARFUM REGULAR",
       "precio": "87.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39691",
-      "en_stock": true
-    },
-    "39689": {
-      "nombre": "CARTIER PANTHERE EDT 100 ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39689",
       "en_stock": true
     },
     "39686": {
@@ -31984,6 +31984,18 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42395": {
+      "nombre": "JPG CLASSIQUE LA BELLE FLOWER EDITION EDP 100ML @ (Sin caja, 90% del contenido)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42395",
+      "en_stock": true
+    },
+    "42393": {
+      "nombre": "ISSEY MIYAKE FUSION EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42393",
+      "en_stock": true
+    },
     "41816": {
       "nombre": "AGUA DE COLONIA CONCENTRADA ÁLVAREZ GÓMEZ 150 ML @ (sin caja, 50% del contenido)",
       "precio": "2.49 €",
@@ -31994,6 +32006,12 @@
       "nombre": "AGUA DE COLONIA CONCENTRADA ÁLVAREZ GÓMEZ 150 ML @ (sin caja, 80% del contenido)",
       "precio": "3.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41815",
+      "en_stock": true
+    },
+    "39070": {
+      "nombre": "ISSEY MIYAKE FUSION EDT 100 ML @ (Sin caja, 70% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39070",
       "en_stock": true
     },
     "36712": {
@@ -32024,6 +32042,48 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42398": {
+      "nombre": "PHILIPP PLEIN NO LIMITS EDP 90 ML @ (Sin caja, 95% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42398",
+      "en_stock": true
+    },
+    "42397": {
+      "nombre": "SPRINGFIELD TRUE ATTITUDE EDT 100ML @ (Sin caja, 80% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42397",
+      "en_stock": true
+    },
+    "42396": {
+      "nombre": "CH MEN PASSION EDP 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42396",
+      "en_stock": true
+    },
+    "42394": {
+      "nombre": "ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ (Sin caja, 50% del contenido)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42394",
+      "en_stock": true
+    },
+    "42392": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML @ (Sin caja, 95% del contenido)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42392",
+      "en_stock": true
+    },
+    "42391": {
+      "nombre": "SPRINGFIELD NIGHT ATTITUDE EDT 100 ML @ (Sin caja90% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42391",
+      "en_stock": true
+    },
+    "42390": {
+      "nombre": "CROSSMEN SPORT EDT 200 ML @ (Sin caja, 90% del contenido)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
       "en_stock": true
     },
     "42389": {
@@ -32584,6 +32644,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25772",
       "en_stock": true
     },
+    "25751": {
+      "nombre": "CAROLINA HERRERA GOOD GIRL EDP 80 ML @ (SIN CAJA 90% DEL CONTENIDO)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25751",
+      "en_stock": true
+    },
     "25363": {
       "nombre": "PLAYBOY MIAMI MEN EDT 100ML @ (Sin caja)",
       "precio": "6.99 €",
@@ -32827,6 +32893,7 @@
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
     "ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR WOMAN EDT 60 ML REGULAR",
     "ADOLFO DOMINGUEZ BAMBÚ MAN EDP 120ML @",
+    "ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ADOLFO DOMINGUEZ NEROLI FOR MEN EDT 120 ML @",
     "AGUA BRAVA EDC 100ML @",
     "AGUA DE COLONIA CONCENTRADA ÁLVAREZ GÓMEZ 150 ML @ (SIN CAJA)",
@@ -33185,8 +33252,10 @@
     "CAROLINA HERRERA 212 VIP EDP 80ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH ELIXIR EDP 80 ML @",
     "CAROLINA HERRERA GOOD GIRL BLUSH POLKA PARADISE EDP 80 ML REGULAR",
+    "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML REGULAR",
     "CAROLINA HERRERA GOOD GIRL EDP 80 ML @",
+    "CAROLINA HERRERA GOOD GIRL EDP 80 ML @ (SIN CAJA 90% DEL CONTENIDO)",
     "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
     "CAROLINA HERRERA GOOD GIRL JASMINE ABSOLUTE EDP 80 ML @",
     "CAROLINA HERRERA LA BOMBA INTENSE EDP 30 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
@@ -33202,6 +33271,7 @@
     "CASMIR EDP 100ML REGULAR",
     "CE SOIR OU JAMAIS EDP 100ML REGULAR",
     "CERRUTI 1881 RIVIERA POUR HOMME EDT EDT 100 ML @",
+    "CH MEN PASSION EDP 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "CH MEN SPORT EDT 100 ML REGULAR",
     "CH WOMAN EDT 100ML @",
     "CH WOMAN EDT 100ML REGULAR",
@@ -33280,6 +33350,7 @@
     "CREED GREEN IRISH TWEED EDP 100ML @",
     "CRISTIANO RONALDO CR7 GAME ON EDT 100 ML @",
     "CRISTIANO RONALDO CR7 PLAY IT COOL EDT 100 ML @",
+    "CROSSMEN SPORT EDT 200 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "CURIOUS EDP 100ML @",
     "CURVE CHILL MEN EDC 125ML REGULAR",
     "CURVE CONNECT MEN EDC 125ML REGULAR",
@@ -33657,6 +33728,8 @@
     "ISSE MIYAKE L EAU D`ISSEY PURE PETALE NECTAR EDT 90 ML @",
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
+    "ISSEY MIYAKE FUSION EDT 100 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
+    "ISSEY MIYAKE FUSION EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "ISSEY MIYAKE HOMME NUIT D`ISSEY EDT 125 ML @",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME EDP (EAU DE PARFUM) 125 ML @",
@@ -33711,6 +33784,7 @@
     "JOOP MISS WILD HER EDP 75 ML REGULAR",
     "JOUR D`HERMES EDP 85 ML REGULAR",
     "JPG CLASSIQUE LA BELLE EDP 100ML REGULAR",
+    "JPG CLASSIQUE LA BELLE FLOWER EDITION EDP 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
     "JPG LA FAVORITE EDP 50 ML REGULAR",
     "JPG LE MALE EDT 200 ML REGULAR",
@@ -34183,6 +34257,7 @@
     "PEPE JEANS LONDON CALLING HER EDP 80 ML @ (SINC AJA, 95% DEL CONTENIDO)",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
+    "PHILIPP PLEIN NO LIMITS EDP 90 ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "PHILIPP PLEIN NO LIMITS EDP 90 ML @ + BARAJA CARTAS POKER DE REGALO",
     "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
     "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
@@ -34381,7 +34456,9 @@
     "SPAGNOLO MEDITERRANEO EDT 75 ML @ (SIN CAJA)",
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
     "SPLENDOR EDP 125ML REGULAR",
+    "SPRINGFIELD NIGHT ATTITUDE EDT 100 ML @ (SIN CAJA90% DEL CONTENIDO)",
     "SPRINGFIELD SPF WOMAN EDT 100 ML @",
+    "SPRINGFIELD TRUE ATTITUDE EDT 100ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "SUNFLOWERS EDT 100ML REGULAR",
     "SUPREME GLOBAL BIOTECH SERUM 30 ML @ (SIN CAJA, BOTE LIGERAMENTE DAÑADO)",
     "SWISS ARABIAN OUD AHMAR UNISEX EDP 75 ML @",
@@ -34497,6 +34574,7 @@
     "VERSACE BRIGHT CRYSTAL EDT 90ML REGULAR",
     "VERSACE BRIGHT CRYSTAL POUR FEMME PARFUM 90 ML @",
     "VERSACE CRYSTAL NOIR PARFUM 90ML @",
+    "VERSACE DYLAN BLUE WOMAN EDP 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "VERSACE DYLAN PURPLE WOMAN EDP 100ML @",
     "VERSACE EROS FOR MEN EDP 100 ML @",
     "VERSACE EROS POUR FEMME  EDP 100 ML REGULAR",
