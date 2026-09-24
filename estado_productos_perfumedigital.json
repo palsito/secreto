@@ -6402,6 +6402,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29270",
       "en_stock": true
     },
+    "29263": {
+      "nombre": "ADIDAS PURE GAME EDT 100 ML @ (Sin caja)",
+      "precio": "3.59 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29263",
+      "en_stock": true
+    },
     "29260": {
       "nombre": "JAGUAR CLASSIC BLACK EDT 100 ML @",
       "precio": "8.99 €",
@@ -24398,6 +24404,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33351",
       "en_stock": true
     },
+    "33337": {
+      "nombre": "AIRE DE SEVILLA  WHITE MUSK EDT 150 ML @ (Sin caja)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33337",
+      "en_stock": true
+    },
     "33332": {
       "nombre": "PAULA ECHEVARRIA INTENSE EDT 100 ML @",
       "precio": "4.99 €",
@@ -31978,6 +31990,30 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42421": {
+      "nombre": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (Sin caja, 75% del contenido)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42421",
+      "en_stock": true
+    },
+    "42420": {
+      "nombre": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (Sin caja, 80% del contenido)",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42420",
+      "en_stock": true
+    },
+    "42419": {
+      "nombre": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (Sin caja, 90% del contenido)",
+      "precio": "33.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42419",
+      "en_stock": true
+    },
+    "42418": {
+      "nombre": "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (Sin caja, 95% del contenido)",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42418",
+      "en_stock": true
+    },
     "42405": {
       "nombre": "DIESEL D FOR SUCCESSION LIVING 100 ML @ (Sin caja, 80% del contenido)",
       "precio": "19.99 €",
@@ -32048,6 +32084,30 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42425": {
+      "nombre": "SENSAI THE SILK EDP 50 ML @ (Sin caja, 80% del contenido)",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42425",
+      "en_stock": true
+    },
+    "42424": {
+      "nombre": "SENSAI THE SILK EDP 50 ML @ (Sin caja, 10% del contenido)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42424",
+      "en_stock": true
+    },
+    "42423": {
+      "nombre": "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (sin caja)",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42423",
+      "en_stock": true
+    },
+    "42422": {
+      "nombre": "ANGEL ELIXIR EDP 100 ML @ (Sinc aja, 50% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42422",
       "en_stock": true
     },
     "42417": {
@@ -32614,6 +32674,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33348",
       "en_stock": true
     },
+    "33284": {
+      "nombre": "POLICE TO BE GOOD VIVES FOR MAN EDT 125 ML @ (Sin caja)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33284",
+      "en_stock": true
+    },
     "33151": {
       "nombre": "REBEL QUEEN WOMAN EDT 100 ML @ (Sin caja)",
       "precio": "3.99 €",
@@ -33033,6 +33099,7 @@
     "ADIDAS DYNAMIC PULSE EDT 100ML REGULAR",
     "ADIDAS GET READY WOMAN EDT 50 ML @",
     "ADIDAS ICE DIVE EDT 100 ML @",
+    "ADIDAS PURE GAME EDT 100 ML @ (SIN CAJA)",
     "ADIDAS VICTORY LEAGUE EDT 100ML @",
     "ADOLFO DOMINGUEZ AGUA DE BAMBU WOMAN EDT 100 ML @",
     "ADOLFO DOMINGUEZ AGUA FRESCA DE AZAHAR WOMAN EDT 60 ML REGULAR",
@@ -33058,6 +33125,7 @@
     "AIRE ANTHESIS DE LOEWE EDP 100 ML @ (SIN CAJA, 85% DEL CONTENIDO)",
     "AIRE DE LOEWE EDT 100 ML @ (FORMATO NUEVO) (SIN CAJA, 3% DEL CONTENIDO)",
     "AIRE DE SEVILLA  LETRA A  EDT 150 ML @ (SIN CAJA)",
+    "AIRE DE SEVILLA  WHITE MUSK EDT 150 ML @ (SIN CAJA)",
     "AIRE DE SEVILLA AGUA FRESCA DE AZAHAR 150 ML @",
     "AIRE DE SEVILLA AGUA REAL MADRESELVA EDT 100 ML (80% DEL CONTENIDO) @",
     "AIRE DE SEVILLA ROSAS BLANCAS EDT 150 ML @ (SIN CAJA)",
@@ -33087,6 +33155,7 @@
     "ANA ROSA ESTILO EDT 100 ML @",
     "ANGE OU DEMON WOMAN EDP 100ML @",
     "ANGEL EDP 100ML REGULAR (RECARGABLE)",
+    "ANGEL ELIXIR EDP 100 ML @ (SINC AJA, 50% DEL CONTENIDO)",
     "ANGEL NOVA EDP 100 ML @",
     "ANGEL NOVA FRUITEE EDP 100 ML @",
     "ANGEL SCHELESSER ESSENTIAL MEN EDT 100ML @",
@@ -33587,6 +33656,10 @@
     "DKNY RED DELICIOUS  MEN EDT 100ML @",
     "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
     "DOLCE  VIOLET DE DOLCE& GABBANA EDT 75 ML @",
+    "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 75% DEL CONTENIDO)",
+    "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 80% DEL CONTENIDO)",
+    "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "DOLCE & GABBANA POUR HOMME EDT 125ML @",
     "DOLCE MAGNOLIA EDP 75 ML @",
     "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
@@ -34448,6 +34521,7 @@
     "POLICE PASION WOMAN EDT 100 ML REGULAR",
     "POLICE RICH GUY (HOMBRE) EDP 100 ML REGULAR",
     "POLICE TO BE FREE DARE WOMAN EDT 125 ML @",
+    "POLICE TO BE GOOD VIVES FOR MAN EDT 125 ML @ (SIN CAJA)",
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125 ML REGULAR",
     "POLO BLACK MAN EDT 125ML @",
@@ -34570,6 +34644,8 @@
     "SCALPERS THE SPEED CLUB EDP 125 ML @",
     "SEAN JOHN I AM KING EDT 100ML @",
     "SEAN JOHN UNFORGIVABLE WOMAN EDP 75 ML @",
+    "SENSAI THE SILK EDP 50 ML @ (SIN CAJA, 10% DEL CONTENIDO)",
+    "SENSAI THE SILK EDP 50 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "SERGIO TACCHINI ACTIVE WATER MAN EDT 100ML @",
     "SERPENTINE EDT 100ML @ (BOTELLA LIGERAMENTE DAÑADA)",
     "SERPENTINE EDT100ML @",
@@ -34588,6 +34664,7 @@
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
+    "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
