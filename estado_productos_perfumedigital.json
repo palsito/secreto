@@ -11978,12 +11978,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41858",
       "en_stock": true
     },
-    "41857": {
-      "nombre": "BENETTON 2X1 SISTERLAND PINK RASPBERRY EDT 80 ML @ + SISTERLAND BLUSH CHERRY EDP 80 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41857",
-      "en_stock": true
-    },
     "41856": {
       "nombre": "MOSCHINO PINK BOUQUETE WOMAN EDT 100 ML @",
       "precio": "16.99 €",
@@ -15764,6 +15758,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39308",
       "en_stock": true
     },
+    "39265": {
+      "nombre": "SET THE FRUIT COMPANY A VIVIR QUE SON SANDIAS 40 ML + CREMA MANOS + LABIAL REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39265",
+      "en_stock": true
+    },
     "39260": {
       "nombre": "SET VICKY MARTIN BERROCAL ALBA WHITE JASMINE EDT 100 ML + 10 ML REGULAR",
       "precio": "14.99 €",
@@ -19438,7 +19438,7 @@
     },
     "37460": {
       "nombre": "SET JENNIFER LOPEZ STILL EDP 50ML + BODY LOCION REGULAR",
-      "precio": "36.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37460",
       "en_stock": true
     },
@@ -20008,7 +20008,7 @@
     },
     "37109": {
       "nombre": "SISLEY L`EAU REVEE D`ISA EDT 100 ML @",
-      "precio": "59.99 €",
+      "precio": "52.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37109",
       "en_stock": true
     },
@@ -20770,7 +20770,7 @@
     },
     "36621": {
       "nombre": "ANTONIO BANDERAS QUEEN OF SEDUCTION EDT 50 ML + BODY LOCION 50 ML REGULAR",
-      "precio": "12.99 €",
+      "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36621",
       "en_stock": true
     },
@@ -32032,6 +32032,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42389": {
+      "nombre": "PALOMA PICASSO EDT 100ML @ (Sin caja, 80% del contenido)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42389",
+      "en_stock": true
+    },
     "42388": {
       "nombre": "HANNIBAL LAGUNA COSMOLOGY EDP 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "2.99 €",
@@ -32744,6 +32750,12 @@
       "nombre": "PRIORITE PINK EDT 100 ML REGULAR (caja ligeramente dañada)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19594",
+      "en_stock": true
+    },
+    "19525": {
+      "nombre": "PRADA CANDY WOMAN EDP 80 ML REGULAR (sin caja, 80% del contenido)",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19525",
       "en_stock": true
     },
     "17468": {
@@ -34134,6 +34146,7 @@
     "PALOMA PICASSO EDP 100ML @",
     "PALOMA PICASSO EDP 100ML REGULAR",
     "PALOMA PICASSO EDP 4,8 + MINI BOLSA REGULAR",
+    "PALOMA PICASSO EDT 100ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "PARIS CORNER AZM EDP 100ML UNISEX REGULAR",
     "PARIS HILTON JUST ME MEN EDT 100ML REGULAR",
     "PASHA DE CARTIER EDITION NOIRE EDT 100ML REGULAR (CAJA DAÑADA)",
@@ -34220,6 +34233,7 @@
     "PRADA AMBER EDP 80ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML @",
     "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
+    "PRADA CANDY WOMAN EDP 80 ML REGULAR (SIN CAJA, 80% DEL CONTENIDO)",
     "PRADA INFUSION DE RHUBARBE EDP 100 ML @",
     "PRADA INFUSIÓN D´IRIS MANDARINE D ITALIE EDP 100ML @",
     "PRADA LUNA ROSSA EDT 100 ML @",
@@ -34349,6 +34363,7 @@
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
     "SET SOLO LOEWE ELLA EDP 100 ML + 20 ML REGULAR",
+    "SET THE FRUIT COMPANY A VIVIR QUE SON SANDIAS 40 ML + CREMA MANOS + LABIAL REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
     "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
