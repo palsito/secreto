@@ -462,12 +462,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42371",
       "en_stock": true
     },
-    "42367": {
-      "nombre": "1 MILLION BLACK PACO RABANNE EDP 100 ML @",
-      "precio": "62.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42367",
-      "en_stock": true
-    },
     "42360": {
       "nombre": "ÁLVAREZ GÓMEZ BRONZE HOMME EDP 150 ML @ (Sin caja)",
       "precio": "7.99 €",
@@ -6298,6 +6292,12 @@
       "nombre": "ARMANI CODE MAN EDT 75ML (FORMATO ANTIGUO ALARGADO) @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30219",
+      "en_stock": true
+    },
+    "30210": {
+      "nombre": "NARCISO RODRIGUEZ FOR HIM BLEU NOIR EDP 100ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30210",
       "en_stock": true
     },
     "30192": {
@@ -32524,12 +32524,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41410",
       "en_stock": true
     },
-    "41381": {
-      "nombre": "ALIEN GODDESS INTENSE EDP INTENSE 60 ML @ (sin caja, 80% del contenido)",
-      "precio": "26.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41381",
-      "en_stock": true
-    },
     "40854": {
       "nombre": "PANOUGE ABSINTHE GAIAC EDP 100 ML @ (Sin caja)",
       "precio": "49.99 €",
@@ -34365,6 +34359,7 @@
     "NARCISO RODRIGUEZ FOR HER EDP 100ML @",
     "NARCISO RODRIGUEZ FOR HER FLEUR MUSC EDP 100ML @ (80% DEL CONTENIDO, VAPO LIGERAMENTE DAÑADO PERO VAPORIZA BIEN)",
     "NARCISO RODRIGUEZ FOR HER PURE MUSC BLANC EDP INTENSE 100 ML @",
+    "NARCISO RODRIGUEZ FOR HIM BLEU NOIR EDP 100ML @",
     "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @",
     "NARCISO RODRIGUEZ MUSC NOIR FOR HER  EDP 100ML @ (70% DEL CONTENIDO)",
     "NARCISO RODRIGUEZ WOMAN EDT 100 ML @",
