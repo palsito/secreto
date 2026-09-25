@@ -10034,6 +10034,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42447": {
+      "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @ + RIMMEL SUPER GEL 2 PASOS (COLOR+ACABADO) DE REGALO",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42447",
+      "en_stock": true
+    },
     "42293": {
       "nombre": "CACHAREL YES I AM DELICIOUS EDP 50 ML + MINIATURA 10 ML REGULAR",
       "precio": "19.99 €",
@@ -10874,6 +10880,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42453": {
+      "nombre": "JPG LA FAVORITE EDP 100 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42453",
+      "en_stock": true
+    },
+    "42450": {
+      "nombre": "PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML REGULAR",
+      "precio": "96.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42450",
+      "en_stock": true
+    },
     "42375": {
       "nombre": "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML @",
       "precio": "82.99 €",
@@ -10884,12 +10902,6 @@
       "nombre": "VALENTINO VENDETTA DONNA EDP 90 ML @",
       "precio": "84.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42373",
-      "en_stock": true
-    },
-    "42370": {
-      "nombre": "YSL LIBRE SANTAL COUTURE 50 ML REGULAR",
-      "precio": "82.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42370",
       "en_stock": true
     },
     "42369": {
@@ -24244,7 +24256,7 @@
     },
     "33742": {
       "nombre": "SOLO LOEWE ELLA EDT 100 ML REGULAR",
-      "precio": "83.99 €",
+      "precio": "84.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33742",
       "en_stock": true
     },
@@ -32152,12 +32164,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42433",
       "en_stock": true
     },
-    "42432": {
-      "nombre": "PACHA 24/7 FEELING WOMAN EDT 80 ML (Sin caja, 75% del contenido)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42432",
-      "en_stock": true
-    },
     "42431": {
       "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "3.99 €",
@@ -32278,12 +32284,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42407",
       "en_stock": true
     },
-    "42406": {
-      "nombre": "LOLITALAND EDP 80 ML @ (Sin caja, 90% del contenido)",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42406",
-      "en_stock": true
-    },
     "42404": {
       "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT GINGER COLOGNE EDT 100 ML @ (Sin caja, 80% del contenido)",
       "precio": "9.99 €",
@@ -32294,12 +32294,6 @@
       "nombre": "JIMMY CHOO WANT CHOO FOREVER EDP 125ML @ (Sinc aja, 10% del contenido)",
       "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42403",
-      "en_stock": true
-    },
-    "42402": {
-      "nombre": "BENETTON COLORS MAN BLUE EDT 100 ML @ (Sin caja, 70% del contenido)",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42402",
       "en_stock": true
     },
     "42401": {
@@ -32402,12 +32396,6 @@
       "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA N 8 ATARDECER MAGNETICO EDP 150 ML @ (Sin caja, 70% del contenido)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42381",
-      "en_stock": true
-    },
-    "42380": {
-      "nombre": "PEPE JEANS LONDON CALLING HER EDP 80 ML @ (Sinc aja, 95% del contenido)",
-      "precio": "12.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42380",
       "en_stock": true
     },
     "42378": {
@@ -32954,12 +32942,6 @@
       "nombre": "CK ETERNITY NIGHT WOMAN EDP 100ML (Sin caja)",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25772",
-      "en_stock": true
-    },
-    "25751": {
-      "nombre": "CAROLINA HERRERA GOOD GIRL EDP 80 ML @ (SIN CAJA 90% DEL CONTENIDO)",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25751",
       "en_stock": true
     },
     "25363": {
@@ -34125,6 +34107,7 @@
     "JPG CLASSIQUE LA BELLE EDP 100ML REGULAR",
     "JPG CLASSIQUE LA BELLE FLOWER EDITION EDP 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
+    "JPG LA FAVORITE EDP 100 ML @",
     "JPG LA FAVORITE EDP 50 ML REGULAR",
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
@@ -34653,6 +34636,7 @@
     "PRADA L`HOMME EDT 100 ML @",
     "PRADA L`HOMME L`EAU EDT 100 ML @",
     "PRADA PARADOXE RADICAL ESSENCE INTENSE PARFUM 90 ML REGULAR",
+    "PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML REGULAR",
     "PRADY BLUEBERRYS INFANT EDT 85 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PRADY NENITOS EDT 85 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
@@ -34986,6 +34970,7 @@
     "VIKTOR & ROLF BONBON BERRY JELLY EDP 50ML @",
     "VIKTOR & ROLF BONBON CARAMEL CRUNCH EDP 50ML @",
     "VIKTOR & ROLF BONBON COLA FIZZ EDP 50ML @",
+    "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @ + RIMMEL SUPER GEL 2 PASOS (COLOR+ACABADO) DE REGALO",
     "VIKTOR & ROLPH BONBON EDP 50 ML @",
     "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
     "W ACQUA VERINO WOMAN  EDT 50ML @",
