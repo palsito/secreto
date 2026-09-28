@@ -10886,6 +10886,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42480": {
+      "nombre": "DON ALGODON GIRL POWER EDT 30 ML @ (Sin caja)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42480",
+      "en_stock": true
+    },
+    "42479": {
+      "nombre": "DON ALGODON VIE ET ROSE EDT 30 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42479",
+      "en_stock": true
+    },
     "42476": {
       "nombre": "LATTAFA  YARA EDP 100 ML REGULAR (caja dañada)",
       "precio": "19.99 €",
@@ -17596,7 +17608,7 @@
     },
     "38483": {
       "nombre": "MONT BLANC SIGNATURE ABSOLUTE EDP 90 ML @",
-      "precio": "49.99 €",
+      "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38483",
       "en_stock": true
     },
@@ -17970,6 +17982,12 @@
       "nombre": "JACADI LE BEBE EDT 100 ML @ (Sin caja)",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38301",
+      "en_stock": true
+    },
+    "38245": {
+      "nombre": "DON ALGODON RED PARTY 30 ML @ (Sin caja)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38245",
       "en_stock": true
     },
     "38244": {
@@ -32056,12 +32074,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39070",
       "en_stock": true
     },
-    "37566": {
-      "nombre": "MOSCHINO TOY BOY EDP 100 ML @ (Sin caja)",
-      "precio": "27.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37566",
-      "en_stock": true
-    },
     "36712": {
       "nombre": "TRUSSARDI NEW FEMEMINE EDP 90 ML REGULAR (SIn caja, 50% del contenido)",
       "precio": "16.99 €",
@@ -33684,11 +33696,14 @@
     "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "DOLCE & GABBANA POUR HOMME EDT 125ML @",
     "DOLCE MAGNOLIA EDP 75 ML @",
+    "DON ALGODON GIRL POWER EDT 30 ML @ (SIN CAJA)",
     "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
     "DON ALGODON HOMBRE EDT 100 ML REGULAR (SIN CAJA)",
     "DON ALGODON HOMBRE EDT 30 ML @",
     "DON ALGODON LA VIE EN ROSE MUJER  EDT 30 ML @",
+    "DON ALGODON RED PARTY 30 ML @ (SIN CAJA)",
     "DON ALGODON STAR GIRL 30 ML @ (SIN CAJA)",
+    "DON ALGODON VIE ET ROSE EDT 30 ML @",
     "DRAKKAR NOIR EDT 100ML REGULAR",
     "DSQUARED2 ICON POUR FEMME EDP 100 ML REGULAR",
     "DSQUARED2 ICON POUR HOMME EDP 100 ML REGULAR",
