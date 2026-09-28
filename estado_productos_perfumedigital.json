@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42477": {
+      "nombre": "ADIDAS CORE ROSE AND PEACH EDT 100 ML REGULAR (caja dañada)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42477",
+      "en_stock": true
+    },
     "42472": {
       "nombre": "BOSS BOTTLED MAN EAU DE PARMUM EDP 100 ML REGUKAR (CAJA DAÑADA)",
       "precio": "46.99 €",
@@ -1336,12 +1342,6 @@
       "nombre": "BURBERRY HERO EDT 100 ML REGULAR",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40828",
-      "en_stock": true
-    },
-    "40825": {
-      "nombre": "HUGO BOSS THE SCENT HIM MAGNETIC EDP 100 ML REGULAR",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40825",
       "en_stock": true
     },
     "40824": {
@@ -6134,7 +6134,7 @@
     },
     "30625": {
       "nombre": "DUNHILL PURSUIR EDT 75ML REGULAR",
-      "precio": "29.99 €",
+      "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30625",
       "en_stock": true
     },
@@ -10878,6 +10878,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42476": {
+      "nombre": "LATTAFA  YARA EDP 100 ML REGULAR (caja dañada)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42476",
       "en_stock": true
     },
     "42475": {
@@ -33096,6 +33102,7 @@
     "ACQUA DI PARMA SIGNATURE OUD EDP 180 ML REGULAR",
     "ACQUA DI PARMA ZAFFERANO EDP 100 ML REGULAR",
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
+    "ADIDAS CORE ROSE AND PEACH EDT 100 ML REGULAR (CAJA DAÑADA)",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
     "ADIDAS DYNAMIC PULSE EDT 100ML @ (SIN CAJA)",
     "ADIDAS DYNAMIC PULSE EDT 100ML REGULAR",
@@ -34119,6 +34126,7 @@
     "LATTAFA  AMEERAT AL ARAB PRIVE ROSE EDP 100 ML REGULAR",
     "LATTAFA  OPULENT DUBAI EDP 100 ML UNISEX REGULAR",
     "LATTAFA  YARA EDP 100 ML REGULAR",
+    "LATTAFA  YARA EDP 100 ML REGULAR (CAJA DAÑADA)",
     "LAURA BIAGIOTTI ROMA FIORI BIANCHI EDT 100 ML @",
     "LAURA BIAGIOTTI ROMA UOMO GREEN SWING EDT 125 ML @",
     "LAURA BIAGIOTTI ROMA WOMAN EDT 100ML @",
