@@ -1440,12 +1440,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40577",
       "en_stock": true
     },
-    "40573": {
-      "nombre": "ETRO WHITE MAGNOLIA EDP 100 ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40573",
-      "en_stock": true
-    },
     "40566": {
       "nombre": "ACQUA DI GIO PROFONDO EDT (TOILETTE) 100 ML @",
       "precio": "39.99 €",
@@ -2518,6 +2512,12 @@
       "nombre": "ARMANI STRONGER WITH YOU ABSOLUTELY EDP 50 ML REGULAR",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38787",
+      "en_stock": true
+    },
+    "38774": {
+      "nombre": "MONTALE BLACK MUSK (UNISEX) EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38774",
       "en_stock": true
     },
     "38772": {
@@ -34359,6 +34359,7 @@
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
     "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
+    "MONTALE BLACK MUSK (UNISEX) EDP 100 ML @",
     "MONTALE INTENSE CAFE UNISEX EDP 100 ML @",
     "MONTALE MUKHALLAT (UNISEX) EDP 100 ML @",
     "MONTANA CLAUDE MONTANA FOR WOMAN EDP 100 ML @",
