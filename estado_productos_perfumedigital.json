@@ -420,6 +420,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42472": {
+      "nombre": "BOSS BOTTLED MAN EAU DE PARMUM EDP 100 ML REGUKAR (CAJA DAÑADA)",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42472",
+      "en_stock": true
+    },
+    "42471": {
+      "nombre": "BOSS BOTTLED MAN EDP (EAU DE PARFUM) EDP 200 ML REGULAR (caja dañada)",
+      "precio": "58.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42471",
+      "en_stock": true
+    },
     "42459": {
       "nombre": "D&G THE ONE FOR MEN EDT 100ML REGULAR",
       "precio": "59.99 €",
@@ -1346,7 +1358,7 @@
     },
     "40820": {
       "nombre": "BOSS BOTTLED MAN EAU DE PARFUM EDP 50 ML REGULAR",
-      "precio": "39.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40820",
       "en_stock": true
     },
@@ -2056,6 +2068,12 @@
       "nombre": "1 MILLION PACO RABANNE GOLD ELIXIR HIM EDP 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39466",
+      "en_stock": true
+    },
+    "39451": {
+      "nombre": "BOSS BOTTLED MAN EDT 200 ML REGULAR (Caja dañada)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39451",
       "en_stock": true
     },
     "39445": {
@@ -10860,6 +10878,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42475": {
+      "nombre": "NARCISO RODRIGUEZ WOMAN EDT 100ML REGULAR (Sin celofan)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42475",
+      "en_stock": true
+    },
+    "42474": {
+      "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42474",
+      "en_stock": true
+    },
+    "42473": {
+      "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (Caja dañada)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42473",
       "en_stock": true
     },
     "42455": {
@@ -20094,6 +20130,12 @@
       "nombre": "MANCERA ROSES VANILLE EDP 120 ML REGULAR",
       "precio": "116.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37023",
+      "en_stock": true
+    },
+    "37016": {
+      "nombre": "LATTAFA  YARA EDP 100 ML REGULAR",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37016",
       "en_stock": true
     },
     "37011": {
@@ -33339,7 +33381,10 @@
     "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML REGULAR",
     "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "BOSS BOTTLED MAN EAU DE PARMUM EDP 100 ML REGUKAR (CAJA DAÑADA)",
+    "BOSS BOTTLED MAN EDP (EAU DE PARFUM) EDP 200 ML REGULAR (CAJA DAÑADA)",
     "BOSS BOTTLED MAN EDT 100 ML REGULAR",
+    "BOSS BOTTLED MAN EDT 200 ML REGULAR (CAJA DAÑADA)",
     "BOSS BOTTLED MAN EDT 50 ML REGULAR (SIN CAJA)",
     "BOSS BOTTLED MAN NIGHT EDT 100ML REGULAR",
     "BOSS BOTTLED STRIKING LAVENDER EDP 100 ML @",
@@ -33616,6 +33661,7 @@
     "DKNY BE DELICIOUS LATTE MATCHA EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE PISTACHIO EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML @",
+    "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (CAJA DAÑADA)",
     "DKNY ENERGIZING MEN EDT 100ML REGULAR",
     "DKNY ENERGIZING WOMAN EDT 100 ML REGULAR",
     "DKNY GOLDEN DELICIOUS EDP 100 ML REGULAR",
@@ -34072,6 +34118,7 @@
     "LAPIDUS WOMAN EDT 100ML REGULAR",
     "LATTAFA  AMEERAT AL ARAB PRIVE ROSE EDP 100 ML REGULAR",
     "LATTAFA  OPULENT DUBAI EDP 100 ML UNISEX REGULAR",
+    "LATTAFA  YARA EDP 100 ML REGULAR",
     "LAURA BIAGIOTTI ROMA FIORI BIANCHI EDT 100 ML @",
     "LAURA BIAGIOTTI ROMA UOMO GREEN SWING EDT 125 ML @",
     "LAURA BIAGIOTTI ROMA WOMAN EDT 100ML @",
@@ -34255,6 +34302,7 @@
     "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @",
     "NARCISO RODRIGUEZ MUSC NOIR FOR HER  EDP 100ML @ (70% DEL CONTENIDO)",
     "NARCISO RODRIGUEZ WOMAN EDT 100 ML @",
+    "NARCISO RODRIGUEZ WOMAN EDT 100ML REGULAR (SIN CELOFAN)",
     "NIKE AZURE WOMAN EDT 100 ML @  (SIN CAJA) ~",
     "NIKE CHIC & COOL EDT 100 ML @",
     "NIKE FISSION FOR MAN EDT 100 ML @",
