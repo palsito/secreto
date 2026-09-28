@@ -420,6 +420,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42459": {
+      "nombre": "D&G THE ONE FOR MEN EDT 100ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42459",
+      "en_stock": true
+    },
     "42452": {
       "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
       "precio": "78.99 €",
@@ -2520,12 +2526,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38722",
       "en_stock": true
     },
-    "38721": {
-      "nombre": "D&G THE ONE FOR MEN EDP 150 ML REGULAR",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38721",
-      "en_stock": true
-    },
     "38720": {
       "nombre": "ADIDAS UEFA GOAL EDP 100 ML @",
       "precio": "4.99 €",
@@ -4324,6 +4324,12 @@
       "nombre": "PACO RABANNE PHANTOM  INTENSE  EDP 100 ML @",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35280",
+      "en_stock": true
+    },
+    "35279": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 75 ML REGULAR (Caja ligeramente dañada)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35279",
       "en_stock": true
     },
     "35266": {
@@ -10522,7 +10528,7 @@
     },
     "36099": {
       "nombre": "GUILLAB TUCANA FOR WOMAN EDP 100 ML REGULAR",
-      "precio": "19.99 €",
+      "precio": "17.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36099",
       "en_stock": true
     },
@@ -10548,6 +10554,12 @@
       "nombre": "PACK ESPECIAL GUILLAB MENKENT UNISEX EDP 100 ML REGULAR + GUILLAB EDP UNISEX 70 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35255",
+      "en_stock": true
+    },
+    "35240": {
+      "nombre": "PACK 4x1 WOMAN SECRET: ROSE SEDUCTION EDP 100 ML @ + GOLD SEDUCTION EDP 100 ML @ + DAILY ROMANCE BODY MIST 250 ML @ + LADY TENDERNESS BODY MIST 250 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35240",
       "en_stock": true
     },
     "35239": {
@@ -11078,6 +11090,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42235",
       "en_stock": true
     },
+    "42233": {
+      "nombre": "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS JAZMIN DE NOCHE EDT 150 ML @ (sin caja)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42233",
+      "en_stock": true
+    },
     "42231": {
       "nombre": "ANNICK GOUTAL NUIT CONFIDENCES EDP 100 ML @",
       "precio": "94.99 €",
@@ -11094,6 +11112,12 @@
       "nombre": "VICTORIO & LUCCHINO AGUA N 15 AGUAS DE PERFUME FLOR ORIENTAL EDP 150 ML @",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42223",
+      "en_stock": true
+    },
+    "42206": {
+      "nombre": "TOUS LOVE ME ESMERALD ELIXIR EDP 30 ML REGULAR",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42206",
       "en_stock": true
     },
     "42205": {
@@ -26038,7 +26062,7 @@
     },
     "30209": {
       "nombre": "ADOLFO DOMINGUEZ UNICA CORAL EDT 100 ML @",
-      "precio": "24.99 €",
+      "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30209",
       "en_stock": true
     },
@@ -32020,6 +32044,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42462": {
+      "nombre": "VOYAGE D´HERMES EDT 100 ML (UNISEX) @ (Sin caja, 80% del contenido)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42462",
+      "en_stock": true
+    },
+    "42461": {
+      "nombre": "CHANSON D´EAU AROMAS LEMON SICILY EDT 100 ML REGULAR (Caja dañada)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42461",
+      "en_stock": true
+    },
+    "42460": {
+      "nombre": "ADIDAS DYNAMIC PULSE EDT 100ML @ (Sin caja)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42460",
+      "en_stock": true
+    },
     "42445": {
       "nombre": "VICTORIO & LUCCHINO AGUAS DE PERFUME  N 15 FLOR ORIENTAL EDP 150 ML @ (Sin caja)",
       "precio": "5.99 €",
@@ -33001,6 +33043,7 @@
     "ACQUA DI PARMA ZAFFERANO EDP 100 ML REGULAR",
     "ACQUA DI SELVA MEN EDC 100ML REGULAR",
     "ADIDAS DYNAMIC PULSE EDT 100ML @",
+    "ADIDAS DYNAMIC PULSE EDT 100ML @ (SIN CAJA)",
     "ADIDAS DYNAMIC PULSE EDT 100ML REGULAR",
     "ADIDAS GET READY WOMAN EDT 50 ML @",
     "ADIDAS ICE DIVE EDT 100 ML @",
@@ -33411,6 +33454,7 @@
     "CHANEL COCO MADEMOISELLE EDP INTENSE 100ML @",
     "CHANEL GABRIELLE ESSENCE EDP 100 ML @",
     "CHANEL Nº 5 EDP 100ML @",
+    "CHANSON D´EAU AROMAS LEMON SICILY EDT 100 ML REGULAR (CAJA DAÑADA)",
     "CHANSON D´EAU AROMAS ROSE GRASSE EDT 100 ML REGULAR (SIN CAJA, 60% DEL CONTENIDO)",
     "CHANSON D´EAU BODY MIST BRUMA PERFUMADA CHERRY 75 ML @",
     "CHANSON D´EAU BODY MIST BRUMA PERFUMADA COCO 75 ML @ (SIN CAJA, 40% DEL CONTENIDO)",
@@ -33894,6 +33938,7 @@
     "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
     "JAWHARA SULTAN ROSE UNISEX EDP 100 ML @",
     "JAWHARA SWEET DATES UNISEX EDP 100 ML @",
+    "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 75 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML @",
     "JEANNE LANVIN WOMAN EDP 100ML @",
     "JENNIFER LOPEZ BLUE GLOW EDT 100ML @",
@@ -34805,6 +34850,7 @@
     "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @ + RIMMEL SUPER GEL 2 PASOS (COLOR+ACABADO) DE REGALO",
     "VIKTOR & ROLPH BONBON EDP 50 ML @",
     "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
+    "VOYAGE D´HERMES EDT 100 ML (UNISEX) @ (SIN CAJA, 80% DEL CONTENIDO)",
     "W ACQUA VERINO WOMAN  EDT 50ML @",
     "WHISKY MAN HOMME SPORT EDT 100 ML REGULAR",
     "WHISKY MAN ORIGIN EDT 100 ML REGULAR",
