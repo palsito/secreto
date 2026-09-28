@@ -14096,12 +14096,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40174",
       "en_stock": true
     },
-    "40173": {
-      "nombre": "NECTAR OLFACTIF MELIPONA EXTRAIT PARFUM 100 ML @ (Sin caja)",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40173",
-      "en_stock": true
-    },
     "40172": {
       "nombre": "NECTAR OLFACTIF ETOILE DE BALI EXTRAIT PARFUM 100 ML @ (Sin caja)",
       "precio": "89.99 €",
@@ -21438,6 +21432,12 @@
       "nombre": "V CANTO AMANS EXTRAIT DE PARFUM 100 ML @",
       "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36053",
+      "en_stock": true
+    },
+    "36052": {
+      "nombre": "V CANTO ALIBI EXTRAIT DE PARFUM 100 ML @",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36052",
       "en_stock": true
     },
     "36051": {
@@ -34727,6 +34727,7 @@
     "UNGARO APPARITION PINK WOMAN EDT 90 ML REGULAR",
     "UNGARO DIVA EDP 100 ML @",
     "USHER ELLA EDP 100 ML REGULAR",
+    "V CANTO ALIBI EXTRAIT DE PARFUM 100 ML @",
     "V&L EVASION AZUL 250 ML @",
     "VALENTINA EDP 80 ML @",
     "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
