@@ -420,6 +420,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42484": {
+      "nombre": "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML @ (Sin caja)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42484",
+      "en_stock": true
+    },
+    "42483": {
+      "nombre": "ÁLVAREZ GÓMEZ PLATA HOMME 150 ML @ (Sin caja)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42483",
+      "en_stock": true
+    },
     "42481": {
       "nombre": "DON ALGODON HOMBRE EDT 30 ML @",
       "precio": "2.99 €",
@@ -488,7 +500,7 @@
     },
     "42360": {
       "nombre": "ÁLVAREZ GÓMEZ BRONZE HOMME EDP 150 ML @ (Sin caja)",
-      "precio": "7.99 €",
+      "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42360",
       "en_stock": true
     },
@@ -33036,7 +33048,7 @@
     },
     "20190": {
       "nombre": "AIRE DE SEVILLA AGUA DE ROSAS FRESCAS 150 ML @ (Sin caja)",
-      "precio": "5.99 €",
+      "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20190",
       "en_stock": true
     },
@@ -35014,6 +35026,8 @@
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS FLOR DE NARANJO 150 ML @ (SIN CAJA)",
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS JAZMIN DE NOCHE EDT 150 ML @ (SIN CAJA)",
     "ÁLVAREZ GÓMEZ FLORES MEDITERRANEAS VERBENA AZAHAR 150 ML @ (SIN CAJA)",
+    "ÁLVAREZ GÓMEZ PLATA HOMME 150 ML @ (SIN CAJA)",
+    "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML @ (SIN CAJA)",
     "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML REGULAR",
     "ÁLVAREZ GÓMEZ VERSION BARBERIA EDP 80 ML @ + BARBERIA EDP 30 ML @"
   ]
