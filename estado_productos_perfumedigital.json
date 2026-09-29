@@ -1016,7 +1016,7 @@
     },
     "41873": {
       "nombre": "ELIE SAAB L HOMME INTENSE EDP 100 ML @",
-      "precio": "47.99 €",
+      "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41873",
       "en_stock": true
     },
@@ -2758,6 +2758,12 @@
       "nombre": "MERCEDES BENZ SELECT EDT 100 ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38615",
+      "en_stock": true
+    },
+    "38565": {
+      "nombre": "PRADY BLUEBERRYS EDT 85 ML REGULAR",
+      "precio": "2.59 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38565",
       "en_stock": true
     },
     "38546": {
@@ -9674,7 +9680,7 @@
     },
     "12053": {
       "nombre": "DRAKKAR NOIR EDT 100ML REGULAR",
-      "precio": "19.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12053",
       "en_stock": true
     },
@@ -10058,12 +10064,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "42447": {
-      "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @ + RIMMEL SUPER GEL 2 PASOS (COLOR+ACABADO) DE REGALO",
-      "precio": "22.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42447",
-      "en_stock": true
-    },
     "42293": {
       "nombre": "CACHAREL YES I AM DELICIOUS EDP 50 ML + MINIATURA 10 ML REGULAR",
       "precio": "19.99 €",
@@ -10186,7 +10186,7 @@
     },
     "39966": {
       "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 50 ML @",
-      "precio": "24.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39966",
       "en_stock": true
     },
@@ -10908,6 +10908,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42489": {
+      "nombre": "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (Sin caja)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42489",
       "en_stock": true
     },
     "42485": {
@@ -32332,12 +32338,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42397",
       "en_stock": true
     },
-    "42396": {
-      "nombre": "CH MEN PASSION EDP 100 ML @ (Sin caja, 90% del contenido)",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42396",
-      "en_stock": true
-    },
     "42392": {
       "nombre": "CAROLINA HERRERA GOOD GIRL COLLECTOR EDITION COLORMANIA EDP 80 ML @ (Sin caja, 95% del contenido)",
       "precio": "52.99 €",
@@ -33143,6 +33143,7 @@
     "ADIDAS DYNAMIC PULSE EDT 100ML @ (SIN CAJA)",
     "ADIDAS DYNAMIC PULSE EDT 100ML REGULAR",
     "ADIDAS GET READY WOMAN EDT 50 ML @",
+    "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (SIN CAJA)",
     "ADIDAS ICE DIVE EDT 100 ML @",
     "ADIDAS PURE GAME EDT 100 ML @ (SIN CAJA)",
     "ADIDAS VICTORY LEAGUE EDT 100ML @",
@@ -34629,6 +34630,7 @@
     "PRADA PARADIGME LE PARFUM 100 ML REGULAR",
     "PRADA PARADOXE RADICAL ESSENCE INTENSE PARFUM 90 ML REGULAR",
     "PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML REGULAR",
+    "PRADY BLUEBERRYS EDT 85 ML REGULAR",
     "PRADY BLUEBERRYS INFANT EDT 85 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PRADY NENITOS EDT 85 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PRET A PORTER PARIS FASHION COLLECTION EDP 100 ML @",
