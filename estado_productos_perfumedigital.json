@@ -3978,12 +3978,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36219",
       "en_stock": true
     },
-    "36215": {
-      "nombre": "FERRE FOUGERE ITALIANO  EDT 100ML @",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36215",
-      "en_stock": true
-    },
     "36213": {
       "nombre": "COOL WATER REBORN MAN EDT 125ML @",
       "precio": "29.99 €",
@@ -10908,6 +10902,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42502": {
+      "nombre": "AQUA  ALLEGORIA FORTE OUD YUZU EDP 125ML @ (Sin caja)",
+      "precio": "52.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42502",
       "en_stock": true
     },
     "42497": {
@@ -19558,7 +19558,7 @@
     },
     "37427": {
       "nombre": "SET TOUS LOVE ME ESMERALD EDP 90 ML + 15 ML + MINIATURA REGULAR",
-      "precio": "62.99 €",
+      "precio": "61.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37427",
       "en_stock": true
     },
@@ -32152,6 +32152,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42503": {
+      "nombre": "SCALPERS THE SUITE CLUB EDT 125 ML @ (Sin caja)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42503",
+      "en_stock": true
+    },
     "42501": {
       "nombre": "MOSCHINO TOY 2 PEARL UNISEX EDP 100 ML @ (sin caja)",
       "precio": "29.99 €",
@@ -33278,6 +33284,7 @@
     "ANTONIO PUIG ANOUK EDT 100 ML @",
     "ANTONIO PUIG ANOUK EDT 100 ML @ FRASCO ANTIGUO (SIN CAJA)",
     "AQC FRAGRANCES LADY SECRET EDT 30 ML @",
+    "AQUA  ALLEGORIA FORTE OUD YUZU EDP 125ML @ (SIN CAJA)",
     "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @",
     "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @ (SIN CAJA)",
     "AQUA ALLEGORIA GRANADA SALVIA EDT 125ML @",
@@ -34761,6 +34768,7 @@
     "SCALPERS THE BAND HIM EDP 100 ML @",
     "SCALPERS THE CLUB EDP 125 ML @",
     "SCALPERS THE SPEED CLUB EDP 125 ML @",
+    "SCALPERS THE SUITE CLUB EDT 125 ML @ (SIN CAJA)",
     "SEAN JOHN I AM KING EDT 100ML @",
     "SEAN JOHN UNFORGIVABLE WOMAN EDP 75 ML @",
     "SENSAI THE SILK EDP 50 ML @ (SIN CAJA)",
