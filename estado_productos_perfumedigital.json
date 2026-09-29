@@ -10064,6 +10064,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
+    "42505": {
+      "nombre": "PACK VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML + MINI BOLSO CHLOE + LOREAL PARIS REVITALIFT SERUM 15 ML + RIMMEL SUPER GEL 2 PASOS",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42505",
+      "en_stock": true
+    },
     "42293": {
       "nombre": "CACHAREL YES I AM DELICIOUS EDP 50 ML + MINIATURA 10 ML REGULAR",
       "precio": "19.99 €",
@@ -13656,12 +13662,6 @@
       "nombre": "BOIS 1920 CANNABIS SALATA EDP 50 ML REGULAR",
       "precio": "66.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40440",
-      "en_stock": true
-    },
-    "40439": {
-      "nombre": "BOIS 1920 CANNABIS LA FRUTTATA EDP 50 ML REGULAR ( 80% DEL CONTENIDO)",
-      "precio": "46.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40439",
       "en_stock": true
     },
     "40438": {
@@ -34536,6 +34536,7 @@
     "PACK PLAYA GUILLAB CASSIOPEA FOR WOMAN EDP 100 ML REGULAR + DISCOVERY SET + BOLSA RAYAS NART DE TELA",
     "PACK SAPHIR KIDS PINK 100 ML @ + SAPHIR KIDS BLUE 100 ML @ (200 ML EN TOTAL)",
     "PACK ULTRA NIKE 4X1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
+    "PACK VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML + MINI BOLSO CHLOE + LOREAL PARIS REVITALIFT SERUM 15 ML + RIMMEL SUPER GEL 2 PASOS",
     "PACO RABANE PACO ROSE EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
