@@ -4616,7 +4616,7 @@
     },
     "34907": {
       "nombre": "1881 SILVER HOMME EDT 100ML @",
-      "precio": "16.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34907",
       "en_stock": true
     },
@@ -4672,6 +4672,12 @@
       "nombre": "PRADA LUNA ROSSA OCEAN EDT 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34895",
+      "en_stock": true
+    },
+    "34894": {
+      "nombre": "VALENTINO UOMO BORN IN ROMA INTENSE EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34894",
       "en_stock": true
     },
     "34892": {
@@ -10372,7 +10378,7 @@
     },
     "36367": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML @",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36367",
       "en_stock": true
     },
@@ -11872,19 +11878,19 @@
     },
     "41939": {
       "nombre": "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41939",
       "en_stock": true
     },
     "41938": {
       "nombre": "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41938",
       "en_stock": true
     },
     "41937": {
       "nombre": "ARISTROCRAZY AMETHYST EDP 100 ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41937",
       "en_stock": true
     },
@@ -17534,12 +17540,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38530",
       "en_stock": true
     },
-    "38529": {
-      "nombre": "ELIZABETH ARDEN GREEN TEA PEAR BLOSSOM EDT 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38529",
-      "en_stock": true
-    },
     "38528": {
       "nombre": "ELIZABETH ARDEN GREEN TEA NECTARINE BLOSSOM EDT 100 ML @",
       "precio": "19.99 €",
@@ -21056,12 +21056,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36479",
       "en_stock": true
     },
-    "36476": {
-      "nombre": "ARMANI SI PARFUM (MAS CONCENTRADA) 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36476",
-      "en_stock": true
-    },
     "36436": {
       "nombre": "TOUS SORBET GARDEN EDT 90 ML @",
       "precio": "29.99 €",
@@ -23392,7 +23386,7 @@
     },
     "34452": {
       "nombre": "EL GANSO SEÑORITA MON AMOUR EDT 125 ML @",
-      "precio": "16.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34452",
       "en_stock": true
     },
@@ -24250,7 +24244,7 @@
     },
     "33930": {
       "nombre": "ARMAND BASI BUILD YOUR SELF EDT 100ML @",
-      "precio": "24.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33930",
       "en_stock": true
     },
@@ -32039,13 +32033,13 @@
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
     "42500": {
-      "nombre": "FLOWER BY KENZO IKEBANA EDP 40 ML @ (Sin caja 80% del contenido)",
+      "nombre": "FLOWER BY KENZO IKEBANA MIMOSA EDP 75 ML @ (Sin caja 80% del contenido)",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42500",
       "en_stock": true
     },
     "42499": {
-      "nombre": "FLOWER BY KENZO IKEBANA EDP 40 ML @ (Sin caja 90% del contenido)",
+      "nombre": "FLOWER BY KENZO IKEBANA MIMOSA EDP 75 ML @ (Sin caja 90% del contenido)",
       "precio": "15.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42499",
       "en_stock": true
@@ -32078,12 +32072,6 @@
       "nombre": "DIESEL D FOR SUCCESSION LIVING 100 ML @ (Sin caja, 80% del contenido)",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42405",
-      "en_stock": true
-    },
-    "42395": {
-      "nombre": "JPG CLASSIQUE LA BELLE FLOWER EDITION EDP 100ML @ (Sin caja, 90% del contenido)",
-      "precio": "52.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42395",
       "en_stock": true
     },
     "42393": {
