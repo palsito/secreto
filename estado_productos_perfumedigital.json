@@ -10904,6 +10904,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42511": {
+      "nombre": "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42511",
+      "en_stock": true
+    },
+    "42510": {
+      "nombre": "SET ARMANI SI EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
+      "precio": "96.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42510",
+      "en_stock": true
+    },
+    "42509": {
+      "nombre": "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42509",
+      "en_stock": true
+    },
+    "42508": {
+      "nombre": "SET TOUS LOVE ME AMATISTA EDP 90  ML + 15 Ml + MINIATURA REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42508",
+      "en_stock": true
+    },
+    "42507": {
+      "nombre": "SET TOUS KAOS EDP 100  ML+ EDP 30 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42507",
+      "en_stock": true
+    },
     "42506": {
       "nombre": "SET TOUS EDP 90ML + MINIATURA REGULAR",
       "precio": "48.99 €",
@@ -15344,12 +15374,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39550",
       "en_stock": true
     },
-    "39548": {
-      "nombre": "MIYAKE PLEASE PLEATS LEAU EDT 100 ML REGULAR",
-      "precio": "42.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39548",
-      "en_stock": true
-    },
     "39546": {
       "nombre": "BVLGARI OMNIA AMETHYSTE EDT 30 ML REGULAR",
       "precio": "29.99 €",
@@ -19542,6 +19566,18 @@
       "nombre": "SET TOUS LOVE ME ESMERALD EDP 90 ML + 15 ML + MINIATURA REGULAR",
       "precio": "61.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37427",
+      "en_stock": true
+    },
+    "37426": {
+      "nombre": "SET TOUS LOVE ME ONYX EDP 90 ML + 15 ML + MINIATURA REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37426",
+      "en_stock": true
+    },
+    "37425": {
+      "nombre": "SET TOUS LOVE ME EDP 90 ML + 15 ML + MINIATURA REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37425",
       "en_stock": true
     },
     "37423": {
@@ -34749,6 +34785,7 @@
     "SERPENTINE EDT100ML @",
     "SET 1 MILLION PACO RABANNE EDT 100ML REGULAR + DEO 150 ML REGULAR + MINIATURA 10 ML",
     "SET 5 TH AVENUE EDP 125ML REGULAR + BODY LOCION 100 ML",
+    "SET ARMANI SI EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + EDT 30 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + GEL DUCHA 100 ML + DEO STICK 75 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
@@ -34759,16 +34796,22 @@
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
+    "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
+    "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
     "SET SOLO LOEWE ELLA EDP 100 ML + 20 ML REGULAR",
     "SET THE FRUIT COMPANY A VIVIR QUE SON SANDIAS 40 ML + CREMA MANOS + LABIAL REGULAR",
     "SET TOUS EDP 90ML + MINIATURA REGULAR",
+    "SET TOUS KAOS EDP 100  ML+ EDP 30 ML REGULAR",
+    "SET TOUS LOVE ME AMATISTA EDP 90  ML + 15 ML + MINIATURA REGULAR",
+    "SET TOUS LOVE ME EDP 90 ML + 15 ML + MINIATURA REGULAR",
+    "SET TOUS LOVE ME ONYX EDP 90 ML + 15 ML + MINIATURA REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
     "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
