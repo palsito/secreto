@@ -1,11 +1,5 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
-    "42519": {
-      "nombre": "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
-      "precio": "62.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42519",
-      "en_stock": true
-    },
     "42146": {
       "nombre": "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
       "precio": "9.99 €",
@@ -106,12 +100,6 @@
       "nombre": "CK BE UNISEX (NEGRA) EDT 200ML REGULAR",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37446",
-      "en_stock": true
-    },
-    "37443": {
-      "nombre": "SET HUGO BOSS THE SCENT EDT 100 ML + MINIATURA + SHOWER GEL 100 ML REGULAR",
-      "precio": "64.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37443",
       "en_stock": true
     },
     "37378": {
@@ -450,6 +438,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42520",
       "en_stock": true
     },
+    "42519": {
+      "nombre": "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42519",
+      "en_stock": true
+    },
     "42518": {
       "nombre": "SET ACQUA DI GIO EDT 100ML REGULAR + 15 ML REGULAR",
       "precio": "75.99 €",
@@ -718,6 +712,12 @@
       "nombre": "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
       "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42286",
+      "en_stock": true
+    },
+    "42285": {
+      "nombre": "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42285",
       "en_stock": true
     },
     "42284": {
@@ -3514,6 +3514,12 @@
       "nombre": "SET BOSS BOTTLED MAN EDT 100 ML + MINIATURA + SHOWER GEL 100 ML REGULAR",
       "precio": "58.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37444",
+      "en_stock": true
+    },
+    "37443": {
+      "nombre": "SET HUGO BOSS THE SCENT EDT 100 ML + MINIATURA + SHOWER GEL 100 ML REGULAR",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37443",
       "en_stock": true
     },
     "37419": {
@@ -10266,12 +10272,6 @@
       "nombre": "D&G Q (QUEEN - REINA) INTENSE EDP 50 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39547",
-      "en_stock": true
-    },
-    "39447": {
-      "nombre": "MARC JACOBS DAISY EAU SO FRESH EDT 125ML @ + NECESER MARC JACOBS DAISY",
-      "precio": "36.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39447",
       "en_stock": true
     },
     "39178": {
