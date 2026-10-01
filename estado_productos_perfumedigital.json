@@ -2754,6 +2754,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38656",
       "en_stock": true
     },
+    "38655": {
+      "nombre": "GUERLAIN VETIVER HOMME EDT 100 ML REGULAR",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38655",
+      "en_stock": true
+    },
     "38654": {
       "nombre": "DIESEL FUEL FOR LIFE MEN EDT 50 ML REGULAR",
       "precio": "16.99 €",
@@ -16524,12 +16530,6 @@
       "nombre": "NICOLAI PARFUMEUR CREATEUR BAIKAL LEATHER INTENSE EDP 100 ML REGULAR",
       "precio": "107.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38939",
-      "en_stock": true
-    },
-    "38938": {
-      "nombre": "NICOLAI PARFUMEUR CREATEUR AMBRE CASHMERE INTENSE EDP 100 ML REGULAR",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38938",
       "en_stock": true
     },
     "38937": {
@@ -32158,12 +32158,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42486",
       "en_stock": true
     },
-    "42470": {
-      "nombre": "D&G DEVOTION INTENSE EDP 100 ML REGULAR (Caja dañada)",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42470",
-      "en_stock": true
-    },
     "42468": {
       "nombre": "EL GANSO FUN & CHIC EDP 50 ML @ (Sin caja)",
       "precio": "12.99 €",
@@ -33966,6 +33960,7 @@
     "GUERLAIN L`PETIT ROBE NOIR EDP 100 ML @",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
+    "GUERLAIN VETIVER HOMME EDT 100 ML REGULAR",
     "GUESS AMORE CAPRI WOMAN EDT 100 ML @",
     "GUESS BY MARCIANO MAN EDT 100 ML REGULAR",
     "GUESS BY MARCIANO MAN EDT 30 ML REGULAR",
