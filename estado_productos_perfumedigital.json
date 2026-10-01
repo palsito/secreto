@@ -720,12 +720,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42286",
       "en_stock": true
     },
-    "42285": {
-      "nombre": "GUCCI GUILTY MAN LOVE EDITION EDP 90 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42285",
-      "en_stock": true
-    },
     "42284": {
       "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR (Caja dañada)",
       "precio": "66.99 €",
@@ -10106,12 +10100,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "42515": {
-      "nombre": "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
-      "precio": "99.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42515",
-      "en_stock": true
-    },
     "42505": {
       "nombre": "PACK VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML + MINI BOLSO CHLOE + LOREAL PARIS REVITALIFT SERUM 15 ML + RIMMEL SUPER GEL 2 PASOS",
       "precio": "9.99 €",
@@ -10980,6 +10968,12 @@
       "nombre": "SET TOUS BABY EDC  100 ML + MORDEDOR + NECESER REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42522",
+      "en_stock": true
+    },
+    "42515": {
+      "nombre": "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42515",
       "en_stock": true
     },
     "42514": {
@@ -25564,7 +25558,7 @@
     },
     "31363": {
       "nombre": "YSL LIBRE EDT 90 ML @",
-      "precio": "59.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31363",
       "en_stock": true
     },
