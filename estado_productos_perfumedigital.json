@@ -420,6 +420,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42525": {
+      "nombre": "SET TOUS KIDS BEAR 100 ML + NECESER REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42525",
+      "en_stock": true
+    },
+    "42524": {
+      "nombre": "SET TOUS KIDS BOY EDT 100 ML REGULAR + NECESER REGULAR",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42524",
+      "en_stock": true
+    },
     "42521": {
       "nombre": "SET TOUS MAN EDT 100 ML REGULAR + 50 ML REGULAR",
       "precio": "44.99 €",
@@ -10938,6 +10950,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42523": {
+      "nombre": "SET TOUS KIDS GIRL EDT 100 ML REGULAR + BOLSA NECESER REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42523",
       "en_stock": true
     },
     "42522": {
@@ -27314,12 +27332,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26708",
       "en_stock": true
     },
-    "26704": {
-      "nombre": "VERINO GOLD DIVA EDP 50 ML REGULAR",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26704",
-      "en_stock": true
-    },
     "26687": {
       "nombre": "BOUCHERON EDP 100ML @",
       "precio": "69.99 €",
@@ -34824,6 +34836,9 @@
     "SET TOUS BABY EDC  100 ML + MORDEDOR + NECESER REGULAR",
     "SET TOUS EDP 90ML + MINIATURA REGULAR",
     "SET TOUS KAOS EDP 100  ML+ EDP 30 ML REGULAR",
+    "SET TOUS KIDS BEAR 100 ML + NECESER REGULAR",
+    "SET TOUS KIDS BOY EDT 100 ML REGULAR + NECESER REGULAR",
+    "SET TOUS KIDS GIRL EDT 100 ML REGULAR + BOLSA NECESER REGULAR",
     "SET TOUS LOVE ME AMATISTA EDP 90  ML + 15 ML + MINIATURA REGULAR",
     "SET TOUS LOVE ME EDP 90 ML + 15 ML + MINIATURA REGULAR",
     "SET TOUS LOVE ME ONYX EDP 90 ML + 15 ML + MINIATURA REGULAR",
