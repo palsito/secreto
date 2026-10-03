@@ -13496,12 +13496,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40522",
       "en_stock": true
     },
-    "40521": {
-      "nombre": "LE COUVENT DES MINIMES SINGULIERES HATTAI EDP 100 ML REGULAR",
-      "precio": "32.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40521",
-      "en_stock": true
-    },
     "40520": {
       "nombre": "LE COUVENT DES MINIMES SPERONE EDP 100 ML REGULAR",
       "precio": "32.99 €",
@@ -27992,6 +27986,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23561",
       "en_stock": true
     },
+    "23537": {
+      "nombre": "DALISSIME SALVADOR DALI EDT 100ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23537",
+      "en_stock": true
+    },
     "23528": {
       "nombre": "EDEN EDP 50ML @",
       "precio": "29.99 €",
@@ -32266,12 +32266,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42377",
       "en_stock": true
     },
-    "42329": {
-      "nombre": "LOEWE 7 MEN EDT 100ML REGULAR (Sin caja, 90% del contenido)",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42329",
-      "en_stock": true
-    },
     "42247": {
       "nombre": "SAPHIR IRONIE EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -33532,6 +33526,7 @@
     "D&G THE ONE FOR MEN EDT 100ML REGULAR",
     "D&G THE ONE WOMAN EDP 11ML (RECARGABLE) @",
     "D&G VELVET ZAFFERANO EDP 100 ML @",
+    "DALISSIME SALVADOR DALI EDT 100ML @",
     "DAVID BECKHAM INSTINCT MAN 20 ANIVERSARIO EDP 75 ML @",
     "DAVID BECKHAM SIGNATURE STORY WOMAN EDT 75 ML @",
     "DAVID BISBAL PURA ESENCIA MAN EDT 100 ML @",
