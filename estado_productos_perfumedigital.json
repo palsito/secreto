@@ -24836,12 +24836,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32733",
       "en_stock": true
     },
-    "32731": {
-      "nombre": "GUERLAIN  AQUA  ALLEGORIA FLORA SALVAGGIA  EDT  125 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32731",
-      "en_stock": true
-    },
     "32730": {
       "nombre": "EAU DE ROCHAS L`ESCAPADE 100 ML @",
       "precio": "19.99 €",
@@ -30156,6 +30150,12 @@
       "nombre": "ELIZABETH ARDEN GREEN TEA EXOTIC EDT 100 ML REGULAR",
       "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16686",
+      "en_stock": true
+    },
+    "16683": {
+      "nombre": "ELIZABETH ARDEN RED DOOR REVEALED EDP 50ML REGULAR",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=16683",
       "en_stock": true
     },
     "16682": {
