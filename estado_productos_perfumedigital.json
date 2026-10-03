@@ -324,6 +324,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31021",
       "en_stock": true
     },
+    "30700": {
+      "nombre": "BOSS BOTTLED MAN EDT 200 ML REGULAR",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30700",
+      "en_stock": true
+    },
     "29930": {
       "nombre": "D&G K EDT 100 ML @",
       "precio": "39.99 €",
@@ -30150,12 +30156,6 @@
       "nombre": "ELIZABETH ARDEN GREEN TEA EXOTIC EDT 100 ML REGULAR",
       "precio": "22.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16686",
-      "en_stock": true
-    },
-    "16683": {
-      "nombre": "ELIZABETH ARDEN RED DOOR REVEALED EDP 50ML REGULAR",
-      "precio": "17.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=16683",
       "en_stock": true
     },
     "16682": {
