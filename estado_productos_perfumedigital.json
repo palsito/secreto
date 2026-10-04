@@ -558,12 +558,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42356",
       "en_stock": true
     },
-    "42351": {
-      "nombre": "BAD BOY EXTREME EDP 100ML @ (SIN CAJA)",
-      "precio": "55.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42351",
-      "en_stock": true
-    },
     "42347": {
       "nombre": "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @ (95% DEL CONTENIDO)",
       "precio": "52.99 €",
@@ -6436,12 +6430,6 @@
       "nombre": "CHIC FOR MEN BY CAROLINA HERRERA EDT 60ML REULAR",
       "precio": "47.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29646",
-      "en_stock": true
-    },
-    "29620": {
-      "nombre": "BIOTHERM EAU VITAMINEE EDT 100 ML @",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29620",
       "en_stock": true
     },
     "29330": {
@@ -13224,6 +13212,12 @@
       "nombre": "LES NEREIDES VANILLE BLEUE EDP 100 ML @ (Sin caja)",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40852",
+      "en_stock": true
+    },
+    "40851": {
+      "nombre": "LES NEREIDES MUSC HELIODORE EDP 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40851",
       "en_stock": true
     },
     "40850": {
@@ -34000,6 +33994,7 @@
     "LE COUVENT DES MINIMES AQUA PARADISI EDT 100 ML @",
     "LE IENE EDT 100 ML REGULAR",
     "LES COPAINS EDT 100 ML REGULAR",
+    "LES NEREIDES MUSC HELIODORE EDP 100 ML @ (SIN CAJA)",
     "LIBERTE WOMAN EDT 75ML REGULAR",
     "LIQUIDES IMAGINAIRES AME DU COEUR EDP 100 ML @ (SIN CAJA)",
     "LIQUIDES IMAGINAIRES BEAUTE DU DIABLE EDP 100 ML @ (SIN CAJA)",
