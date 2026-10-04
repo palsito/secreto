@@ -11018,12 +11018,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42493",
       "en_stock": true
     },
-    "42492": {
-      "nombre": "YSL LIBRE SANTAL COUTURE 50 ML @",
-      "precio": "71.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42492",
-      "en_stock": true
-    },
     "42489": {
       "nombre": "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (Sin caja)",
       "precio": "6.99 €",
@@ -15726,6 +15720,12 @@
       "nombre": "CHOPARD MALAKI AMBER EDP 80 ML REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39343",
+      "en_stock": true
+    },
+    "39342": {
+      "nombre": "CHOPARD MAGNOLIA AU VETIVER D HAITI EDP 100 ML REGULAR",
+      "precio": "126.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39342",
       "en_stock": true
     },
     "39341": {
@@ -33370,6 +33370,7 @@
     "CHLOE LOVE STORY WOMAN EDP 75 ML @ + MINIBOLSO CHLOE + VERA WANG 30 ML REGULAR DE REGALO",
     "CHLOÉ EDT WOMAN 50ML REGULAR",
     "CHLOÉ EDT WOMAN 75ML REGULAR",
+    "CHOPARD MAGNOLIA AU VETIVER D HAITI EDP 100 ML REGULAR",
     "CHOPARD ROSE MALAKI EDP 80 ML REGULAR",
     "CHOPARD WISH EDP 75ML @",
     "CHOPARD WISH EDP 75ML REGULAR",
