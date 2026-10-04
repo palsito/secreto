@@ -11072,12 +11072,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42479",
       "en_stock": true
     },
-    "42474": {
-      "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42474",
-      "en_stock": true
-    },
     "42473": {
       "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (Caja dañada)",
       "precio": "22.99 €",
@@ -17454,6 +17448,12 @@
       "nombre": "GUERLAIN LA PETITE ROBE NOIRE PLISSE EDT 100 ML REGULAR",
       "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38542",
+      "en_stock": true
+    },
+    "38540": {
+      "nombre": "GUERLAIN L`PETIT ROBE NOIR LEGERE EDP 100 ML @ (Sin caja)",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38540",
       "en_stock": true
     },
     "38539": {
@@ -33785,6 +33785,7 @@
     "GUERLAIN  AQUA  ALLEGORIA ROSA VERDE EDT 125 ML @",
     "GUERLAIN L`HEURE BLEUE (2026) EDP 100 ML REGULAR",
     "GUERLAIN L`PETIT ROBE NOIR EDP 100 ML @",
+    "GUERLAIN L`PETIT ROBE NOIR LEGERE EDP 100 ML @ (SIN CAJA)",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "GUERLAIN MON GUERLAIN SPARKLING BOUQUET EDP 100 ML REGULAR",
     "GUERLAIN VETIVER HOMME EDT 100 ML REGULAR",
