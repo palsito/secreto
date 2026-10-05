@@ -516,6 +516,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42459",
       "en_stock": true
     },
+    "42454": {
+      "nombre": "PRADA PARADIGME LE PARFUM 100 ML @",
+      "precio": "78.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42454",
+      "en_stock": true
+    },
     "42452": {
       "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
       "precio": "78.99 €",
@@ -2778,12 +2784,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38620",
       "en_stock": true
     },
-    "38618": {
-      "nombre": "MERCEDES BENZ FOR MEN ULTIMATE EDP 120 ML @",
-      "precio": "36.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38618",
-      "en_stock": true
-    },
     "38616": {
       "nombre": "MERCEDES BENZ AIR EDP 100 ML @",
       "precio": "29.99 €",
@@ -3868,6 +3868,12 @@
       "nombre": "REEBOOK ACTIVATE YOUR SENSES FOR MEN EDT 100 ML @",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36282",
+      "en_stock": true
+    },
+    "36278": {
+      "nombre": "BUSTAMANTE MUY MIO POWER EDT 100 ML @",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36278",
       "en_stock": true
     },
     "36274": {
