@@ -1,11 +1,5 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
-    "42146": {
-      "nombre": "NIKOS SCULPTURE MEN EDT 100ML @ + DESODORANTE SPRAY AXE MUSK 150 ML REGULAR",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42146",
-      "en_stock": true
-    },
     "42097": {
       "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
       "precio": "9.99 €",
@@ -510,12 +504,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42459",
       "en_stock": true
     },
-    "42454": {
-      "nombre": "PRADA PARADIGME LE PARFUM 100 ML @",
-      "precio": "78.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42454",
-      "en_stock": true
-    },
     "42452": {
       "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
       "precio": "78.99 €",
@@ -608,7 +596,7 @@
     },
     "42324": {
       "nombre": "PACO RABANNE INVICTUS MAN EDT 30 ML REGULAR",
-      "precio": "37.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42324",
       "en_stock": true
     },
@@ -3572,7 +3560,7 @@
     },
     "37333": {
       "nombre": "HUGO ICED EDT 75ML @",
-      "precio": "32.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37333",
       "en_stock": true
     },
@@ -3586,12 +3574,6 @@
       "nombre": "HAUTE FRAGRANCE COMPANY LOVER MAN EDP 75 ML @",
       "precio": "129.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37254",
-      "en_stock": true
-    },
-    "37240": {
-      "nombre": "ACQUA DI PARMA COLONIA FUTURA EDT 50 ML REGULAR",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37240",
       "en_stock": true
     },
     "37222": {
@@ -3934,6 +3916,12 @@
       "nombre": "GIVENCHY GENTLEMAN SOCIETY EXTREME EDP 100ML @",
       "precio": "51.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36250",
+      "en_stock": true
+    },
+    "36247": {
+      "nombre": "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36247",
       "en_stock": true
     },
     "36246": {
@@ -4818,12 +4806,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34347",
       "en_stock": true
     },
-    "34344": {
-      "nombre": "POSEIDON GOLD MAN EDT 100 ML @( sin caja)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34344",
-      "en_stock": true
-    },
     "34330": {
       "nombre": "TOM FORD VELVET ORCHID EDP 100 ML REGULAR",
       "precio": "129.99 €",
@@ -5210,7 +5192,7 @@
     },
     "33267": {
       "nombre": "D&G LIGHT BLUE MAN EDT (FORMATO ANTIGUO) 125ML @",
-      "precio": "36.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33267",
       "en_stock": true
     },
@@ -8130,6 +8112,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20507",
       "en_stock": true
     },
+    "20453": {
+      "nombre": "TOUCH ME EDT 100 ML REGULAR",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20453",
+      "en_stock": true
+    },
     "20452": {
       "nombre": "ENERGY EDT 100 ML REGULAR (Sin caja, botella ligeramente dañada)",
       "precio": "2.99 €",
@@ -10854,6 +10842,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42591": {
+      "nombre": "KAJAL PERFUMES FIDDAH EDP 100 ML REGULAR",
+      "precio": "209.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42591",
+      "en_stock": true
+    },
+    "42590": {
+      "nombre": "KAJAL PERFUMES FARIS EDP 100 ML REGULAR",
+      "precio": "209.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42590",
+      "en_stock": true
+    },
+    "42589": {
+      "nombre": "KAJAL PERFUMES DAHAB EDP 100 ML REGULAR",
+      "precio": "209.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42589",
       "en_stock": true
     },
     "42587": {
@@ -31894,6 +31900,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42588": {
+      "nombre": "ELIZABETH ARDEN GREEN TEA PISTACHIO CRUNCH EDT 100 ML @ (65% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42588",
+      "en_stock": true
+    },
     "42503": {
       "nombre": "SCALPERS THE SUITE CLUB EDT 125 ML @ (Sin caja)",
       "precio": "19.99 €",
@@ -31970,12 +31982,6 @@
       "nombre": "AXE BLACK EDT 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42429",
-      "en_stock": true
-    },
-    "42428": {
-      "nombre": "CHANSON D´EAU WOMAN EDT 100 ML@ (Sin caja, 80% del contenido)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42428",
       "en_stock": true
     },
     "42424": {
@@ -33293,6 +33299,7 @@
     "D&G K ELIXIR 50 ML @",
     "D&G LIGHT BLUE EAU DE PARFUM POUR HOMME EDP 100 ML REGULAR",
     "D&G LIGHT BLUE EAU DE PARFUM WOMAN EDP 100ML @",
+    "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @",
     "D&G LIGHT BLUE EAU PARFUM GEL 30 ML REGULAR",
     "D&G LIGHT BLUE MAN AFTER SHAVE 125ML REGULAR",
     "D&G LIGHT BLUE POUR HOMME SUMMER VIBES EDT 125 ML @ (SIN CAJA, 85% DEL CONTENIDO)",
@@ -33431,6 +33438,7 @@
     "ELIZABETH ARDEN GREEN TEA EXOTIC EDT 100 ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA LAVENDER WOMAN EDT 100 ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA LOTUS EDT 100 ML REGULAR",
+    "ELIZABETH ARDEN GREEN TEA PISTACHIO CRUNCH EDT 100 ML @ (65% DEL CONTENIDO)",
     "ELIZABETH ARDEN GREEN TEA SAKURA EDT 100 ML @ + 2 REGALOS ( BOLSA RAYAS NART DE TELA + NIKE SWEET BLOSSOM EDT 75 ML)",
     "ELIZABETH ARDEN RED DOOR REVEALED EDP 100ML REGULAR",
     "ELIZABETH ARDEN RED DOOR REVEALED EDP 50ML REGULAR",
@@ -33784,6 +33792,7 @@
     "KAJAL PERFUMES ALCAN EDP 100 ML REGULAR",
     "KAJAL PERFUMES ALMAZ EDP 100 ML REGULAR",
     "KAJAL PERFUMES CLASSIC EDP 100 ML REGULAR",
+    "KAJAL PERFUMES FIDDAH EDP 100 ML REGULAR",
     "KAREN LOW BLACK MEN EDT 100 ML @",
     "KARL LAGERFELD  PARIS 21 RUE SAINT GUILLAUME EDP 100 ML @",
     "KENZO EAU DE FLEUR DE SOIE SILK EDT 50ML @",
@@ -34533,6 +34542,7 @@
     "TONINO LAMBORGHINI OVERALL WOMAN EDT 100 ML @",
     "TOTEM EDT 100 ML REGULAR",
     "TOTEM EDT 100 ML REGULAR (SIN CAJA)",
+    "TOUCH ME EDT 100 ML REGULAR",
     "TOUS EDP 50ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "TOUS EDP 90ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "TOUS EDT 90ML @",
