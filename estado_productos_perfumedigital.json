@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42605": {
+      "nombre": "PENHALIGON´S DAPHNE BOUQUET EDP 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42605",
+      "en_stock": true
+    },
     "42528": {
       "nombre": "ZADIG & VOLTAIRE IT HIM RED HOT EDP 100 ML REGULAR",
       "precio": "69.99 €",
@@ -10844,6 +10850,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42604": {
+      "nombre": "KAJAL PERFUMES YASMINA EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42604",
+      "en_stock": true
+    },
+    "42603": {
+      "nombre": "KAJAL PERFUMES WARDE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42603",
+      "en_stock": true
+    },
+    "42602": {
+      "nombre": "KAJAL PERFUMES TOPAZ EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42602",
+      "en_stock": true
+    },
     "42601": {
       "nombre": "KAJAL PERFUMES SAWLAJ EDP 100 ML REGULAR",
       "precio": "219.99 €",
@@ -11616,12 +11640,6 @@
       "nombre": "FRANCK OLIVIER ONE KISS EDP 75 ML REGULAR",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42122",
-      "en_stock": true
-    },
-    "42117": {
-      "nombre": "PENHALIGON´S THE CUT EDP 100 ML REGULAR",
-      "precio": "159.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42117",
       "en_stock": true
     },
     "42116": {
@@ -12528,12 +12546,6 @@
       "nombre": "BOHOBOCO WILD CARROT OUD PARFUM 50 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41728",
-      "en_stock": true
-    },
-    "41727": {
-      "nombre": "BOHOBOCO WET CHERRY LIQUOR PARFUM 50 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41727",
       "en_stock": true
     },
     "41726": {
@@ -16342,7 +16354,7 @@
     },
     "38977": {
       "nombre": "PENHALIGON´S SOLARIS EDP 100 ML REGULAR",
-      "precio": "159.99 €",
+      "precio": "149.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38977",
       "en_stock": true
     },
@@ -28810,7 +28822,7 @@
     },
     "21322": {
       "nombre": "ARMANI SI INTENSE EDP 100 ML @",
-      "precio": "46.99 €",
+      "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21322",
       "en_stock": true
     },
@@ -34278,6 +34290,7 @@
     "PENHALIGON´S CAIRO EDP 100 ML REGULAR",
     "PENHALIGON´S COVETED DUCHESS ROSE EDP 75 ML REGULAR",
     "PENHALIGON´S DANDY EDP 100 ML REGULAR",
+    "PENHALIGON´S DAPHNE BOUQUET EDP 100 ML REGULAR",
     "PENHALIGON´S EAU DE AUDACITY EDP 100 ML REGULAR",
     "PENHALIGON´S ELISABETHAN ROSE EDP 100 ML REGULAR",
     "PENHALIGON´S EMPRESSA EDP 100 ML @",
