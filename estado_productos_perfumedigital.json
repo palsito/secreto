@@ -10844,6 +10844,48 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42601": {
+      "nombre": "KAJAL PERFUMES SAWLAJ EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42601",
+      "en_stock": true
+    },
+    "42600": {
+      "nombre": "KAJAL PERFUMES SAREEF EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42600",
+      "en_stock": true
+    },
+    "42599": {
+      "nombre": "KAJAL PERFUMES RUBY EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42599",
+      "en_stock": true
+    },
+    "42598": {
+      "nombre": "KAJAL PERFUMES MASA EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42598",
+      "en_stock": true
+    },
+    "42597": {
+      "nombre": "KAJAL PERFUMES LAMAR NOIR EDP 100 ML REGULAR",
+      "precio": "239.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42597",
+      "en_stock": true
+    },
+    "42596": {
+      "nombre": "KAJAL PERFUMES LAMAR EDP 100 ML REGULAR",
+      "precio": "219.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42596",
+      "en_stock": true
+    },
+    "42595": {
+      "nombre": "KAJAL LAMAR CAVIAR PARFUM D`EAU EDP 30 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42595",
+      "en_stock": true
+    },
     "42594": {
       "nombre": "KAJAL PERFUMES JOORIE EDP 100 ML REGULAR",
       "precio": "219.99 €",
@@ -11046,12 +11088,6 @@
       "nombre": "DON ALGODON VIE ET ROSE EDT 30 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42479",
-      "en_stock": true
-    },
-    "42473": {
-      "nombre": "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (Caja dañada)",
-      "precio": "22.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42473",
       "en_stock": true
     },
     "42455": {
@@ -31912,12 +31948,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
-    "42588": {
-      "nombre": "ELIZABETH ARDEN GREEN TEA PISTACHIO CRUNCH EDT 100 ML @ (65% del contenido)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42588",
-      "en_stock": true
-    },
     "42503": {
       "nombre": "SCALPERS THE SUITE CLUB EDT 125 ML @ (Sin caja)",
       "precio": "19.99 €",
@@ -33801,11 +33831,14 @@
     "J´ADORE INTENSE PARFUM 100 ML @",
     "J´ADORE L´ABSOLU EDP 75ML @",
     "J´ADORE L´ABSOLU EDP 75ML @ (SIN CAJA, 95% DEL CONTENIDO)",
+    "KAJAL LAMAR CAVIAR PARFUM D`EAU EDP 30 ML REGULAR",
     "KAJAL PERFUMES ALCAN EDP 100 ML REGULAR",
     "KAJAL PERFUMES ALMAZ EDP 100 ML REGULAR",
     "KAJAL PERFUMES CLASSIC EDP 100 ML REGULAR",
     "KAJAL PERFUMES FIDDAH EDP 100 ML REGULAR",
     "KAJAL PERFUMES JOORIE EDP 100 ML REGULAR",
+    "KAJAL PERFUMES LAMAR NOIR EDP 100 ML REGULAR",
+    "KAJAL PERFUMES RUBY EDP 100 ML REGULAR",
     "KAREN LOW BLACK MEN EDT 100 ML @",
     "KARL LAGERFELD  PARIS 21 RUE SAINT GUILLAUME EDP 100 ML @",
     "KENZO EAU DE FLEUR DE SOIE SILK EDT 50ML @",
