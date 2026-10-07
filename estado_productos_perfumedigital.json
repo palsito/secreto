@@ -252,12 +252,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35565",
       "en_stock": true
     },
-    "35509": {
-      "nombre": "LOTE 15 DE HOMBRE: BRITISH STERLING RESERVE HIM EDT 112 ML REGULAR + BRITISH STERLING PROVATE STOCK EDT 112 ML REGULAR + V DESIGN TOUCH ME EDT 100 ML REGULAR + PULL MAN EDT 100 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35509",
-      "en_stock": true
-    },
     "35053": {
       "nombre": "ACQUA DI GIO PROFONDO PARFUM (MAS CONCENTRADA) 100 ML@",
       "precio": "59.99 €",
@@ -10838,6 +10832,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42613": {
+      "nombre": "DIPTYQUE PHILOSYKOS EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42613",
+      "en_stock": true
+    },
     "42612": {
       "nombre": "DIPTYQUE FLEUR DE PEAU EDT 50 ML REGULAR",
       "precio": "109.99 €",
@@ -14268,12 +14268,6 @@
       "nombre": "NECTAR OLFACTIF ETOILE DE BALI EXTRAIT PARFUM 100 ML @ (Sin caja)",
       "precio": "89.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40172",
-      "en_stock": true
-    },
-    "40171": {
-      "nombre": "NECTAR OLFACTIF CERANA EXTRAIT PARFUM 100 ML @ (Sin caja)",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40171",
       "en_stock": true
     },
     "40170": {
@@ -32512,12 +32506,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30666",
       "en_stock": true
     },
-    "30279": {
-      "nombre": "AIRE DE SEVILLA SEVILLA NOIR POUR HOMME EDT 125 ML @ 50% (DEL CONTENIDO)",
-      "precio": "13.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30279",
-      "en_stock": true
-    },
     "30231": {
       "nombre": "BOSS ORANGE MAN EDT 100ML @ (sin caja)",
       "precio": "49.99 €",
@@ -33384,6 +33372,7 @@
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
     "DIPTYQUE OYEDO EDT 50 ML REGULAR",
+    "DIPTYQUE PHILOSYKOS EDT 50 ML REGULAR",
     "DIPTYQUE VETYVERIO EDT 100 ML REGULAR",
     "DIPTYQUE VETYVERIO EDT 50 ML REGULAR",
     "DKNY 24/7 ELECTRIC WOMAN EDP 100ML @",
