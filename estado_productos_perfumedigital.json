@@ -427,7 +427,7 @@
       "en_stock": true
     },
     "42520": {
-      "nombre": "SET BOSS BOTTLED BEYOND EDP 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
+      "nombre": "SET BOSS BOTTLED BEYOND EDP 100 ML + 10 ML + DESODORANTE 75 ML REGULAR",
       "precio": "68.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42520",
       "en_stock": true
@@ -496,12 +496,6 @@
       "nombre": "ADIDAS CORE ROSE AND PEACH EDT 100 ML REGULAR (caja dañada)",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42477",
-      "en_stock": true
-    },
-    "42471": {
-      "nombre": "BOSS BOTTLED MAN EDP (EAU DE PARFUM) EDP 200 ML REGULAR (caja dañada)",
-      "precio": "58.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42471",
       "en_stock": true
     },
     "42459": {
@@ -10842,6 +10836,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42611": {
+      "nombre": "DIPTYQUE EAU DUELLE EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42611",
+      "en_stock": true
+    },
+    "42610": {
+      "nombre": "DIPTYQUE DO SON EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42610",
+      "en_stock": true
+    },
+    "42609": {
+      "nombre": "DIPTYQUE EAU ROSE EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42609",
       "en_stock": true
     },
     "42608": {
@@ -32080,12 +32092,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
       "en_stock": true
     },
-    "42382": {
-      "nombre": "BENETTON SISTERLAND BLUE NEROLI EDT 80 ML @ (Sin caja, 50% del contenido)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42382",
-      "en_stock": true
-    },
     "42247": {
       "nombre": "SAPHIR IRONIE EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -33358,7 +33364,10 @@
     "DIOR HOMME EDT 100ML REGULAR",
     "DIOR HOMME INTENSE EDP 100ML @",
     "DIOR POISON EDT 100ML @",
+    "DIPTYQUE DO SON EDT 50 ML REGULAR",
     "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
+    "DIPTYQUE EAU DUELLE EDT 50 ML REGULAR",
+    "DIPTYQUE EAU ROSE EDT 50 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
     "DIPTYQUE OYEDO EDT 50 ML REGULAR",
