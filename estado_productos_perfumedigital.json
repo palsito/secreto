@@ -10832,6 +10832,96 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42628": {
+      "nombre": "DIPTYQUE OLENE EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42628",
+      "en_stock": true
+    },
+    "42627": {
+      "nombre": "DIPTYQUE EAU DE NEROLI EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42627",
+      "en_stock": true
+    },
+    "42626": {
+      "nombre": "DIPTYQUE EAU MOHELI EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42626",
+      "en_stock": true
+    },
+    "42625": {
+      "nombre": "DIPTYQUE EAU DE LIERRE EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42625",
+      "en_stock": true
+    },
+    "42624": {
+      "nombre": "DIPTYQUE ILIO EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42624",
+      "en_stock": true
+    },
+    "42623": {
+      "nombre": "DIPTYQUE EUA DES HESPERIDES EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42623",
+      "en_stock": true
+    },
+    "42622": {
+      "nombre": "DIPTYQUE GERANIUM ODORATA EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42622",
+      "en_stock": true
+    },
+    "42621": {
+      "nombre": "DIPTYQUE OFRESIA EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42621",
+      "en_stock": true
+    },
+    "42620": {
+      "nombre": "DIPTYQUE FLEUR DE PEAU EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42620",
+      "en_stock": true
+    },
+    "42619": {
+      "nombre": "DIPTYQUE EAU DUELLE EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42619",
+      "en_stock": true
+    },
+    "42618": {
+      "nombre": "DIPTYQUE DO SON EDT 100 ML REGULAR",
+      "precio": "159.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42618",
+      "en_stock": true
+    },
+    "42617": {
+      "nombre": "DIPTYQUE 34 EDT 100 ML REGULAR",
+      "precio": "169.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42617",
+      "en_stock": true
+    },
+    "42616": {
+      "nombre": "DIPTYQUE L EAU PAPIER EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42616",
+      "en_stock": true
+    },
+    "42615": {
+      "nombre": "DIPTYQUE TAM DAO EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42615",
+      "en_stock": true
+    },
+    "42614": {
+      "nombre": "DIPTYQUE EAU DE SENS EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42614",
+      "en_stock": true
+    },
     "42613": {
       "nombre": "DIPTYQUE PHILOSYKOS EDT 50 ML REGULAR",
       "precio": "109.99 €",
@@ -11518,7 +11608,7 @@
     },
     "42152": {
       "nombre": "DIPTYQUE VETYVERIO EDT 100 ML REGULAR",
-      "precio": "149.99 €",
+      "precio": "159.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42152",
       "en_stock": true
     },
@@ -25082,12 +25172,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31717",
       "en_stock": true
     },
-    "31715": {
-      "nombre": "YSL BLACK OPIUM INTENSE EDP 30 ML REGULAR",
-      "precio": "37.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31715",
-      "en_stock": true
-    },
     "31714": {
       "nombre": "YSL BLACK OPIUM INTENSE EDP 50 ML REGULAR",
       "precio": "59.99 €",
@@ -31966,12 +32050,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42503",
       "en_stock": true
     },
-    "42488": {
-      "nombre": "SAPHIR TROPHIC BELEZA PLUMP AND VANILLE HAIR AND BODY MIST 100 ML @",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42488",
-      "en_stock": true
-    },
     "42487": {
       "nombre": "SAPHIR TROPHIC BEACH PISTACHO AND CARAMEL HAIR AND BODY MIST 100 ML @",
       "precio": "2.99 €",
@@ -33364,15 +33442,26 @@
     "DIOR HOMME EDT 100ML REGULAR",
     "DIOR HOMME INTENSE EDP 100ML @",
     "DIOR POISON EDT 100ML @",
+    "DIPTYQUE 34 EDT 100 ML REGULAR",
     "DIPTYQUE DO SON EDT 50 ML REGULAR",
+    "DIPTYQUE EAU DE LIERRE EDT 100 ML REGULAR",
     "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
+    "DIPTYQUE EAU DE NEROLI EDT 100 ML REGULAR",
     "DIPTYQUE EAU DUELLE EDT 50 ML REGULAR",
+    "DIPTYQUE EAU MOHELI EDT 100 ML REGULAR",
     "DIPTYQUE EAU ROSE EDT 50 ML REGULAR",
+    "DIPTYQUE EUA DES HESPERIDES EDT 100 ML REGULAR",
     "DIPTYQUE FLEUR DE PEAU EDT 50 ML REGULAR",
+    "DIPTYQUE GERANIUM ODORATA EDT 100 ML REGULAR",
+    "DIPTYQUE ILIO EDT 100 ML REGULAR",
+    "DIPTYQUE L EAU PAPIER EDT 50 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
+    "DIPTYQUE OFRESIA EDT 100 ML REGULAR",
+    "DIPTYQUE OLENE EDT 100 ML REGULAR",
     "DIPTYQUE OYEDO EDT 50 ML REGULAR",
     "DIPTYQUE PHILOSYKOS EDT 50 ML REGULAR",
+    "DIPTYQUE TAM DAO EDT 50 ML REGULAR",
     "DIPTYQUE VETYVERIO EDT 100 ML REGULAR",
     "DIPTYQUE VETYVERIO EDT 50 ML REGULAR",
     "DKNY 24/7 ELECTRIC WOMAN EDP 100ML @",
