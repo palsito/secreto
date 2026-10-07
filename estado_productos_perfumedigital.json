@@ -10838,6 +10838,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42612": {
+      "nombre": "DIPTYQUE FLEUR DE PEAU EDT 50 ML REGULAR",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42612",
+      "en_stock": true
+    },
     "42611": {
       "nombre": "DIPTYQUE EAU DUELLE EDT 50 ML REGULAR",
       "precio": "109.99 €",
@@ -33368,6 +33374,7 @@
     "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
     "DIPTYQUE EAU DUELLE EDT 50 ML REGULAR",
     "DIPTYQUE EAU ROSE EDT 50 ML REGULAR",
+    "DIPTYQUE FLEUR DE PEAU EDT 50 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 100 ML REGULAR",
     "DIPTYQUE L`OMBRE DANS L`EAU EDT 50 ML REGULAR",
     "DIPTYQUE OYEDO EDT 50 ML REGULAR",
