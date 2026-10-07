@@ -11216,12 +11216,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42479",
       "en_stock": true
     },
-    "42455": {
-      "nombre": "JPG LA FAVORITE EDP 100 ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42455",
-      "en_stock": true
-    },
     "42450": {
       "nombre": "PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML REGULAR",
       "precio": "96.99 €",
@@ -17022,6 +17016,12 @@
       "nombre": "SABRINA CARPENTER SWEET TOOTH ROSA EDP 75 ML REGULAR",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38822",
+      "en_stock": true
+    },
+    "38821": {
+      "nombre": "SABRINA CARPENTER SWEET TOOTH ME EXPRESSO EDP 75 ML REGULAR",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38821",
       "en_stock": true
     },
     "38820": {
@@ -34484,6 +34484,7 @@
     "ROSARIO FLORES SIENTO WOMAN EDT 100 ML @",
     "ROYAL COPENHAGEN MUSK MEN EDC 100ML REGULAR",
     "ROYALE AMBREE LEGRAIN EDC 100ML @",
+    "SABRINA CARPENTER SWEET TOOTH ME EXPRESSO EDP 75 ML REGULAR",
     "SALVADOR DALI PURPLELIGHT WOMAN EDT 100 ML REGULAR",
     "SALVADOR DALI RUBYLIPS WOMAN EDT 100 ML REGULAR",
     "SALVATORE FERRAGAMO WOMAN EDP 50ML @",
