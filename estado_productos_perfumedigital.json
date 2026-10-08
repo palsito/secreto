@@ -534,6 +534,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42459",
       "en_stock": true
     },
+    "42452": {
+      "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
+      "precio": "78.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42452",
+      "en_stock": true
+    },
     "42451": {
       "nombre": "PRADA PARADIGME LE PARFUM 100 ML REGULAR",
       "precio": "98.99 €",
@@ -3756,6 +3762,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36768",
       "en_stock": true
     },
+    "36718": {
+      "nombre": "PRADA PARADIGME EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36718",
+      "en_stock": true
+    },
     "36639": {
       "nombre": "ETERNITY AIR FOR MEN EDT 100ML REGULAR",
       "precio": "29.99 €",
@@ -4168,6 +4180,12 @@
       "nombre": "D&G DEVOTION POUR HOMME EDP 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35742",
+      "en_stock": true
+    },
+    "35739": {
+      "nombre": "AZZARO WANTED FOREVER ELIXIR EDP 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35739",
       "en_stock": true
     },
     "35707": {
@@ -8308,6 +8326,12 @@
       "nombre": "GUESS BY MARCIANO MAN EDT 100 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19763",
+      "en_stock": true
+    },
+    "19750": {
+      "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19750",
       "en_stock": true
     },
     "19604": {
@@ -34536,6 +34560,7 @@
     "PRADA LUNA ROSSA EDT 100 ML @",
     "PRADA L`HOMME EDT 100 ML @",
     "PRADA L`HOMME L`EAU EDT 100 ML @",
+    "PRADA PARADIGME EDP 100 ML @",
     "PRADA PARADIGME EDP 100 ML REGULAR",
     "PRADA PARADIGME LE PARFUM 100 ML @",
     "PRADA PARADIGME LE PARFUM 100 ML REGULAR",
