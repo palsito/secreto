@@ -2118,6 +2118,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39549",
       "en_stock": true
     },
+    "39491": {
+      "nombre": "POLO BLUE MAN (FORMATO NUEVO) EDP 125ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39491",
+      "en_stock": true
+    },
     "39474": {
       "nombre": "YSL Y MAN EDP 10 ML (DIEZ ML) @",
       "precio": "16.99 €",
@@ -10880,6 +10886,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42649": {
+      "nombre": "JPG LA FAVORITE EDP 30 ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42649",
+      "en_stock": true
+    },
     "42644": {
       "nombre": "DIPTYQUE VETYVERIO EDP 75 ML REGULAR",
       "precio": "179.99 €",
@@ -11366,9 +11378,15 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42455",
       "en_stock": true
     },
+    "42453": {
+      "nombre": "JPG LA FAVORITE EDP 100 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42453",
+      "en_stock": true
+    },
     "42450": {
       "nombre": "PRADA PARADOXE SWEET CHEMISTRY EDP 90 ML REGULAR",
-      "precio": "96.99 €",
+      "precio": "95.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42450",
       "en_stock": true
     },
@@ -20412,12 +20430,6 @@
       "nombre": "MANCERA ROSES VANILLE EDP 120 ML REGULAR",
       "precio": "116.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37023",
-      "en_stock": true
-    },
-    "37016": {
-      "nombre": "LATTAFA  YARA EDP 100 ML REGULAR",
-      "precio": "22.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37016",
       "en_stock": true
     },
     "37011": {
@@ -32176,6 +32188,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42650": {
+      "nombre": "LOEWE AURA WOMAN EDP 80 ML@ (Sin caja, 95% del contenido)",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42650",
+      "en_stock": true
+    },
     "42503": {
       "nombre": "SCALPERS THE SUITE CLUB EDT 125 ML @ (Sin caja)",
       "precio": "19.99 €",
@@ -34113,6 +34131,7 @@
     "LOEWE AIRE SUTILEZA WOMAN (MODELO NUEVO) EDT 100 ML @ (SIN CAJA, 40% DEL CONTENIDO)",
     "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO)",
     "LOEWE AURA WHITE MAGNOLIA EDP 100 ML @ (FORMATO NUEVO) (SIN CAJA, 90% DEL CONTENIDO)",
+    "LOEWE AURA WOMAN EDP 80 ML@ (SIN CAJA, 95% DEL CONTENIDO)",
     "LOEWE EARTH ELIXIR (MAS CONCENTRADA) EDP 100 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "LOEWE EARTH UNISEX EDP 100 ML @ (SIN CAJA, 40% DEL CONTENIDO)",
     "LOEWE EARTH UNISEX EDP 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
@@ -34544,6 +34563,7 @@
     "POLICE TO BE MY AVATAR WOMAN EDT 125 ML @",
     "POLO BLACK MAN EDT 125 ML REGULAR",
     "POLO BLACK MAN EDT 125ML @",
+    "POLO BLUE MAN (FORMATO NUEVO) EDP 125ML @",
     "POLO BLUE MAN EDT 125ML @",
     "POLO EST 67 EDP (EAU DE PARFUM) 125 ML @",
     "POLO RED PARFUM 125 ML @",
