@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "42648": {
+      "nombre": "LOTE 7 DE HOMBRE: SPRINGFIELD EDT 100 ML @ + NIKE URBAN WOOD EDT 100 ML @ + CROSSMEN ORIGINAL EDT 200 ML @ + ADIDAS ICE DIVE 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42648",
+      "en_stock": true
+    },
     "42097": {
       "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
       "precio": "9.99 €",
@@ -139,9 +145,15 @@
       "en_stock": true
     },
     "36303": {
-      "nombre": "LOTE 18 DE HOMBRE: BUSTAMANTE MUY MIO POWER EDT 100 ML @ + JACQS EDC 200 ML @ + NIKE VIRAL BLUE EDT 100 ML @ + SPAGNOLO AGUA FRESCA EDT 75 ML @",
+      "nombre": "LOTE 10 DE HOMBRE: BUSTAMANTE MUY MIO POWER EDT 100 ML @ + JACQS EDC 200 ML @ + NIKE VIRAL BLUE EDT 100 ML @ + SPAGNOLO AGUA FRESCA EDT 75 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36303",
+      "en_stock": true
+    },
+    "36300": {
+      "nombre": "LOTE 8 DE HOMBRE: CROSSMEN EDC TAMAÑO GRANDE 200 ML @ + ADIDAS DYNAMIC PULSE EDT 100 ML @ + ADIDAS ICE DIVE EDT 100 ML @ + NIKE ULTRABLUE MAN EDT 100  ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36300",
       "en_stock": true
     },
     "36260": {
@@ -390,6 +402,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42647": {
+      "nombre": "LOTE 5 DE HOMBRE: ADIDAS DARE EDITION EDT 100 ML @ + ADIDAS ICE DIVE EDT 100 ML @ + ANDROS EDT 100 ML @ ( sin caja ) + PULL MAN EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42647",
+      "en_stock": true
+    },
     "42646": {
       "nombre": "LOTE 7 DE HOMBRE: AB DIAVOLO MEN  EDT 100 ML @ + NIKE URBANITE WOODY LANE EDT 75 ML @ (Sin caja) + NIKE SPICY ATTITUDE EDT 75 ML @ (Sin caja) + SPRINGFIELD EDT 100 ML @",
       "precio": "9.99 €",
@@ -514,12 +532,6 @@
       "nombre": "D&G THE ONE FOR MEN EDT 100ML REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42459",
-      "en_stock": true
-    },
-    "42452": {
-      "nombre": "LOEWE 7 MEN EDT 100ML REGULAR",
-      "precio": "78.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42452",
       "en_stock": true
     },
     "42451": {
@@ -2311,7 +2323,7 @@
       "en_stock": true
     },
     "39036": {
-      "nombre": "LOTE 2 DE HOMBRE: ROYAL AMBRE EDT 100 ML @ +  QUORUM EDT 100 ML @ + ADIDAS DYNAMIC PULSE EDT 100 ML @ + NIKE NIGHT MODE EDT 100 ML @",
+      "nombre": "LOTE 12 DE HOMBRE: ROYAL AMBRE EDT 100 ML @ +  QUORUM EDT 100 ML @ + ADIDAS DYNAMIC PULSE EDT 100 ML @ + NIKE NIGHT MODE EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39036",
       "en_stock": true
@@ -25232,12 +25244,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31952",
       "en_stock": true
     },
-    "31935": {
-      "nombre": "YSL LIBRE EDP 90 ML REGULAR",
-      "precio": "97.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31935",
-      "en_stock": true
-    },
     "31932": {
       "nombre": "PEPE JEANS WOMAN CELEBRATE EDP 80 ML @",
       "precio": "9.99 €",
@@ -32200,12 +32206,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42429",
       "en_stock": true
     },
-    "42424": {
-      "nombre": "SENSAI THE SILK EDP 50 ML @ (Sin caja, 10% del contenido)",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42424",
-      "en_stock": true
-    },
     "42423": {
       "nombre": "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (sin caja)",
       "precio": "8.99 €",
@@ -34118,8 +34118,11 @@
     "LOTE 29 DE MUJER: VANDERBILT WOMAN EDT 100ML @ + INESSANCE PARIS EAU DE COLOGNE FRAICHEUR 500 ML + DON ALGODON MUJER EDT 100 ML @ + COQUETTE COUCOU MA BELLE EDT 100 ML@ (SIN CAJA)",
     "LOTE 3 UNIDADES GENESSE SPORT MAN EDT 150 ML CADA UNA (EN TOTAL 450 ML) @",
     "LOTE 4 DE MUJER: ANTONIO PUIG ANOUK EDT 100 ML @ + PRET A PORTER BERLIN FASHION COLLECTION EDP 100 ML @ + ADIDAS FRUITY RHYTHM 50 ML @ + PACHA 24/ VIP WOMAN EDT 80 ML @",
+    "LOTE 5 DE HOMBRE: ADIDAS DARE EDITION EDT 100 ML @ + ADIDAS ICE DIVE EDT 100 ML @ + ANDROS EDT 100 ML @ ( SIN CAJA ) + PULL MAN EDT 100 ML @",
     "LOTE 5 UNIDADES DE SAPHIR VARIADAS EDP 30 ML @ (SIN CAJA, EN TOTAL 150 ML)",
     "LOTE 7 DE HOMBRE: AB DIAVOLO MEN  EDT 100 ML @ + NIKE URBANITE WOODY LANE EDT 75 ML @ (SIN CAJA) + NIKE SPICY ATTITUDE EDT 75 ML @ (SIN CAJA) + SPRINGFIELD EDT 100 ML @",
+    "LOTE 7 DE HOMBRE: SPRINGFIELD EDT 100 ML @ + NIKE URBAN WOOD EDT 100 ML @ + CROSSMEN ORIGINAL EDT 200 ML @ + ADIDAS ICE DIVE 100 ML @",
+    "LOTE 8 DE HOMBRE: CROSSMEN EDC TAMAÑO GRANDE 200 ML @ + ADIDAS DYNAMIC PULSE EDT 100 ML @ + ADIDAS ICE DIVE EDT 100 ML @ + NIKE ULTRABLUE MAN EDT 100  ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + ALASKA Y MARIO POCION PARA EL 100 ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
