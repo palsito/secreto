@@ -8106,12 +8106,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20507",
       "en_stock": true
     },
-    "20453": {
-      "nombre": "TOUCH ME EDT 100 ML REGULAR",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20453",
-      "en_stock": true
-    },
     "20452": {
       "nombre": "ENERGY EDT 100 ML REGULAR (Sin caja, botella ligeramente dañada)",
       "precio": "2.99 €",
@@ -10838,6 +10832,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42636": {
+      "nombre": "DIPTYQUE EAU CAPITALE EDP 75 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42636",
+      "en_stock": true
+    },
+    "42635": {
+      "nombre": "DIPTYQUE EAU ROSE EDP 75 ML REGULAR",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42635",
+      "en_stock": true
+    },
+    "42634": {
+      "nombre": "DIPTYQUE 34 BOULEVARD SAINT GERMAIN EDP 75 ML REGULAR",
+      "precio": "199.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42634",
+      "en_stock": true
+    },
     "42633": {
       "nombre": "DIPTYQUE TAM DAO EDT 100 ML REGULAR",
       "precio": "159.99 €",
@@ -10935,7 +10947,7 @@
       "en_stock": true
     },
     "42617": {
-      "nombre": "DIPTYQUE 34 EDT 100 ML REGULAR",
+      "nombre": "DIPTYQUE 34 BOULEVARD EDT 100 ML REGULAR",
       "precio": "169.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42617",
       "en_stock": true
@@ -33466,8 +33478,10 @@
     "DIOR HOMME EDT 100ML REGULAR",
     "DIOR HOMME INTENSE EDP 100ML @",
     "DIOR POISON EDT 100ML @",
+    "DIPTYQUE 34 BOULEVARD SAINT GERMAIN EDP 75 ML REGULAR",
     "DIPTYQUE 34 EDT 100 ML REGULAR",
     "DIPTYQUE DO SON EDT 50 ML REGULAR",
+    "DIPTYQUE EAU CAPITALE EDP 75 ML REGULAR",
     "DIPTYQUE EAU DE LIERRE EDT 100 ML REGULAR",
     "DIPTYQUE EAU DE MINTHE EDP 75 ML REGULAR",
     "DIPTYQUE EAU DE NEROLI EDT 100 ML REGULAR",
