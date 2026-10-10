@@ -3942,12 +3942,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36250",
       "en_stock": true
     },
-    "36247": {
-      "nombre": "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36247",
-      "en_stock": true
-    },
     "36246": {
       "nombre": "PRADA LUNA OCEAN LE PARFUM (MAS CONCENTRADA) 100 ML @",
       "precio": "52.99 €",
@@ -7378,6 +7372,12 @@
       "nombre": "SET CHEVIGNON BEST OF MEN EDT 100 ML + DEO 150 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=24241",
+      "en_stock": true
+    },
+    "24206": {
+      "nombre": "WORKSHOP SAMBA NATURAL MAN EDT 50ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=24206",
       "en_stock": true
     },
     "24051": {
