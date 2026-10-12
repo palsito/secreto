@@ -10082,12 +10082,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40914",
       "en_stock": true
     },
-    "40758": {
-      "nombre": "ESPECIAL GUILLAB: SAGITTA FOR WOMAN EDP 100 ML REGULAR + MINI BOLSO CHLOE + VELA AROMATICA PERFUMADA",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40758",
-      "en_stock": true
-    },
     "40618": {
       "nombre": "PACK 4x1: NIKE PINK EDT 100 ML @ + NIKE PURPLEMOOD EDT 100 ML @ + NIKE TRENDYPINK EDT 100 ML @ + NIKE ULTRA PINK EDT 100 ML @",
       "precio": "9.99 €",
@@ -30606,6 +30600,12 @@
       "nombre": "HERMES UN JARDIN EN MEDITERRANEE UNISEX EDT 100 ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=14757",
+      "en_stock": true
+    },
+    "14744": {
+      "nombre": "MARC JACOBS DAISY EAU SO FRESH EDT 125ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=14744",
       "en_stock": true
     },
     "14731": {
