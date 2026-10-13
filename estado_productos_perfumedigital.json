@@ -18656,22 +18656,10 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37891",
       "en_stock": true
     },
-    "37885": {
-      "nombre": "BORTNIKOFF ZEMFIRA EXTRAIT DE PARFUM 50 ML REGULAR",
-      "precio": "169.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37885",
-      "en_stock": true
-    },
     "37884": {
       "nombre": "BORTNIKOFF VICTORIA EXTRAIT DE PARFUM 50 ML REGULAR",
       "precio": "169.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37884",
-      "en_stock": true
-    },
-    "37883": {
-      "nombre": "BORTNIKOFF VETIVER NOCTURNE EXTRAIT DE PARFUM 50 ML REGULAR",
-      "precio": "169.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37883",
       "en_stock": true
     },
     "37880": {
@@ -18708,12 +18696,6 @@
       "nombre": "BORTNIKOFF CLASSICA EXTRAIT DE PARFUM 50 ML REGULAR",
       "precio": "169.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37871",
-      "en_stock": true
-    },
-    "37870": {
-      "nombre": "BORTNIKOFF CHYPRE DU NORD EXTRAIT DE PARFUM 50 ML REGULAR",
-      "precio": "169.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37870",
       "en_stock": true
     },
     "37869": {
@@ -25746,6 +25728,24 @@
       "nombre": "TIFFANY&CO LOVE EDP 90 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31092",
+      "en_stock": true
+    },
+    "31072": {
+      "nombre": "ANGEL SCHLESSER FEMME ADORABLE INTENSE EDP 100ML @",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31072",
+      "en_stock": true
+    },
+    "31070": {
+      "nombre": "CHLOE ROSE TANGERINE EDT WOMAN 75ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31070",
+      "en_stock": true
+    },
+    "31064": {
+      "nombre": "CK ETERNITY WOMAN EAU FRESH EDP 100ML @ (Sin caja)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31064",
       "en_stock": true
     },
     "31057": {
@@ -32867,6 +32867,7 @@
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "ANGEL SCHLESSER EAUX SPLENDID ORANGE BLOSSOM EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "ANGEL SCHLESSER FEMME ADORABLE INTENSE EDP 100ML @",
     "ANGEL SCHLESSER FEMME EDT 100ML @",
     "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA)",
     "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 60% DEL CONTENIDO))",
@@ -33231,6 +33232,7 @@
     "CHLOE INTENSE EDP 100ML @",
     "CHLOE INTENSE EDP 75ML @  (SIN CAJA, 20% DEL CONTENIDO)",
     "CHLOE LOVE STORY WOMAN EDP 75 ML @ + MINIBOLSO CHLOE + VERA WANG 30 ML REGULAR DE REGALO",
+    "CHLOE ROSE TANGERINE EDT WOMAN 75ML @",
     "CHLOÉ EDT WOMAN 50ML REGULAR",
     "CHLOÉ EDT WOMAN 75ML REGULAR",
     "CHOPARD MAGNOLIA AU VETIVER D HAITI EDP 100 ML REGULAR",
@@ -33243,6 +33245,7 @@
     "CK BE UNISEX (NEGRA) EDT 100ML REGULAR",
     "CK BEAUTY EDP 100ML REGULAR",
     "CK ETERNITY MOMENT EDP 50ML REGULAR",
+    "CK ETERNITY WOMAN EAU FRESH EDP 100ML @ (SIN CAJA)",
     "CK ETERNITY WOMAN EDP 100ML REGULAR",
     "CK FREE EDT 100ML @",
     "CK FREE EDT 50ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
