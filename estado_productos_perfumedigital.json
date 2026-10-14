@@ -396,6 +396,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42681": {
+      "nombre": "BARBOUR FOR HIM ORIGINS EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42681",
+      "en_stock": true
+    },
+    "42680": {
+      "nombre": "BARBOUR FOR HIM HERITAGE EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42680",
+      "en_stock": true
+    },
+    "42679": {
+      "nombre": "BARBOUR FOR HIM COASTAL EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42679",
+      "en_stock": true
+    },
     "42648": {
       "nombre": "LOTE 7 DE HOMBRE: SPRINGFIELD EDT 100 ML @ + NIKE URBAN WOOD EDT 100 ML @ + CROSSMEN ORIGINAL EDT 200 ML @ + ADIDAS ICE DIVE 100 ML @",
       "precio": "9.99 €",
@@ -502,6 +520,12 @@
       "nombre": "ÁLVAREZ GÓMEZ TITANIO HOMME EDP 150 ML @ (Sin caja)",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42484",
+      "en_stock": true
+    },
+    "42481": {
+      "nombre": "DON ALGODON HOMBRE EDT 30 ML @",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42481",
       "en_stock": true
     },
     "42478": {
@@ -1324,12 +1348,6 @@
       "nombre": "MASQUE MILANO ROMANZA EDP 35 ML @",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41227",
-      "en_stock": true
-    },
-    "41226": {
-      "nombre": "MASQUE MILANO MONTECRISTO EDP 35 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41226",
       "en_stock": true
     },
     "41166": {
@@ -3822,6 +3840,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36331",
       "en_stock": true
     },
+    "36321": {
+      "nombre": "BIOTHERM AQUAPOWER CLEANSER LIMPIADOR 125 ML @",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36321",
+      "en_stock": true
+    },
     "36308": {
       "nombre": "AZZARO SPORT EDT 100ML @",
       "precio": "19.99 €",
@@ -5378,7 +5402,7 @@
     },
     "32748": {
       "nombre": "HERMES H 24 EDT 100 ML @",
-      "precio": "59.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32748",
       "en_stock": true
     },
@@ -7050,12 +7074,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26315",
       "en_stock": true
     },
-    "26304": {
-      "nombre": "SOLO LOEWE ESENCIAL EDT 100 ML @ (FORMATO ANTIGUO)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26304",
-      "en_stock": true
-    },
     "26296": {
       "nombre": "ISSEY MIYAKE NUIT D`ISSEY PARFUM 125 ML @",
       "precio": "39.99 €",
@@ -7564,6 +7582,12 @@
       "nombre": "JIL SANDER STRICTLY EDT 60 ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22896",
+      "en_stock": true
+    },
+    "22823": {
+      "nombre": "JPG ULTRA MALE INTENSE EDT 125ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22823",
       "en_stock": true
     },
     "22698": {
@@ -8342,7 +8366,7 @@
     },
     "19291": {
       "nombre": "ADIDAS ICE DIVE EDT 100 ML @",
-      "precio": "2.99 €",
+      "precio": "2.49 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19291",
       "en_stock": true
     },
@@ -10336,7 +10360,7 @@
     },
     "36173": {
       "nombre": "GUILLAB SAGITTA FOR WOMAN EDP 100 ML REGULAR",
-      "precio": "19.99 €",
+      "precio": "17.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36173",
       "en_stock": true
     },
@@ -10800,6 +10824,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42678": {
+      "nombre": "BARBOUR FOR HER ORIGINS EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42678",
+      "en_stock": true
+    },
+    "42677": {
+      "nombre": "BARBOUR FOR HER EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42677",
+      "en_stock": true
+    },
+    "42676": {
+      "nombre": "BARBOUR FOR HER COASTAL EDP 100 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42676",
       "en_stock": true
     },
     "42675": {
@@ -11276,6 +11318,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42493",
       "en_stock": true
     },
+    "42492": {
+      "nombre": "YSL LIBRE SANTAL COUTURE 50 ML @",
+      "precio": "71.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42492",
+      "en_stock": true
+    },
     "42489": {
       "nombre": "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (Sin caja)",
       "precio": "6.99 €",
@@ -11458,7 +11506,7 @@
     },
     "42300": {
       "nombre": "SISLEY REVEE D ARIA EDT 100 ML @",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42300",
       "en_stock": true
     },
@@ -11896,7 +11944,7 @@
     },
     "42075": {
       "nombre": "CARAMELO FREESIA BLOOM WOMAN EDT 100 ML @",
-      "precio": "4.99 €",
+      "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42075",
       "en_stock": true
     },
@@ -12048,6 +12096,12 @@
       "nombre": "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @ Sin caja",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41972",
+      "en_stock": true
+    },
+    "41971": {
+      "nombre": "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @ Sin caja",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41971",
       "en_stock": true
     },
     "41969": {
@@ -13726,7 +13780,7 @@
     },
     "40499": {
       "nombre": "GISADA PRESTIGE WOMAN EDP 100 ML @",
-      "precio": "62.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40499",
       "en_stock": true
     },
@@ -17602,7 +17656,7 @@
     },
     "38537": {
       "nombre": "GISADA AMBASSADOR WOMAN EDP 100 ML @ (Sin caja)",
-      "precio": "36.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38537",
       "en_stock": true
     },
@@ -18064,7 +18118,7 @@
     },
     "38366": {
       "nombre": "ARMAND BASI UNIFORM BUILD YOUR SELF EDT 100ML @",
-      "precio": "24.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38366",
       "en_stock": true
     },
@@ -20256,6 +20310,12 @@
       "nombre": "MANCERA ROSES VANILLE EDP 120 ML REGULAR",
       "precio": "116.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37023",
+      "en_stock": true
+    },
+    "37016": {
+      "nombre": "LATTAFA  YARA EDP 100 ML REGULAR",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37016",
       "en_stock": true
     },
     "37010": {
@@ -32062,12 +32122,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42244",
       "en_stock": true
     },
-    "42243": {
-      "nombre": "SAPHIR GOLDEN VEIL WOMAN EDP 30 ML @ (sin caja)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42243",
-      "en_stock": true
-    },
     "42242": {
       "nombre": "SAPHIR TOY INTENSE EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -32078,6 +32132,12 @@
       "nombre": "FARALA ORIGINAL EDT 75 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42240",
+      "en_stock": true
+    },
+    "42239": {
+      "nombre": "J´ADORE L´ABSOLU EDP 75ML @ (Sin caja, 95% del contenido)",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42239",
       "en_stock": true
     },
     "42025": {
@@ -32398,12 +32458,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31473",
       "en_stock": true
     },
-    "31472": {
-      "nombre": "SAPHIR OUI INTENSE WOMAN EDP 30 ML @ (sin caja)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31472",
-      "en_stock": true
-    },
     "31468": {
       "nombre": "SAPHIR EXCENTRIC WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -32414,18 +32468,6 @@
       "nombre": "SAPHIR STAR 30 ML @ (sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30885",
-      "en_stock": true
-    },
-    "30724": {
-      "nombre": "SAPHIR VIVE LA FEMME DE SAPHIR WOMAN EDP 30 ML @ (sin caja)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30724",
-      "en_stock": true
-    },
-    "30703": {
-      "nombre": "PACHA 24/7 WOMAN EDT 80 ML @ (Sin caja, 50% del contenido)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30703",
       "en_stock": true
     },
     "30687": {
@@ -32456,6 +32498,12 @@
       "nombre": "DEEP EUPHORIA WOMAN EDP 100 ML REGULAR (Sin caja)",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29743",
+      "en_stock": true
+    },
+    "29352": {
+      "nombre": "POLO BLUE MAN EDT 125ML @ (SIN CAJA, 90% del contenido, vapo ligeramente dañado)",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29352",
       "en_stock": true
     },
     "28287": {
@@ -32948,6 +32996,10 @@
     "BAD BOY EDT 50 ML REGULAR",
     "BAD BOY EXTREME EDP 100ML @ (SIN CAJA)",
     "BAMBINA EDT 100ML @",
+    "BARBOUR FOR HER EDP 100 ML @",
+    "BARBOUR FOR HIM COASTAL EDP 100 ML @",
+    "BARBOUR FOR HIM HERITAGE EDP 100 ML @",
+    "BARBOUR FOR HIM ORIGINS EDP 100 ML @",
     "BATTICUORE AMBER EDT 50ML @ (SIN CAJA)",
     "BATTICUORE GINSENG EDT 50ML @ (SIN CAJA)",
     "BE DELICIOUS LOVE PARIS EDP 50 ML @",
@@ -32980,6 +33032,7 @@
     "BIG PONY FOR WOMEN N 1 EDT 100 ML @ (SIN CAJA)",
     "BIG PONY Nº 1 AZUL MAN 100 ML @",
     "BIG PONY Nº 1 AZUL MAN 50 ML @",
+    "BIOTHERM AQUAPOWER CLEANSER LIMPIADOR 125 ML @",
     "BIOTHERM EAU VITAMINEE CITRON EDT 100 ML @",
     "BLACK XS  BLACK EXCESS 100 ML EDT @",
     "BLEU DE CHANEL POUR HOMME EDT 100ML @",
@@ -33751,6 +33804,7 @@
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
     "JPG SCANDAL FOR HIM ELIXIR PARFUM 100 ML REGULAR",
     "JPG SCANDAL POUR HOMME EDT 100 ML @",
+    "JPG ULTRA MALE INTENSE EDT 125ML @",
     "JPG ULTRA MALE INTENSE EDT 125ML REGULAR",
     "JUICE COUTURE LA LA WOMAN  EDP 100 ML REGULAR",
     "JUICY COUTURE BYE BYE BLUES EDT 75 ML REGULAR",
@@ -34263,6 +34317,7 @@
     "PHILIPP PLEIN NO LIMITS EDP 90 ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "PHILIPP PLEIN NO LIMITS EDP 90 ML @ + BARAJA CARTAS POKER DE REGALO",
     "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @",
+    "PHILLY&PHILL BOUDOIR BELLE EDP 100 ML @ SIN CAJA",
     "PHILLY&PHILL DATE ME IN DOWNTOWN EDP 100 ML @",
     "PHILLY&PHILL EASY FOR ECSTASY EDP 100 ML @",
     "PHILLY&PHILL EVE GOES EDEN EDP 100 ML @",
@@ -34294,6 +34349,7 @@
     "POLO BLACK MAN EDT 125ML @",
     "POLO BLUE MAN (FORMATO NUEVO) EDP 125ML @",
     "POLO BLUE MAN EDT 125ML @",
+    "POLO BLUE MAN EDT 125ML @ (SIN CAJA, 90% DEL CONTENIDO, VAPO LIGERAMENTE DAÑADO)",
     "POLO EST 67 EDP (EAU DE PARFUM) 125 ML @",
     "POLO RED PARFUM 125 ML @",
     "POLO SPORT MEN EDT 125ML REGULAR",
