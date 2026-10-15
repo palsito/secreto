@@ -32158,6 +32158,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42725": {
+      "nombre": "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @ (Sin caja)",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42725",
+      "en_stock": true
+    },
+    "42724": {
+      "nombre": "ELIE SAAB  ELIXIR EDP 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42724",
+      "en_stock": true
+    },
+    "42723": {
+      "nombre": "SHISEIDO GINZA MURASAKI EDP 90 ML REGULAR (Sin caja, 85% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42723",
+      "en_stock": true
+    },
     "42722": {
       "nombre": "GUERLAIN  AQUA  ALLEGORIA ROSA ROSSA EDT 125 ML @ (Sin caja, 95% del contenido)",
       "precio": "56.99 €",
@@ -32288,6 +32306,12 @@
       "nombre": "CROSSMEN SPORT EDT 200 ML @ (Sin caja, 90% del contenido)",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
+      "en_stock": true
+    },
+    "42309": {
+      "nombre": "GAULTIER DIVINE EDP 100ML @ (20% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42309",
       "en_stock": true
     },
     "42247": {
@@ -32654,6 +32678,12 @@
       "nombre": "SAPHIR EXCENTRIC WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31468",
+      "en_stock": true
+    },
+    "31359": {
+      "nombre": "JPG CLASSIQUE EDP 100ML @ (Sin caja , 70% del contenido).",
+      "precio": "37.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31359",
       "en_stock": true
     },
     "30885": {
@@ -33660,6 +33690,7 @@
     "EL GANSO FRIDAY EDITION EDT 125 ML REGULAR",
     "EL GANSO FUN & CHIC EDP 50 ML @ (SIN CAJA)",
     "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA)",
+    "ELIE SAAB  ELIXIR EDP 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "ELIE SAAB  GIRL OF NOW EDP WOMAN 90 ML @",
     "ELIE SAAB L HOMME EDP 100 ML @",
     "ELIE SAAB L HOMME INTENSE EDP 100 ML @",
@@ -33992,6 +34023,7 @@
     "JOOP LE BAIN WOMAN EDP 75 ML REGULAR",
     "JOOP MISS WILD HER EDP 75 ML REGULAR",
     "JOUR D`HERMES EDP 85 ML REGULAR",
+    "JPG CLASSIQUE EDP 100ML @ (SIN CAJA , 70% DEL CONTENIDO).",
     "JPG CLASSIQUE LA BELLE EDP 100ML REGULAR",
     "JPG CLASSIQUE LA BELLE FLOWER EDITION EDP 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
@@ -34752,6 +34784,7 @@
     "SHAKIRA SWEET DREAMS EDT 80 ML @",
     "SHAKIRA WILD ELIXIR EDT 80 ML @",
     "SHISEIDO GINZA EDP 90 ML @",
+    "SHISEIDO GINZA MURASAKI EDP 90 ML REGULAR (SIN CAJA, 85% DEL CONTENIDO)",
     "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
     "SHISEIDO ZEN ESSENCE WOMAN EDP 100ML @",
     "SISLEY ALMA EDP 100 ML @",
