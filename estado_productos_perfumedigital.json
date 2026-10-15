@@ -1638,12 +1638,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40311",
       "en_stock": true
     },
-    "40305": {
-      "nombre": "ARMANI EAU POUR HOMME EDT 100ML REGULAR",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40305",
-      "en_stock": true
-    },
     "40221": {
       "nombre": "TONINO LAMBORGHINI MITICO EDT 125 ML @",
       "precio": "5.99 €",
@@ -10832,6 +10826,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42689": {
+      "nombre": "BIOTHERM EAU VIGTAMINEE IMPULSON CITRON 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42689",
+      "en_stock": true
+    },
+    "42688": {
+      "nombre": "BIOTHERM EAU VIGTAMINEE ENERGIE PULSATION BERRY 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42688",
+      "en_stock": true
+    },
     "42687": {
       "nombre": "LOTE 8 DE MUJER: VICKY MARTIN BERROCAL AURA WOMAN EDT 100 ML @ +  MR WONDERFUL WHERE THE PARTY EDT 75 ML @ + PACHA IBIZA GLAM EDT 80 ML @ + PAULA ECHEVARRIA INTENSE EDT 100 ML @",
       "precio": "9.99 €",
@@ -11334,12 +11340,6 @@
       "nombre": "ADIDAS VIBES ENERGY DRIVE EDP 100 ML @ (Sin caja)",
       "precio": "8.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42493",
-      "en_stock": true
-    },
-    "42492": {
-      "nombre": "YSL LIBRE SANTAL COUTURE 50 ML @",
-      "precio": "71.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42492",
       "en_stock": true
     },
     "42489": {
@@ -11928,12 +11928,6 @@
       "nombre": "PENHALIGON´S COVETED DUCHESS ROSE EDP 75 ML REGULAR",
       "precio": "229.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42113",
-      "en_stock": true
-    },
-    "42086": {
-      "nombre": "BODY MIST LAISEVEN MIST MAR BRUMA DE MAR Y SOL 200 ML @",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42086",
       "en_stock": true
     },
     "42084": {
@@ -22683,7 +22677,7 @@
       "en_stock": true
     },
     "35218": {
-      "nombre": "BODY MIST LAISEVEN CITRIC 200 ML @",
+      "nombre": "BODY MIST LAISEVEN MAR Y SOL CITRIC 200 ML @",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35218",
       "en_stock": true
@@ -27648,6 +27642,12 @@
       "nombre": "DON ALGODON  MUJER  EDT 100 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25316",
+      "en_stock": true
+    },
+    "25267": {
+      "nombre": "DEPENDE DEL COLOR DE LAS ROSAS PUIG EDT 100ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25267",
       "en_stock": true
     },
     "25248": {
@@ -33016,6 +33016,8 @@
     "BIG PONY Nº 1 AZUL MAN 50 ML @",
     "BIOTHERM AQUAPOWER CLEANSER LIMPIADOR 125 ML @",
     "BIOTHERM EAU VIGTAMINEE ENERGIE ABRICOT 100 ML @",
+    "BIOTHERM EAU VIGTAMINEE ENERGIE PULSATION BERRY 100 ML @",
+    "BIOTHERM EAU VIGTAMINEE IMPULSON CITRON 100 ML @",
     "BIOTHERM EAU VITAMINEE CITRON EDT 100 ML @",
     "BLACK XS  BLACK EXCESS 100 ML EDT @",
     "BLEU DE CHANEL POUR HOMME EDT 100ML @",
@@ -33325,6 +33327,7 @@
     "DAVIDOFF HOT WATER EDT 110ML REGULAR",
     "DAVIDOFF THE GAME EDT 100 ML @",
     "DAVIDOFF THE GAME EDT 100 ML REGULAR",
+    "DEPENDE DEL COLOR DE LAS ROSAS PUIG EDT 100ML REGULAR",
     "DESIGUAL LOVE EDT 100 ML @",
     "DESIGUAL LOVE EDT 100 ML REGULAR",
     "DESIR POUR HOMME EDT 100ML @",
