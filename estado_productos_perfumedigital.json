@@ -2406,12 +2406,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38972",
       "en_stock": true
     },
-    "38971": {
-      "nombre": "PENHALIGON´S HALFETI CEDAR EDP 100 ML REGULAR",
-      "precio": "219.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38971",
-      "en_stock": true
-    },
     "38970": {
       "nombre": "PENHALIGON´S FORTUITOUS FINLEY EDP 75 ML REGULAR",
       "precio": "229.99 €",
@@ -8989,7 +8983,7 @@
       "en_stock": true
     },
     "15671": {
-      "nombre": "PACO RABANE UNISEX EDT 100 ML REGULAR",
+      "nombre": "PACO RABANNE UNISEX EDT 100 ML REGULAR",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=15671",
       "en_stock": true
@@ -10090,7 +10084,7 @@
     },
     "42279": {
       "nombre": "CAROLINA HERRERA GOOD GIRL HAIR MIST EDP 30 ML @",
-      "precio": "14.99 €",
+      "precio": "17.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42279",
       "en_stock": true
     },
@@ -10872,6 +10866,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42706": {
+      "nombre": "ESTEE LAUDER BRONZE GODDESS GODDESS EAU FRAICHE EDT 100 ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42706",
       "en_stock": true
     },
     "42703": {
@@ -32518,12 +32518,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34294",
       "en_stock": true
     },
-    "34168": {
-      "nombre": "AIRE ANTHESIS DE LOEWE EDP 100 ML @ (Sin caja, 85% del contenido)",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34168",
-      "en_stock": true
-    },
     "34151": {
       "nombre": "SAPHIR SILOE BOHEME WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -33664,6 +33658,7 @@
     "ESPECIAL 2X1 GUILLAB: GUILLAB CANIS FOR MEN EDP 100 ML REGULAR + GUILLAB PICTOR EDP 100 ML REGULAR",
     "ESPRIT D´OSCAR EDP 100 ML REGULAR",
     "ESTEE LADER BEAUTIFUL EDP 75ML @",
+    "ESTEE LAUDER BRONZE GODDESS GODDESS EAU FRAICHE EDT 100 ML @",
     "ESTEE LAUDER ESTEE EDP 50ML @",
     "ESTEE LAUDER KNOWING  EDP 75ML @",
     "ESTUCHE ARMAF CLUB DE NUIT INTENSE HOMME EDT 105 ML + DEO 200 ML REGULAR",
