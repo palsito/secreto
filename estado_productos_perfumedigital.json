@@ -8124,6 +8124,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20507",
       "en_stock": true
     },
+    "20480": {
+      "nombre": "JAIPUR POUR HOMME EDT 100ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20480",
+      "en_stock": true
+    },
     "20452": {
       "nombre": "ENERGY EDT 100 ML REGULAR (Sin caja, botella ligeramente dañada)",
       "precio": "2.99 €",
@@ -10826,6 +10832,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42687": {
+      "nombre": "LOTE 8 DE MUJER: VICKY MARTIN BERROCAL AURA WOMAN EDT 100 ML @ +  MR WONDERFUL WHERE THE PARTY EDT 75 ML @ + PACHA IBIZA GLAM EDT 80 ML @ + PAULA ECHEVARRIA INTENSE EDT 100 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42687",
+      "en_stock": true
+    },
+    "42686": {
+      "nombre": "BIOTHERM EAU VIGTAMINEE ENERGIE ABRICOT 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42686",
+      "en_stock": true
+    },
     "42678": {
       "nombre": "BARBOUR FOR HER ORIGINS EDP 100 ML @",
       "precio": "34.99 €",
@@ -13426,7 +13444,7 @@
     },
     "41114": {
       "nombre": "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
-      "precio": "72.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41114",
       "en_stock": true
     },
@@ -17726,12 +17744,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38520",
       "en_stock": true
     },
-    "38517": {
-      "nombre": "BOUCHERON PLACE VENDOME EDP 100 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38517",
-      "en_stock": true
-    },
     "38515": {
       "nombre": "ARDEN 5TH AVENUE NYC DOWNTOWN EDP 75 ML @",
       "precio": "26.99 €",
@@ -18456,12 +18468,6 @@
       "nombre": "BOUCHERON SERPENT BOHEME EDP 90 ML REGULAR",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38039",
-      "en_stock": true
-    },
-    "38038": {
-      "nombre": "BOUCHERON QUATRE ABSOLU DE NUIT WOMAN EDP 100 ML @",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38038",
       "en_stock": true
     },
     "38028": {
@@ -20274,12 +20280,6 @@
       "nombre": "VERSACE BRIGHT CRYSTAL EMERALD EDP 90 ML REGULAR",
       "precio": "89.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37040",
-      "en_stock": true
-    },
-    "37039": {
-      "nombre": "PARIS CORNER AZM EDP 100ML UNISEX REGULAR",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37039",
       "en_stock": true
     },
     "37035": {
@@ -26186,6 +26186,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30135",
       "en_stock": true
     },
+    "30122": {
+      "nombre": "BOUCHERON QUATRE ABSOLU DE NUIT FEMME EDP 100 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30122",
+      "en_stock": true
+    },
     "30121": {
       "nombre": "CK IN 2U WOMAN EDT 150 ML REGULAR",
       "precio": "26.99 €",
@@ -26258,12 +26264,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29803",
       "en_stock": true
     },
-    "29798": {
-      "nombre": "FUN WATER WOMAN EDC 500 ML REGULAR (Sin caja)",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29798",
-      "en_stock": true
-    },
     "29787": {
       "nombre": "ADIDAS FRUITY RHYTHM 50 ML @",
       "precio": "4.99 €",
@@ -26304,6 +26304,12 @@
       "nombre": "PACK GISELE DENIS FEMME YANG EDT 75 ML REGULAR + YIN EDT 75 ML REGULAR",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29327",
+      "en_stock": true
+    },
+    "29310": {
+      "nombre": "AIRE DE SEVILLA ROSAS EDT 150 ML @ (sin caja)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29310",
       "en_stock": true
     },
     "29249": {
@@ -27590,6 +27596,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25586",
       "en_stock": true
     },
+    "25578": {
+      "nombre": "BOUCHERON PLACE VENDOME EDP 100 ML REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25578",
+      "en_stock": true
+    },
     "25569": {
       "nombre": "OSCAR DE LA RENTA EXTRAORDINARY WOMAN EDP 90ML REGULAR",
       "precio": "34.99 €",
@@ -27636,12 +27648,6 @@
       "nombre": "DON ALGODON  MUJER  EDT 100 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=25316",
-      "en_stock": true
-    },
-    "25267": {
-      "nombre": "DEPENDE DEL COLOR DE LAS ROSAS PUIG EDT 100ML REGULAR",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=25267",
       "en_stock": true
     },
     "25248": {
@@ -28350,6 +28356,12 @@
       "nombre": "EUPHORIA WOMAN EDT 100 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22639",
+      "en_stock": true
+    },
+    "22635": {
+      "nombre": "PAULA EDT 100 ML @",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22635",
       "en_stock": true
     },
     "22626": {
@@ -32316,7 +32328,7 @@
     },
     "34553": {
       "nombre": "INSTITUTO ESPAÑOL GOTAS FRESCAS AGUA DE COLONIA 50 ML @",
-      "precio": "1.59 €",
+      "precio": "2.59 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34553",
       "en_stock": true
     },
@@ -32578,12 +32590,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23790",
       "en_stock": true
     },
-    "23655": {
-      "nombre": "SAPHIR PRESTIGE WOMAN EDP 30 ML @ (sin caja)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=23655",
-      "en_stock": true
-    },
     "23653": {
       "nombre": "SAPHIR DUE AMORE WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -32650,12 +32656,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23613",
       "en_stock": true
     },
-    "22635": {
-      "nombre": "PAULA EDT 100 ML @",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22635",
-      "en_stock": true
-    },
     "20558": {
       "nombre": "AGUA DE COLONIA ÁLVAREZ GÓMEZ EDC 80ML @ (80% contenido)",
       "precio": "1.79 €",
@@ -32666,12 +32666,6 @@
       "nombre": "VARENSIA EDT 50 ML REGULAR",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20269",
-      "en_stock": true
-    },
-    "20190": {
-      "nombre": "AIRE DE SEVILLA AGUA DE ROSAS FRESCAS 150 ML @ (Sin caja)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20190",
       "en_stock": true
     },
     "20172": {
@@ -33021,6 +33015,7 @@
     "BIG PONY Nº 1 AZUL MAN 100 ML @",
     "BIG PONY Nº 1 AZUL MAN 50 ML @",
     "BIOTHERM AQUAPOWER CLEANSER LIMPIADOR 125 ML @",
+    "BIOTHERM EAU VIGTAMINEE ENERGIE ABRICOT 100 ML @",
     "BIOTHERM EAU VITAMINEE CITRON EDT 100 ML @",
     "BLACK XS  BLACK EXCESS 100 ML EDT @",
     "BLEU DE CHANEL POUR HOMME EDT 100ML @",
@@ -33085,8 +33080,10 @@
     "BOSS ORANGE FOR WOMEN  EDT 75ML REGULAR",
     "BOSS ORANGE MAN EDT 100ML @ (SIN CAJA)",
     "BOUCHERON FEMME EDT 100ML @",
+    "BOUCHERON PLACE VENDOME EDP 100 ML REGULAR",
     "BOUCHERON POUR HOMME EDP 100 ML REGULAR",
     "BOUCHERON POUR HOMME EDT 100 ML REGULAR",
+    "BOUCHERON QUATRE ABSOLU DE NUIT FEMME EDP 100 ML REGULAR",
     "BREIL MILANO MAN  EDT 100 ML @",
     "BRITNEY SPEARS CIRCUS FANTASY EDP 100ML REGULAR",
     "BRITNEY SPEARS CURIOUS EDP 100ML REGULAR",
@@ -33729,6 +33726,7 @@
     "JAGUAR JAGUAR MEN (AZUL) EDT 100ML REGULAR",
     "JAGUAR MEN (NEGRO) EDT 100ML REGULAR",
     "JAIPUR BRACELET EDP 100 ML REGULAR",
+    "JAIPUR POUR HOMME EDT 100ML @",
     "JAMES BOND 007 MEN EDT 125 ML REGULAR",
     "JAMES BOND 007 MEN EDT 75 ML @",
     "JAMES BOND 007 OCEAN ROYAL MEN EDT 75 ML @",
@@ -33939,6 +33937,7 @@
     "LOTE 8 DE HOMBRE: CROSSMEN EDC TAMAÑO GRANDE 200 ML @ + ADIDAS DYNAMIC PULSE EDT 100 ML @ + ADIDAS ICE DIVE EDT 100 ML @ + NIKE ULTRABLUE MAN EDT 100  ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + ALASKA Y MARIO POCION PARA EL 100 ML @",
     "LOTE 8 DE HOMBRE: PACHA IBIZA BE INSANE MEN EDT 100 ML @ + MILANO CLASSIC EDT 100 ML @ + ADIDAS PURE GAME EDT 100 ML @ + GENESSE SPORT MAN 150 ML @",
+    "LOTE 8 DE MUJER: VICKY MARTIN BERROCAL AURA WOMAN EDT 100 ML @ +  MR WONDERFUL WHERE THE PARTY EDT 75 ML @ + PACHA IBIZA GLAM EDT 80 ML @ + PAULA ECHEVARRIA INTENSE EDT 100 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + PUIG ANOUK EDT 100 ML ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "LOU LOU EDP 30ML REGULAR",
