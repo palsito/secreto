@@ -396,6 +396,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42705": {
+      "nombre": "TOMMY MAN NEW YORK EDT 100ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42705",
+      "en_stock": true
+    },
+    "42704": {
+      "nombre": "SCALPERS THE BAND IS BLACK HIM EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42704",
+      "en_stock": true
+    },
     "42702": {
       "nombre": "EAU DE ROCHAS HOMME EDT 100ML @",
       "precio": "29.99 €",
@@ -8004,6 +8016,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=21217",
       "en_stock": true
     },
+    "21192": {
+      "nombre": "VERSACE THE DREAMER EDT 100ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=21192",
+      "en_stock": true
+    },
     "21176": {
       "nombre": "ROMA UOMO EDT 125ML @",
       "precio": "15.99 €",
@@ -10862,6 +10880,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42703": {
+      "nombre": "SCALPERS THE BAND IS BLACK HER EDP 100 ML @",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42703",
+      "en_stock": true
+    },
     "42697": {
       "nombre": "MAX MARA LE PARFUM EDP 100 ML REGULAR",
       "precio": "97.99 €",
@@ -11415,7 +11439,7 @@
       "en_stock": true
     },
     "42480": {
-      "nombre": "DON ALGODON GIRL POWER EDT 30 ML @ (Sin caja)",
+      "nombre": "DON ALGODON GIRL POWER EDT 30 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42480",
       "en_stock": true
@@ -13436,6 +13460,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41366",
       "en_stock": true
     },
+    "41361": {
+      "nombre": "SHISEIDO GINZA NIGHT INTENSE EDP 90 ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41361",
+      "en_stock": true
+    },
     "41346": {
       "nombre": "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
       "precio": "79.99 €",
@@ -14298,6 +14328,12 @@
       "nombre": "D&G THE ONE INTENSE WOMAN EDP 75ML @",
       "precio": "56.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40346",
+      "en_stock": true
+    },
+    "40340": {
+      "nombre": "TOMMY GIRL NEW YORK EDT 100 ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40340",
       "en_stock": true
     },
     "40339": {
@@ -18279,7 +18315,7 @@
       "en_stock": true
     },
     "38245": {
-      "nombre": "DON ALGODON RED PARTY 30 ML @ (Sin caja)",
+      "nombre": "DON ALGODON RED PARTY 30 ML @",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38245",
       "en_stock": true
@@ -34613,6 +34649,7 @@
     "SARAH JESSICA PARKER NYC EDT 60ML @",
     "SCALPERS HER & HERE EDP 100 ML @",
     "SCALPERS THE BAND HIM EDP 100 ML @",
+    "SCALPERS THE BAND IS BLACK HIM EDP 100 ML @",
     "SCALPERS THE CLUB EDP 125 ML @",
     "SCALPERS THE SPEED CLUB EDP 125 ML @",
     "SCALPERS THE SUITE CLUB EDT 125 ML @ (SIN CAJA)",
@@ -34728,9 +34765,11 @@
     "TOM FORD SOLEIL NEIGE MAN EDP 100 ML REGULAR",
     "TOMMY 10 MAN  EDT 100ML @",
     "TOMMY GIRL EDT 100ML @",
+    "TOMMY GIRL NEW YORK EDT 100 ML @",
     "TOMMY GIRL POOLSIDE EDITION  EDT 100ML @",
     "TOMMY HILFIGER FREEDOM MAN EDP 100 ML REGULAR",
     "TOMMY HILFIGER NOW MAN EDT 100 ML @",
+    "TOMMY MAN NEW YORK EDT 100ML @",
     "TOMMY MAN POOLSIDE EDT 100ML @",
     "TOMMY THE GIRL EDT 100ML @",
     "TONINO LAMBORGHINI OVERALL WOMAN EDT 100 ML @",
@@ -34835,6 +34874,7 @@
     "VERSACE MAN EAU FRAICHE EDT 100ML @",
     "VERSACE RED JEANS EDT 75ML @",
     "VERSACE RED JEANS EDT 75ML REGULAR",
+    "VERSACE THE DREAMER EDT 100ML @",
     "VERSACE VERSENSE EDT 100ML @",
     "VERSACE WOMAN EDP 100ML REGULAR",
     "VERY IRRESISTIBLE WOMAN EDT 75ML @",
