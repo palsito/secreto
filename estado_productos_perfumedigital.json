@@ -396,6 +396,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42702": {
+      "nombre": "EAU DE ROCHAS HOMME EDT 100ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42702",
+      "en_stock": true
+    },
+    "42701": {
+      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML @",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42701",
+      "en_stock": true
+    },
     "42695": {
       "nombre": "L`EAU D`ISSEY POUR HOMME EAU ESSENTIELLE EDP 125 ML @",
       "precio": "59.99 €",
@@ -1042,6 +1054,12 @@
       "nombre": "DAVID BECKHAM INSTINCT MAN 20 ANIVERSARIO EDP 75 ML @",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42022",
+      "en_stock": true
+    },
+    "42009": {
+      "nombre": "SCALPERS THE BAND HIM EDP 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42009",
       "en_stock": true
     },
     "41929": {
@@ -1912,12 +1930,6 @@
       "nombre": "CREED MILLESIME LOVE IN WHITE SUMMER EDP 75 ML REGULAR",
       "precio": "179.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39838",
-      "en_stock": true
-    },
-    "39830": {
-      "nombre": "PRADA AMBER POUR HOMME EDT 100 ML REGULAR",
-      "precio": "89.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39830",
       "en_stock": true
     },
     "39822": {
@@ -3076,12 +3088,6 @@
       "nombre": "PIERRE CARDIN POUR MONSIEUR EDT 75 ML REGULAR",
       "precio": "42.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38153",
-      "en_stock": true
-    },
-    "38112": {
-      "nombre": "SET ADIDAS PURE GAME EDT 100 ML + SHOWER GEL 250 ML + DEO 150 ML REGULAR (Caja ligeramente dañada)",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38112",
       "en_stock": true
     },
     "38108": {
@@ -4860,6 +4866,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34347",
       "en_stock": true
     },
+    "34343": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34343",
+      "en_stock": true
+    },
     "34330": {
       "nombre": "TOM FORD VELVET ORCHID EDP 100 ML REGULAR",
       "precio": "129.99 €",
@@ -5662,6 +5674,12 @@
       "nombre": "JAIPUR POUR HOMME EDP 100ML @",
       "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32173",
+      "en_stock": true
+    },
+    "32092": {
+      "nombre": "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32092",
       "en_stock": true
     },
     "32082": {
@@ -8096,7 +8114,7 @@
     },
     "20729": {
       "nombre": "PACO RABANE UNISEX EDT 100 ML @",
-      "precio": "14.99 €",
+      "precio": "16.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20729",
       "en_stock": true
     },
@@ -10354,7 +10372,7 @@
     },
     "36179": {
       "nombre": "SOLO LOEWE ELLA ELIXIR EDP 100 ML @",
-      "precio": "89.99 €",
+      "precio": "96.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36179",
       "en_stock": true
     },
@@ -12074,6 +12092,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42002",
       "en_stock": true
     },
+    "42001": {
+      "nombre": "MIU MIU FLEUR DE LAIT EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42001",
+      "en_stock": true
+    },
+    "42000": {
+      "nombre": "MIU MIU L EAU DE MUGUET EDP 100 ML @",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42000",
+      "en_stock": true
+    },
     "41998": {
       "nombre": "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
       "precio": "16.99 €",
@@ -13696,7 +13726,7 @@
     },
     "40589": {
       "nombre": "ROCHAS MADEMOISELLE IN LOVE EDP 90 ML @",
-      "precio": "39.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40589",
       "en_stock": true
     },
@@ -17784,6 +17814,12 @@
       "nombre": "VALENTINO BORN IN ROMA PURPLE MELANCHOLIA DONNA EDP 100 ML @",
       "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38520",
+      "en_stock": true
+    },
+    "38518": {
+      "nombre": "MARC JACOBS PERFECT ELIXIR EDP 100 ML @",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38518",
       "en_stock": true
     },
     "38515": {
@@ -25346,6 +25382,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31531",
       "en_stock": true
     },
+    "31516": {
+      "nombre": "SOLO LOEWE ELLA EDT 100 ML @ (FORMATO NUEVO BOTELLA ALARGADA)",
+      "precio": "61.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31516",
+      "en_stock": true
+    },
     "31515": {
       "nombre": "IRRESISTIBLE EDT 80 ML @",
       "precio": "34.99 €",
@@ -29912,6 +29954,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=18683",
       "en_stock": true
     },
+    "18680": {
+      "nombre": "PACO RABANNE CALANDRE EDT 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=18680",
+      "en_stock": true
+    },
     "18614": {
       "nombre": "OBSESSION EDP 50ML REGULAR",
       "precio": "27.99 €",
@@ -34066,6 +34114,7 @@
     "MARC JACOBS DOT WOMAN EDP 30 ML REGULAR",
     "MARC JACOBS HONEY EDP 100 ML REGULAR",
     "MARC JACOBS LOVE GLOW EDT 50 ML REGULAR",
+    "MARC JACOBS PERFECT ELIXIR EDP 100 ML @",
     "MARC JACOBS PERFECT INTENSE EDP 50 ML REGULAR",
     "MARIAH CAREY FOREVER EDP 100ML REGULAR",
     "MARIAH CAREY LUSCIOUS PINK EDP 100ML REGULAR",
@@ -34128,6 +34177,7 @@
     "MONSOON EDT 30 ML REGULAR",
     "MONSOON ELATION EDT 30 ML REGULAR",
     "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
+    "MONT BLANC EXPLORER PLATINUM EDP 100 ML @",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
     "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
@@ -34336,6 +34386,7 @@
     "PACO RABANE PACO ROSE EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML @",
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
+    "PACO RABANNE CALANDRE EDT 100 ML @",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
     "PACO RABANNE GENIUS ME EDP 62 ML @ (SIN CAJA)",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
@@ -34642,6 +34693,7 @@
     "SOLO LOEWE (FORMATO NUEVO) EDT 100 ML @ (SIN CAJA, 35% DEL CONTENIDO)",
     "SOLO LOEWE CEDRO EDT 100 ML @ (FORMATO NUEVO) (SIN CAJA, 7% DEL CONTENIDO)",
     "SOLO LOEWE ELLA EDT 100 ML @",
+    "SOLO LOEWE ELLA EDT 100 ML @ (FORMATO NUEVO BOTELLA ALARGADA)",
     "SOLO LOEWE ELLA EDT 100 ML REGULAR",
     "SPAGNOLO MEDITERRANEO EDT 75 ML @ (SIN CAJA)",
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
