@@ -32152,6 +32152,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42764": {
+      "nombre": "D&G LIGHT BLUE MAN EDT 125ML (Sin caja, 85% del contenido)",
+      "precio": "28.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42764",
+      "en_stock": true
+    },
+    "42763": {
+      "nombre": "IRRESISTIBLE ROSE VELVET EDP 80 ML @ (Sin caja, 60% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42763",
+      "en_stock": true
+    },
+    "42762": {
+      "nombre": "PACO RABANNE FAME (ROBOT MUJER)  EDP 80 ML @ (Sin caja, 15% del contenido)",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42762",
+      "en_stock": true
+    },
+    "42761": {
+      "nombre": "MY WAY ARMANI FLORAL (RECARGABLE) EDP 90 ML @ (Sin caja, 65% del contenido)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42761",
+      "en_stock": true
+    },
+    "42760": {
+      "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML @ (Sin caja, 30% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42760",
+      "en_stock": true
+    },
     "42759": {
       "nombre": "TOUS MAN CHILL EDT 100 ML @ (sin caja, 90% del contenido)",
       "precio": "19.99 €",
@@ -32906,6 +32936,12 @@
       "nombre": "BOSS ORANGE MAN EDT 100ML @ (sin caja)",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30231",
+      "en_stock": true
+    },
+    "29929": {
+      "nombre": "ANGEL SCHLESSER FEMME ADORABLE EDT 100ML @ (Sin caja, 60% del contenido)",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29929",
       "en_stock": true
     },
     "29743": {
@@ -34160,6 +34196,7 @@
     "INCANTO LOVELY FLOWER EDT 50 ML @",
     "INCANTO WOMAN EDP 100ML REGULAR",
     "IRRESISTIBLE NECTAR EDP 80 ML @",
+    "IRRESISTIBLE ROSE VELVET EDP 80 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "ISSE MIYAKE L EAU D`ISSEY PURE PETALE NECTAR EDT 90 ML @",
     "ISSE MIYAKE L EAU D`ISSEY WOMAN EDT INTENSE 100 ML @",
     "ISSE MIYAKE LUMIERE D ISSEY EDP 100 ML @",
@@ -34520,6 +34557,7 @@
     "MUGLER STARLICIOUS PINAPPLE MUSK 75 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "MUGLER STARLICIOUS PISTACHIO EAU 75 ML @",
     "MY BREIL WOMAN EDP 75 ML @",
+    "MY WAY ARMANI FLORAL (RECARGABLE) EDP 90 ML @ (SIN CAJA, 65% DEL CONTENIDO)",
     "MY WAY ARMANI SUNNY VAINILLA EDP 90 ML @",
     "MY WAY INTENSE ARMANI EDP 90 ML @",
     "MYRURGIA 1916 AGUA DE COLONIA 100 ML @",
@@ -34702,9 +34740,11 @@
     "PACO RABANE UNISEX EDT 100 ML REGULAR",
     "PACO RABANNE CALANDRE EDT 100 ML @",
     "PACO RABANNE CALANDRE EDT 100 ML REGULAR",
+    "PACO RABANNE FAME (ROBOT MUJER)  EDP 80 ML @ (SIN CAJA, 15% DEL CONTENIDO)",
     "PACO RABANNE GENIUS ME EDP 62 ML @ (SIN CAJA)",
     "PACO RABANNE INVICTUS ELIXIR PARFUM 100 ML REGULAR",
     "PACO RABANNE INVICTUS MAN EDT 100 ML @",
+    "PACO RABANNE INVICTUS MAN EDT 100 ML @ (SIN CAJA, 30% DEL CONTENIDO)",
     "PACO RABANNE INVICTUS MAN EDT 100 ML REGULAR",
     "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
     "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
