@@ -6456,12 +6456,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29298",
       "en_stock": true
     },
-    "29270": {
-      "nombre": "REAL MADRID EDT 100 ML @ (Sin caja)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29270",
-      "en_stock": true
-    },
     "29260": {
       "nombre": "JAGUAR CLASSIC BLACK EDT 100 ML @",
       "precio": "8.99 €",
@@ -26516,12 +26510,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29043",
       "en_stock": true
     },
-    "29041": {
-      "nombre": "LAURA BIAGIOTTI ROMAMOR WOMAN EDT 100ML @",
-      "precio": "26.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29041",
-      "en_stock": true
-    },
     "29032": {
       "nombre": "PRADA LA FEMME L EAU EDT 100 ML @",
       "precio": "49.99 €",
@@ -32146,6 +32134,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42728": {
+      "nombre": "DKNY EDT WOMAN 100ML @ (Sin caja 50% del contenido)",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42728",
+      "en_stock": true
+    },
+    "42727": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja, 50% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42727",
+      "en_stock": true
+    },
+    "42726": {
+      "nombre": "JIMMY CHOO ROSE PASSION EDP 100 ML @ (Sin caja, 50% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42726",
+      "en_stock": true
+    },
     "42725": {
       "nombre": "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @ (Sin caja)",
       "precio": "49.99 €",
@@ -33589,6 +33595,7 @@
     "DKNY BE DELICIOUS LATTE PISTACHIO EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (CAJA DAÑADA)",
+    "DKNY EDT WOMAN 100ML @ (SIN CAJA 50% DEL CONTENIDO)",
     "DKNY ENERGIZING MEN EDT 100ML REGULAR",
     "DKNY ENERGIZING WOMAN EDT 100 ML REGULAR",
     "DKNY GOLDEN DELICIOUS EDP 100 ML REGULAR",
@@ -33980,6 +33987,7 @@
     "JIMMY CHOO FLASH EDP 100ML REGULAR",
     "JIMMY CHOO FLORAL EDT 90 ML @",
     "JIMMY CHOO ILLICIT EDP 100 ML @",
+    "JIMMY CHOO ROSE PASSION EDP 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "JIMMY CHOO WANT CHOO FOREVER EDP 125ML @ (SINC AJA, 10% DEL CONTENIDO)",
     "JIMMY CHOO WANT CHOO WITH LOVE EDP 125ML @",
     "JLO LOVE AND LIGHT EDP 75 ML REGULAR",
@@ -34252,6 +34260,7 @@
     "MONSOON ELATION EDT 30 ML REGULAR",
     "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
     "MONT BLANC EXPLORER PLATINUM EDP 100 ML @",
+    "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
     "MONTALE ARABIANS TONKA (UNISEX) EDP 100 ML @",
