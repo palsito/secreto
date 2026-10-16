@@ -32086,6 +32086,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42767": {
+      "nombre": "YSL MON PARIS EDP 90 ML @ (Sin caja, 75% del contenido)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42767",
+      "en_stock": true
+    },
     "42738": {
       "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML REGULAR (SIn caja, 90% del contenido)",
       "precio": "23.99 €",
@@ -32152,16 +32158,16 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42765": {
+      "nombre": "CK ETERNITY FOR MEN AROMATIC ESSENCE PARFUM INTENSE 100ML @ (Sin caja, 95% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42765",
+      "en_stock": true
+    },
     "42764": {
       "nombre": "D&G LIGHT BLUE MAN EDT 125ML (Sin caja, 85% del contenido)",
       "precio": "28.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42764",
-      "en_stock": true
-    },
-    "42763": {
-      "nombre": "IRRESISTIBLE ROSE VELVET EDP 80 ML @ (Sin caja, 60% del contenido)",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42763",
       "en_stock": true
     },
     "42762": {
@@ -33702,6 +33708,7 @@
     "CK BE UNISEX (NEGRA) EDT 100ML REGULAR",
     "CK BEAUTY EDP 100ML REGULAR",
     "CK DEFY FOR MEN EDT 100ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "CK ETERNITY FOR MEN AROMATIC ESSENCE PARFUM INTENSE 100ML @ (SIN CAJA, 95% DEL CONTENIDO)",
     "CK ETERNITY FOR WOMEN AROMATIC ESSENCE PARFUM INTENSE 50 ML REGULAR",
     "CK ETERNITY MOMENT EDP 50ML REGULAR",
     "CK ETERNITY WOMAN EAU FRESH EDP 100ML @ (SIN CAJA)",
@@ -35293,6 +35300,7 @@
     "YSL LIBRE SANTAL COUTURE 50 ML @",
     "YSL LIBRE SANTAL COUTURE 50 ML REGULAR",
     "YSL MANIFESTO EDP 90 ML @",
+    "YSL MON PARIS EDP 90 ML @ (SIN CAJA, 75% DEL CONTENIDO)",
     "YSL MYSLF LE PARFUM  (MAS CONCENTRADA) 100 ML REGULAR",
     "YSL RIVE GAUCHE EDT 100ML REGULAR",
     "YSL Y MAN LE ELIXIR PARFUM EDP 60 ML @",
