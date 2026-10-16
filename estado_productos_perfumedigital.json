@@ -10851,7 +10851,7 @@
       "en_stock": true
     },
     "42706": {
-      "nombre": "ESTEE LAUDER BRONZE GODDESS GODDESS EAU FRAICHE EDT 100 ML @",
+      "nombre": "ESTEE LAUDER BRONZE GODDESS GODDESS EAU FRAICHE EDT 100 ML @ (sin caja)",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42706",
       "en_stock": true
@@ -25449,7 +25449,7 @@
       "en_stock": true
     },
     "31492": {
-      "nombre": "TRUSSARDI NEW FEMEMINE EDP 90 ML @",
+      "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31492",
       "en_stock": true
@@ -32086,6 +32086,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42738": {
+      "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML REGULAR (SIn caja, 90% del contenido)",
+      "precio": "23.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42738",
+      "en_stock": true
+    },
     "42353": {
       "nombre": "TOUS MORE PINK EDT 90 ML @ (SIN CAJA, 85% del contenido)",
       "precio": "16.99 €",
@@ -32104,9 +32110,15 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41815",
       "en_stock": true
     },
+    "41586": {
+      "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML REGULAR (SIn caja, 20% del contenido)",
+      "precio": "10.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41586",
+      "en_stock": true
+    },
     "36712": {
-      "nombre": "TRUSSARDI NEW FEMEMINE EDP 90 ML REGULAR (SIn caja, 50% del contenido)",
-      "precio": "16.99 €",
+      "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML REGULAR (SIn caja, 80% del contenido)",
+      "precio": "21.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36712",
       "en_stock": true
     },
@@ -32132,6 +32144,78 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42750": {
+      "nombre": "DKNY EDT WOMAN 100ML @ (Sin caja 70% del contenido)",
+      "precio": "25.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42750",
+      "en_stock": true
+    },
+    "42748": {
+      "nombre": "DKNY EDT WOMAN 100ML @ (Sin caja 80% del contenido)",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42748",
+      "en_stock": true
+    },
+    "42747": {
+      "nombre": "ADOLFO DOMINGUEZ VERBENA WOMAN EDT 120ML @ (Sin caja, 90% del contenido)",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42747",
+      "en_stock": true
+    },
+    "42746": {
+      "nombre": "DKNY EDT WOMAN 100ML @ (Sin caja 90% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42746",
+      "en_stock": true
+    },
+    "42745": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja, 40% del contenido)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42745",
+      "en_stock": true
+    },
+    "42744": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42744",
+      "en_stock": true
+    },
+    "42743": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "35.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42743",
+      "en_stock": true
+    },
+    "42742": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42742",
+      "en_stock": true
+    },
+    "42741": {
+      "nombre": "DKNY WOMAN EDP 100ML @ (Sin caja, 60% del contenido)",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42741",
+      "en_stock": true
+    },
+    "42740": {
+      "nombre": "212 MEN HEROES EDT 90 ML @ (Sin caja, 35% del contenido)",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42740",
+      "en_stock": true
+    },
+    "42739": {
+      "nombre": "ISSEY MIYAKE L EAU ISSEY POUR HOMME VETIVER INTENSE EDT 100 ML @ (Sin caja, 65% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42739",
+      "en_stock": true
+    },
+    "42737": {
+      "nombre": "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @ (Sin caja, 55% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42737",
       "en_stock": true
     },
     "42736": {
@@ -32171,8 +32255,8 @@
       "en_stock": true
     },
     "42730": {
-      "nombre": "JIMMY CHOO ROSE PASSION EDP 100 ML @ (Sin caja, 20% del contenido)",
-      "precio": "8.99 €",
+      "nombre": "JIMMY CHOO ROSE PASSION EDP 100 ML @ (Sin caja, 15% del contenido)",
+      "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42730",
       "en_stock": true
     },
@@ -32644,6 +32728,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33284",
       "en_stock": true
     },
+    "33214": {
+      "nombre": "YSL BLACK OPIUM EXTREME EDP 90 ML @ (Sin caja, 40% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33214",
+      "en_stock": true
+    },
     "33151": {
       "nombre": "REBEL QUEEN WOMAN EDT 100 ML @ (Sin caja)",
       "precio": "3.99 €",
@@ -32976,6 +33066,7 @@
     "1881 SILVER NIGHT HOMME EDP 100ML @",
     "212 MEN EDT 100ML @",
     "212 MEN EDT 100ML REGULAR",
+    "212 MEN HEROES EDT 90 ML @ (SIN CAJA, 35% DEL CONTENIDO)",
     "212 MEN PARFUM 100 ML REGULAR",
     "212 SEXY MEN EDT 100ML REGULAR",
     "212 SEXY WOMAN EDP 100ML REGULAR",
@@ -33041,6 +33132,7 @@
     "ADOLFO DOMINGUEZ BAMBÚ MAN EDP 120ML @",
     "ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ADOLFO DOMINGUEZ NEROLI FOR MEN EDT 120 ML @",
+    "ADOLFO DOMINGUEZ VERBENA WOMAN EDT 120ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "AGUA BRAVA EDC 100ML @",
     "AGUA DE COLONIA CONCENTRADA ÁLVAREZ GÓMEZ 150 ML @ (SIN CAJA)",
     "AGUA DE COLONIA CONCENTRADA ÁLVAREZ GÓMEZ 150 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
@@ -33567,6 +33659,7 @@
     "D&G LIGHT BLUE EAU DE PARFUM POUR HOMME EDP 100 ML REGULAR",
     "D&G LIGHT BLUE EAU DE PARFUM WOMAN EDP 100ML @",
     "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @",
+    "D&G LIGHT BLUE EAU INTENSE POUR HOMME EDP 100 ML @ (SIN CAJA, 55% DEL CONTENIDO)",
     "D&G LIGHT BLUE EAU PARFUM GEL 30 ML REGULAR",
     "D&G LIGHT BLUE MAN AFTER SHAVE 125ML REGULAR",
     "D&G LIGHT BLUE POUR HOMME SUMMER VIBES EDT 125 ML @ (SIN CAJA, 85% DEL CONTENIDO)",
@@ -33658,6 +33751,7 @@
     "DKNY GOLDEN DELICIOUS EDP 30 ML REGULAR",
     "DKNY MAN II EDT 100ML @ (SIN CAJA)",
     "DKNY RED DELICIOUS  MEN EDT 100ML @",
+    "DKNY WOMAN EDP 100ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "DOLCE  PEONY DE DOLCE& GABBANA EDP 75 ML @",
     "DOLCE  VIOLET DE DOLCE& GABBANA EDT 75 ML @",
     "DOLCE & GABBANA LIGHT BLUE SUMMER VIBES WOMAN EDT 100ML @ (SIN CAJA, 75% DEL CONTENIDO)",
@@ -33996,6 +34090,7 @@
     "ISSEY MIYAKE FUSION EDT 100 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "ISSEY MIYAKE FUSION EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO)",
     "ISSEY MIYAKE HOMME NUIT D`ISSEY EDT 125 ML @",
+    "ISSEY MIYAKE L EAU ISSEY POUR HOMME VETIVER INTENSE EDT 100 ML @ (SIN CAJA, 65% DEL CONTENIDO)",
     "ISSEY MIYAKE L EAU MAJEURE EDT 100ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME EDP (EAU DE PARFUM) 125 ML @",
     "ISSEY MIYAKE L´EAU D´ISSEY POUR HOMME WOOD & WOOD EDP 100 ML @",
@@ -34316,6 +34411,7 @@
     "MONSOON ELATION EDT 30 ML REGULAR",
     "MONT BLANC EXPLORER EXTREME PARFUM 100 ML @",
     "MONT BLANC EXPLORER PLATINUM EDP 100 ML @",
+    "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (SIN CAJA)",
     "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "MONT BLANC EXPLORER ULTRA BLUE EDP 100 ML @",
     "MONT BLANC PRESENCE COOL MAN EDT 75 ML REGULAR",
@@ -35067,6 +35163,7 @@
     "YSL  MYSLF EDP 100 ML @",
     "YSL  MYSLF EDP 100 ML REGULAR",
     "YSL BLACK OPIUM EDP 90 ML @",
+    "YSL BLACK OPIUM EXTREME EDP 90 ML @ (SIN CAJA, 40% DEL CONTENIDO)",
     "YSL BLACK OPIUM PONK GLAZE EDP 90 ML REGULAR",
     "YSL LIBRE ABSOLU PLATINE EDP 90 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "YSL LIBRE EDP 90 ML REGULAR",
