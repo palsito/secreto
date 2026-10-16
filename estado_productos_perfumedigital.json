@@ -17486,12 +17486,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38731",
       "en_stock": true
     },
-    "38729": {
-      "nombre": "BVLGARI OMNIA CRYSTALLINE EDT 100 ML @",
-      "precio": "69.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38729",
-      "en_stock": true
-    },
     "38728": {
       "nombre": "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML @",
       "precio": "74.99 €",
@@ -26510,6 +26504,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29043",
       "en_stock": true
     },
+    "29041": {
+      "nombre": "LAURA BIAGIOTTI ROMAMOR WOMAN EDT 100ML @",
+      "precio": "26.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29041",
+      "en_stock": true
+    },
     "29032": {
       "nombre": "PRADA LA FEMME L EAU EDT 100 ML @",
       "precio": "49.99 €",
@@ -32132,6 +32132,12 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42729": {
+      "nombre": "JIMMY CHOO ROSE PASSION EDP 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42729",
       "en_stock": true
     },
     "42728": {
