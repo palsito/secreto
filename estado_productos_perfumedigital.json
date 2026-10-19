@@ -1116,6 +1116,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42062",
       "en_stock": true
     },
+    "42041": {
+      "nombre": "BOSS BOTTLED MAN EDT 30 ML REGULAR",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42041",
+      "en_stock": true
+    },
     "42039": {
       "nombre": "ETERNITY AMBER ESSENCE FOR MEN PARFUM INTENSE 50 ML REGULAR (caja ligeramente dañada)",
       "precio": "24.99 €",
@@ -4006,12 +4012,6 @@
       "nombre": "ALFA ROMEO RED EDT 125 ML @",
       "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36253",
-      "en_stock": true
-    },
-    "36252": {
-      "nombre": "CHANEL ALLURE HOMME SPORT EDT 100 ML @",
-      "precio": "94.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36252",
       "en_stock": true
     },
     "36251": {
@@ -32218,12 +32218,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
-    "42820": {
-      "nombre": "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @ (VAPO ROTO)",
-      "precio": "46.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42820",
-      "en_stock": true
-    },
     "42775": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML @ (Sin caja, 95% del contenido)",
       "precio": "21.99 €",
@@ -32296,6 +32290,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42848": {
+      "nombre": "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42848",
+      "en_stock": true
+    },
     "42845": {
       "nombre": "PACHA 24/7 POOL PARTY HIM EDT 100 ML @ (90% del contenido)",
       "precio": "7.99 €",
@@ -32342,12 +32342,6 @@
       "nombre": "BUSTAMANTE ESENCIA IN BLUE EL EDT 100 ML @ (60% DEL CONTENIDO)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42830",
-      "en_stock": true
-    },
-    "42827": {
-      "nombre": "WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ (90% DEL CONTENIDO, OSCURA)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42827",
       "en_stock": true
     },
     "42826": {
@@ -35373,6 +35367,7 @@
     "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
     "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
     "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
+    "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POSEIDON GOLD MAN EDT 100ML + AFTERSHAVE 100 ML REGULAR",
