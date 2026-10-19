@@ -396,6 +396,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42847": {
+      "nombre": "FC BARCELONA NECESER BODY SPRAY 100 ML + EDT 50 ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42847",
+      "en_stock": true
+    },
+    "42846": {
+      "nombre": "REAL MADRID NECESER BODY SPRAY 100 ML + EDT 50 ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42846",
+      "en_stock": true
+    },
     "42844": {
       "nombre": "REAL MADRID EDT 100 ML + DESODORANTE SPRAY 150 ML REGULAR",
       "precio": "14.99 €",
@@ -4192,6 +4204,12 @@
       "nombre": "JACQUES ZOLTY A BIENTOT EDP 100 ML @",
       "precio": "82.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35840",
+      "en_stock": true
+    },
+    "35795": {
+      "nombre": "REAL MADRID NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35795",
       "en_stock": true
     },
     "35794": {
@@ -34324,6 +34342,7 @@
     "FARALA ORIGINAL EDT 150 ML REGULAR",
     "FARALA ORIGINAL EDT 75 ML @ (SIN CAJA)",
     "FC BARCELONA BALON EDP 100 ML @ (SIN CAJA)",
+    "FC BARCELONA NECESER BODY SPRAY 100 ML + EDT 50 ML REGULAR",
     "FCUK HER EDT 100 ML REGULAR",
     "FCUK HER SUMMER EDT 100 ML REGULAR",
     "FCUK HIM EDT 100 ML REGULAR",
@@ -35221,6 +35240,8 @@
     "RAMON MOLVIZAR PK TWO EDP BLACK MAN 100 ML REGULAR",
     "REAL MADRID EDT 100 ML + DESODORANTE SPRAY 150 ML REGULAR",
     "REAL MADRID EDT 100 ML @ (SIN CAJA)",
+    "REAL MADRID NECESER BODY SPRAY 100 ML + EDT 50 ML REGULAR",
+    "REAL MADRID NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
     "REBEL CRAZY WOMAN EDT 100 ML @ (SIN CAJA)",
     "RED DOOR AURA EDT 100 ML REGULAR",
     "RED DOOR ETERNAL AURA EDP 100 ML @",
