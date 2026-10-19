@@ -10820,6 +10820,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42822": {
+      "nombre": "WOMAN SECRET EAU MY SECRET EDT 100 ML @ (90% DEL CONTENIDO)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42822",
+      "en_stock": true
+    },
+    "42821": {
+      "nombre": "VICTORIO & LUCCHINO AGUA N 11 AMBAR ENIGMATICO EDT 150 ML @ (30% DEL CONTENIDO)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42821",
+      "en_stock": true
+    },
     "42819": {
       "nombre": "SET DON ALGODON BABYLON EDP 100 ML + 30 ML REGULAR",
       "precio": "15.99 €",
@@ -32140,6 +32152,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42820": {
+      "nombre": "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @ (VAPO ROTO)",
+      "precio": "46.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42820",
+      "en_stock": true
+    },
     "42775": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML @ (Sin caja, 95% del contenido)",
       "precio": "21.99 €",
@@ -32204,6 +32222,42 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42830": {
+      "nombre": "BUSTAMANTE ESENCIA IN BLUE EL EDT 100 ML @ (60% DEL CONTENIDO)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42830",
+      "en_stock": true
+    },
+    "42827": {
+      "nombre": "WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ (90% DEL CONTENIDO, OSCURA)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42827",
+      "en_stock": true
+    },
+    "42826": {
+      "nombre": "THE REBEL JESUS CASTRO SEX SYMBOL EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42826",
+      "en_stock": true
+    },
+    "42825": {
+      "nombre": "JUST CAVALLI GIVE ME MAGIC FEMME EDP 90 ML @ (50% del contenido)",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42825",
+      "en_stock": true
+    },
+    "42824": {
+      "nombre": "CH PASSION WOMAN EDP 100ML @ (95% del contenido)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42824",
+      "en_stock": true
+    },
+    "42823": {
+      "nombre": "YSL LIBRE L EAU NUE EDP 90 ML @ (95% del contenido)",
+      "precio": "56.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42823",
       "en_stock": true
     },
     "42817": {
@@ -32594,6 +32648,12 @@
       "nombre": "EAU JEUNE L ECHAPPEE BELLE EDT 75 ML REGULAR (Sin caja, 90% del contenido)",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42409",
+      "en_stock": true
+    },
+    "42406": {
+      "nombre": "LOLITALAND EDP 80 ML @ (Sin caja, 95% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42406",
       "en_stock": true
     },
     "42398": {
@@ -33725,6 +33785,7 @@
     "BURBERRY GODDESS EDP 100 ML REGULAR",
     "BURBERRY GODDESS INTENSE EDP 100 ML REGULAR (CAJA DAÑADA)",
     "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @",
+    "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @ (VAPO ROTO)",
     "BURBERRY GODDESS PARFUM 100 ML @",
     "BURBERRY HER PARFUM 100 ML @",
     "BURBERRY LONDON MEN  (CAJA DE RAYAS)  EDT 100ML REGULAR",
@@ -33737,6 +33798,7 @@
     "BURBERRY WEEKEND WOMAN EDP 100ML @",
     "BURBERRY WOMEN EDP 100ML  @",
     "BURBERRY WOMEN EDP 100ML REGULAR",
+    "BUSTAMANTE ESENCIA IN BLUE EL EDT 100 ML @ (60% DEL CONTENIDO)",
     "BUSTAMANTE MUY MIO GOLD EDT 100 ML @",
     "BUSTAMANTE MUY MIO ORIGEN EDT 100 ML @",
     "BVLGARI  ALLEGRA FIORI D AMORE EDP 100 ML REGULAR",
@@ -33805,6 +33867,7 @@
     "CERRUTI 1881 RIVIERA POUR HOMME EDT EDT 100 ML @",
     "CH MEN PASSION EDP 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "CH MEN SPORT EDT 100 ML REGULAR",
+    "CH PASSION WOMAN EDP 100ML @ (95% DEL CONTENIDO)",
     "CH WOMAN EDT 100ML @",
     "CH WOMAN EDT 100ML REGULAR",
     "CH WOMAN EDT 30ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
@@ -34457,6 +34520,7 @@
     "JUICY VIVA LA JUICY LA FLEUR WOMAN EDT 150 ML @",
     "JULIETTE HAS A GUN MAGNOLIA BLISS EDP 100 ML @ (SIN CAJA)",
     "JULIETTE HAS A GUN NOT ODE TO DULLNESS EDP 100 ML @ (SIN CAJA)",
+    "JUST CAVALLI GIVE ME MAGIC FEMME EDP 90 ML @ (50% DEL CONTENIDO)",
     "JUST CAVALLI MAN EDT 90 ML @",
     "JUST CAVALLI MAN EDT 90 ML REGULAR",
     "JUST CAVALLI WILD HEARTS FOR HER EDP 90 ML @",
@@ -35264,6 +35328,7 @@
     "THE GOLDEN SECRET EDT 100 ML @",
     "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA)",
     "THE MANDARINERS FOR HER (ELLA) EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "THE REBEL JESUS CASTRO SEX SYMBOL EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "TIFFANY&CO ROSE GOLD EDP 5 ML (CINCO ML) REGULAR",
     "TITTO BLUNI COLEZIONE EDT 100 ML @ (SIN CAJA)",
     "TOM FORD BLACK ORCHID WOMAN EDP  (CUADRADO NEGRO) 100 ML REGULAR",
@@ -35410,6 +35475,7 @@
     "VICTORIO & LUCCHINO AGUA MASCULINA N 9 NOCHE ENIGMATICA 150 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "VICTORIO & LUCCHINO AGUA MASCULINA SELVA EXOTICA 150 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "VICTORIO & LUCCHINO AGUA N 1 AZAHAR RADIANTE 150 ML @",
+    "VICTORIO & LUCCHINO AGUA N 11 AMBAR ENIGMATICO EDT 150 ML @ (30% DEL CONTENIDO)",
     "VICTORIO & LUCCHINO AGUA N 15 AGUAS DE PERFUME FLOR ORIENTAL EDP 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 16  AGUAS DE PERFUME FLOR EXOTICA EDP 150 ML @",
     "VICTORIO & LUCCHINO AGUA N 16  AGUAS INTENSAS  FLOR EXOTICA EDT 150 ML REGULAR",
@@ -35452,6 +35518,8 @@
     "WOMAN SECRET DAILY ROMANCE 250 ML @",
     "WOMAN SECRET EAU MY DELICE EDT 100 ML @",
     "WOMAN SECRET EAU MY SECRET EDT 100 ML @",
+    "WOMAN SECRET EAU MY SECRET EDT 100 ML @ (90% DEL CONTENIDO)",
+    "WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ (90% DEL CONTENIDO, OSCURA)",
     "WOMAN SECRET INTIMATE DAY DREAM EDP 100 ML @",
     "WOMAN SECRET ITS FRESH EDT 100 ML @",
     "WORKSHOP SAMBA  MEN EDT 100ML REGULAR",
@@ -35482,6 +35550,7 @@
     "YSL LIBRE EDP 90 ML REGULAR",
     "YSL LIBRE EDT 90 ML @",
     "YSL LIBRE INTENSE EDP 90 ML @",
+    "YSL LIBRE L EAU NUE EDP 90 ML @ (95% DEL CONTENIDO)",
     "YSL LIBRE SANTAL COUTURE 50 ML @",
     "YSL LIBRE SANTAL COUTURE 50 ML REGULAR",
     "YSL MANIFESTO EDP 90 ML @",
