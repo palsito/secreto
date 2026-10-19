@@ -10820,6 +10820,54 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42811": {
+      "nombre": "SET TPF MAGIC SNOW EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42811",
+      "en_stock": true
+    },
+    "42810": {
+      "nombre": "SET TPF SWEET WINTER EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42810",
+      "en_stock": true
+    },
+    "42809": {
+      "nombre": "SET TPF ICE FEVER EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42809",
+      "en_stock": true
+    },
+    "42808": {
+      "nombre": "SET TPF PATISSERIE DUO CHERRY PIE EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42808",
+      "en_stock": true
+    },
+    "42807": {
+      "nombre": "SET TPF PATISSERIE DUO CARAMEL EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42807",
+      "en_stock": true
+    },
+    "42806": {
+      "nombre": "SET TPF PATISSERIE DUO PISTACHO EDT 30 ML + CREMA MANOS REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42806",
+      "en_stock": true
+    },
+    "42804": {
+      "nombre": "SET DON ALGODON EDT 100 ML + LOCION 200 ML + GEL DUCHA 200 ML REGULAR",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42804",
+      "en_stock": true
+    },
+    "42803": {
+      "nombre": "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42803",
+      "en_stock": true
+    },
     "42802": {
       "nombre": "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
       "precio": "8.99 €",
@@ -19290,12 +19338,6 @@
       "nombre": "AMOUROUD LUNAR VETIVER EDP 100 ML REGULAR",
       "precio": "129.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37610",
-      "en_stock": true
-    },
-    "37606": {
-      "nombre": "AMOUAGE OPUS XII ROSE INCENSE EDP 100 ML REGULAR",
-      "precio": "299.00 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37606",
       "en_stock": true
     },
     "37605": {
@@ -32722,6 +32764,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35823",
       "en_stock": true
     },
+    "35308": {
+      "nombre": "NARCISO RODRIGUEZ FOR HIM BLEU NOIR LE PARFUM 100ML @ (90% del contenido)",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35308",
+      "en_stock": true
+    },
     "35226": {
       "nombre": "SAPHIR MIST SILOE WOMAN EDP 30 ML @ (sin caja)",
       "precio": "1.99 €",
@@ -34612,6 +34660,7 @@
     "NARCISO RODRIGUEZ FOR HER PURE MUSC BLANC EDP INTENSE 100 ML @",
     "NARCISO RODRIGUEZ FOR HIM BLEU NOIR EDP 100ML @",
     "NARCISO RODRIGUEZ FOR HIM BLEU NOIR EDP 100ML REGULAR (SIN CAJA, 80% DEL CONTENIDO)",
+    "NARCISO RODRIGUEZ FOR HIM BLEU NOIR LE PARFUM 100ML @ (90% DEL CONTENIDO)",
     "NARCISO RODRIGUEZ FOR HIM MUSC SANTAL PARFUM INTENSE 100 ML @",
     "NARCISO RODRIGUEZ MUSC NOIR FOR HER  EDP 100ML @ (70% DEL CONTENIDO)",
     "NARCISO RODRIGUEZ WOMAN EDT 100 ML @",
@@ -35044,8 +35093,10 @@
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
+    "SET DON ALGODON EDT 100 ML + LOCION 200 ML + GEL DUCHA 200 ML REGULAR",
     "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
+    "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
@@ -35072,6 +35123,12 @@
     "SET TOUS LOVE ME EDP 90 ML + 15 ML + MINIATURA REGULAR",
     "SET TOUS LOVE ME ONYX EDP 90 ML + 15 ML + MINIATURA REGULAR",
     "SET TOUS MAN EDT 100 ML REGULAR + 50 ML REGULAR",
+    "SET TPF ICE FEVER EDT 30 ML + CREMA MANOS REGULAR",
+    "SET TPF MAGIC SNOW EDT 30 ML + CREMA MANOS REGULAR",
+    "SET TPF PATISSERIE DUO CARAMEL EDT 30 ML + CREMA MANOS REGULAR",
+    "SET TPF PATISSERIE DUO CHERRY PIE EDT 30 ML + CREMA MANOS REGULAR",
+    "SET TPF PATISSERIE DUO PISTACHO EDT 30 ML + CREMA MANOS REGULAR",
+    "SET TPF SWEET WINTER EDT 30 ML + CREMA MANOS REGULAR",
     "SET YSL BLACK OPIUM EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
