@@ -10820,6 +10820,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42815": {
+      "nombre": "SET FARALA ORIGINAL EDT 75 ML + BODY LOCION 75 ML + GEL DUCHA 75 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42815",
+      "en_stock": true
+    },
+    "42814": {
+      "nombre": "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42814",
+      "en_stock": true
+    },
+    "42813": {
+      "nombre": "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42813",
+      "en_stock": true
+    },
+    "42812": {
+      "nombre": "SET DON ALGODON VIE EN ROSE 30 ML + ILUMINADOR + CREMA MANOS + NECESER REGULAR",
+      "precio": "11.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42812",
+      "en_stock": true
+    },
     "42811": {
       "nombre": "SET TPF MAGIC SNOW EDT 30 ML + CREMA MANOS REGULAR",
       "precio": "8.99 €",
@@ -32060,12 +32084,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=123",
       "en_stock": true
     },
-    "99": {
-      "nombre": "CHANEL Nº 5 EDP 100ML @",
-      "precio": "104.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=99",
-      "en_stock": true
-    },
     "85": {
       "nombre": "212 SEXY WOMAN EDP 100ML REGULAR",
       "precio": "79.99 €",
@@ -35095,6 +35113,8 @@
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
     "SET DON ALGODON EDT 100 ML + LOCION 200 ML + GEL DUCHA 200 ML REGULAR",
     "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
+    "SET DON ALGODON VIE EN ROSE 30 ML + ILUMINADOR + CREMA MANOS + NECESER REGULAR",
+    "SET FARALA ORIGINAL EDT 75 ML + BODY LOCION 75 ML + GEL DUCHA 75 ML REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
@@ -35105,6 +35125,8 @@
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
     "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
+    "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
+    "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET PRADA PARADOXE EDP 90 ML + 10 ML + BODY LOCION 50 ML REGULAR",
