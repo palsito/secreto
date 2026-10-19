@@ -396,6 +396,30 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42834": {
+      "nombre": "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42834",
+      "en_stock": true
+    },
+    "42831": {
+      "nombre": "SET BRUMMEL SPORT EDC 125 ML + DEO 150 ML + AFTER SHAVE 125 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42831",
+      "en_stock": true
+    },
+    "42829": {
+      "nombre": "SET BRUMMEL EDT125 ML + AFTER SHAVE 125 ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42829",
+      "en_stock": true
+    },
+    "42828": {
+      "nombre": "SET ADIDAS PURE GAME EDT 100 ML + SHOWER GEL 250 ML + DEO 150 ML REGULAR",
+      "precio": "12.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42828",
+      "en_stock": true
+    },
     "42816": {
       "nombre": "SET DON ALGODÓN PARA HOMBRE EDT 100ML + GEL DUCHA 75 ML + AFTER SHAVE  75 ML REGULAR",
       "precio": "14.99 €",
@@ -7342,12 +7366,6 @@
       "nombre": "BLOOD CONCEPT 0 ABAB ROJO EDP 60 ML VAPO REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=24322",
-      "en_stock": true
-    },
-    "24266": {
-      "nombre": "TOMMY BOLD MAN EDT 100 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=24266",
       "en_stock": true
     },
     "24260": {
@@ -32224,6 +32242,42 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42841": {
+      "nombre": "SPRINGFIELD FREE ATTITUDE FLORAL WOODY EDT 100ML @ (90% DEL CONTENIDO)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42841",
+      "en_stock": true
+    },
+    "42840": {
+      "nombre": "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (Sin caja, 70% DEL CONTENIDO)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42840",
+      "en_stock": true
+    },
+    "42837": {
+      "nombre": "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML @ (70% DEL CONTENIDO)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42837",
+      "en_stock": true
+    },
+    "42835": {
+      "nombre": "AXE DARK TEMPTATION EDT 100 ML @ (Sin caja, 60% DEL CONTENIDO)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42835",
+      "en_stock": true
+    },
+    "42833": {
+      "nombre": "BUSTAMANTE MUY MIO GOLD EDT 100 ML @ (90% DEL CONTENIDO)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42833",
+      "en_stock": true
+    },
+    "42832": {
+      "nombre": "PAULA ECHEVARRIA INTENSE EDT 100 ML @ (80% DEL CONTENIDO)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42832",
+      "en_stock": true
+    },
     "42830": {
       "nombre": "BUSTAMANTE ESENCIA IN BLUE EL EDT 100 ML @ (60% DEL CONTENIDO)",
       "precio": "4.99 €",
@@ -32842,6 +32896,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38056",
       "en_stock": true
     },
+    "37983": {
+      "nombre": "SET POSEIDON GOLD MAN EDT 100ML + AFTERSHAVE 100 ML REGULAR (Caja dañada)",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37983",
+      "en_stock": true
+    },
     "37836": {
       "nombre": "ADOLFO DOMINGUEZ UNICA CORAL EDT 100 ML @ (Sin caja)",
       "precio": "27.99 €",
@@ -33422,6 +33482,7 @@
     "ADIDAS ESPECIAL EDITION EXTREME POWER EDT 100 ML @",
     "ADIDAS GET READY WOMAN EDT 50 ML @",
     "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (SIN CAJA)",
+    "ADIDAS HAPPY FEELS ADIDAS VIBES EDP 100 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "ADIDAS ICE DIVE EDT 100 ML @",
     "ADIDAS PURE GAME EDT 100 ML @ (SIN CAJA)",
     "ADIDAS PURE GAME EDT 50 ML @",
@@ -33612,6 +33673,7 @@
     "AXE BLACK EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "AXE DARK TEMPTATION EDT 100 ML @",
     "AXE DARK TEMPTATION EDT 100 ML @ (SIN CAJA)",
+    "AXE DARK TEMPTATION EDT 100 ML @ (SIN CAJA, 60% DEL CONTENIDO)",
     "AXE ICE CHILL HOMBRE EDT 100 ML @",
     "AZUR DE PUIG EAU FRAICHE EDT 100ML @",
     "AZZARO CHROME LEGEND MEN EDT 125ML REGULAR",
@@ -33800,6 +33862,7 @@
     "BURBERRY WOMEN EDP 100ML REGULAR",
     "BUSTAMANTE ESENCIA IN BLUE EL EDT 100 ML @ (60% DEL CONTENIDO)",
     "BUSTAMANTE MUY MIO GOLD EDT 100 ML @",
+    "BUSTAMANTE MUY MIO GOLD EDT 100 ML @ (90% DEL CONTENIDO)",
     "BUSTAMANTE MUY MIO ORIGEN EDT 100 ML @",
     "BVLGARI  ALLEGRA FIORI D AMORE EDP 100 ML REGULAR",
     "BVLGARI AQVA MARINE POUR HOMME EDT 100ML @",
@@ -34939,6 +35002,7 @@
     "PACHA I AM BE INSANE BLACK HIM EDT 100 ML @",
     "PACHA I AM BE INSANE HER EDT 80 ML @",
     "PACHA IBIZA 2010 WOMAN EDT 80ML REGULAR",
+    "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML @ (70% DEL CONTENIDO)",
     "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML REGULAR",
     "PACHA IBIZA DIVA EDT 80 ML @",
     "PACHA IBIZA GLAM WOMAN EDT 80 ML @",
@@ -34991,6 +35055,7 @@
     "PAUL SMITH  OPTIMISTIC WOMAN EDT 100 ML REGULAR",
     "PAUL SMITH PORTRAIT EDP 80 ML REGULAR",
     "PAUL SMITH WOMAN EXTREME EDT 100ML @",
+    "PAULA ECHEVARRIA INTENSE EDT 100 ML @ (80% DEL CONTENIDO)",
     "PAULA EDT 100 ML @",
     "PEDRO DEL HIERRO PEONIA EDP 100 ML @",
     "PEDRO DEL HIERRO POUR HOMME EDT 100 ML @",
@@ -35217,12 +35282,15 @@
     "SET 1 MILLION PACO RABANNE EDT 100ML REGULAR + DEO 150 ML REGULAR + MINIATURA 10 ML",
     "SET 5 TH AVENUE EDP 125ML REGULAR + BODY LOCION 100 ML",
     "SET ACQUA DI GIO EDT 100ML REGULAR + 15 ML REGULAR",
+    "SET ADIDAS PURE GAME EDT 100 ML + SHOWER GEL 250 ML + DEO 150 ML REGULAR",
     "SET ARMANI CODE HOMME EDT 125 ML REGULAR + 15 ML + SHOWER GEL 75 ML REGULAR",
     "SET ARMANI SI EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
     "SET ARMANI STRONGER WITH YOU EDT 100 ML + 15 ML REGULAR",
     "SET BOSS BOTTLED BEYOND EDP 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + EDT 30 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + GEL DUCHA 100 ML + DEO STICK 75 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "SET BRUMMEL EDT125 ML + AFTER SHAVE 125 ML REGULAR",
+    "SET BRUMMEL SPORT EDC 125 ML + DEO 150 ML + AFTER SHAVE 125 ML REGULAR",
     "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
     "SET CHARRO FOR WOMAN EDP 30 ML + GEL 100 ML REGULAR",
@@ -35246,10 +35314,12 @@
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
     "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
+    "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
     "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
     "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
+    "SET POSEIDON GOLD MAN EDT 100ML + AFTERSHAVE 100 ML REGULAR (CAJA DAÑADA)",
     "SET PRADA PARADOXE EDP 90 ML + 10 ML + BODY LOCION 50 ML REGULAR",
     "SET PRADA PARADOXE INTENSE EDP 90 ML + 10 ML  REGULAR",
     "SET ROCHAS MAN EDT 100ML + EDT 50 ML REGULAR",
@@ -35306,6 +35376,7 @@
     "SPF FOREVER FREE WOMAN EDT 100 ML @",
     "SPLENDOR EDP 125ML REGULAR",
     "SPRINGFIELD EDT 100 ML @",
+    "SPRINGFIELD FREE ATTITUDE FLORAL WOODY EDT 100ML @ (90% DEL CONTENIDO)",
     "SPRINGFIELD NIGHT ATTITUDE EDT 100 ML @ (SIN CAJA90% DEL CONTENIDO)",
     "SPRINGFIELD SPF WOMAN EDT 100 ML @",
     "SPRINGFIELD THE GOLDEN ATTITUDE EDP 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
