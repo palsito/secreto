@@ -954,12 +954,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42109",
       "en_stock": true
     },
-    "42108": {
-      "nombre": "FRANCK OLIVIER OUD VANILLE MEN EDP 100 ML REGULAR",
-      "precio": "19.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42108",
-      "en_stock": true
-    },
     "42107": {
       "nombre": "FRANCK OLIVIER OUD TOUCH MEN EDP 100 ML REGULAR",
       "precio": "19.99 €",
@@ -10824,6 +10818,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42819": {
+      "nombre": "SET DON ALGODON BABYLON EDP 100 ML + 30 ML REGULAR",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42819",
+      "en_stock": true
+    },
+    "42818": {
+      "nombre": "V&L AGUAS ESENCIALES PURA VIDA 250 ML @ (70% DEL CONTENIDO)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42818",
       "en_stock": true
     },
     "42815": {
@@ -32200,6 +32206,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42817": {
+      "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @ (Sin caja, 90% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42817",
+      "en_stock": true
+    },
     "42793": {
       "nombre": "BRITNEY SPEARS PRIVATE SHOW EDP 100ML @ (Sin caja, 75% del contenido)",
       "precio": "19.99 €",
@@ -32596,6 +32608,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
       "en_stock": true
     },
+    "42386": {
+      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA MUITO BEM EDICION LIMITADA 150 ML @ (Sin caja, 95% cdel contenido)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42386",
+      "en_stock": true
+    },
     "42379": {
       "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @ (Sin caja, 70% del contenido)",
       "precio": "3.99 €",
@@ -32678,6 +32696,12 @@
       "nombre": "SAPHIR ELITE GIVE ME ROSE EDP 100 ML @ (Sin caja)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41565",
+      "en_stock": true
+    },
+    "41557": {
+      "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT LUMINOUS VIOLET EDT 100 ML @ (sin caja, 30% del contenido)",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41557",
       "en_stock": true
     },
     "41554": {
@@ -32846,6 +32870,18 @@
       "nombre": "VARENSIA EDP 50 ML @ (Sin caja)",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35020",
+      "en_stock": true
+    },
+    "34966": {
+      "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES TE QUIERO VERDE 250 ML @ (70% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34966",
+      "en_stock": true
+    },
+    "34871": {
+      "nombre": "DKNY EDP WOMAN 100ML @ (60% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34871",
       "en_stock": true
     },
     "34553": {
@@ -33974,6 +34010,7 @@
     "DKNY BE DELICIOUS LATTE PISTACHIO EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML @",
     "DKNY BE DELICIOUS LATTE VANILLA EDP 50 ML REGULAR (CAJA DAÑADA)",
+    "DKNY EDP WOMAN 100ML @ (60% DEL CONTENIDO)",
     "DKNY EDT WOMAN 100ML @ (SIN CAJA 50% DEL CONTENIDO)",
     "DKNY ENERGIZING MEN EDT 100ML REGULAR",
     "DKNY ENERGIZING WOMAN EDT 100 ML REGULAR",
@@ -35129,6 +35166,7 @@
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
+    "SET DON ALGODON BABYLON EDP 100 ML + 30 ML REGULAR",
     "SET DON ALGODON EDT 100 ML + LOCION 200 ML + GEL DUCHA 200 ML REGULAR",
     "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
     "SET DON ALGODON VIE EN ROSE 30 ML + ILUMINADOR + CREMA MANOS + NECESER REGULAR",
@@ -35312,6 +35350,7 @@
     "UTUR AL-YAQUT HUB EDP 30 ML @",
     "UTUR AL-YAQUT NAJM EDP 30 ML @",
     "V CANTO ALIBI EXTRAIT DE PARFUM 100 ML @",
+    "V&L AGUAS ESENCIALES PURA VIDA 250 ML @ (70% DEL CONTENIDO)",
     "V&L EVASION AZUL 250 ML @",
     "VALENTINA EDP 80 ML @",
     "VALENTINO BORN IN ROMA DONNA EDP 100 ML @",
