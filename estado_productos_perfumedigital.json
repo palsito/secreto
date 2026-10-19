@@ -396,6 +396,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42849": {
+      "nombre": "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42849",
+      "en_stock": true
+    },
+    "42848": {
+      "nombre": "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
+      "precio": "15.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42848",
+      "en_stock": true
+    },
     "42847": {
       "nombre": "FC BARCELONA NECESER BODY SPRAY 100 ML + EDT 50 ML REGULAR",
       "precio": "12.99 €",
@@ -5676,6 +5688,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32297",
       "en_stock": true
     },
+    "32293": {
+      "nombre": "PACO RABANNE POUR HOMME EDT 100 ML REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32293",
+      "en_stock": true
+    },
     "32288": {
       "nombre": "XS POUR HOMME MODELO NUEVO EDT 100ML REGULAR",
       "precio": "46.99 €",
@@ -6994,6 +7012,12 @@
       "nombre": "CK ONE GOLD UNISEX EDT 100 ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26937",
+      "en_stock": true
+    },
+    "26905": {
+      "nombre": "JPG LE MALE EDT 125ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26905",
       "en_stock": true
     },
     "26849": {
@@ -10226,12 +10250,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39943",
       "en_stock": true
     },
-    "39941": {
-      "nombre": "GUILLAB EDP UNISEX 70 ML REGULAR + REGALO MINISET BRITISH STERLING REGULAR",
-      "precio": "15.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39941",
-      "en_stock": true
-    },
     "39797": {
       "nombre": "SET NARCISO ALL OF ME EDP 90 ML + 10 ML REGULAR",
       "precio": "49.99 €",
@@ -11002,7 +11020,7 @@
     },
     "42801": {
       "nombre": "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
-      "precio": "9.99 €",
+      "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42801",
       "en_stock": true
     },
@@ -25622,6 +25640,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31490",
       "en_stock": true
     },
+    "31487": {
+      "nombre": "ROCHAS GIRL EDT 100ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31487",
+      "en_stock": true
+    },
     "31477": {
       "nombre": "4711 FLORAL COLLECTION LILAC EDT 100 ML @",
       "precio": "7.99 €",
@@ -26496,6 +26520,12 @@
       "nombre": "GAI MATTIOLO WOMANS 75 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30024",
+      "en_stock": true
+    },
+    "30021": {
+      "nombre": "ROCHAS FEMME EDT 100ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30021",
       "en_stock": true
     },
     "30004": {
@@ -32254,12 +32284,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41586",
       "en_stock": true
     },
-    "41103": {
-      "nombre": "GUILLAB EDP UNISEX 70 ML @ (70% del contenido)",
-      "precio": "13.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41103",
-      "en_stock": true
-    },
     "36712": {
       "nombre": "TRUSSARDI NEW FEMININE EDP 90 ML REGULAR (SIn caja, 80% del contenido)",
       "precio": "21.99 €",
@@ -32290,12 +32314,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
-    "42848": {
-      "nombre": "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
-      "precio": "15.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42848",
-      "en_stock": true
-    },
     "42845": {
       "nombre": "PACHA 24/7 POOL PARTY HIM EDT 100 ML @ (90% del contenido)",
       "precio": "7.99 €",
@@ -32318,12 +32336,6 @@
       "nombre": "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML @ (70% DEL CONTENIDO)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42837",
-      "en_stock": true
-    },
-    "42835": {
-      "nombre": "AXE DARK TEMPTATION EDT 100 ML @ (Sin caja, 60% DEL CONTENIDO)",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42835",
       "en_stock": true
     },
     "42833": {
@@ -34605,6 +34617,7 @@
     "JPG CLASSIQUE LA BELLE ROSEA EDP 100ML @",
     "JPG LA FAVORITE EDP 100 ML @",
     "JPG LA FAVORITE EDP 50 ML REGULAR",
+    "JPG LE MALE EDT 125ML @",
     "JPG LE MALE EDT 125ML REGULAR",
     "JPG LE MALE EDT 200 ML REGULAR",
     "JPG LE MALE ELIXIR ABSOLUE EDP PARFUM 125ML @",
@@ -35089,6 +35102,7 @@
     "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
     "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
     "PACO RABANNE PHANTOM  (ROBOT HOMBRE)  PARFUM (NEGRA) EDP 30 ML REGULAR",
+    "PACO RABANNE POUR HOMME EDT 100 ML REGULAR",
     "PACO RABANNE POUR HOMME EDT 100ML @",
     "PALOMA PICASSO EDP 100ML @",
     "PALOMA PICASSO EDP 100ML REGULAR",
@@ -35246,6 +35260,8 @@
     "ROCCO BAROCCO  PIAZZA DI SPAGNA UOMO EDT 75 ML REGULAR",
     "ROCCO BAROCCO TRE EDP 100 ML REGULAR",
     "ROCHAS DESIR EDT 75ML @",
+    "ROCHAS FEMME EDT 100ML @",
+    "ROCHAS GIRL EDT 100ML @",
     "ROCHAS L HOMME EDT 100 ML @",
     "ROCHAS MADEMOISELLE IN BLACK EDP 90 ML REGULAR",
     "ROCHAS MAN EDT 100ML @",
@@ -35367,6 +35383,7 @@
     "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
     "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
     "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
+    "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
     "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
     "SET POMELLATO NUDO ROSE EDP 40 ML REGULAR + BODY LOCION 100 ML",
