@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42816": {
+      "nombre": "SET DON ALGODÓN PARA HOMBRE EDT 100ML + GEL DUCHA 75 ML + AFTER SHAVE  75 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42816",
+      "en_stock": true
+    },
     "42705": {
       "nombre": "TOMMY MAN NEW YORK EDT 100ML @",
       "precio": "26.99 €",
@@ -32237,7 +32243,7 @@
       "en_stock": true
     },
     "42783": {
-      "nombre": "EL GANSO FUN & CHIC EDP 50 ML @ (Sin caja, 90% del contenido)",
+      "nombre": "EL GANSO FUN & CHIC EDP 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42783",
       "en_stock": true
@@ -32294,6 +32300,12 @@
       "nombre": "CK ETERNITY FOR MEN AROMATIC ESSENCE PARFUM INTENSE 100ML @ (Sin caja, 95% del contenido)",
       "precio": "24.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42765",
+      "en_stock": true
+    },
+    "42763": {
+      "nombre": "IRRESISTIBLE ROSE VELVET EDP 80 ML @ (Sin caja, 60% del contenido)",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42763",
       "en_stock": true
     },
     "42759": {
@@ -32519,7 +32531,7 @@
       "en_stock": true
     },
     "42468": {
-      "nombre": "EL GANSO FUN & CHIC EDP 50 ML @ (Sin caja)",
+      "nombre": "EL GANSO FUN & CHIC EDP 100 ML @ (Sin caja)",
       "precio": "12.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42468",
       "en_stock": true
@@ -32582,6 +32594,12 @@
       "nombre": "CROSSMEN SPORT EDT 200 ML @ (Sin caja, 90% del contenido)",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
+      "en_stock": true
+    },
+    "42379": {
+      "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @ (Sin caja, 70% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42379",
       "en_stock": true
     },
     "42247": {
@@ -35114,6 +35132,7 @@
     "SET DON ALGODON EDT 100 ML + LOCION 200 ML + GEL DUCHA 200 ML REGULAR",
     "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
     "SET DON ALGODON VIE EN ROSE 30 ML + ILUMINADOR + CREMA MANOS + NECESER REGULAR",
+    "SET DON ALGODÓN PARA HOMBRE EDT 100ML + GEL DUCHA 75 ML + AFTER SHAVE  75 ML REGULAR",
     "SET FARALA ORIGINAL EDT 75 ML + BODY LOCION 75 ML + GEL DUCHA 75 ML REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
