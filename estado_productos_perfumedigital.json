@@ -32218,6 +32218,12 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=categoria_outlet": {
+    "42865": {
+      "nombre": "GIVENCHY GENTLEMAN 2017 FRANJA NEGRA EDT 100ML @ (Sin caja)",
+      "precio": "35.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42865",
+      "en_stock": true
+    },
     "42775": {
       "nombre": "CACHAREL ELLA ELLA EDP 100ML @ (Sin caja, 95% del contenido)",
       "precio": "21.99 €",
@@ -32328,7 +32334,7 @@
     },
     "42826": {
       "nombre": "THE REBEL JESUS CASTRO SEX SYMBOL EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
-      "precio": "8.99 €",
+      "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42826",
       "en_stock": true
     },
@@ -32870,6 +32876,12 @@
       "nombre": "MAUBOUSSIN ROSE ELLE EDP 100 ML @ (Sin caja)",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38448",
+      "en_stock": true
+    },
+    "38320": {
+      "nombre": "PERTEGAZ SEDUCTEUR EDT POUR HOMME EDP 30 ML (sin caja)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38320",
       "en_stock": true
     },
     "38318": {
@@ -34385,6 +34397,7 @@
     "GIORGIO RED BEVERLY HILLS EDT 90ML REGULAR",
     "GIVENCHY BLOOM EDT 50 ML REGULAR",
     "GIVENCHY ELECTRIC ROSE EDT 75 ML REGULAR",
+    "GIVENCHY GENTLEMAN 2017 FRANJA NEGRA EDT 100ML @ (SIN CAJA)",
     "GIVENCHY GENTLEMAN ORIGINAL (ANTIGUA) EDT 100ML @",
     "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML @",
     "GIVENCHY GENTLEMAN SOCIETY SPORT EDP 100ML REGULAR",
@@ -35109,6 +35122,7 @@
     "PENHALIGON´S YASMINE EDP 75 ML REGULAR",
     "PEPE JEANS LONDON CALLING HER EDP 80 ML @",
     "PEPE JEANS LONDON CALLING HER EDP 80 ML @ (SINC AJA, 95% DEL CONTENIDO)",
+    "PERTEGAZ SEDUCTEUR EDT POUR HOMME EDP 30 ML (SIN CAJA)",
     "PETER ANDRE CONDITIONAL MAN EDT 100 ML REGULAR",
     "PHILIPP PLEIN FATALE EDP 90 ML REGULAR",
     "PHILIPP PLEIN NO LIMITS EDP 90 ML @ (SIN CAJA, 95% DEL CONTENIDO)",
