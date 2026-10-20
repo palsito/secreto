@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42871": {
+      "nombre": "COACH GREEN EDT 100 ML @",
+      "precio": "36.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42871",
+      "en_stock": true
+    },
     "42849": {
       "nombre": "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
       "precio": "15.99 €",
@@ -2398,6 +2404,12 @@
       "nombre": "NARCISO RODRIGUEZ FOR HIM BLEU NOIR EXTREME EDT 50 ML REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39239",
+      "en_stock": true
+    },
+    "39173": {
+      "nombre": "SAUVAGE DIOR EDT 100ML @",
+      "precio": "92.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39173",
       "en_stock": true
     },
     "39127": {
@@ -10896,6 +10908,30 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42870": {
+      "nombre": "COACH DREAMS MOONLIGHT EDP 90 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42870",
+      "en_stock": true
+    },
+    "42869": {
+      "nombre": "CLIVE CHRISTIAN WOODY FLORAL EDP 50 ML @",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42869",
+      "en_stock": true
+    },
+    "42868": {
+      "nombre": "CLIVE CHRISTIAN NC MAGNOLIA FEMENINE EDP 50 ML @",
+      "precio": "179.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42868",
+      "en_stock": true
+    },
+    "42867": {
+      "nombre": "BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML @",
+      "precio": "106.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42867",
       "en_stock": true
     },
     "42822": {
@@ -20252,10 +20288,28 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37248",
       "en_stock": true
     },
+    "37247": {
+      "nombre": "GIARDINI DI TOSCANA BLU MARE EDP 100 ML @",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37247",
+      "en_stock": true
+    },
     "37246": {
       "nombre": "GIARDINI DI TOSCANA BLU INDACO EDP 100 ML @ (Sin caja)",
       "precio": "109.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37246",
+      "en_stock": true
+    },
+    "37245": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (Sin caja)",
+      "precio": "109.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37245",
+      "en_stock": true
+    },
+    "37244": {
+      "nombre": "GIARDINI DI TOSCANA BIANCO LATTE EDP 100 ML @ (Sin caja)",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37244",
       "en_stock": true
     },
     "37243": {
@@ -27248,12 +27302,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27510",
       "en_stock": true
     },
-    "27508": {
-      "nombre": "JUICY COUTURE VIVA LA JUICY GOLD COUTURE EDP 100ML @",
-      "precio": "35.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27508",
-      "en_stock": true
-    },
     "27504": {
       "nombre": "LOEWE 001 WOMAN EDT 100 ML @",
       "precio": "46.99 €",
@@ -33878,6 +33926,7 @@
     "BUSTAMANTE MUY MIO ORIGEN EDT 100 ML @",
     "BVLGARI  ALLEGRA FIORI D AMORE EDP 100 ML REGULAR",
     "BVLGARI AQVA MARINE POUR HOMME EDT 100ML @",
+    "BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML @",
     "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML REGULAR",
     "BVLGARI POUR HOMME EDT 100ML @",
     "BYREDO LA TULIPE EDP 100 ML REGULAR",
@@ -34021,7 +34070,10 @@
     "CLIVE CHRISTIAN NC COSMOS FLOWER EDP 50 ML @",
     "CLIVE CHRISTIAN OC 1872 MASCULINE EDP 50 ML @",
     "CLIVE CHRISTIAN OC NO1 FEMENINE EDP 50 ML @",
+    "CLIVE CHRISTIAN WOODY FLORAL EDP 50 ML @",
+    "COACH DREAMS MOONLIGHT EDP 90 ML @",
     "COACH FOR MEN EDT 100 ML @",
+    "COACH GREEN EDT 100 ML @",
     "COACH WILD ROSE EDP 90 ML @",
     "COLECCIÓN GOOD GIRL ESTUCHE 3X7 ML REGULAR",
     "COOL WATER ICE FRESH WOMAN EDT 100 ML@",
@@ -34381,6 +34433,7 @@
     "GIANFRANCO MOOD FOR LOVE PURE EDP 100 ML REGULAR",
     "GIANFRANCO MOOD FOR LOVE TENDER EDT 100 ML REGULAR",
     "GIARDINI DI TOSCANA BIANCO ORO EDP 100 ML @ (SIN CAJA)",
+    "GIARDINI DI TOSCANA BLU MARE EDP 100 ML @",
     "GILLES CANTUEL ARSENAL RED FOR MEN EDP 100 ML REGULAR",
     "GIORGIO BEVERLY HILLS AIRE WOMAN EDT 50ML @",
     "GIORGIO BEVERLY HILLS FOR MEN EDT 118 ML REGULAR",
@@ -35289,6 +35342,7 @@
     "SARAH JESSICA PARKER  TWILIGHT WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER DAWN WOMAN EDP 75 ML @",
     "SARAH JESSICA PARKER NYC EDT 60ML @",
+    "SAUVAGE DIOR EDT 100ML @",
     "SCALPERS HER & HERE EDP 100 ML @",
     "SCALPERS THE BAND HIM EDP 100 ML @",
     "SCALPERS THE BAND IS BLACK HIM EDP 100 ML @",
