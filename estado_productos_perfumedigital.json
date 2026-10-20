@@ -10910,6 +10910,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42872": {
+      "nombre": "TOM FORD COSTA AZZURRA EDP 100 ML @ (Sin caja)",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42872",
+      "en_stock": true
+    },
     "42870": {
       "nombre": "COACH DREAMS MOONLIGHT EDP 90 ML @",
       "precio": "29.99 €",
@@ -10938,12 +10944,6 @@
       "nombre": "WOMAN SECRET EAU MY SECRET EDT 100 ML @ (90% DEL CONTENIDO)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42822",
-      "en_stock": true
-    },
-    "42821": {
-      "nombre": "VICTORIO & LUCCHINO AGUA N 11 AMBAR ENIGMATICO EDT 150 ML @ (30% DEL CONTENIDO)",
-      "precio": "1.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42821",
       "en_stock": true
     },
     "42819": {
@@ -18918,6 +18918,12 @@
       "nombre": "HERMES TWILLY TUTTI EDP 85 ML @",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37917",
+      "en_stock": true
+    },
+    "37916": {
+      "nombre": "HERMES TWILLY D EAU GINGER EDP 85 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37916",
       "en_stock": true
     },
     "37915": {
@@ -27302,6 +27308,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27510",
       "en_stock": true
     },
+    "27508": {
+      "nombre": "JUICY COUTURE VIVA LA JUICY GOLD COUTURE EDP 100ML @",
+      "precio": "35.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27508",
+      "en_stock": true
+    },
     "27504": {
       "nombre": "LOEWE 001 WOMAN EDT 100 ML @",
       "precio": "46.99 €",
@@ -27378,6 +27390,12 @@
       "nombre": "MICHAEL KORS WONDERLUST WOMAN EDP 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27040",
+      "en_stock": true
+    },
+    "27030": {
+      "nombre": "GUCCI BAMBOO EDT 75ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27030",
       "en_stock": true
     },
     "27023": {
@@ -34475,6 +34493,7 @@
     "GRES MOONFLOWER EDT 100 ML @",
     "GRES MOONFLOWER EDT 50 ML REGULAR",
     "GRITTI MAGNIFICA LUX EDP 100 ML @",
+    "GUCCI BAMBOO EDT 75ML @",
     "GUCCI BLOOM PROFUMO DI FIORI EDP 100 ML @",
     "GUCCI FLORA GORGEUS GARDENIA INTENSE WOMAN EDP 100 ML @",
     "GUCCI FLORA GORGEUS JASMINE WOMAN EDP 100 ML @ (50% DEL CONTENIDO)",
@@ -34525,6 +34544,7 @@
     "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (VAPO LIGERAMENTE DAÑADO)",
     "HERMES EAU DES MERVEILLES WOMAN EDT 100ML @",
     "HERMES ELIXIR DES MERVEILLES EDP 100ML @",
+    "HERMES TWILLY D EAU GINGER EDP 85 ML @",
     "HERMES UN JARDIN APRES LA MOUSSON EDT 100ML (UNISEX) @",
     "HERMES UN JARDIN EN MEDITERRANEE UNISEX EDT 100 ML @",
     "HERMES UN JARDIN SUR LE TOIT 100 ML @",
@@ -34647,6 +34667,7 @@
     "JUICY COUTURE PEACE LOVE AND JUICY COUTURE WOMAN EDP 30 ML REGULAR",
     "JUICY COUTURE VIVA LA JUICY EDP 100ML @",
     "JUICY COUTURE VIVA LA JUICY EDP 100ML REGULAR",
+    "JUICY COUTURE VIVA LA JUICY GOLD COUTURE EDP 100ML @",
     "JUICY COUTURE WOMAN EDP 100ML @",
     "JUICY COUTURE WOMAN EDP 100ML REGULAR",
     "JUICY VIVA LA JUICY LA FLEUR WOMAN EDT 150 ML @",
@@ -35487,6 +35508,7 @@
     "TIFFANY&CO ROSE GOLD EDP 5 ML (CINCO ML) REGULAR",
     "TITTO BLUNI COLEZIONE EDT 100 ML @ (SIN CAJA)",
     "TOM FORD BLACK ORCHID WOMAN EDP  (CUADRADO NEGRO) 100 ML REGULAR",
+    "TOM FORD COSTA AZZURRA EDP 100 ML @ (SIN CAJA)",
     "TOM FORD NOIR EXTREME MAN EDP 100 ML REGULAR",
     "TOM FORD NOIR EXTREME MAN EDP 50 ML @",
     "TOM FORD SOLEIL NEIGE MAN EDP 100 ML REGULAR",
