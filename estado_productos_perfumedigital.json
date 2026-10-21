@@ -10342,7 +10342,7 @@
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
     "42552": {
       "nombre": "PACK 3x1 WOMAN SECRET INTIMATE: DAY DREAM EDP 100 ML + INTIMATE EDP 100 ML + INTIMATE DELIGHT EDP 100 ML @",
-      "precio": "12.99 €",
+      "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42552",
       "en_stock": true
     },
@@ -10866,6 +10866,12 @@
       "nombre": "LOTE 2 DE MUJER: VICKY MARTIN BERROCAL ALBA WOMAN EDT 100 ML @ + BODY MIST HAWAIIAN TROPIC OASIS 250 ML @ + NIKE TRENDY PINK EDT 100 ML @ + BODY MIST LAISEVEN LAVANDA 200 ML @",
       "precio": "7.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35239",
+      "en_stock": true
+    },
+    "35123": {
+      "nombre": "LOTE CHANSON D´EAU AROMAS: VANILLA EDT 100 ML @ + LEMON EDT 100 ML + ROSE EDT 100 ML + REGALO SWET BODY MIST 200 ML @",
+      "precio": "9.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35123",
       "en_stock": true
     },
     "35105": {
@@ -32872,6 +32878,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42989": {
+      "nombre": "AROMATICS ELIXIR EDP 100ML REGULAR (95% del contenido)",
+      "precio": "31.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42989",
+      "en_stock": true
+    },
     "42978": {
       "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "2.99 €",
@@ -32936,12 +32948,6 @@
       "nombre": "TOUS OH! THE ORIGIN WOMAN EDP 100ML@ (Sin caja, 55% del contenido)",
       "precio": "11.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42953",
-      "en_stock": true
-    },
-    "42951": {
-      "nombre": "JIMMY CHOO I WANT CHOO LE PARFUM 125 ML @ (Sin caja, 40% del contenido)",
-      "precio": "16.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42951",
       "en_stock": true
     },
     "42950": {
@@ -33266,12 +33272,6 @@
       "nombre": "ZADIG & VOLTAIRE THIS IS HIM VIBES OF FREEDOM EDT 100 ML @ (Sin caja, 80% del contenido)",
       "precio": "21.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42772",
-      "en_stock": true
-    },
-    "42771": {
-      "nombre": "ZADIG & VOLTAIRE THIS IS US EDT 100 ML @ (Sin caja, 85% de contenido)",
-      "precio": "22.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42771",
       "en_stock": true
     },
     "42769": {
@@ -34595,6 +34595,7 @@
     "ARMANI STRONGER WITH INTENSELY YOU EDP 100 @",
     "ARMANI STRONGER WITH YOU EDT 100 @ (SIN CAJA, 10% DEL CONTENIDO)",
     "AROMATICS ELIXIR EDP 100ML REGULAR",
+    "AROMATICS ELIXIR EDP 100ML REGULAR (95% DEL CONTENIDO)",
     "ARPEGE EDP 100ML REGULAR",
     "AXE ANARCHY FOR HER EDT 50 ML @",
     "AXE BLACK EDT 100 ML @ (SIN CAJA)",
@@ -35750,6 +35751,7 @@
     "LOTE 8 DE MUJER: VICKY MARTIN BERROCAL AURA WOMAN EDT 100 ML @ +  MR WONDERFUL WHERE THE PARTY EDT 75 ML @ + PACHA IBIZA GLAM EDT 80 ML @ + PAULA ECHEVARRIA INTENSE EDT 100 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + ANTONIO BANDERAS HER SECRET EDT 80 ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
     "LOTE 9 DE MUJER: AGUA DE LAVANDA DE PUIG 100 ML @ + PUIG ANOUK EDT 100 ML ML @ + JOVAN MUSK WOMAN EDT 100 ML @ + V&L ENERGIA POSITIVA 250 ML @",
+    "LOTE CHANSON D´EAU AROMAS: VANILLA EDT 100 ML @ + LEMON EDT 100 ML + ROSE EDT 100 ML + REGALO SWET BODY MIST 200 ML @",
     "LOU LOU EDP 30ML REGULAR",
     "LOU LOU EDP 50ML (SIN CAJA, 50% DEL CONTENIDO)",
     "LOVELY BLOSSOM EDT 100ML REGULAR",
