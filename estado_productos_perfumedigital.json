@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42979": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 60% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42979",
+      "en_stock": true
+    },
     "42976": {
       "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 90% del contenido)",
       "precio": "4.99 €",
@@ -580,6 +586,126 @@
       "nombre": "BARBOUR FOR HIM COASTAL EDP 100 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42679",
+      "en_stock": true
+    },
+    "42673": {
+      "nombre": "BYREDO BLACK SAFFRON ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42673",
+      "en_stock": true
+    },
+    "42672": {
+      "nombre": "BYREDO GYPSY WATER ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42672",
+      "en_stock": true
+    },
+    "42671": {
+      "nombre": "BYREDO ROSE OF NO MANS LAND ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42671",
+      "en_stock": true
+    },
+    "42670": {
+      "nombre": "BYREDO BAL D AFRIQUE ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42670",
+      "en_stock": true
+    },
+    "42669": {
+      "nombre": "BYREDO BLANCHE ABSOLU ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42669",
+      "en_stock": true
+    },
+    "42668": {
+      "nombre": "BYREDO MOJAVE GHOST ABSOLU PARFUM 100 ML REGULAR",
+      "precio": "269.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42668",
+      "en_stock": true
+    },
+    "42667": {
+      "nombre": "BYREDO ALTO ASTRAL EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42667",
+      "en_stock": true
+    },
+    "42666": {
+      "nombre": "BYREDO DESERT DAWN EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42666",
+      "en_stock": true
+    },
+    "42665": {
+      "nombre": "BYREDO INFLORESCENCE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42665",
+      "en_stock": true
+    },
+    "42664": {
+      "nombre": "BYREDO MIXED EMOTIONS EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42664",
+      "en_stock": true
+    },
+    "42663": {
+      "nombre": "BYREDO YOUNG ROSE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42663",
+      "en_stock": true
+    },
+    "42662": {
+      "nombre": "BYREDO ANIMALIQUE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42662",
+      "en_stock": true
+    },
+    "42661": {
+      "nombre": "BYREDO DE LOS SANTOS EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42661",
+      "en_stock": true
+    },
+    "42660": {
+      "nombre": "BYREDO OUD IMMORTEL EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42660",
+      "en_stock": true
+    },
+    "42659": {
+      "nombre": "BYREDO BLACK SAFFRON EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42659",
+      "en_stock": true
+    },
+    "42658": {
+      "nombre": "BYREDO BIBLIOTHEQUE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42658",
+      "en_stock": true
+    },
+    "42657": {
+      "nombre": "BYREDO GYPSY WATER EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42657",
+      "en_stock": true
+    },
+    "42656": {
+      "nombre": "BYREDO MOJAVE GHOST EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42656",
+      "en_stock": true
+    },
+    "42655": {
+      "nombre": "BYREDO ROSE OF NO MANS LAND EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42655",
+      "en_stock": true
+    },
+    "42654": {
+      "nombre": "BYREDO BLANCHE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42654",
       "en_stock": true
     },
     "42653": {
@@ -9842,7 +9968,7 @@
     },
     "11711": {
       "nombre": "AZZARO POUR HOMME EDT 100ML REGULAR",
-      "precio": "36.99 €",
+      "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=11711",
       "en_stock": true
     },
@@ -10978,7 +11104,7 @@
     },
     "1985": {
       "nombre": "CACHAREL NOA EDT 100ML @",
-      "precio": "27.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1985",
       "en_stock": true
     },
@@ -11370,12 +11496,6 @@
       "nombre": "AIRE DE SEVILLA AZAHAR EDT 100 ML + BODY MILK + GEL CREMA PERFUMADO REGULAR",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42796",
-      "en_stock": true
-    },
-    "42795": {
-      "nombre": "AQC FRAGRANCES CANDY RED & NUDE EDT 60 ML + 60 ML REGULAR",
-      "precio": "7.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42795",
       "en_stock": true
     },
     "42794": {
@@ -32746,12 +32866,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42964",
       "en_stock": true
     },
-    "42961": {
-      "nombre": "212 VIP ROSE ELIXIR EDP 80 ML @ (Sinc aja, 3% del contenido)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42961",
-      "en_stock": true
-    },
     "42960": {
       "nombre": "D&G Q (QUEEN - REINA) EDP 100 ML @ (Sin caja, 15% del contenido)",
       "precio": "9.99 €",
@@ -34717,9 +34831,29 @@
     "BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML @",
     "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML REGULAR",
     "BVLGARI POUR HOMME EDT 100ML @",
+    "BYREDO ALTO ASTRAL EDP 100 ML REGULAR",
+    "BYREDO ANIMALIQUE EDP 100 ML REGULAR",
+    "BYREDO BAL D AFRIQUE ABSOLU PARFUM 100 ML REGULAR",
     "BYREDO BAL D AFRIQUE EDP 100 ML REGULAR",
+    "BYREDO BIBLIOTHEQUE EDP 100 ML REGULAR",
+    "BYREDO BLACK SAFFRON ABSOLU PARFUM 100 ML REGULAR",
+    "BYREDO BLACK SAFFRON EDP 100 ML REGULAR",
+    "BYREDO BLANCHE ABSOLU ABSOLU PARFUM 100 ML REGULAR",
+    "BYREDO BLANCHE EDP 100 ML REGULAR",
+    "BYREDO DE LOS SANTOS EDP 100 ML REGULAR",
+    "BYREDO DESERT DAWN EDP 100 ML REGULAR",
+    "BYREDO GYPSY WATER ABSOLU PARFUM 100 ML REGULAR",
+    "BYREDO GYPSY WATER EDP 100 ML REGULAR",
+    "BYREDO INFLORESCENCE EDP 100 ML REGULAR",
     "BYREDO LA TULIPE EDP 100 ML REGULAR",
+    "BYREDO MIXED EMOTIONS EDP 100 ML REGULAR",
+    "BYREDO MOJAVE GHOST ABSOLU PARFUM 100 ML REGULAR",
+    "BYREDO MOJAVE GHOST EDP 100 ML REGULAR",
+    "BYREDO OUD IMMORTEL EDP 100 ML REGULAR",
+    "BYREDO ROSE OF NO MANS LAND ABSOLU PARFUM 100 ML REGULAR",
+    "BYREDO ROSE OF NO MANS LAND EDP 100 ML REGULAR",
     "BYREDO SUPER CEDAR EDP 100 ML REGULAR",
+    "BYREDO YOUNG ROSE EDP 100 ML REGULAR",
     "BYZANCE EDP 90 ML REGULAR",
     "BYZANCE GOLD EDP 90 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "BYZANCE GOLD EDP 90 ML REGULAR",
