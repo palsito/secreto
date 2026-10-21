@@ -1,5 +1,11 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
+    "42988": {
+      "nombre": "BURBERRY HERO INTENSE PARFUM 100 ML @",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42988",
+      "en_stock": true
+    },
     "42097": {
       "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
       "precio": "9.99 €",
@@ -394,6 +400,18 @@
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
+      "en_stock": true
+    },
+    "42987": {
+      "nombre": "JAIPUR POUR HOMME EDT 100ML @ (Sin caja)",
+      "precio": "32.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42987",
+      "en_stock": true
+    },
+    "42986": {
+      "nombre": "AZZARO CHROME PURE MEN EDT 100ML @ (Sin caja)",
+      "precio": "44.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42986",
       "en_stock": true
     },
     "42979": {
@@ -8432,7 +8450,7 @@
     },
     "20480": {
       "nombre": "JAIPUR POUR HOMME EDT 100ML @",
-      "precio": "26.99 €",
+      "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20480",
       "en_stock": true
     },
@@ -33016,12 +33034,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42935",
       "en_stock": true
     },
-    "42934": {
-      "nombre": "PACO RABANNE INVICTUS PLATINUM EDP 100 ML @ (Sin caja, 45% del contenido)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42934",
-      "en_stock": true
-    },
     "42933": {
       "nombre": "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML  (Sin caja, 45% del contenido)",
       "precio": "17.99 €",
@@ -33050,12 +33062,6 @@
       "nombre": "YSL BLACK OPIUM NEON EDP 75 ML @ (Sin caja, 85% del contenido)",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42927",
-      "en_stock": true
-    },
-    "42926": {
-      "nombre": "EAU DE ROCHAS ORANGE HORIZON EDT 100ML @ (Sin caja, 15% del contenido)",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42926",
       "en_stock": true
     },
     "42924": {
@@ -34670,6 +34676,7 @@
     "AZZARO CHROME MEN EDT 100ML @",
     "AZZARO CHROME MEN EDT 100ML REGULAR",
     "AZZARO CHROME MEN EDT 200ML REGULAR",
+    "AZZARO CHROME PURE MEN EDT 100ML @ (SIN CAJA)",
     "AZZARO CHROME UNITED MEN EDT 100ML @",
     "AZZARO FOREVER WANTED ABSOLU EDP 100 ML @",
     "AZZARO JOLIE ROSE EDT 50 ML REGULAR",
@@ -34842,6 +34849,7 @@
     "BURBERRY GODDESS INTENSE EDP RECARGA 150 ML @ (VAPO ROTO)",
     "BURBERRY GODDESS PARFUM 100 ML @",
     "BURBERRY HER PARFUM 100 ML @",
+    "BURBERRY HERO INTENSE PARFUM 100 ML @",
     "BURBERRY LONDON MEN  (CAJA DE RAYAS)  EDT 100ML REGULAR",
     "BURBERRY THE BEAT MEN EDT 100ML @ (70% DEL CONTENIDO, SE LE CAE CAPO)",
     "BURBERRY TOUCH FOR MEN EDT 100ML REGULAR",
@@ -35575,6 +35583,7 @@
     "JAGUAR MEN (NEGRO) EDT 100ML REGULAR",
     "JAIPUR BRACELET EDP 100 ML REGULAR",
     "JAIPUR POUR HOMME EDT 100ML @",
+    "JAIPUR POUR HOMME EDT 100ML @ (SIN CAJA)",
     "JAMES BOND 007 MEN EDT 125 ML REGULAR",
     "JAMES BOND 007 MEN EDT 75 ML @",
     "JAMES BOND 007 OCEAN ROYAL MEN EDT 75 ML @",
