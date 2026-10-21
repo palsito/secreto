@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "42976": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 90% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42976",
+      "en_stock": true
+    },
     "42906": {
       "nombre": "YSL  MYSLF EDT INTENSE 100 ML REGULAR",
       "precio": "86.99 €",
@@ -574,6 +580,12 @@
       "nombre": "BARBOUR FOR HIM COASTAL EDP 100 ML @",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42679",
+      "en_stock": true
+    },
+    "42653": {
+      "nombre": "BYREDO BAL D AFRIQUE EDP 100 ML REGULAR",
+      "precio": "229.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42653",
       "en_stock": true
     },
     "42648": {
@@ -9763,7 +9775,7 @@
       "en_stock": true
     },
     "12385": {
-      "nombre": "LA NUIT DE L`HOMME LE PARFUM EDP 100ML @",
+      "nombre": "LA NUIT DE L`HOMME LE PARFUM 100ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12385",
       "en_stock": true
@@ -10994,6 +11006,42 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "42977": {
+      "nombre": "LORENZO PAZZAGLIA VAN PY RHUM EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42977",
+      "en_stock": true
+    },
+    "42975": {
+      "nombre": "LORENZO PAZZAGLIA SUMMER HAMMER EXTRAIT PARFUM 50 ML @ (Sin caja)",
+      "precio": "104.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42975",
+      "en_stock": true
+    },
+    "42974": {
+      "nombre": "LORENZO PAZZAGLIA SUGAR KISSES EXTRAIT PARFUM 28 ML @ sin caja",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42974",
+      "en_stock": true
+    },
+    "42973": {
+      "nombre": "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 28 ML @ sin caja",
+      "precio": "99.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42973",
+      "en_stock": true
+    },
+    "42972": {
+      "nombre": "LORENZO PAZZAGLIA PASSION ROSE EXTRAIT PARFUM 28 ML @ sin caja",
+      "precio": "86.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42972",
+      "en_stock": true
+    },
+    "42971": {
+      "nombre": "LORENZO PAZZAGLIA NARCOTIX CITRUS EXTRAIT PARFUM 28 ML @ (Sin caja)",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42971",
+      "en_stock": true
+    },
     "42970": {
       "nombre": "LORENZO PAZZAGLIA EVIL ANGEL EXTRAIT PARFUM 28 ML @ (Sin caja)",
       "precio": "82.99 €",
@@ -11784,12 +11832,6 @@
       "nombre": "SET TOUS BABY EDC  100 ML + MORDEDOR + NECESER REGULAR",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42522",
-      "en_stock": true
-    },
-    "42515": {
-      "nombre": "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
-      "precio": "99.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42515",
       "en_stock": true
     },
     "42514": {
@@ -12714,6 +12756,12 @@
       "nombre": "MOLINARD MADRIGAL EDP 75 ML @ Sin caja",
       "precio": "46.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41954",
+      "en_stock": true
+    },
+    "41946": {
+      "nombre": "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41946",
       "en_stock": true
     },
     "41942": {
@@ -30910,7 +30958,7 @@
     },
     "16152": {
       "nombre": "CK ETERNITY MOMENT EDP 50ML REGULAR",
-      "precio": "36.99 €",
+      "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16152",
       "en_stock": true
     },
@@ -32672,6 +32720,12 @@
       "nombre": "MADERAS DE ORIENTE EDT 100 ML (Sin caja)",
       "precio": "2.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
+      "en_stock": true
+    },
+    "42978": {
+      "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 90% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42978",
       "en_stock": true
     },
     "42966": {
@@ -34663,6 +34717,7 @@
     "BVLGARI EAU PARFUMEE THE IMPERIAL EDT 75 ML @",
     "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML REGULAR",
     "BVLGARI POUR HOMME EDT 100ML @",
+    "BYREDO BAL D AFRIQUE EDP 100 ML REGULAR",
     "BYREDO LA TULIPE EDP 100 ML REGULAR",
     "BYREDO SUPER CEDAR EDP 100 ML REGULAR",
     "BYZANCE EDP 90 ML REGULAR",
@@ -35559,10 +35614,13 @@
     "LORENZO PAZZAGLIA ESCO PAZZO EXTRAIT PARFUM 28 ML @ SIN CAJA",
     "LORENZO PAZZAGLIA EVIL ANGEL EXTRAIT PARFUM 28 ML @ (SIN CAJA)",
     "LORENZO PAZZAGLIA EXTREME PASSION EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA NARCOTIX CITRUS EXTRAIT PARFUM 28 ML @ (SIN CAJA)",
     "LORENZO PAZZAGLIA PASSION ROSE EXTRAIT PARFUM 50 ML @ SIN CAJA",
     "LORENZO PAZZAGLIA PAX EXTRAIT PARFUM 50 ML @ SIN CAJA",
     "LORENZO PAZZAGLIA SUGAR KISSES EXTRAIT PARFUM 50 ML @ SIN CAJA",
+    "LORENZO PAZZAGLIA SUMMER HAMMER EXTRAIT PARFUM 50 ML @ (SIN CAJA)",
     "LORENZO PAZZAGLIA VAN EXSTASYX EXTRAIT PARFUM 50 ML @",
+    "LORENZO PAZZAGLIA VAN PY RHUM EXTRAIT PARFUM 50 ML @ SIN CAJA",
     "LORENZO VILLORESI TEINT DE NEIGE EDT UNISEX 100ML REGULAR",
     "LOTE 11 DE MUJER: BENETTON SISTERLAND PINK RASPBERRY EDT 80 ML @ + SHAKIRA DANCE EDT 80 ML @ + PLAYBOY PLAY IT WILD WOMAN EDT 50 ML @ + ANA ROSA AGUA DE FLORES EDT 100 ML @",
     "LOTE 14 DE HOMBRE: ALASKA Y MARIO POCION EL EDT 100 ML @ + MARC MARQUEZ HERO SPORT 93 100 ML @ + ANTONIO BANDERAS KING OF SEDUCTION EDT 100 ML @ + NIKE NIGHTMODE MAN EDT 100 ML @ (SIN CAJA)",
