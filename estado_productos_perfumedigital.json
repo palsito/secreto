@@ -10322,12 +10322,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "42552": {
-      "nombre": "PACK 3x1 WOMAN SECRET INTIMATE: DAY DREAM EDP 100 ML + INTIMATE EDP 100 ML + INTIMATE DELIGHT EDP 100 ML @",
-      "precio": "12.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42552",
-      "en_stock": true
-    },
     "42505": {
       "nombre": "PACK VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML + MINI BOLSO CHLOE + LOREAL PARIS REVITALIFT SERUM 15 ML + RIMMEL SUPER GEL 2 PASOS",
       "precio": "9.99 €",
@@ -11130,6 +11124,30 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "42983": {
+      "nombre": "MAP OF THE HEART GOLD HEART V.4 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42983",
+      "en_stock": true
+    },
+    "42982": {
+      "nombre": "MAP OF THE HEART BLACK HEART V.2 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42982",
+      "en_stock": true
+    },
+    "42981": {
+      "nombre": "MAP OF THE HEART ABUNDANCE V.8 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42981",
+      "en_stock": true
+    },
+    "42980": {
+      "nombre": "MAP OF THE HEART CLEAR HEART V.1 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42980",
       "en_stock": true
     },
     "42977": {
@@ -32842,6 +32860,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "42985": {
+      "nombre": "COOL WATER MAN INTENSE EDP 125ML @ (Sin caja)",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42985",
+      "en_stock": true
+    },
     "42978": {
       "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 90% del contenido)",
       "precio": "2.99 €",
@@ -35024,6 +35048,7 @@
     "COOL WATER ICE FRESH WOMAN EDT 100 ML@",
     "COOL WATER MAN EDT 125ML @",
     "COOL WATER MAN EDT 125ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
+    "COOL WATER MAN INTENSE EDP 125ML @ (SIN CAJA)",
     "COOL WATER MAN SUMMER  PURE PACIFIC EDT 125 ML @ (SIN CAJA)",
     "COOL WATER OCEANIC MAN EDT 125ML @",
     "COOL WATER WAVE WOMAN EDT 100ML @",
@@ -35799,6 +35824,10 @@
     "MANCERA FIG ME UP EDP 120 ML @",
     "MANDARINA DUCK WOMAN  EDT 100ML @",
     "MANDATE MAN EDT 100 ML REGULAR",
+    "MAP OF THE HEART ABUNDANCE V.8 EDP 90 ML @",
+    "MAP OF THE HEART BLACK HEART V.2 EDP 90 ML @",
+    "MAP OF THE HEART CLEAR HEART V.1 EDP 90 ML @",
+    "MAP OF THE HEART GOLD HEART V.4 EDP 90 ML @",
     "MARC JACOBS BANG BANG MAN EDT 100ML @",
     "MARC JACOBS DAISY EAU SO FRESH EDT 125ML @",
     "MARC JACOBS DAISY WILD EAU SO INTENSE EDP 100 ML @",
