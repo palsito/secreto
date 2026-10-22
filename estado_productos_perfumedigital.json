@@ -324,6 +324,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=29930",
       "en_stock": true
     },
+    "26739": {
+      "nombre": "BOSS BOTTLED TONIC EDT 100 ML @",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=26739",
+      "en_stock": true
+    },
     "22689": {
       "nombre": "AGUA FRESCA MAN EXTREME EDT 120ML @",
       "precio": "24.99 €",
@@ -944,7 +950,7 @@
     },
     "42346": {
       "nombre": "CARTIER PASHA PARFUM 100 ML REGULAR (SIN CAJA)",
-      "precio": "59.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42346",
       "en_stock": true
     },
@@ -3438,6 +3444,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38105",
       "en_stock": true
     },
+    "38097": {
+      "nombre": "DIESEL ONLY THE BRAVE MEN EDT 125 ML @",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38097",
+      "en_stock": true
+    },
     "38096": {
       "nombre": "DIESEL BAD EDT 100 ML REGULAR",
       "precio": "39.99 €",
@@ -4902,6 +4914,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35030",
       "en_stock": true
     },
+    "34993": {
+      "nombre": "HUGO EXTREME EDP 75 ML @",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34993",
+      "en_stock": true
+    },
     "34990": {
       "nombre": "BLOOD CONCEPT AB EDP 30 ML VAPO REGULAR",
       "precio": "22.99 €",
@@ -5306,7 +5324,7 @@
     },
     "34222": {
       "nombre": "BVLGARI MAN GLACIAL ESSENCE EDP 100 ML @",
-      "precio": "59.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34222",
       "en_stock": true
     },
@@ -5522,7 +5540,7 @@
     },
     "33747": {
       "nombre": "POLO BLUE MAN PARFUM (FORMATO NUEVO) 125ML @",
-      "precio": "39.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33747",
       "en_stock": true
     },
@@ -5812,6 +5830,12 @@
       "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 80% del contenido)",
       "precio": "3.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32472",
+      "en_stock": true
+    },
+    "32410": {
+      "nombre": "HUGO JUST DIFFERENT EDT 40 ML REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32410",
       "en_stock": true
     },
     "32373": {
@@ -6676,6 +6700,12 @@
       "nombre": "PASHA DE CARTIER EDT 100ML @",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30303",
+      "en_stock": true
+    },
+    "30289": {
+      "nombre": "HUGO REVERSED EDT 125ML @",
+      "precio": "22.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30289",
       "en_stock": true
     },
     "30273": {
@@ -10056,6 +10086,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12053",
       "en_stock": true
     },
+    "11976": {
+      "nombre": "HUGO ELEMENT EDT 90ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=11976",
+      "en_stock": true
+    },
     "11889": {
       "nombre": "ETERNITY FOR MEN EDT 100ML REGULAR",
       "precio": "34.99 €",
@@ -10370,7 +10406,7 @@
     },
     "524": {
       "nombre": "JOOP HOMME EDT 125ML @",
-      "precio": "12.99 €",
+      "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=524",
       "en_stock": true
     },
@@ -11234,6 +11270,84 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43044": {
+      "nombre": "MILLER ET BERTAUX # 3 SPIRITUS EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43044",
+      "en_stock": true
+    },
+    "43043": {
+      "nombre": "MILLER ET BERTAUX # 2 SPIRITUS EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43043",
+      "en_stock": true
+    },
+    "43042": {
+      "nombre": "MILLER ET BERTAUX # 1 FOR YOU EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43042",
+      "en_stock": true
+    },
+    "43041": {
+      "nombre": "MILLER ET BERTAUX MENTA Y MENTA EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43041",
+      "en_stock": true
+    },
+    "43040": {
+      "nombre": "MILLER ET BERTAUX LIKE A SHADOW EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43040",
+      "en_stock": true
+    },
+    "43039": {
+      "nombre": "MILLER ET BERTAUX INDIAN STUDY EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43039",
+      "en_stock": true
+    },
+    "43038": {
+      "nombre": "MILLER ET BERTAUX AYMARA EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43038",
+      "en_stock": true
+    },
+    "43037": {
+      "nombre": "MAP OF THE HEART THE HEART WONDER V.9 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43037",
+      "en_stock": true
+    },
+    "43036": {
+      "nombre": "MAP OF THE HEART THE HEART WHITE HEART V.7 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43036",
+      "en_stock": true
+    },
+    "43035": {
+      "nombre": "MAP OF THE HEART RED HEART V.3 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43035",
+      "en_stock": true
+    },
+    "43034": {
+      "nombre": "MAP OF THE HEART PURPLE HEART V.5 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43034",
+      "en_stock": true
+    },
+    "43033": {
+      "nombre": "MAP OF THE HEART THE HEART PINK V.6 EDP 90 ML @",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43033",
+      "en_stock": true
+    },
+    "43032": {
+      "nombre": "ARISTOCRAZY BRILLANT EDT 80 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43032",
+      "en_stock": true
+    },
     "43031": {
       "nombre": "ANGEL SCHLESSER POUR ELLE INTENSE EDP 100ML @",
       "precio": "39.99 €",
@@ -11328,12 +11442,6 @@
       "nombre": "ARMANI PRIVE D HIVER UNISEX EDT 100 ML REGULAR",
       "precio": "199.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43010",
-      "en_stock": true
-    },
-    "43009": {
-      "nombre": "ARMANI PRIVE THE YULONG EDT 100 ML @",
-      "precio": "109.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43009",
       "en_stock": true
     },
     "43008": {
@@ -12520,7 +12628,7 @@
     },
     "42297": {
       "nombre": "SISLEY EAU IZIA EDP 100 ML @",
-      "precio": "69.99 €",
+      "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42297",
       "en_stock": true
     },
@@ -26030,6 +26138,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32429",
       "en_stock": true
     },
+    "32401": {
+      "nombre": "TWILLY D HERMES EAU POIVREE EDP 50 ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32401",
+      "en_stock": true
+    },
     "32398": {
       "nombre": "TWILLY D HERMES EDP 50 ML REGULAR",
       "precio": "49.99 €",
@@ -26832,6 +26946,12 @@
       "nombre": "ANGEL SCHLESSER  LES EAUX D UN INSTANT INSTINTIVE MARINE EDT 100 ML @",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31116",
+      "en_stock": true
+    },
+    "31109": {
+      "nombre": "HERMES EAU DE NARCISSE BLEU UNISEX EDC 100ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31109",
       "en_stock": true
     },
     "31107": {
@@ -30428,12 +30548,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20298",
       "en_stock": true
     },
-    "20283": {
-      "nombre": "LOVELY BLOSSOM EDT 100ML REGULAR",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20283",
-      "en_stock": true
-    },
     "20279": {
       "nombre": "BVLGARI OMNIA CRYSTALLINE EAU DE PARFUM EDP 100 ML REGULAR",
       "precio": "119.99 €",
@@ -30858,6 +30972,12 @@
       "nombre": "JUST CAVALLI WOMAN EDT 75 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19080",
+      "en_stock": true
+    },
+    "19077": {
+      "nombre": "BOSS JOUR EDP 50 ML REGULAR",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19077",
       "en_stock": true
     },
     "19072": {
@@ -33814,12 +33934,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42429",
       "en_stock": true
     },
-    "42426": {
-      "nombre": "SENSAI THE SILK EDP 50 ML @ (Sin caja, 90% del contenido)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42426",
-      "en_stock": true
-    },
     "42423": {
       "nombre": "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (sin caja)",
       "precio": "8.99 €",
@@ -34844,6 +34958,7 @@
     "ARIANA GRANDE CLOUD PINK EDP 100 ML REGULAR",
     "ARIANA GRANDE THANK U NEXT 2.0 EDP EDP 100 ML REGULAR",
     "ARIANA GRANDE THANK U NEXT EDP EDP 50 ML REGULAR",
+    "ARISTOCRAZY BRILLANT EDT 80 ML @",
     "ARISTROCRAZY AMETHYST EDP 100 ML @",
     "ARISTROCRAZY INTUITIVE EDT 80 ML@",
     "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
@@ -35036,8 +35151,10 @@
     "BOSS BOTTLED MAN NIGHT EDT 100ML REGULAR",
     "BOSS BOTTLED MAN NIGHT EDT 200ML REGULAR",
     "BOSS BOTTLED STRIKING LAVENDER EDP 100 ML @",
+    "BOSS BOTTLED TONIC EDT 100 ML @",
     "BOSS BOTTLED TRIUMPH ELIXIR EDP 100 ML REGULAR",
     "BOSS FEMME EDP 75ML REGULAR",
+    "BOSS JOUR EDP 50 ML REGULAR",
     "BOSS JOUR EDP 75 ML @",
     "BOSS MA VIE EDP 75 ML @ (90% DEL CONTENIDO, BOTELLA LIGERAMENTE DAÑADA)",
     "BOSS MA VIE L EAU EDT 75 ML @",
@@ -35784,6 +35901,7 @@
     "HAPPY WOMAN PERFUME 100ML REGULAR",
     "HARAJUKU LOVERS LIL´ANGEL EDT 100 ML @",
     "HERMES BARENIA INTENSE EDP 100 ML @",
+    "HERMES EAU DE NARCISSE BLEU UNISEX EDC 100ML REGULAR",
     "HERMES EAU DES MERVEILLES BLEUE WOMAN EDT 100ML @ (VAPO LIGERAMENTE DAÑADO)",
     "HERMES EAU DES MERVEILLES WOMAN EDT 100ML @",
     "HERMES ELIXIR DES MERVEILLES EDP 100ML @",
@@ -35797,12 +35915,16 @@
     "HUGO BOSS THE SCENT HIM EDP INTENSE 100 ML @",
     "HUGO BOSS THE SCENT PURE ACCORD HIM EDT 100 ML REGULAR (CAJA DAÑADA)",
     "HUGO DARK BLUE EDT 75ML REGULAR",
+    "HUGO ELEMENT EDT 90ML REGULAR",
     "HUGO ENERGISE EDT 75ML @",
     "HUGO ENERGISE EDT 75ML REGULAR",
     "HUGO ENERGISE LIMITED SPRAY EDITION  EDT 75ML REGULAR",
+    "HUGO EXTREME EDP 75 ML @",
+    "HUGO JUST DIFFERENT EDT 40 ML REGULAR",
     "HUGO KRINK EDICION LIMITADA EDP 125 ML @",
     "HUGO MAN EDT 125ML @",
     "HUGO MAN EDT 200ML REGULAR",
+    "HUGO REVERSED EDT 125ML @",
     "HUMMER H2 MAN EDT 125ML REGULAR",
     "HUMMER MAN EDT 125ML REGULAR",
     "HYPNOSE WOMAN EDP 75 ML REGULAR",
@@ -36104,6 +36226,10 @@
     "MAP OF THE HEART BLACK HEART V.2 EDP 90 ML @",
     "MAP OF THE HEART CLEAR HEART V.1 EDP 90 ML @",
     "MAP OF THE HEART GOLD HEART V.4 EDP 90 ML @",
+    "MAP OF THE HEART PURPLE HEART V.5 EDP 90 ML @",
+    "MAP OF THE HEART THE HEART PINK V.6 EDP 90 ML @",
+    "MAP OF THE HEART THE HEART WHITE HEART V.7 EDP 90 ML @",
+    "MAP OF THE HEART THE HEART WONDER V.9 EDP 90 ML @",
     "MARC JACOBS BANG BANG MAN EDT 100ML @",
     "MARC JACOBS DAISY EAU SO FRESH EDT 125ML @",
     "MARC JACOBS DAISY WILD EAU SO INTENSE EDP 100 ML @",
@@ -36127,6 +36253,13 @@
     "MICHAEL KORS SPORTY CITRUS EDP VAPO 50 ML @ (SIN CAJA)",
     "MIDNIGHT FANTASY EDP 100ML REGULAR",
     "MILANO SPORT EDT 100 ML @",
+    "MILLER ET BERTAUX # 1 FOR YOU EDP 100 ML @",
+    "MILLER ET BERTAUX # 2 SPIRITUS EDP 100 ML @",
+    "MILLER ET BERTAUX # 3 SPIRITUS EDP 100 ML @",
+    "MILLER ET BERTAUX AYMARA EDP 100 ML @",
+    "MILLER ET BERTAUX INDIAN STUDY EDP 100 ML @",
+    "MILLER ET BERTAUX LIKE A SHADOW EDP 100 ML @",
+    "MILLER ET BERTAUX MENTA Y MENTA EDP 100 ML @",
     "MILLER HARRIS MINEIR EDP 100 ML @ (SIN CAJA)",
     "MILLION RED HER PARFUM 90ML REGULAR",
     "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
@@ -36867,6 +37000,7 @@
     "TRUSSARDI UOMO EDT 100 ML REGULAR",
     "TRUTH FOR MEN EDT 100ML REGULAR",
     "TRÉSOR EDP 100ML @",
+    "TWILLY D HERMES EAU POIVREE EDP 50 ML REGULAR",
     "U BLACK WOMAN EDT 75ML @",
     "ULRIC DE VARENS EAU DE VARENS Nº 4 UNISEX EDT 150 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "ULRIC DE VARENS EAU DE VARENS Nº 7 UNISEX EDT 150 ML @ (SIN CAJA)",
