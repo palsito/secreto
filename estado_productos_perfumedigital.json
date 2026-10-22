@@ -456,12 +456,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42986",
       "en_stock": true
     },
-    "42979": {
-      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 60% del contenido)",
-      "precio": "2.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42979",
-      "en_stock": true
-    },
     "42976": {
       "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 90% del contenido)",
       "precio": "4.99 €",
@@ -11238,6 +11232,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43031": {
+      "nombre": "ANGEL SCHLESSER POUR ELLE INTENSE EDP 100ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43031",
       "en_stock": true
     },
     "43030": {
@@ -26834,6 +26834,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31116",
       "en_stock": true
     },
+    "31107": {
+      "nombre": "ARISTROCRAZY INTUITIVE EDT 80 ML@",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31107",
+      "en_stock": true
+    },
     "31106": {
       "nombre": "ANGEL SCHLESSER FEMME INTENSE EDP 100ML @",
       "precio": "22.99 €",
@@ -34778,6 +34784,7 @@
     "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 80% DEL CONTENIDO))",
     "ANGEL SCHLESSER FEMME NATURELLE EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO))",
     "ANGEL SCHLESSER POUR ELLE (CUADRADA)  EDT 100ML @ (SIN CAJA, 50% DEL CONTENIDO)",
+    "ANGEL SCHLESSER POUR ELLE INTENSE EDP 100ML @",
     "ANNA SUI DOLLY GIRL EDT 50 ML REGULAR",
     "ANNA SUI FLIGHT OF FANCY FEMME EDT 75 ML @",
     "ANNA SUI SECRET WISH FEMME EDT 30 ML REGULAR (CAJA DAÑADA)",
@@ -34838,6 +34845,7 @@
     "ARIANA GRANDE THANK U NEXT 2.0 EDP EDP 100 ML REGULAR",
     "ARIANA GRANDE THANK U NEXT EDP EDP 50 ML REGULAR",
     "ARISTROCRAZY AMETHYST EDP 100 ML @",
+    "ARISTROCRAZY INTUITIVE EDT 80 ML@",
     "ARISTROCRAZY LAPIS LAZULI EDP 100 ML @",
     "ARISTROCRAZY ROSE QUARTZ EDP 100 ML @",
     "ARMAF CLUB DE NUIT ICONIC EDP 105 ML REGULAR",
