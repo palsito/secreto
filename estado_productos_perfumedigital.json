@@ -968,7 +968,7 @@
     },
     "42340": {
       "nombre": "AZZARO WANTED MAN EDP 100 ML @",
-      "precio": "42.99 €",
+      "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42340",
       "en_stock": true
     },
@@ -4106,7 +4106,7 @@
     },
     "36718": {
       "nombre": "PRADA PARADIGME EDP 100 ML @",
-      "precio": "69.99 €",
+      "precio": "74.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36718",
       "en_stock": true
     },
@@ -11270,6 +11270,66 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43054": {
+      "nombre": "REMINISCENCE SOUFFLE AMBRE INTENSE EDT 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43054",
+      "en_stock": true
+    },
+    "43053": {
+      "nombre": "REMINISCENCE DOLCE RIVIERA EDP 100 ML @",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43053",
+      "en_stock": true
+    },
+    "43052": {
+      "nombre": "MILLER ET BERTAUX TULSIVIVAH! EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43052",
+      "en_stock": true
+    },
+    "43051": {
+      "nombre": "MILLER ET BERTAUX STUDY 23 EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43051",
+      "en_stock": true
+    },
+    "43050": {
+      "nombre": "MILLER ET BERTAUX STUDY 17 EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43050",
+      "en_stock": true
+    },
+    "43049": {
+      "nombre": "MILLER ET BERTAUX SHANTI SHANTI EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43049",
+      "en_stock": true
+    },
+    "43048": {
+      "nombre": "MILLER ET BERTAUX CLOSE YOUR EYES EDP AND... 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43048",
+      "en_stock": true
+    },
+    "43047": {
+      "nombre": "MILLER ET BERTAUX QUIET MORNING EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43047",
+      "en_stock": true
+    },
+    "43046": {
+      "nombre": "MILLER ET BERTAUX PIMIENTO EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43046",
+      "en_stock": true
+    },
+    "43045": {
+      "nombre": "MILLER ET BERTAUX OH OOH EDP 100 ML @",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43045",
+      "en_stock": true
+    },
     "43044": {
       "nombre": "MILLER ET BERTAUX # 3 SPIRITUS EDP 100 ML @",
       "precio": "54.99 €",
@@ -11778,12 +11838,6 @@
       "nombre": "SET DON ALGODON BABYLON EDP 100 ML + 30 ML REGULAR",
       "precio": "15.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42819",
-      "en_stock": true
-    },
-    "42818": {
-      "nombre": "V&L AGUAS ESENCIALES PURA VIDA 250 ML @ (70% DEL CONTENIDO)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42818",
       "en_stock": true
     },
     "42815": {
@@ -31456,7 +31510,7 @@
     },
     "16664": {
       "nombre": "TOM FORD BLACK ORCHID WOMAN EDP  (CUADRADO NEGRO) 100 ML REGULAR",
-      "precio": "129.99 €",
+      "precio": "119.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16664",
       "en_stock": true
     },
@@ -36257,9 +36311,17 @@
     "MILLER ET BERTAUX # 2 SPIRITUS EDP 100 ML @",
     "MILLER ET BERTAUX # 3 SPIRITUS EDP 100 ML @",
     "MILLER ET BERTAUX AYMARA EDP 100 ML @",
+    "MILLER ET BERTAUX CLOSE YOUR EYES EDP AND... 100 ML @",
     "MILLER ET BERTAUX INDIAN STUDY EDP 100 ML @",
     "MILLER ET BERTAUX LIKE A SHADOW EDP 100 ML @",
     "MILLER ET BERTAUX MENTA Y MENTA EDP 100 ML @",
+    "MILLER ET BERTAUX OH OOH EDP 100 ML @",
+    "MILLER ET BERTAUX PIMIENTO EDP 100 ML @",
+    "MILLER ET BERTAUX QUIET MORNING EDP 100 ML @",
+    "MILLER ET BERTAUX SHANTI SHANTI EDP 100 ML @",
+    "MILLER ET BERTAUX STUDY 17 EDP 100 ML @",
+    "MILLER ET BERTAUX STUDY 23 EDP 100 ML @",
+    "MILLER ET BERTAUX TULSIVIVAH! EDP 100 ML @",
     "MILLER HARRIS MINEIR EDP 100 ML @ (SIN CAJA)",
     "MILLION RED HER PARFUM 90ML REGULAR",
     "MINI LOVE WOMAN EDT 25ML @ (SIN CAJA Y SIN TAPÓN) @ ~",
@@ -36699,7 +36761,9 @@
     "REEBOOK ICONIC STATEMENT BLUE FOR MEN EDP 100 ML @",
     "REGALIEN CEREMONY EXTRAIT 80 ML (UNISEX) @",
     "REGULAR",
+    "REMINISCENCE DOLCE RIVIERA EDP 100 ML @",
     "REMINISCENCE MUSC FEMME EDT 100ML REGULAR",
+    "REMINISCENCE SOUFFLE AMBRE INTENSE EDT 100 ML @",
     "REPETTO LE BALLET BLANC EDT 50 ML @",
     "REPORTER FOR MEN EDT 125 ML @",
     "RITUALS HAIR AND BODY MIST BRUMEE PERFUMEE CHERRY BLOSSOM 50 ML @",
