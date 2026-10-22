@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43001": {
+      "nombre": "UNGARO FOR HIM INTENSE EDP 100 ML @",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43001",
+      "en_stock": true
+    },
     "42988": {
       "nombre": "BURBERRY HERO INTENSE PARFUM 100 ML @",
       "precio": "79.99 €",
@@ -6096,6 +6102,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31497",
       "en_stock": true
     },
+    "31496": {
+      "nombre": "DIESEL SOUND OF THE BRAVE MEN EDT 75 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=31496",
+      "en_stock": true
+    },
     "31489": {
       "nombre": "SCALPERS THE CLUB EDP 125 ML @",
       "precio": "24.99 €",
@@ -7262,7 +7274,7 @@
     },
     "26824": {
       "nombre": "DIESEL ONLY THE BRAVE HIGH MEN EDT 75 ML @",
-      "precio": "39.99 €",
+      "precio": "37.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=26824",
       "en_stock": true
     },
@@ -11154,6 +11166,24 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43003": {
+      "nombre": "ESCADA CHIFFON SORBET EDT 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43003",
+      "en_stock": true
+    },
+    "43002": {
+      "nombre": "ESCADA CELEBRITY LIFE EDP 50 ML @",
+      "precio": "27.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43002",
+      "en_stock": true
+    },
+    "43000": {
+      "nombre": "ELIE SAAB LE PARFUM EDT 90 ML @ (Sin caja)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43000",
       "en_stock": true
     },
     "42995": {
@@ -26684,6 +26714,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30987",
       "en_stock": true
     },
+    "30985": {
+      "nombre": "ESCADA  FLOR DEL SOL EDT 100 ML @",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=30985",
+      "en_stock": true
+    },
     "30957": {
       "nombre": "MY WAY ARMANI EDP 90 ML @",
       "precio": "49.99 €",
@@ -29874,6 +29910,12 @@
       "nombre": "JIMMY CHOO EXOTIC 2 EDT 100 ML REGULAR",
       "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20885",
+      "en_stock": true
+    },
+    "20876": {
+      "nombre": "ESCADA JOYFUL EDP 75 ML @ (Sin caja)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20876",
       "en_stock": true
     },
     "20875": {
@@ -35058,6 +35100,7 @@
     "DIESEL LOVERDOSE WOMAN EDP 75 ML @",
     "DIESEL ONLY DESIRE EDP 80 ML REGULAR",
     "DIESEL ONLY THE BRAVE MEN EDT 125 ML @",
+    "DIESEL SOUND OF THE BRAVE MEN EDT 75 ML @",
     "DIOR DOLCE VITA EDT 100ML @",
     "DIOR EAU SAUVAGE PARFUM 100ML @",
     "DIOR HOMME EDT 100ML @",
@@ -35185,6 +35228,7 @@
     "ELIE SAAB L HOMME INTENSE EDP 100 ML @",
     "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @",
     "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @ (SIN CAJA, 45% DEL CONTENIDO)",
+    "ELIE SAAB LE PARFUM EDT 90 ML @ (SIN CAJA)",
     "ELIXIR BY SHAKIRA EDT 80 ML @",
     "ELIZABETH ARDEN BLUE GRASS EDP 100ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA CHERRY BLOSSOM EDT 100 ML REGULAR",
@@ -35203,9 +35247,12 @@
     "EMANUEL UNGARO PARTY FEMME EDT 90 ML REGULAR",
     "EMPORIO EL EDT 100ML REGULAR",
     "EMPORIO REMIX MEN EDT 50ML @",
+    "ESCADA  FLOR DEL SOL EDT 100 ML @",
     "ESCADA BALI PARADISE EDT 100 ML @",
     "ESCADA BRISA CUBANA EDT 100 ML @ (SIN CAJA, 18% DEL CONTENIDO)",
     "ESCADA CANDY LOVE EDT 100 ML REGULAR",
+    "ESCADA CELEBRITY LIFE EDP 50 ML @",
+    "ESCADA CHIFFON SORBET EDT 100 ML @",
     "ESCADA ESPECIALLY EDP 75 ML @",
     "ESCADA ESPECIALLY ELIXIR EDP INTENSE 75 ML @",
     "ESCADA FAIRY LOVE EDT 100 ML @",
@@ -36535,6 +36582,7 @@
     "ULTRAVIOLET WOMAN EDP 80ML REGULAR",
     "UNGARO APPARITION PINK WOMAN EDT 90 ML REGULAR",
     "UNGARO DIVA EDP 100 ML @",
+    "UNGARO FOR HIM INTENSE EDP 100 ML @",
     "USHER ELLA EDP 100 ML REGULAR",
     "UTUR AL-YAQUT HUB EDP 30 ML @",
     "UTUR AL-YAQUT NAJM EDP 30 ML @",
