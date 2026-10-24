@@ -12188,12 +12188,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42803",
       "en_stock": true
     },
-    "42802": {
-      "nombre": "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
-      "precio": "8.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42802",
-      "en_stock": true
-    },
     "42801": {
       "nombre": "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
       "precio": "12.99 €",
@@ -32760,6 +32754,12 @@
       "nombre": "VOLUPTE OSCAR DE LA RENTA EDT 100ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=12994",
+      "en_stock": true
+    },
+    "12935": {
+      "nombre": "L EAU DE ISSEY SUMMER 2010 EDT 100ML REGULAR",
+      "precio": "49.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=12935",
       "en_stock": true
     },
     "12892": {
