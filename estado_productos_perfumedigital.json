@@ -5568,6 +5568,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33316",
       "en_stock": true
     },
+    "33302": {
+      "nombre": "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33302",
+      "en_stock": true
+    },
     "33296": {
       "nombre": "BAD BOY GOLD FANTASY EDT 100ML @",
       "precio": "49.99 €",
@@ -33952,6 +33958,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42743",
       "en_stock": true
     },
+    "42742": {
+      "nombre": "MONT BLANC EXPLORER PLATINUM EDP 100 ML @ (Sin caja)",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42742",
+      "en_stock": true
+    },
     "42741": {
       "nombre": "DKNY WOMAN EDP 100ML @ (Sin caja, 60% del contenido)",
       "precio": "22.99 €",
@@ -34126,6 +34138,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42386",
       "en_stock": true
     },
+    "42379": {
+      "nombre": "VICTORIO Y LUCCHINO AGUAS ESENCIALES DULCE CALMA 250 ML @ (Sin caja, 70% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42379",
+      "en_stock": true
+    },
     "42351": {
       "nombre": "BAD BOY EXTREME EDP 100ML @ (SIN CAJA, 85% del contenido)",
       "precio": "49.99 €",
@@ -34172,6 +34190,12 @@
       "nombre": "J´ADORE L´ABSOLU EDP 75ML @ (Sin caja, 95% del contenido)",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42239",
+      "en_stock": true
+    },
+    "42147": {
+      "nombre": "ROCHAS AUDACE EDP 90 ML @ (12% del contenido)",
+      "precio": "7.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42147",
       "en_stock": true
     },
     "42025": {
@@ -36975,6 +36999,7 @@
     "SET CHARRO RED EDP 50ML + GEL 400 ML REGULAR",
     "SET CHARRO RED MUJER EDP 30ML + SHOWER GEL 100 ML REGULAR",
     "SET CHARRO WOMAN 30ML + GEL 100 ML + BODY LOCION 100 ML REGULAR",
+    "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
