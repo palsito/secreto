@@ -1392,12 +1392,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42009",
       "en_stock": true
     },
-    "41999": {
-      "nombre": "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
-      "precio": "16.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=41999",
-      "en_stock": true
-    },
     "41929": {
       "nombre": "ARMAF CLUB DE NUIT PRIVATE KEY TO MY SUCCESS UNISEX EXTRAIT DE PARFUM 100 ML REGULAR",
       "precio": "46.99 €",
@@ -11228,9 +11222,15 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43114": {
+      "nombre": "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43114",
+      "en_stock": true
+    },
     "43113": {
       "nombre": "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + HAIR MIST 30 ML + EDP 10 ML REGULAR",
-      "precio": "96.99 €",
+      "precio": "94.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43113",
       "en_stock": true
     },
@@ -12948,12 +12948,6 @@
       "nombre": "ALLURE SENSUELLE EDT 100ML @ (Sin caja)",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42281",
-      "en_stock": true
-    },
-    "42235": {
-      "nombre": "MINISET VERSACE CRYSTAL ESMERAL EDP 5 ML + SHOWER GEL 25 Ml + BODY LOCION 25 ML REGULAR",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42235",
       "en_stock": true
     },
     "42233": {
@@ -25352,6 +25346,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34093",
       "en_stock": true
     },
+    "34091": {
+      "nombre": "VALENTINO DONNA  BORN IN ROMA YELLOW DREAM EDP 100 ML @",
+      "precio": "42.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34091",
+      "en_stock": true
+    },
     "34090": {
       "nombre": "D&G Q (QUEEN - REINA) EDP 100 ML @",
       "precio": "42.99 €",
@@ -37005,6 +37005,7 @@
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
+    "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
     "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
@@ -37235,6 +37236,7 @@
     "VALENTINO BORN IN ROMA EXTRADOSE DONNA  PARFUM 100 ML @",
     "VALENTINO DONNA  BORN IN ROMA CORAL FANTASY EDP 100 ML @",
     "VALENTINO DONNA  BORN IN ROMA INTENSE EDP 100 ML @",
+    "VALENTINO DONNA  BORN IN ROMA YELLOW DREAM EDP 100 ML @",
     "VALENTINO ROCK AND ROSE EDP 90 ML @",
     "VALENTINO ROCK AND ROSE PRET A PORTER EDT 90ML @",
     "VALENTINO UOMO BORN IN ROMA EDT 100 ML @",
