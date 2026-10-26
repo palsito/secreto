@@ -1302,12 +1302,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42106",
       "en_stock": true
     },
-    "42096": {
-      "nombre": "DON ALGODON HOMBRE EDP (EAU DE PARFUM) 100 ML @",
-      "precio": "6.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42096",
-      "en_stock": true
-    },
     "42095": {
       "nombre": "DON ALGODON HOMBRE EDP 30 ML @",
       "precio": "2.99 €",
@@ -33884,6 +33878,12 @@
       "nombre": "CK ETERNITY WOMAN EDP INTENSE WOMAN 100ML @ (Sin caja, 40% del contenido)",
       "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42766",
+      "en_stock": true
+    },
+    "42765": {
+      "nombre": "CK ETERNITY FOR MEN AROMATIC ESSENCE PARFUM INTENSE 100ML @ (Sin caja, 95% del contenido)",
+      "precio": "24.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42765",
       "en_stock": true
     },
     "42759": {
