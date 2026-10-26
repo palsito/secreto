@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43120": {
+      "nombre": "SET CH MEN EDT 100 ML + AFTER SHAVE 100 ML+ MINIATURA 10 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43120",
+      "en_stock": true
+    },
     "43094": {
       "nombre": "MASAKI MATSUSHIMA MAT STONE HOMME EDT 80 ML REGULAR",
       "precio": "49.99 €",
@@ -3862,6 +3868,12 @@
       "nombre": "SET AGUA FRESCA MAN EDT 120ML + AGUA FRESCA MAN 60 ML  REGULAR",
       "precio": "36.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37408",
+      "en_stock": true
+    },
+    "37406": {
+      "nombre": "SET BOSS BOTTLED BEYOND EDP 100 ML + MINI + SHOWER GEL 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37406",
       "en_stock": true
     },
     "37404": {
@@ -11220,6 +11232,30 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43122": {
+      "nombre": "AQC FRAGRANCES OUD LEILA CANDY RED & NUDE 2x60 ML REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43122",
+      "en_stock": true
+    },
+    "43121": {
+      "nombre": "AQC FRAGRANCES OUD SPIRIT & BOLD NOIR REGULAR",
+      "precio": "8.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43121",
+      "en_stock": true
+    },
+    "43119": {
+      "nombre": "SET YSL LIBRE EDP 90 ML + COMPLEMENTOS ESTUCHE REGALO REGULAR",
+      "precio": "106.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43119",
+      "en_stock": true
+    },
+    "43118": {
+      "nombre": "SET GIORGIO BEVERLY HILLS WOMAN EDT 90ML REGULAR + PELUCHE REGULAR",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43118",
       "en_stock": true
     },
     "43117": {
@@ -33880,12 +33916,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42768",
       "en_stock": true
     },
-    "42766": {
-      "nombre": "CK ETERNITY WOMAN EDP INTENSE WOMAN 100ML @ (Sin caja, 40% del contenido)",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42766",
-      "en_stock": true
-    },
     "42765": {
       "nombre": "CK ETERNITY FOR MEN AROMATIC ESSENCE PARFUM INTENSE 100ML @ (Sin caja, 95% del contenido)",
       "precio": "24.99 €",
@@ -35061,6 +35091,8 @@
     "ANTONIO PUIG ANOUK EDT 100 ML @ FRASCO ANTIGUO (SIN CAJA)",
     "AQC FRAGRANCES CANDY RED & NUDE EDT 60 ML + 60 ML REGULAR",
     "AQC FRAGRANCES LADY SECRET EDT 30 ML @",
+    "AQC FRAGRANCES OUD LEILA CANDY RED & NUDE 2X60 ML REGULAR",
+    "AQC FRAGRANCES OUD SPIRIT & BOLD NOIR REGULAR",
     "AQUA  ALLEGORIA FORTE OUD YUZU EDP 125ML @ (SIN CAJA)",
     "AQUA  ALLEGORIA FORTE OUD YUZU EDP 125ML @ (SIN CAJA, 75% DEL CONTENIDO)",
     "AQUA  ALLEGORIA PAMPLELUNE EDT 125ML @",
@@ -37004,6 +37036,7 @@
     "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + BODY LOCION 100 + MINI REGULAR",
     "SET CAROLINA HERRERA GOOD GIRL EDP 80 ML + HAIR MIST 30 ML + EDP 10 ML REGULAR",
     "SET CH 212 VIP ROSE EDP 80 ML + BODY LOCION 100 ML + MINIATURA 10 ML",
+    "SET CH MEN EDT 100 ML + AFTER SHAVE 100 ML+ MINIATURA 10 ML REGULAR",
     "SET CH WOMAN EDT 100ML + BODY LOCION 100 ML + MINIATURA 10 ML REGULAR",
     "SET CHARRO BLACK 50 ML  + GEL DUCHA 400ML REGULAR",
     "SET CHARRO FOR WOMAN EDP 30 ML + GEL 100 ML REGULAR",
@@ -37024,6 +37057,7 @@
     "SET FC BARCELONA NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
+    "SET GIORGIO BEVERLY HILLS WOMAN EDT 90ML REGULAR + PELUCHE REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
@@ -37068,6 +37102,7 @@
     "SET TPF SWEET WINTER EDT 30 ML + CREMA MANOS REGULAR",
     "SET YSL BLACK OPIUM EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
+    "SET YSL LIBRE EDP 90 ML + COMPLEMENTOS ESTUCHE REGALO REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
     "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
