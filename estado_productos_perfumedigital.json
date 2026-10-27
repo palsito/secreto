@@ -504,12 +504,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42986",
       "en_stock": true
     },
-    "42976": {
-      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 90% del contenido)",
-      "precio": "4.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42976",
-      "en_stock": true
-    },
     "42906": {
       "nombre": "YSL  MYSLF EDT INTENSE 100 ML REGULAR",
       "precio": "86.99 €",
@@ -5818,12 +5812,6 @@
       "nombre": "ANGEL MEN EDT 100 ML REFILL BOTTLE REGULAR",
       "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32498",
-      "en_stock": true
-    },
-    "32472": {
-      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 80% del contenido)",
-      "precio": "3.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32472",
       "en_stock": true
     },
     "32410": {
@@ -17610,6 +17598,12 @@
       "nombre": "COQUETTE SECRET D AMOUR EDT 100 ML REGULAR",
       "precio": "6.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39207",
+      "en_stock": true
+    },
+    "39193": {
+      "nombre": "JPG CLASSIQUE LA BELLE EDP 30 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39193",
       "en_stock": true
     },
     "39190": {
@@ -33694,6 +33688,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "43142": {
+      "nombre": "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 20% del contenido)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43142",
+      "en_stock": true
+    },
+    "43141": {
+      "nombre": "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 70% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43141",
+      "en_stock": true
+    },
+    "43140": {
+      "nombre": "PACHA 24/7 WOMAN EDT 80 ML @ (Sin caja, 40% del contenido)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43140",
+      "en_stock": true
+    },
+    "43139": {
+      "nombre": "PACHA 24/7 WOMAN EDT 80 ML @ (Sin caja, 50% del contenido)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43139",
+      "en_stock": true
+    },
+    "43138": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 40% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43138",
+      "en_stock": true
+    },
     "43137": {
       "nombre": "PACHA IBIZA DIVA EDT 80 ML @ (Sin caja, 70% del contenido)",
       "precio": "4.99 €",
@@ -33746,6 +33770,12 @@
       "nombre": "AROMATICS ELIXIR EDP 100ML REGULAR (95% del contenido)",
       "precio": "31.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42989",
+      "en_stock": true
+    },
+    "42976": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 90% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42976",
       "en_stock": true
     },
     "42966": {
@@ -34616,6 +34646,12 @@
       "nombre": "SAPHIR L`UOMO EDT 30 ML @ (sin caja)",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32775",
+      "en_stock": true
+    },
+    "32472": {
+      "nombre": "PACHA 24/7 MAN EDT 100 ML @ (sin caja, 80% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32472",
       "en_stock": true
     },
     "32270": {
@@ -36800,6 +36836,8 @@
     "PACHA IBIZA WILD SEX MAN EDT 100 ML @",
     "PACHA PEOPLE LIKE US EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "PACHA PSICODELIC MAN (ANTIGUA) EDT 100 ML @",
+    "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 20% DEL CONTENIDO)",
+    "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PACHA PSICODELIC WOMAN EDT 80ML REGULAR",
     "PACK 3 FRAGANCIAS REBEL: REBEL CRAZY WOMAN EDT 100 ML @ (SIN CAJA) + REBEL LOVE WOMAN 100 ML @ (SIN CAJA)  + REBEL QUEEN WOMAN 100 ML @ (SIN CAJA)",
     "PACK 3 PERFUMES PARA MUJER: ADOLFO DOMINGUEZ IRIS VAINILLA WOMAN EDP 120 ML @ + WOMAN SECRET GOLD SEDUCTION EDP 100 ML @ + WOMAN SECRET INTIMATE EDP 100 ML @",
