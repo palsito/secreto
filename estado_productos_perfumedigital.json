@@ -396,6 +396,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43143": {
+      "nombre": "PACO RABANNE PHANTOM ELIXIR EDP 100 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43143",
+      "en_stock": true
+    },
     "43130": {
       "nombre": "VALENTINO UOMO BORN IN ROMA EXTRADOSE PARFUM 100 ML REGULAR",
       "precio": "89.99 €",
@@ -1754,7 +1760,7 @@
     },
     "41112": {
       "nombre": "JEAN PAUL GAULTIER LE BEAU NARCISSE EDP 125 ML REGULAR",
-      "precio": "74.99 €",
+      "precio": "77.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=41112",
       "en_stock": true
     },
@@ -3960,6 +3966,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37211",
       "en_stock": true
     },
+    "37202": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU PARADISE GARDEN EDP 125 ML REGULAR",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37202",
+      "en_stock": true
+    },
     "37194": {
       "nombre": "CK ALL UNISEX EDT 200 ML REGULAR",
       "precio": "24.99 €",
@@ -4144,6 +4156,12 @@
       "nombre": "JPG LE MALE EDP PARFUM (INTENSE) 125ML REGULAR",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36607",
+      "en_stock": true
+    },
+    "36606": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 125 ML REGULAR",
+      "precio": "64.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36606",
       "en_stock": true
     },
     "36536": {
@@ -4342,6 +4360,12 @@
       "nombre": "COOL WATER REBORN MAN EDT 125ML @",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36213",
+      "en_stock": true
+    },
+    "36189": {
+      "nombre": "PACO RABANNE PHANTOM  INTENSE  EDP 100 ML REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36189",
       "en_stock": true
     },
     "36188": {
@@ -4584,6 +4608,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35628",
       "en_stock": true
     },
+    "35627": {
+      "nombre": "JPG SCANDAL POUR HOMME PARFUM EDP 100 ML REGULAR",
+      "precio": "78.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35627",
+      "en_stock": true
+    },
     "35626": {
       "nombre": "EAU DE GREY FLANNEL EDT 120ML REGULAR",
       "precio": "25.99 €",
@@ -4600,6 +4630,12 @@
       "nombre": "JPG LE MALE ELIXIR EDP PARFUM 125ML REGULAR",
       "precio": "79.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=35611",
+      "en_stock": true
+    },
+    "35610": {
+      "nombre": "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=35610",
       "en_stock": true
     },
     "35609": {
@@ -8870,7 +8906,7 @@
     },
     "18926": {
       "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML REGULAR",
-      "precio": "64.99 €",
+      "precio": "67.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=18926",
       "en_stock": true
     },
@@ -19456,7 +19492,7 @@
     },
     "38432": {
       "nombre": "BRITNEY SPEARS FANTASY BLISSFUL EDT 30 ML REGULAR",
-      "precio": "16.99 €",
+      "precio": "13.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38432",
       "en_stock": true
     },
@@ -25486,7 +25522,7 @@
     },
     "34083": {
       "nombre": "FANTASY NAKED EDT 100ML @",
-      "precio": "18.99 €",
+      "precio": "9.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34083",
       "en_stock": true
     },
@@ -36262,9 +36298,11 @@
     "JAWHARA ARABIC COLLECTION OUD VELVET UNISEX EDP 100 ML @",
     "JAWHARA SULTAN ROSE UNISEX EDP 100 ML @",
     "JAWHARA SWEET DATES UNISEX EDP 100 ML @",
+    "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 125 ML REGULAR",
     "JEAN PAUL GAULTIER LE BEAU MALE (HOJA DE PARRA) EDT 75 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
     "JEAN PAUL GAULTIER LE BEAU MALE EAU DE PARFUM  125 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "JEAN PAUL GAULTIER LE BEAU MALE PARFUM  125 ML @",
+    "JEAN PAUL GAULTIER LE BEAU PARADISE GARDEN EDP 125 ML REGULAR",
     "JEANNE LANVIN WOMAN EDP 100ML @",
     "JENNIFER LOPEZ BLUE GLOW EDT 100ML @",
     "JENNIFER LOPEZ LIVE EDP 100ML REGULAR",
@@ -36322,6 +36360,7 @@
     "JPG SCANDAL ELIXIR PARFUM HER EDP 80 ML REGULAR",
     "JPG SCANDAL FOR HIM ELIXIR PARFUM 100 ML REGULAR",
     "JPG SCANDAL POUR HOMME EDT 100 ML @",
+    "JPG SCANDAL POUR HOMME PARFUM EDP 100 ML REGULAR",
     "JPG ULTRA MALE INTENSE EDT 125ML @",
     "JPG ULTRA MALE INTENSE EDT 125ML REGULAR",
     "JUICE COUTURE LA LA WOMAN  EDP 100 ML REGULAR",
@@ -36871,6 +36910,8 @@
     "PACO RABANNE INVICTUS VICTORY ABSOLU PARFUM INTENSE 100 ML @",
     "PACO RABANNE INVICTUS VICTORY ELIXIR INTENSE MAN EDP 100 ML @",
     "PACO RABANNE PHANTOM  (ROBOT HOMBRE)  PARFUM (NEGRA) EDP 30 ML REGULAR",
+    "PACO RABANNE PHANTOM  INTENSE  EDP 100 ML REGULAR",
+    "PACO RABANNE PHANTOM ELIXIR EDP 100 ML REGULAR",
     "PACO RABANNE POUR HOMME EDT 100 ML REGULAR",
     "PACO RABANNE POUR HOMME EDT 100ML @",
     "PALOMA PICASSO EDP 100ML @",
