@@ -390,6 +390,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43130": {
+      "nombre": "VALENTINO UOMO BORN IN ROMA EXTRADOSE PARFUM 100 ML REGULAR",
+      "precio": "89.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43130",
+      "en_stock": true
+    },
+    "43128": {
+      "nombre": "BOSS BOTTLED BEYOND INTENSE EDT 100 ML REGULAR",
+      "precio": "62.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43128",
+      "en_stock": true
+    },
     "43120": {
       "nombre": "SET CH MEN EDT 100 ML + AFTER SHAVE 100 ML+ MINIATURA 10 ML REGULAR",
       "precio": "69.99 €",
@@ -988,6 +1000,12 @@
       "nombre": "AZZARO WANTED MAN EDP 100 ML @",
       "precio": "39.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42340",
+      "en_stock": true
+    },
+    "42339": {
+      "nombre": "1 MILLION BLACK PACO RABANNE EDP 200 ML REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42339",
       "en_stock": true
     },
     "42326": {
@@ -33676,6 +33694,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "43132": {
+      "nombre": "PACHA 24/7 POOL PARTY HIM EDT 100 ML @ (60% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43132",
+      "en_stock": true
+    },
+    "43131": {
+      "nombre": "PACHA PEOPLE LIKE US EDT 100 ML @ (Sin caja, 70% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43131",
+      "en_stock": true
+    },
     "43129": {
       "nombre": "CHLOE NOMADE JASMIN NATURELLE INTENSE EDP 75 ML @ (Sin caja, 40% del contenido)",
       "precio": "19.99 €",
@@ -35313,6 +35343,7 @@
     "BOSS BOTTLED BEYOND EDP 100 ML @",
     "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML + BODY LOCION + MINIATURA REGULAR",
     "BOSS BOTTLED BEYOND HER (MUJER) EDP 100 ML REGULAR",
+    "BOSS BOTTLED BEYOND INTENSE EDT 100 ML REGULAR",
     "BOSS BOTTLED MAN ABSOLU PARFUM INTENSE 100 ML REGULAR",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML  (SIN CAJA, 45% DEL CONTENIDO)",
     "BOSS BOTTLED MAN EAU DE PARFUM EDP 100 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
@@ -37313,6 +37344,7 @@
     "VALENTINO ROCK AND ROSE EDP 90 ML @",
     "VALENTINO ROCK AND ROSE PRET A PORTER EDT 90ML @",
     "VALENTINO UOMO BORN IN ROMA EDT 100 ML @",
+    "VALENTINO UOMO BORN IN ROMA EXTRADOSE PARFUM 100 ML REGULAR",
     "VALENTINO UOMO BORN IN ROMA INTENSE EAU DE PARFUM MEN 100 ML @",
     "VALENTINO VENDETTA DONNA EDP 50 ML REGULAR",
     "VALENTINO VENDETTA DONNA EDP 90 ML @",
