@@ -33694,6 +33694,36 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "43137": {
+      "nombre": "PACHA IBIZA DIVA EDT 80 ML @ (Sin caja, 70% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43137",
+      "en_stock": true
+    },
+    "43136": {
+      "nombre": "PACHA 24/7 VIP WOMAN EDT 80 ML @ (sin caja, 60% del contenido)",
+      "precio": "3.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43136",
+      "en_stock": true
+    },
+    "43135": {
+      "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 50% del contenido)",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43135",
+      "en_stock": true
+    },
+    "43134": {
+      "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43134",
+      "en_stock": true
+    },
+    "43133": {
+      "nombre": "PACHA 24/7 FEELING WOMAN EDT 80 ML (Sin caja, 95% del contenido)",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43133",
+      "en_stock": true
+    },
     "43132": {
       "nombre": "PACHA 24/7 POOL PARTY HIM EDT 100 ML @ (60% del contenido)",
       "precio": "4.99 €",
@@ -34220,12 +34250,6 @@
       "nombre": "CROSSMEN SPORT EDT 200 ML @ (Sin caja, 90% del contenido)",
       "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42390",
-      "en_stock": true
-    },
-    "42386": {
-      "nombre": "VICTORIO & LUCCHINO AGUA MASCULINA MUITO BEM EDICION LIMITADA 150 ML @ (Sin caja, 95% cdel contenido)",
-      "precio": "5.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42386",
       "en_stock": true
     },
     "42379": {
@@ -34850,6 +34874,12 @@
       "nombre": "REBEL URBAN MEN EDT 100 ML @ (Sin caja)",
       "precio": "4.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23613",
+      "en_stock": true
+    },
+    "22720": {
+      "nombre": "ELIE SAAB LE PARFUM RESORT COLLECTION EDT WOMAN 90 ML REGULAR (Sin caja)",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22720",
       "en_stock": true
     },
     "20558": {
@@ -35847,6 +35877,7 @@
     "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @",
     "ELIE SAAB LE PARFUM ABSOLU EDP 90 ML @ (SIN CAJA, 45% DEL CONTENIDO)",
     "ELIE SAAB LE PARFUM EDT 90 ML @ (SIN CAJA)",
+    "ELIE SAAB LE PARFUM RESORT COLLECTION EDT WOMAN 90 ML REGULAR (SIN CAJA)",
     "ELIXIR BY SHAKIRA EDT 80 ML @",
     "ELIZABETH ARDEN BLUE GRASS EDP 100ML REGULAR",
     "ELIZABETH ARDEN GREEN TEA CHERRY BLOSSOM EDT 100 ML REGULAR",
@@ -36760,6 +36791,7 @@
     "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML @ (70% DEL CONTENIDO)",
     "PACHA IBIZA CLANDESTINE WOMAN EDT 80 ML REGULAR",
     "PACHA IBIZA DIVA EDT 80 ML @",
+    "PACHA IBIZA DIVA EDT 80 ML @ (SIN CAJA, 70% DEL CONTENIDO)",
     "PACHA IBIZA GLAM WOMAN EDT 80 ML @",
     "PACHA IBIZA MAN EDT 100ML REGULAR",
     "PACHA IBIZA NIGHT INSTINCT MAN EDT 100 ML @",
