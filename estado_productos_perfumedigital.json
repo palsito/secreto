@@ -384,6 +384,24 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43146": {
+      "nombre": "PACHA I AM BE INSANE BLACK HIM EDT 100 ML REGULAR",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43146",
+      "en_stock": true
+    },
+    "43145": {
+      "nombre": "PACHA I AM BE INSANE BLACK HER EDT 80 ML REGULAR",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43145",
+      "en_stock": true
+    },
+    "43144": {
+      "nombre": "PACHA 24/7 FEELING MAN EDT 100 ML REGULAR",
+      "precio": "5.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43144",
+      "en_stock": true
+    },
     "43143": {
       "nombre": "PACO RABANNE PHANTOM ELIXIR EDP 100 ML REGULAR",
       "precio": "69.99 €",
@@ -11274,6 +11292,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43148": {
+      "nombre": "PACHA PEOPLE LIKE US WOMAN EDT 100 ML REGULAR",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43148",
+      "en_stock": true
+    },
+    "43147": {
+      "nombre": "PACHA PSICODELIC WOMAN EDT 50ML REGULAR",
+      "precio": "6.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43147",
       "en_stock": true
     },
     "43127": {
@@ -36850,10 +36880,12 @@
     "OSCAR POUR LUI EDT 90ML REGULAR",
     "OSCAR ROSAMOR EDT 100 ML REGULAR",
     "PACHA 24/7 FEELING MAN EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "PACHA 24/7 FEELING MAN EDT 100 ML REGULAR",
     "PACHA 24/7 FEELING WOMAN EDT 80 ML (SIN CAJA, 75% DEL CONTENIDO)",
     "PACHA 24/7 POOL PARTY HIM EDT 100 ML @ (90% DEL CONTENIDO)",
     "PACHA 24/7 WOMAN EDT 80 ML @ (SIN CAJA, 50% DEL CONTENIDO)",
     "PACHA I AM BE INSANE BLACK HER EDT 80 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "PACHA I AM BE INSANE BLACK HER EDT 80 ML REGULAR",
     "PACHA I AM BE INSANE BLACK HIM EDT 100 ML @",
     "PACHA I AM BE INSANE HER EDT 80 ML @",
     "PACHA IBIZA 2010 WOMAN EDT 80ML REGULAR",
@@ -36868,6 +36900,7 @@
     "PACHA IBIZA ROSE EDT 80 ML @",
     "PACHA IBIZA WILD SEX MAN EDT 100 ML @",
     "PACHA PEOPLE LIKE US EDT 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
+    "PACHA PEOPLE LIKE US WOMAN EDT 100 ML REGULAR",
     "PACHA PSICODELIC MAN (ANTIGUA) EDT 100 ML @",
     "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 20% DEL CONTENIDO)",
     "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 70% DEL CONTENIDO)",
