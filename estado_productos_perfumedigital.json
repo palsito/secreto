@@ -1,11 +1,5 @@
 {
   "https://perfumedigital.es/index.php?ID_CATEGORIA=e5cb35910ddb33ceee5124e79cf89c93": {
-    "42097": {
-      "nombre": "PACK ULTRA NIKE 4x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML + ULTRA PURPLE 100 ML @",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42097",
-      "en_stock": true
-    },
     "42020": {
       "nombre": "BENETTON WE ARE TRIBE COOL EDT 90 ML @",
       "precio": "5.99 €",
@@ -8550,6 +8544,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20480",
       "en_stock": true
     },
+    "20457": {
+      "nombre": "MIRAGE EDT 100 ML REGULAR",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20457",
+      "en_stock": true
+    },
     "20452": {
       "nombre": "ENERGY EDT 100 ML REGULAR (Sin caja, botella ligeramente dañada)",
       "precio": "2.99 €",
@@ -15744,12 +15744,6 @@
       "nombre": "BOUCHERON QUATRE ICONIC EDP 100 ML REGULAR",
       "precio": "44.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=40338",
-      "en_stock": true
-    },
-    "40337": {
-      "nombre": "ARIANA GRANDE SWEET LIKE CANDY EDP 100ML REGULAR",
-      "precio": "42.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=40337",
       "en_stock": true
     },
     "40336": {
@@ -27538,7 +27532,7 @@
     },
     "30912": {
       "nombre": "LANCOME IDOLE LE PARFUM EDP 50 ML @",
-      "precio": "39.99 €",
+      "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30912",
       "en_stock": true
     },
@@ -28446,6 +28440,12 @@
       "nombre": "STAR NATURE MELON EDT 70 ML @ ~",
       "precio": "1.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=27819",
+      "en_stock": true
+    },
+    "27818": {
+      "nombre": "STAR NATURE FRUTAS BOSQUE EDT 70 ML @ ~",
+      "precio": "1.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=27818",
       "en_stock": true
     },
     "27812": {
@@ -32558,6 +32558,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=13541",
       "en_stock": true
     },
+    "13496": {
+      "nombre": "AMULETO WOMAN 100 ML @",
+      "precio": "29.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=13496",
+      "en_stock": true
+    },
     "13462": {
       "nombre": "CLARINS EAU DYNAMISANTE 100 ML @",
       "precio": "24.99 €",
@@ -34943,7 +34949,7 @@
       "en_stock": true
     },
     "20269": {
-      "nombre": "VARENSIA EDT 50 ML REGULAR",
+      "nombre": "VARENSIA EDP 50 ML REGULAR",
       "precio": "14.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20269",
       "en_stock": true
@@ -35147,6 +35153,7 @@
     "AMOR AMOR L`EAU EDT 100 ML @",
     "AMOUAGE PURPOSE EDP 100 ML REGULAR",
     "AMOUR DE ANOUCK EDT 100 ML @",
+    "AMULETO WOMAN 100 ML @",
     "ANA ROSA AGUA DE FLORES EDT 100ML @",
     "ANA ROSA ESTILO EDT 100 ML @",
     "ANAIS ANAIS PREMIER DELICE L`EAU FLAMINGO WOMAN EDT 100ML @",
@@ -36610,6 +36617,7 @@
     "MINOTAURE EDT 125 ML @ (SIN CAJA, 75% DEL CONTENIDO)",
     "MINOTAURE EDT 75ML REGULAR",
     "MIRACLE HOMME EDT 75 ML REGULAR",
+    "MIRAGE EDT 100 ML REGULAR",
     "MISS BOUCHERON EDP 100ML REGULAR",
     "MISS DUPONT EDP 75 ML REGULAR",
     "MISS FIORUCCI ICY FANTASY EDT 50 ML REGULAR",
@@ -37304,6 +37312,7 @@
     "SPRINGFIELD SPF WOMAN EDT 100 ML @",
     "SPRINGFIELD THE GOLDEN ATTITUDE EDP 100 ML @ (SIN CAJA, 90% DEL CONTENIDO)",
     "SPRINGFIELD TRUE ATTITUDE EDT 100ML @ (SIN CAJA, 80% DEL CONTENIDO)",
+    "STAR NATURE FRUTAS BOSQUE EDT 70 ML @ ~",
     "STEPHANE HUMBERT LUCAS CRYING OF EVIL EDP 50 ML @ (SIN CAJA)",
     "STEPHANE HUMBERT LUCAS LADY WHITE SNAKE EDP 50 ML @ (SIN CAJA)",
     "STEPHANE HUMBERT LUCAS MORTAL SKIN EDP 50 ML @ (SIN CAJA)",
