@@ -384,6 +384,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
       "en_stock": true
     },
+    "43167": {
+      "nombre": "SET PACHA PSICODELIC LAST NIGHT SAVED MY LIFE MAN EDT 100 ML + AFTER SHAVE 75 Ml + 10 ML REGULAR",
+      "precio": "16.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43167",
+      "en_stock": true
+    },
     "43166": {
       "nombre": "PACK ULTRA NIKE 3x1:ULTRA GREEN 100 ML + ULTRA PINK 100 ML + ULTRA BLUE 100 ML @",
       "precio": "6.99 €",
@@ -11352,6 +11358,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43170": {
+      "nombre": "SET PACHA IBIZA SEXY EDT 75 Ml + BODY LOCION 75 ML REGULAR",
+      "precio": "18.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43170",
+      "en_stock": true
+    },
+    "43169": {
+      "nombre": "SET PACHA IBIZA SEXY EDT 50 Ml + BODY LOCION 75 ML REGULAR",
+      "precio": "14.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43169",
       "en_stock": true
     },
     "43163": {
@@ -32008,7 +32026,7 @@
     },
     "16512": {
       "nombre": "SISLEY EAU SOIR EDP 100 ML @",
-      "precio": "99.00 €",
+      "precio": "99.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=16512",
       "en_stock": true
     },
@@ -34178,12 +34196,6 @@
       "nombre": "TOUS MAN CHILL EDT 100 ML @ (sin caja, 90% del contenido)",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42759",
-      "en_stock": true
-    },
-    "42757": {
-      "nombre": "FLOWER BY KENZO POPPY BOUQUET EDP FLORALE 50 ML REGULAR (Sin caja, 95% del contenido)",
-      "precio": "29.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42757",
       "en_stock": true
     },
     "42756": {
@@ -37336,7 +37348,10 @@
     "SET PACHA I AM BE INSANE BLACK HIM EDT 100 ML + AFTER SHAVE 75 ML REGULAR",
     "SET PACHA I AM BE INSANE HIM EDT 100 ML + AFTER SHAVE 75 ML + MINIATURA 10 ML REGULAR",
     "SET PACHA IBIZA HOT MAN EDT 100 ML + SHOWER GEL 75 ML + AFTER SHAVE 75 ML REGULAR",
+    "SET PACHA IBIZA SEXY EDT 50 ML + BODY LOCION 75 ML REGULAR",
+    "SET PACHA IBIZA SEXY EDT 75 ML + BODY LOCION 75 ML REGULAR",
     "SET PACHA PEOPLE LIKE US WOMAN EDT 100 ML + EDT 10 ML REGULAR",
+    "SET PACHA PSICODELIC LAST NIGHT SAVED MY LIFE MAN EDT 100 ML + AFTER SHAVE 75 ML + 10 ML REGULAR",
     "SET PACHA PSICODELIC MODELO NUEVO MAN EDT 100 ML + AFTER SHAVE 75 ML + GEL DUCHA 75 ML REGULAR",
     "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
     "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
