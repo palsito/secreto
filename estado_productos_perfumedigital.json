@@ -11420,6 +11420,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43195": {
+      "nombre": "SET D&G MY DEVOTION EDP INTENSE 100 ML + MINIATURAS REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43195",
+      "en_stock": true
+    },
+    "43194": {
+      "nombre": "SET D&G DEVOTION INTENSE EDP 100 ML + MINIATURA 10 ML REGULAR",
+      "precio": "94.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43194",
+      "en_stock": true
+    },
     "43193": {
       "nombre": "SET JUICY COUTURE VIVA LA JUICY EDP 100ML + MINIATURAS REGULAR",
       "precio": "66.99 €",
@@ -22936,7 +22948,7 @@
     },
     "36404": {
       "nombre": "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
-      "precio": "59.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36404",
       "en_stock": true
     },
@@ -23224,7 +23236,7 @@
     },
     "36200": {
       "nombre": "SET JPG SCANDAL EDP 80 ML +  BODY LOCION 75 ML + MINIATURA 10 ML REGULAR",
-      "precio": "72.99 €",
+      "precio": "78.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36200",
       "en_stock": true
     },
@@ -37447,7 +37459,9 @@
     "SET CHLOE NOMADE EDP 75 ML + BODY LOCION 100 ML + MINIATURA 10 ML REGULAR",
     "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
     "SET D&G DEVOTION EDP 100 ML + GEL 50 ML + BODY LOCION 50 ML REGULAR",
+    "SET D&G DEVOTION INTENSE EDP 100 ML + MINIATURA 10 ML REGULAR",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
+    "SET D&G MY DEVOTION EDP INTENSE 100 ML + MINIATURAS REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
     "SET DON ALGODON BABYLON EDP 100 ML + 30 ML REGULAR",
