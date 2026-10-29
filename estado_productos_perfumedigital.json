@@ -11420,6 +11420,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43197": {
+      "nombre": "SET ARMANI SI EDP 50 ML + GEL 50 ML + BODY LOCION 50 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43197",
+      "en_stock": true
+    },
+    "43196": {
+      "nombre": "SET GAULTIER DIVINE EDT 100ML + LOCION 75 ML + MINIATURA REGULAR",
+      "precio": "88.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43196",
+      "en_stock": true
+    },
     "43195": {
       "nombre": "SET D&G MY DEVOTION EDP INTENSE 100 ML + MINIATURAS REGULAR",
       "precio": "94.99 €",
@@ -13084,13 +13096,13 @@
     },
     "42510": {
       "nombre": "SET ARMANI SI EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
-      "precio": "96.99 €",
+      "precio": "97.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42510",
       "en_stock": true
     },
     "42509": {
       "nombre": "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
-      "precio": "89.99 €",
+      "precio": "92.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42509",
       "en_stock": true
     },
@@ -19920,6 +19932,12 @@
       "nombre": "SET JIMMY CHOO I WANT CHOO EDP 100 Ml + BODY LOCION + MINIATURA REGULAR",
       "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38356",
+      "en_stock": true
+    },
+    "38354": {
+      "nombre": "SET NARCISO RODRIGUEZ FOR HER INTENSE EDP 100ML + BODY LOCION 50 ML REGULAR + MINIATURA REGULAR",
+      "precio": "95.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38354",
       "en_stock": true
     },
     "38352": {
@@ -37473,6 +37491,7 @@
     "SET FC BARCELONA NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
+    "SET GAULTIER DIVINE EDT 100ML + LOCION 75 ML + MINIATURA REGULAR",
     "SET GIORGIO BEVERLY HILLS WOMAN EDT 90ML REGULAR + PELUCHE REGULAR",
     "SET GREEN TEA EDP 100 ML + HONEY BODY CREAM 100 ML REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
@@ -37489,6 +37508,7 @@
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
     "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
+    "SET NARCISO RODRIGUEZ FOR HER INTENSE EDP 100ML + BODY LOCION 50 ML REGULAR + MINIATURA REGULAR",
     "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
     "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
     "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
