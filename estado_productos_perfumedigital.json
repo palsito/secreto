@@ -8862,12 +8862,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19763",
       "en_stock": true
     },
-    "19750": {
-      "nombre": "PACO RABANNE INVICTUS MAN EDT 100 ML @",
-      "precio": "54.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=19750",
-      "en_stock": true
-    },
     "19604": {
       "nombre": "CANOE EDT 450 ML REGULAR",
       "precio": "39.99 €",
@@ -11424,6 +11418,18 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43193": {
+      "nombre": "SET JUICY COUTURE VIVA LA JUICY EDP 100ML + MINIATURAS REGULAR",
+      "precio": "66.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43193",
+      "en_stock": true
+    },
+    "43192": {
+      "nombre": "SET JUICY COUTURE JUST MOI EDP 100 ML + EDP 5 ML + SPRAY PEN 10 ML REGULAR",
+      "precio": "67.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43192",
       "en_stock": true
     },
     "43191": {
@@ -21420,6 +21426,12 @@
       "nombre": "MOSCHINO TOY 2 PEARL UNISEX EDP 100 ML + SHOWER GEL + BODY LOCION  + MINIATURA REGULAR",
       "precio": "64.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37412",
+      "en_stock": true
+    },
+    "37409": {
+      "nombre": "SET D&G DEVOTION EDP 100 ML + GEL 50 ML + BODY LOCION 50 ML REGULAR",
+      "precio": "87.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37409",
       "en_stock": true
     },
     "37407": {
@@ -37434,6 +37446,7 @@
     "SET CHARRO WOMAN 30ML + GEL 100 ML + BODY LOCION 100 ML REGULAR",
     "SET CHLOE NOMADE EDP 75 ML + BODY LOCION 100 ML + MINIATURA 10 ML REGULAR",
     "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
+    "SET D&G DEVOTION EDP 100 ML + GEL 50 ML + BODY LOCION 50 ML REGULAR",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
     "SET DAVIDOFF THE GAME EDT 100 ML REGULAR + CHAMPU 75 ML",
@@ -37454,6 +37467,8 @@
     "SET JPG LE MALE EDP 125 + AFTER SHAVE + DEO 75 ML REGULAR",
     "SET JPG LE MALE ELIXIR PARFUM 125ML + SHOWER GEL + MINIATURA REGULAR",
     "SET JPG SCANDAL POUR HOMME EDT 100 ML + SHOWER GEL 75 + 10 ML REGULAR",
+    "SET JUICY COUTURE JUST MOI EDP 100 ML + EDP 5 ML + SPRAY PEN 10 ML REGULAR",
+    "SET JUICY COUTURE VIVA LA JUICY EDP 100ML + MINIATURAS REGULAR",
     "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
