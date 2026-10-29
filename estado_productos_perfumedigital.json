@@ -7116,12 +7116,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=28613",
       "en_stock": true
     },
-    "28602": {
-      "nombre": "TRUSSARDI RIFLESSO EDT 100 ML @",
-      "precio": "26.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=28602",
-      "en_stock": true
-    },
     "28521": {
       "nombre": "L´EAU KENZO POUR HOMME EDT 100 ML @",
       "precio": "24.99 €",
@@ -11432,6 +11426,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43189": {
+      "nombre": "SET GREEN TEA EDP 100 ML + HONEY BODY CREAM 100 ML REGULAR",
+      "precio": "17.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43189",
+      "en_stock": true
+    },
+    "43188": {
+      "nombre": "SET ZADIG INTENSE BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML + MINIATURA REGULAR",
+      "precio": "91.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43188",
+      "en_stock": true
+    },
     "43187": {
       "nombre": "SET TOUS EDP 90ML + MINIATURA 4,5 ML + ESPEJO REGULAR",
       "precio": "49.99 €",
@@ -13066,7 +13072,7 @@
     },
     "42507": {
       "nombre": "SET TOUS KAOS EDP 100  ML+ EDP 30 ML REGULAR",
-      "precio": "69.99 €",
+      "precio": "59.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42507",
       "en_stock": true
     },
@@ -26450,6 +26456,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=33092",
       "en_stock": true
     },
+    "33091": {
+      "nombre": "LOVELY  EDP 100ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=33091",
+      "en_stock": true
+    },
     "33088": {
       "nombre": "ARMANI DIAMONDS INTENSE EDP 100ML REGULAR",
       "precio": "129.99 €",
@@ -31576,7 +31588,7 @@
     },
     "19156": {
       "nombre": "SET 5 TH AVENUE EDP 125ML REGULAR + BODY LOCION 100 ML",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19156",
       "en_stock": true
     },
@@ -36720,6 +36732,7 @@
     "LOTE CHANSON D´EAU AROMAS: VANILLA EDT 100 ML @ + LEMON EDT 100 ML + ROSE EDT 100 ML + REGALO SWET BODY MIST 200 ML @",
     "LOU LOU EDP 30ML REGULAR",
     "LOU LOU EDP 50ML (SIN CAJA, 50% DEL CONTENIDO)",
+    "LOVELY  EDP 100ML REGULAR",
     "LOVELY BLOSSOM EDT 100ML REGULAR",
     "L`EAU D`ISSEY POUR HOMME EAU ESSENTIELLE EDP 125 ML @",
     "L`EAU D`ISSEY POUR HOMME EDT 125ML @",
@@ -37420,6 +37433,7 @@
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET GIORGIO BEVERLY HILLS WOMAN EDT 90ML REGULAR + PELUCHE REGULAR",
+    "SET GREEN TEA EDP 100 ML + HONEY BODY CREAM 100 ML REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
@@ -37484,6 +37498,7 @@
     "SET YSL BLACK OPIUM EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + COMPLEMENTOS ESTUCHE REGALO REGULAR",
+    "SET ZADIG INTENSE BY ZADIG & VOLTAIRE EAU DE PARFUM 90 ML + MINIATURA REGULAR",
     "SHAKIRA AQUAMARINE WOMAN EDT 80ML @",
     "SHAKIRA DANCE DIAMONDS EDT 80 ML @",
     "SHAKIRA DANCE MIDNIGHT EDT 80 ML @",
