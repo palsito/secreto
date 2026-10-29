@@ -134,7 +134,7 @@
     },
     "36255": {
       "nombre": "ACQUA DI GIÒ POUR HOMME EDP 200 ML @",
-      "precio": "66.99 €",
+      "precio": "76.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36255",
       "en_stock": true
     },
@@ -376,6 +376,48 @@
       "nombre": "CONTRADICTION FOR MEN EDT 100ML REGULAR",
       "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=397",
+      "en_stock": true
+    },
+    "43182": {
+      "nombre": "SET PACO RABANNE INVICTUS VICTORY ELIXIR PARFUM INTENSE 100 ML + EDT 10 ML + DEO 150 ML REGULAR",
+      "precio": "82.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43182",
+      "en_stock": true
+    },
+    "43181": {
+      "nombre": "SET 1 MILLION PACO RABANNE EDT 50 ML REGULAR + DEO 150 ML REGULAR + MINIATURA 10 ML REGULAR",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43181",
+      "en_stock": true
+    },
+    "43180": {
+      "nombre": "SET PACO RABANNE INVICTUS EDT 100 ML + DEO + 10 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43180",
+      "en_stock": true
+    },
+    "43179": {
+      "nombre": "SET JPG LE MALE ELIXIR PARFUM 125ML + SHOWER GEL + MINIATURA REGULAR",
+      "precio": "87.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43179",
+      "en_stock": true
+    },
+    "43178": {
+      "nombre": "SET JPG SCANDAL POUR HOMME EDT 100 ML + SHOWER GEL 75 + 10 ML REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43178",
+      "en_stock": true
+    },
+    "43177": {
+      "nombre": "SET JPG LE MALE EDP 125 + AFTER SHAVE + DEO 75 ML REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43177",
+      "en_stock": true
+    },
+    "43176": {
+      "nombre": "SET BAD BOY COBALT EDP 100 ML + DEO +10 ML REGULAR",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43176",
       "en_stock": true
     },
     "43175": {
@@ -3991,7 +4033,7 @@
       "en_stock": true
     },
     "37403": {
-      "nombre": "SET 1 MILLION PACO RABANNE GOLD HIM EDP 100 + DEO + MINI REGULAR",
+      "nombre": "SET 1 MILLION PACO RABANNE GOLD HIM EDP INTENSE 100 + DEO + MINI REGULAR",
       "precio": "72.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37403",
       "en_stock": true
@@ -8094,12 +8136,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=22896",
       "en_stock": true
     },
-    "22823": {
-      "nombre": "JPG ULTRA MALE INTENSE EDT 125ML @",
-      "precio": "59.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=22823",
-      "en_stock": true
-    },
     "22698": {
       "nombre": "CK IN 2U MEN EDT 100ML REGULAR",
       "precio": "22.99 €",
@@ -8948,7 +8984,7 @@
     },
     "19079": {
       "nombre": "SET 1 MILLION PACO RABANNE EDT 100ML REGULAR + DEO 150 ML REGULAR + MINIATURA 10 ML",
-      "precio": "66.99 €",
+      "precio": "69.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=19079",
       "en_stock": true
     },
@@ -11388,6 +11424,12 @@
       "nombre": "ANGEL SCHLESSER ESSENTIAL EDP 100ML @",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
+      "en_stock": true
+    },
+    "43183": {
+      "nombre": "SET CHLOE NOMADE EDP 75 ML + BODY LOCION 100 ML + MINIATURA 10 ML REGULAR",
+      "precio": "69.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43183",
       "en_stock": true
     },
     "43173": {
@@ -37326,6 +37368,7 @@
     "SET ARMANI SI EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
     "SET ARMANI STRONGER WITH YOU EDT 100 ML + 15 ML REGULAR",
     "SET AXE BLACK EDT 75 ML + DEO SPRAY 150 ML REGULAR",
+    "SET BAD BOY COBALT EDP 100 ML + DEO +10 ML REGULAR",
     "SET BOSS BOTTLED BEYOND EDP 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + EDT 30 ML REGULAR",
     "SET BOSS BOTTLED EDT 100 ML + GEL DUCHA 100 ML + DEO STICK 75 ML REGULAR (CAJA LIGERAMENTE DAÑADA)",
@@ -37342,6 +37385,7 @@
     "SET CHARRO RED EDP 50ML + GEL 400 ML REGULAR",
     "SET CHARRO RED MUJER EDP 30ML + SHOWER GEL 100 ML REGULAR",
     "SET CHARRO WOMAN 30ML + GEL 100 ML + BODY LOCION 100 ML REGULAR",
+    "SET CHLOE NOMADE EDP 75 ML + BODY LOCION 100 ML + MINIATURA 10 ML REGULAR",
     "SET CONCEPT V DESIGN BOUGGY FREESTYLE FOR MEN EDT 100 ML REGULAR + AFTER SHAVE BALSAMO 100 ML",
     "SET D&G LIGHT BLUE EDT 100 ML +  2 MINIATURAS 10 ML CADA UNA REGULAR",
     "SET DAVIDOFF HOT WATER EDT 60 ML REGULAR + AFTER SHAVE BALSAMO 50 ML + GEL 50 ML",
@@ -37359,6 +37403,9 @@
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
     "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
+    "SET JPG LE MALE EDP 125 + AFTER SHAVE + DEO 75 ML REGULAR",
+    "SET JPG LE MALE ELIXIR PARFUM 125ML + SHOWER GEL + MINIATURA REGULAR",
+    "SET JPG SCANDAL POUR HOMME EDT 100 ML + SHOWER GEL 75 + 10 ML REGULAR",
     "SET LA VIE EST BELLE EDP 100 ML REGULAR + BODY LOCION 50 ML + MASCARA PESTAÑA 2 ML REGULAR",
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
@@ -37380,6 +37427,8 @@
     "SET PACHA PEOPLE LIKE US WOMAN EDT 100 ML + EDT 10 ML REGULAR",
     "SET PACHA PSICODELIC LAST NIGHT SAVED MY LIFE MAN EDT 100 ML + AFTER SHAVE 75 ML + 10 ML REGULAR",
     "SET PACHA PSICODELIC MODELO NUEVO MAN EDT 100 ML + AFTER SHAVE 75 ML + GEL DUCHA 75 ML REGULAR",
+    "SET PACO RABANNE INVICTUS EDT 100 ML + DEO + 10 ML REGULAR",
+    "SET PACO RABANNE INVICTUS VICTORY ELIXIR PARFUM INTENSE 100 ML + EDT 10 ML + DEO 150 ML REGULAR",
     "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
     "SET PERTEGAZ SEDUCTEUR EDT POUR HOMME 100 ML + 30 ML REGULAR",
     "SET POMELLATO NUDO BLUE EDP 40 ML REGULAR + BODY LOCION 100 ML",
