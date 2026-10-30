@@ -10850,12 +10850,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36569",
       "en_stock": true
     },
-    "36426": {
-      "nombre": "MY WAY LE PARFUM EDP 50 ML @ + REGALO CREMA GUILLAB GOLD ESENCE DIA 50 ML REGULAR DE REGALO",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36426",
-      "en_stock": true
-    },
     "36416": {
       "nombre": "LOTE 14 DE MUJER: VANDERBILT WOMAN EDT 100ML @ + INESSANCE PARIS EAU DE COLOGNE FRAICHEUR 500 ML + DON ALGODON MUJER EDT 100 ML @ + COQUETTE COUCOU MA BELLE EDT 100 ML@ (Sin caja)",
       "precio": "9.99 €",
@@ -11414,6 +11408,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43205": {
+      "nombre": "SET JPG CLASSIQUE LA BELLE EDP 100ML + BODY LOCION + MINIATURA 10 ML REGULAR",
+      "precio": "82.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43205",
+      "en_stock": true
+    },
+    "43204": {
+      "nombre": "SET GAULTIER DIVINE COUTURE EDP 100ML + BODY LOCION + MINIATURA 10 ML REGULAR",
+      "precio": "88.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43204",
+      "en_stock": true
+    },
     "43197": {
       "nombre": "SET ARMANI SI EDP 50 ML + GEL 50 ML + BODY LOCION 50 ML REGULAR",
       "precio": "69.99 €",
@@ -11650,7 +11656,7 @@
     },
     "43114": {
       "nombre": "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
-      "precio": "89.99 €",
+      "precio": "87.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43114",
       "en_stock": true
     },
@@ -37492,11 +37498,13 @@
     "SET FC BARCELONA NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
     "SET FRUIT COMPANY BUBBLE GUM EDT 40 ML +ESPONJA + GEL + BOMBA DUCHA REGULAR",
     "SET FRUIT COMPANY MARSHMALLOW EDT 40 ML + ESPONJA + GEL + BOMBA DUCHA REGULAR",
+    "SET GAULTIER DIVINE COUTURE EDP 100ML + BODY LOCION + MINIATURA 10 ML REGULAR",
     "SET GAULTIER DIVINE EDT 100ML + LOCION 75 ML + MINIATURA REGULAR",
     "SET GIORGIO BEVERLY HILLS WOMAN EDT 90ML REGULAR + PELUCHE REGULAR",
     "SET GREEN TEA EDP 100 ML + HONEY BODY CREAM 100 ML REGULAR",
     "SET HALLOWEEN MAN EDT 75 ML REGULAR + MINIATURA 4 ML + SHOWER GEL 100 ML",
     "SET HUGO BOSS THE SCENT EDT 100 ML + 10 ML + SHOWER GEL 100 ML REGULAR",
+    "SET JPG CLASSIQUE LA BELLE EDP 100ML + BODY LOCION + MINIATURA 10 ML REGULAR",
     "SET JPG LA FAVORITE EDP 100 ML REGULAR + 10 ML + BODY LOCION 75 ML REGULAR",
     "SET JPG LE MALE EDP 125 + AFTER SHAVE + DEO 75 ML REGULAR",
     "SET JPG LE MALE ELIXIR PARFUM 125ML + SHOWER GEL + MINIATURA REGULAR",
