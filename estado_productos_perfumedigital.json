@@ -11409,8 +11409,8 @@
       "en_stock": true
     },
     "43196": {
-      "nombre": "SET GAULTIER DIVINE EDT 100ML + LOCION 75 ML + MINIATURA REGULAR",
-      "precio": "88.99 €",
+      "nombre": "SET GAULTIER DIVINE EDP 100ML + LOCION 75 ML + MINIATURA REGULAR (En la caja pone edt por error, pero es edp)",
+      "precio": "86.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43196",
       "en_stock": true
     },
@@ -21672,12 +21672,6 @@
       "nombre": "MATIERE PREMIERE FALCON LEATHER EDP 100 ML @",
       "precio": "179.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37283",
-      "en_stock": true
-    },
-    "37282": {
-      "nombre": "MATIERE PREMIERE ENCENS SUAVE EXTRAIT 100 ML @",
-      "precio": "229.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37282",
       "en_stock": true
     },
     "37281": {
@@ -33994,6 +33988,18 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=23150",
       "en_stock": true
     },
+    "43201": {
+      "nombre": "PACHA PEOPLE LIKE US EDT 100 ML @ (Sin caja, 80% del contenido)",
+      "precio": "4.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43201",
+      "en_stock": true
+    },
+    "43200": {
+      "nombre": "PACHA I AM BE INSANE BLACK HIM EDT 100 ML @ (sin caja, 90% del contenido)",
+      "precio": "2.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43200",
+      "en_stock": true
+    },
     "43199": {
       "nombre": "CHLOE EDP NATURELLE 100 ML @ (Sin caja, 40% del contenido)",
       "precio": "15.99 €",
@@ -34154,6 +34160,12 @@
       "nombre": "CHLOE ROSE NATURELLE INTENSE EDP 100 ML @ (Sin caja, 85% del contenido)",
       "precio": "31.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42894",
+      "en_stock": true
+    },
+    "42893": {
+      "nombre": "CHLOE ROSE NATURELLE INTENSE EDP 100 ML @ (Sin caja, 95% del contenido)",
+      "precio": "34.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42893",
       "en_stock": true
     },
     "42891": {
