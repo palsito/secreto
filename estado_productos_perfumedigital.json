@@ -3606,12 +3606,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38095",
       "en_stock": true
     },
-    "38090": {
-      "nombre": "COOL WATER MAN SUMMER EDT 125ML @",
-      "precio": "34.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38090",
-      "en_stock": true
-    },
     "38087": {
       "nombre": "COOL WATER MAN GRAPEFRUIT&SAGE EDT 125ML @",
       "precio": "39.99 €",
@@ -4108,12 +4102,6 @@
       "nombre": "BURBERRY MR BURBERRY MAN EDP 50 ML REGULAR",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37211",
-      "en_stock": true
-    },
-    "37202": {
-      "nombre": "JEAN PAUL GAULTIER LE BEAU PARADISE GARDEN EDP 125 ML REGULAR",
-      "precio": "76.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37202",
       "en_stock": true
     },
     "37194": {
@@ -8616,12 +8604,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=20775",
       "en_stock": true
     },
-    "20754": {
-      "nombre": "LACOSTE LIVE POUR HOMME EDT 100 ML @",
-      "precio": "49.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=20754",
-      "en_stock": true
-    },
     "20729": {
       "nombre": "PACO RABANE UNISEX EDT 100 ML @",
       "precio": "16.99 €",
@@ -10580,12 +10562,6 @@
     }
   },
   "https://perfumedigital.es/index.php?ID_CATEGORIA=f7bbbba04e61534f795c9c6c5e5affee": {
-    "42552": {
-      "nombre": "PACK 3x1 WOMAN SECRET INTIMATE: DAY DREAM EDP 100 ML + INTIMATE EDP 100 ML + INTIMATE DELIGHT EDP 100 ML @",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42552",
-      "en_stock": true
-    },
     "42505": {
       "nombre": "PACK VERA WANG EMBRACE PERIWINKLE AND IRIS EDT 30 ML + MINI BOLSO CHLOE + LOREAL PARIS REVITALIFT SERUM 15 ML + RIMMEL SUPER GEL 2 PASOS",
       "precio": "9.99 €",
@@ -10966,7 +10942,7 @@
     },
     "36156": {
       "nombre": "LE COUVENT DES MINIMES SINGULIERES PORTO BELLO PARFUM REMARQUABLE EDP 100 ML @",
-      "precio": "29.99 €",
+      "precio": "26.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36156",
       "en_stock": true
     },
@@ -11408,6 +11384,90 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=1523",
       "en_stock": true
     },
+    "43223": {
+      "nombre": "SET SISLEY EAU DE CAMPAGNE UNISEX EDT 100ML + SHOWER GEL 250 ML REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43223",
+      "en_stock": true
+    },
+    "43222": {
+      "nombre": "SET YSL BLACK OPIUM EDP 50 ML + 10 ML REGULAR",
+      "precio": "76.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43222",
+      "en_stock": true
+    },
+    "43221": {
+      "nombre": "SET VERSACE DYLAN PURPLE WOMAN EDP 100ML + GEL DUCHA + BODY LOCION + NECESER REGULAR",
+      "precio": "79.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43221",
+      "en_stock": true
+    },
+    "43220": {
+      "nombre": "SET VERSACE CRYSTAL ESMERAL EDP 100 ML + BODY LOCION 100 ML + SHOWER GEL 100 ML + NECESER REGULAR",
+      "precio": "73.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43220",
+      "en_stock": true
+    },
+    "43219": {
+      "nombre": "SET PACO RABANNE IN LOVE FAME PARFUM ELIXIR 80 ML + 10 ML + BODY LOCION 100 ML REGULAR",
+      "precio": "77.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43219",
+      "en_stock": true
+    },
+    "43218": {
+      "nombre": "SET MOSCHINO TOY 2 GUMMY EDP 100 ML + MINIATURA + GEL DUCHA + LOCION CORPORAL REGULAR",
+      "precio": "59.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43218",
+      "en_stock": true
+    },
+    "43217": {
+      "nombre": "SET ROCHAS CITRON SOLEIL EDT 100 ML + BODY LOCION + MINIATURA 7.5 ML REGULAR",
+      "precio": "45.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43217",
+      "en_stock": true
+    },
+    "43216": {
+      "nombre": "SET ROCHAS AUDACE PARFUM 90 ML + BODY LOCION + MINIATURA REGULAR",
+      "precio": "63.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43216",
+      "en_stock": true
+    },
+    "43215": {
+      "nombre": "SET EAU DE ROCHAS L`ESSENTIEL EDP 100ML + MINIATURA + BODY LOCION 100 ML REGULAR",
+      "precio": "39.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43215",
+      "en_stock": true
+    },
+    "43214": {
+      "nombre": "SET ROCHAS MADEMOISELLE EDP 90 ML + BODY LOCION 100 ML + MINIATURA 7.5 ML REGULAR",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43214",
+      "en_stock": true
+    },
+    "43213": {
+      "nombre": "SET ANGEL EDP 100 ML + 10 ML + BODY LOCION 50 ML REGULAR",
+      "precio": "95.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43213",
+      "en_stock": true
+    },
+    "43212": {
+      "nombre": "SET AIRE DE LOEWE EDT 100 ML + AIRE 10 ML + SOLO ELLA ELIXIR 10 ML REGULAR",
+      "precio": "85.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43212",
+      "en_stock": true
+    },
+    "43211": {
+      "nombre": "SET AGUA DE LOEWE MAR DE CORAL UNISEX EDT 100 ML + MINIATURA 10 ML + 10 ML AGUA DROP REGULAR",
+      "precio": "74.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43211",
+      "en_stock": true
+    },
+    "43209": {
+      "nombre": "SET WOMAN SECRET GOLD SEDUCTION EDP 100 ML  + BODY LOCION REGULAR",
+      "precio": "19.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43209",
+      "en_stock": true
+    },
     "43207": {
       "nombre": "SET FLOWER BY KENZO EDP 50 ML + MINIATURA + BODY MILK 75 ML REGULAR",
       "precio": "59.99 €",
@@ -11526,12 +11586,6 @@
       "nombre": "SET PACHA IBIZA SEXY EDT 75 Ml + BODY LOCION 75 ML REGULAR",
       "precio": "18.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43170",
-      "en_stock": true
-    },
-    "43169": {
-      "nombre": "SET PACHA IBIZA SEXY EDT 50 Ml + BODY LOCION 75 ML REGULAR",
-      "precio": "14.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43169",
       "en_stock": true
     },
     "43168": {
@@ -11846,6 +11900,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43077",
       "en_stock": true
     },
+    "43076": {
+      "nombre": "STEPHANE HUMBERT LUCAS SAND DANCE EDP 50 ML @ (Sin caja)",
+      "precio": "139.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43076",
+      "en_stock": true
+    },
     "43075": {
       "nombre": "STEPHANE HUMBERT LUCAS MORTAL SKIN EDP 50 ML @ (Sin caja)",
       "precio": "139.99 €",
@@ -12036,12 +12096,6 @@
       "nombre": "MILLER ET BERTAUX # 3 SPIRITUS EDP 100 ML @ (Sin caja)",
       "precio": "54.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43044",
-      "en_stock": true
-    },
-    "43043": {
-      "nombre": "MILLER ET BERTAUX # 2 SPIRITUS EDP 100 ML @ (Sin caja)",
-      "precio": "54.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43043",
       "en_stock": true
     },
     "43042": {
@@ -12302,6 +12356,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42980",
       "en_stock": true
     },
+    "42977": {
+      "nombre": "LORENZO PAZZAGLIA VAN PY RHUM EXTRAIT PARFUM 50 ML @ sin caja",
+      "precio": "119.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42977",
+      "en_stock": true
+    },
     "42974": {
       "nombre": "LORENZO PAZZAGLIA SUGAR KISSES EXTRAIT PARFUM 28 ML @ sin caja",
       "precio": "86.99 €",
@@ -12414,12 +12474,6 @@
       "nombre": "VERSACE CRYSTAL EMERALD EDP 90ML @",
       "precio": "62.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42910",
-      "en_stock": true
-    },
-    "42908": {
-      "nombre": "TOUS BABYPINK EDC 100ML @",
-      "precio": "24.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42908",
       "en_stock": true
     },
     "42907": {
@@ -12702,12 +12756,6 @@
       "nombre": "JUICY COUTURE BYE BYE BLUES EDT 75 ML REGULAR",
       "precio": "29.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42674",
-      "en_stock": true
-    },
-    "42652": {
-      "nombre": "ETAT LIBRE D ORANGER SHE WAS AN ANOMALY EDP 100 ML @",
-      "precio": "72.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42652",
       "en_stock": true
     },
     "42649": {
@@ -13072,7 +13120,7 @@
     },
     "42514": {
       "nombre": "SET YSL BLACK OPIUM EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
-      "precio": "92.99 €",
+      "precio": "94.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42514",
       "en_stock": true
     },
@@ -17390,6 +17438,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=39546",
       "en_stock": true
     },
+    "39493": {
+      "nombre": "SET AIRE DE LOEWE EDT 100 ML + AIRE 10 ML + AGUA 10 ML @ (En caja transparente)",
+      "precio": "85.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=39493",
+      "en_stock": true
+    },
     "39489": {
       "nombre": "EUPHORIA MAGNETIC ELIXIR WOMAN PARFUM INTENSE 100 ML @",
       "precio": "36.99 €",
@@ -18384,12 +18438,6 @@
       "nombre": "PENHALIGON´S ARTEMISIA EDP 100 ML REGULAR",
       "precio": "162.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38966",
-      "en_stock": true
-    },
-    "38958": {
-      "nombre": "PARFUMS DE MARLY ATHALIA EDP 75 ML REGULAR",
-      "precio": "212.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38958",
       "en_stock": true
     },
     "38956": {
@@ -20271,7 +20319,7 @@
       "en_stock": true
     },
     "38028": {
-      "nombre": "SET VERSACE DYLAN PURPLE WOMAN EDP 100ML + GEL DUCHA +MINISTURA + LOCION CORPORAL REGULAR",
+      "nombre": "SET VERSACE DYLAN PURPLE WOMAN EDP 100ML + GEL DUCHA +MINIATURA + LOCION CORPORAL REGULAR",
       "precio": "72.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38028",
       "en_stock": true
@@ -20280,6 +20328,12 @@
       "nombre": "SET VERSACE DYLAN BLUE WOMAN EDP 100ML + SHOWER GEL + BODY LOCION + NECESER REGULAR",
       "precio": "72.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=38027",
+      "en_stock": true
+    },
+    "38026": {
+      "nombre": "SET VERSACE BRIGHT CRYSTAL EDT 90 ML + BODY LOCION + SHOWER GEL + NECESER REGULAR",
+      "precio": "73.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=38026",
       "en_stock": true
     },
     "38010": {
@@ -20358,12 +20412,6 @@
       "nombre": "JUICY COUTURE VIVA LA NOIR EDP 30 ML REGULAR",
       "precio": "34.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37989",
-      "en_stock": true
-    },
-    "37968": {
-      "nombre": "SET AIRE DE SEVILLA SOY YO EDT 100 ML + CREMA CORPORAL 100 ML + GEL DUCHA 100 ML REGULAR",
-      "precio": "9.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37968",
       "en_stock": true
     },
     "37950": {
@@ -21446,6 +21494,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37420",
       "en_stock": true
     },
+    "37416": {
+      "nombre": "SET ROCHAS AUDACE EDP 90 ML + BODY LOCION + MINIATURA REGULAR",
+      "precio": "54.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37416",
+      "en_stock": true
+    },
     "37413": {
       "nombre": "ROCHAS MADEMOISELLE EDP 90 ML + BODY LOCION 100 ML + MINIATURA REGULAR",
       "precio": "49.99 €",
@@ -22080,12 +22134,6 @@
       "nombre": "LATTAFA TERIAQ INTENSE UNISEX EDP 100 ML REGULAR",
       "precio": "32.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=37058",
-      "en_stock": true
-    },
-    "37057": {
-      "nombre": "LATTAFA TERIAQ UNISEX EDP 100 ML REGULAR",
-      "precio": "39.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=37057",
       "en_stock": true
     },
     "37054": {
@@ -22956,6 +23004,12 @@
       "nombre": "GAULTIER DIVINE ELIXIR PARMUM 100ML REGULAR",
       "precio": "92.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=36435",
+      "en_stock": true
+    },
+    "36405": {
+      "nombre": "SET EAU DE ROCHAS EDT 100 ML REGULAR + BODY LOCION 100 ML + MINIATURA 20 ML REGULAR",
+      "precio": "38.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=36405",
       "en_stock": true
     },
     "36404": {
@@ -25676,12 +25730,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=34122",
       "en_stock": true
     },
-    "34117": {
-      "nombre": "CAROLINA HERRERA GOOD GIRL BLUSH EDP 80 ML @",
-      "precio": "79.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=34117",
-      "en_stock": true
-    },
     "34116": {
       "nombre": "VIKTOR & ROLF GOOD FORTUNE EDP 90 ML @",
       "precio": "39.99 €",
@@ -26942,6 +26990,12 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=32289",
       "en_stock": true
     },
+    "32287": {
+      "nombre": "SET OLYMPEA EDP 80 ML + LECHE CORPORAL 100 ML + MINIATURA 6 ML REGULAR",
+      "precio": "77.99 €",
+      "url": "https://perfumedigital.es/index.php?op=descripcion&id=32287",
+      "en_stock": true
+    },
     "32245": {
       "nombre": "REEBOOK COOL WOMAN EDT 100 ML @",
       "precio": "6.99 €",
@@ -27724,7 +27778,7 @@
     },
     "31035": {
       "nombre": "WOMAN SECRET ROSE SEDUCTION EDP 100 ML @",
-      "precio": "4.99 €",
+      "precio": "5.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=31035",
       "en_stock": true
     },
@@ -34018,12 +34072,6 @@
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=43199",
       "en_stock": true
     },
-    "43198": {
-      "nombre": "CHLOE EDP NATURELLE 100 ML @ (Sin caja, 20% del contenido)",
-      "precio": "10.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=43198",
-      "en_stock": true
-    },
     "43142": {
       "nombre": "PACHA PSICODELIC WOMAN EDT 80ML @ (SIN CAJA, 20% del contenido)",
       "precio": "1.99 €",
@@ -34214,12 +34262,6 @@
       "nombre": "MONT BLANC LEGEND RED (ROJA) MAN EDP 100 ML @ (Sin caja, 50% del contenido)",
       "precio": "19.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=42887",
-      "en_stock": true
-    },
-    "42885": {
-      "nombre": "CHLOE ROSE NATURELLE INTENSE EDP 100 ML @ (Sin caja, 25% del contenido)",
-      "precio": "12.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=42885",
       "en_stock": true
     },
     "42884": {
@@ -35018,12 +35060,6 @@
       "nombre": "BOSS ORANGE MAN EDT 100ML @ (sin caja)",
       "precio": "49.99 €",
       "url": "https://perfumedigital.es/index.php?op=descripcion&id=30231",
-      "en_stock": true
-    },
-    "29929": {
-      "nombre": "ANGEL SCHLESSER FEMME ADORABLE EDT 100ML @ (Sin caja, 60% del contenido)",
-      "precio": "8.99 €",
-      "url": "https://perfumedigital.es/index.php?op=descripcion&id=29929",
       "en_stock": true
     },
     "29743": {
@@ -37451,6 +37487,9 @@
     "SET 5 TH AVENUE EDP 125ML REGULAR + BODY LOCION 100 ML",
     "SET ACQUA DI GIO EDT 100ML REGULAR + 15 ML REGULAR",
     "SET ADIDAS PURE GAME EDT 100 ML + SHOWER GEL 250 ML + DEO 150 ML REGULAR",
+    "SET AGUA DE LOEWE MAR DE CORAL UNISEX EDT 100 ML + MINIATURA 10 ML + 10 ML AGUA DROP REGULAR",
+    "SET AIRE DE LOEWE EDT 100 ML + AIRE 10 ML + AGUA 10 ML @ (EN CAJA TRANSPARENTE)",
+    "SET AIRE DE LOEWE EDT 100 ML + AIRE 10 ML + SOLO ELLA ELIXIR 10 ML REGULAR",
     "SET AMOR AMOR WOMAN EDT 100ML + EDT 30 ML REGULAR",
     "SET ARDEN WHITE TEA EDP 100 ML + BODY CREAM 100 REGULAR",
     "SET ARDEN WHITE TEA EDT 199 ML + BODY CREAM 400 REGULAR",
@@ -37488,6 +37527,8 @@
     "SET DON ALGODON RED PARTY 30 ML + LIPGLOSS + GLITTER EYELINE + NECESER REGULAR",
     "SET DON ALGODON VIE EN ROSE 30 ML + ILUMINADOR + CREMA MANOS + NECESER REGULAR",
     "SET DON ALGODÓN PARA HOMBRE EDT 100ML + GEL DUCHA 75 ML + AFTER SHAVE  75 ML REGULAR",
+    "SET EAU DE ROCHAS EDT 100 ML REGULAR + BODY LOCION 100 ML + MINIATURA 20 ML REGULAR",
+    "SET EAU DE ROCHAS L`ESSENTIEL EDP 100ML + MINIATURA + BODY LOCION 100 ML REGULAR",
     "SET FARALA ORIGINAL EDT 75 ML + BODY LOCION 75 ML + GEL DUCHA 75 ML REGULAR",
     "SET FC BARCELONA NECESER EDT 100 ML + ROLL ON 10 ML REGULAR",
     "SET FLOWER BY KENZO EDP 50 ML + MINIATURA + BODY MILK 75 ML REGULAR",
@@ -37511,12 +37552,14 @@
     "SET LANCOME O OFF NOW EDT 100 ML + 10 ML + 10 ML REGULAR",
     "SET MICHAEL KORS POUR FEMME EDP 5 ML + BODY LOCION 25 ML + SHOWER GEL 25 ML REGULAR",
     "SET MICHAEL KORS POUR HOMME EDP 5 ML + AFTER SHAVE BALM 25 ML + SHOWER GEL 25 ML REGULAR",
+    "SET MOSCHINO TOY 2 GUMMY EDP 100 ML + MINIATURA + GEL DUCHA + LOCION CORPORAL REGULAR",
     "SET MR WONDERFUL I AM THE QUEEN OF HEARTS EDT 75 ML @ (SIN CAJA)",
     "SET MY WAY ARMANI EDP 90 ML + 10 ML + BODY LOTION 50 ML REGULAR",
     "SET NARCISO RODRIGUEZ FOR HER INTENSE EDP 100ML + BODY LOCION 50 ML REGULAR + MINIATURA REGULAR",
     "SET NIKE ADDICTION MAN 100 ML + DEO 200 ML REGULAR",
     "SET NIKE CHIC & COOL EDT 100 ML + DEO 200 ML REGULAR",
     "SET NIKE PLATINUM ROSE EDT 100 ML + 30 ML REGULAR",
+    "SET OLYMPEA EDP 80 ML + LECHE CORPORAL 100 ML + MINIATURA 6 ML REGULAR",
     "SET PACHA 24/7 FEELING MAN EDT 100 ML + SHOWER GEL 75 ML REGULAR",
     "SET PACHA 24/7 FEELING WOMAN EDT 80 ML + BODY LOCION 75 ML REGULAR",
     "SET PACHA 24/7 MAN EDT 100 ML + SHOWER GEL 75 ML REGULAR",
@@ -37529,6 +37572,7 @@
     "SET PACHA PEOPLE LIKE US WOMAN EDT 100 ML + EDT 10 ML REGULAR",
     "SET PACHA PSICODELIC LAST NIGHT SAVED MY LIFE MAN EDT 100 ML + AFTER SHAVE 75 ML + 10 ML REGULAR",
     "SET PACHA PSICODELIC MODELO NUEVO MAN EDT 100 ML + AFTER SHAVE 75 ML + GEL DUCHA 75 ML REGULAR",
+    "SET PACO RABANNE IN LOVE FAME PARFUM ELIXIR 80 ML + 10 ML + BODY LOCION 100 ML REGULAR",
     "SET PACO RABANNE INVICTUS EDT 100 ML + DEO + 10 ML REGULAR",
     "SET PACO RABANNE INVICTUS VICTORY ELIXIR PARFUM INTENSE 100 ML + EDT 10 ML + DEO 150 ML REGULAR",
     "SET PERTEGAZ HIT POUR HOMME EDT 100 ML + 30 ML + GEL 200 ML REGULAR",
@@ -37540,9 +37584,14 @@
     "SET POSEIDON HOMBRE EDT 100ML + AFTERSHAVE 100 ML REGULAR",
     "SET PRADA PARADOXE EDP 90 ML + 10 ML + BODY LOCION 50 ML REGULAR",
     "SET PRADA PARADOXE INTENSE EDP 90 ML + 10 ML  REGULAR",
+    "SET ROCHAS AUDACE EDP 90 ML + BODY LOCION + MINIATURA REGULAR",
+    "SET ROCHAS AUDACE PARFUM 90 ML + BODY LOCION + MINIATURA REGULAR",
+    "SET ROCHAS CITRON SOLEIL EDT 100 ML + BODY LOCION + MINIATURA 7.5 ML REGULAR",
+    "SET ROCHAS MADEMOISELLE EDP 90 ML + BODY LOCION 100 ML + MINIATURA 7.5 ML REGULAR",
     "SET ROCHAS MAN EDT 100ML + EDT 50 ML REGULAR",
     "SET SCALPERS KIDS BOY EDT 100 ML + GORRA REGULAR",
     "SET SCALPERS THE BAND HER EDP 100 ML + BOLSO REGULAR",
+    "SET SISLEY EAU DE CAMPAGNE UNISEX EDT 100ML + SHOWER GEL 250 ML REGULAR",
     "SET SOLO LOEWE ELLA EDP 100 ML + 20 ML REGULAR",
     "SET THE FRUIT COMPANY A VIVIR QUE SON SANDIAS 40 ML + CREMA MANOS + LABIAL REGULAR",
     "SET TOUS BABY EDC  100 ML + MORDEDOR + NECESER REGULAR",
@@ -37563,6 +37612,11 @@
     "SET TPF PATISSERIE DUO CHERRY PIE EDT 30 ML + CREMA MANOS REGULAR",
     "SET TPF PATISSERIE DUO PISTACHO EDT 30 ML + CREMA MANOS REGULAR",
     "SET TPF SWEET WINTER EDT 30 ML + CREMA MANOS REGULAR",
+    "SET VERSACE BRIGHT CRYSTAL EDT 90 ML + BODY LOCION + SHOWER GEL + NECESER REGULAR",
+    "SET VERSACE CRYSTAL ESMERAL EDP 100 ML + BODY LOCION 100 ML + SHOWER GEL 100 ML + NECESER REGULAR",
+    "SET VERSACE DYLAN PURPLE WOMAN EDP 100ML + GEL DUCHA + BODY LOCION + NECESER REGULAR",
+    "SET WOMAN SECRET GOLD SEDUCTION EDP 100 ML  + BODY LOCION REGULAR",
+    "SET YSL BLACK OPIUM EDP 50 ML + 10 ML REGULAR",
     "SET YSL BLACK OPIUM EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + 10 ML + BARRA LABIOS REGULAR",
     "SET YSL LIBRE EDP 90 ML + COMPLEMENTOS ESTUCHE REGALO REGULAR",
